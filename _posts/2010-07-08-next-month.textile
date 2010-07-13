@@ -1,0 +1,11 @@
+--- 
+title: Next Month!
+sub_title: SublimeVideo HTML5 solution to be revealed next month
+layout: post
+authors: Mehdi
+id: 328
+---
+
+<p>For the last three months, we have been thinking thoroughly about how to make of SublimeVideo player the most functional, universal, easy-to-deploy-and-maintain HTML5 video solution.</p>
+<p>Next month we will reveal all the details and commercial plan of our upcoming SublimeVideo solution. We hope you will love it as much as we do. Frankly, we are super-excited about it!</p>
+<p>Once again, thank you so much for your great support and patience. By the way, we promise to communicate more frequently about our progress.</p>
