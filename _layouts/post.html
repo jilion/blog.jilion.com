@@ -1,0 +1,31 @@
+---
+layout: master
+id: 
+---
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      <h2 id="post_{{page.id}}" style="font-size:"><a href="{{post.url}}">{{page.title}}</a></h2>
+      {% if page.sub_title %}
+        <h3 class="sub_header">{{page.sub_title}}</h3>
+      {% endif %}
+      <style type="text/css">@media screen and (-webkit-min-device-pixel-ratio:0){#post_{{page.id}}:after {content:'{{post.title}}';}}</style>
+    </div>
+    <div class="entry_meta">
+      <span class="date">{{ page.date | date_to_long_string }}</span>
+      <span class="authors">by {{page.authors}}</span> 
+      <div class="entry_comments_count" id="entry_comments_count_{{post.id}}">
+        <a href="http://blog.jilion.com/2010/07/08/next-month#comments">
+          <span>X comments</span>
+        </a>
+        <style type="text/css">@media screen and (-webkit-min-device-pixel-ratio:0){#entry_comments_count_{{page.id}} a:after {content:'X comments';}}</style>
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    {{ content }}
+    <div class="spacer"></div>
+  </div>
+  <div id="comments">
+  </div>
+</div>
