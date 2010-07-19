@@ -4,7 +4,7 @@ layout: master
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_{{page.uid}}" style="font-size:"><a href="{{ page.url | url_without_slash }}">{{page.title}}</a></h2>
+      <h2 id="post_{{page.uid}}" style="font-size:"><a href="{{page.url | url_without_slash}}">{{page.title}}</a></h2>
       {% if page.sub_title %}
         <h3 class="sub_header">{{page.sub_title}}</h3>
       {% endif %}

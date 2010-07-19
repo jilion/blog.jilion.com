@@ -1,0 +1,30 @@
+--- 
+wordpress_id: 285
+layout: post
+title: SublimeVideo Flash mode
+wordpress_url: http://blog.jilion.com/?p=285
+---
+<img style="float: left;margin: 0 24px 0 0" src="http://blog.jilion.com/uploads/2010/04/flash.png" alt="Flash Icon" /> SublimeVideo has a broader goal than just showcasing some nice HTML5 features in a controlled environment like our <a href="http://jilion.com/sublime/video">demo page</a>. We aim at delivering a modern and simple video-embedding solution for web developers that provides the same user experience and uniform UI across browsers.
+
+The first main news of the day is we have just completed the development of the Flash mode of our SublimeVideo player.  It is not a separate product, but a necessary component to achieve our ambition to offer you a truly <strong>universal video player</strong> that works in all browsers.
+
+With SublimeVideo Flash mode, our users will have the warranty that their videos will play seamlessly even in non-HTML5 browsers such as IE 6, 7 or 8 and also in Firefox/Opera when the Ogg Theora video version is not available.
+
+<img class="no_rounded" src="http://blog.jilion.com/uploads/2010/04/sublimevideo_and_flash.png" alt="SublimeVideo and Flash" />
+<em class="caption">Flash and HTML5 versions look and feel the same</em>
+
+To see the new Flash player in action, we created an additional <a href="http://jilion.com/sublime/video/flash">demo page where SublimeVideo Flash mode is forced</a> for all browsers (including browsers that fully support HTML5 video).
+
+Here are the features of SublimeVideo Flash mode:
+
+* Same sleek UI as the HTML5 player
+* Full-window mode (click on the full-window button, or double-click on the video) with draggable controls pane
+* Full-screen mode (hold down Command (Mac) or Ctrl (Windows/Linux) while entering full-window mode)
+* While in full-window or full-screen mode, press spacebar to play/pause and Esc to exit full-window/full-screen
+* SublimeVideo automatically falls back to Flash in Firefox and Opera to decode H.264 video in case the Ogg Theora version is not provided
+
+Open web standard "purists" who do not care about compatibility with old browsers will be able to completely disable the Flash fallback to provide a pure HTML5 video experience.
+
+The second big news of the day is that we have entirely rewritten our JavaScript code to remove all dependencies to external libraries or frameworks (originally SublimeVideo was written using the Prototype JS framework). This is a big deal, because it means SublimeVideo is now a standalone pure JavaScript library with the benefit that anyone can easily use it along side any version of any other libraries (jQuery, Prototype, MooTools, Dojo, YUI, Ext JS, ...) without having to worry about conflicts.
+
+Finally, we received a lot of requests concerning the release date. We really want to make this product right. The fact that you see SublimeVideo working on our demo page doesn't mean it is fully ready to be released and embedded in any webpage out there. There's still some work to do. Thank you for your patience, we are doing our best in order the wait will be worth it!
