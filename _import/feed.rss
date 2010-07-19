@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jilion Blog</title>
+	<atom:link href="http://blog.jilion.com/feed" rel="self" type="application/rss+xml" />
+	<link>http://blog.jilion.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 08 Jul 2010 14:37:16 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Next Month!</title>
+		<link>http://blog.jilion.com/2010/07/08/next-month</link>
+		<comments>http://blog.jilion.com/2010/07/08/next-month#comments</comments>
+		<pubDate>Thu, 08 Jul 2010 14:37:16 +0000</pubDate>
+		<dc:creator>Mehdi</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://blog.jilion.com/?p=328</guid>
+		<description><![CDATA[ For the last three months, we have been thinking thoroughly about how to make of SublimeVideo player the most functional, universal, easy-to-deploy-and-maintain HTML5 video solution.
+Next month we will reveal all the details and commercial plan of our upcoming SublimeVideo solution. We hope you will love it as much as we do. Frankly, we are [...]]]></description>
+			<content:encoded><![CDATA[<p><img style="float: left;margin: 0 24px 0 0" src="http://blog.medias.jilion.com/uploads/2010/07/sublimevideo_solution_august_2010_calendar_icon.png" alt="August 2010 Calendar" /> For the last three months, we have been thinking thoroughly about how to make of SublimeVideo player the most functional, universal, easy-to-deploy-and-maintain HTML5 video solution.</p>
+<p>Next month we will reveal all the details and commercial plan of our upcoming SublimeVideo solution. We hope you will love it as much as we do. Frankly, we are super-excited about it!</p>
+<p>Once again, thank you so much for your great support and patience. By the way, we promise to communicate more frequently about our progress.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.jilion.com/2010/07/08/next-month/feed</wfw:commentRss>
+		<slash:comments>25</slash:comments>
+		</item>
+		<item>
+		<title>SublimeVideo Flash mode</title>
+		<link>http://blog.jilion.com/2010/04/07/sublimevideo-flash-mode</link>
+		<comments>http://blog.jilion.com/2010/04/07/sublimevideo-flash-mode#comments</comments>
+		<pubDate>Wed, 07 Apr 2010 15:06:05 +0000</pubDate>
+		<dc:creator>Octave</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://blog.jilion.com/?p=285</guid>
+		<description><![CDATA[ SublimeVideo has a broader goal than just showcasing some nice HTML5 features in a controlled environment like our demo page. We aim at delivering a modern and simple video-embedding solution for web developers that provides the same user experience and uniform UI across browsers.
+The first main news of the day is we have just [...]]]></description>
+			<content:encoded><![CDATA[<p><img style="float: left;margin: 0 24px 0 0" src="http://blog.medias.jilion.com/uploads/2010/04/flash.png" alt="Flash Icon" /> SublimeVideo has a broader goal than just showcasing some nice HTML5 features in a controlled environment like our <a href="http://jilion.com/sublime/video">demo page</a>. We aim at delivering a modern and simple video-embedding solution for web developers that provides the same user experience and uniform UI across browsers.</p>
+<p>The first main news of the day is we have just completed the development of the Flash mode of our SublimeVideo player.  It is not a separate product, but a necessary component to achieve our ambition to offer you a truly <strong>universal video player</strong> that works in all browsers.</p>
+<p>With SublimeVideo Flash mode, our users will have the warranty that their videos will play seamlessly even in non-HTML5 browsers such as IE 6, 7 or 8 and also in Firefox/Opera when the Ogg Theora video version is not available.</p>
+<p><img class="no_rounded" src="http://blog.medias.jilion.com/uploads/2010/04/sublimevideo_and_flash.png" alt="SublimeVideo and Flash" /><br />
+<em class="caption">Flash and HTML5 versions look and feel the same</em></p>
+<p>To see the new Flash player in action, we created an additional <a href="http://jilion.com/sublime/video/flash">demo page where SublimeVideo Flash mode is forced</a> for all browsers (including browsers that fully support HTML5 video).</p>
+<p>Here are the features of SublimeVideo Flash mode:</p>
+<ul>
+<li>Same sleek UI as the HTML5 player</li>
+<li>Full-window mode (click on the full-window button, or double-click on the video) with draggable controls pane</li>
+<li>Full-screen mode (hold down Command (Mac) or Ctrl (Windows/Linux) while entering full-window mode)</li>
+<li>While in full-window or full-screen mode, press spacebar to play/pause and Esc to exit full-window/full-screen</li>
+<li>SublimeVideo automatically falls back to Flash in Firefox and Opera to decode H.264 video in case the Ogg Theora version is not provided</li>
+</ul>
+<p>Open web standard &#8220;purists&#8221; who do not care about compatibility with old browsers will be able to completely disable the Flash fallback to provide a pure HTML5 video experience.</p>
+<p>The second big news of the day is that we have entirely rewritten our JavaScript code to remove all dependencies to external libraries or frameworks (originally SublimeVideo was written using the Prototype JS framework). This is a big deal, because it means SublimeVideo is now a standalone pure JavaScript library with the benefit that anyone can easily use it along side any version of any other libraries (jQuery, Prototype, MooTools, Dojo, YUI, Ext JS, &#8230;) without having to worry about conflicts.</p>
+<p>Finally, we received a lot of requests concerning the release date. We really want to make this product right. The fact that you see SublimeVideo working on our demo page doesn&#8217;t mean it is fully ready to be released and embedded in any webpage out there. There&#8217;s still some work to do. Thank you for your patience, we are doing our best in order the wait will be worth it!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.jilion.com/2010/04/07/sublimevideo-flash-mode/feed</wfw:commentRss>
+		<slash:comments>147</slash:comments>
+		</item>
+		<item>
+		<title>SublimeVideo supports Firefox</title>
+		<link>http://blog.jilion.com/2010/02/11/sublimevideo-supports-firefox</link>
+		<comments>http://blog.jilion.com/2010/02/11/sublimevideo-supports-firefox#comments</comments>
+		<pubDate>Thu, 11 Feb 2010 10:53:46 +0000</pubDate>
+		<dc:creator>Zeno</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://blog.jilion.com/?p=252</guid>
+		<description><![CDATA[We are working hard on the release of SublimeVideo (no date yet).
+ We&#8217;ve just finished adding support for Firefox and Ogg Theora videos. We figured we&#8217;d update the demo page to show it to you.
+It should work on Firefox 3.5, but we strongly encourage you to upgrade to the latest version (currently 3.6).
+SublimeVideo on Firefox [...]]]></description>
+			<content:encoded><![CDATA[<p>We are working hard on the release of SublimeVideo (no date yet).</p>
+<p><img src="http://blog.medias.jilion.com/uploads/2010/02/firefox.png" alt="Firefox Icon" style="float:left;margin:0 24px 0 0;" /> We&#8217;ve just finished adding support for Firefox and <a href="http://en.wikipedia.org/wiki/Theora">Ogg Theora</a> videos. We figured we&#8217;d update the <a href="http://jilion.com/sublime/video">demo page</a> to show it to you.</p>
+<p>It should work on Firefox 3.5, but we strongly encourage you to upgrade to the latest version (currently 3.6).</p>
+<p>SublimeVideo on Firefox has pretty much all the basic features of the WebKit (Safari/Chrome) version, however there&#8217;re some secondary features which couldn&#8217;t be implemented because of Firefox limitations.</p>
+<p>Here are the features that are currently <strong>missing</strong>:</p>
+<p>1. Sleek Zoom-in/out transitions when entering/leaving full-window mode<br />
+2. Playback speed controls (when in full-window mode)<br />
+3. Other minor fade-in/out effects to highlight the poster frame and reveal the controls when mouse-hovering over the video</p>
+<p><img src="http://blog.medias.jilion.com/uploads/2010/02/SublimeVideo-full-window-controls-browsers-comparison.jpg" alt="SublimeVideo Full-Window Controls Browsers Comparison" /><em class="caption">SublimeVideo full-window controls browsers comparison</em></p>
+<p>We are confident that the <a href="http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/">next release of Firefox</a> (3.7) will include all the necessary improvements that will allow us to implement the missing features.</p>
+<p>A note regarding true <em>full-screen</em> mode:<br />
+At the moment we couldn&#8217;t integrate this directly into our controls as we did for the WebKit Nightly build (by alt-clicking the full-window button), but if you&#8217;re using Firefox 3.6 you can enter this mode by right-clicking on the video and choosing &#8220;Full Screen&#8221; from the contextual menu.</p>
+<p><a href="http://jilion.com/sublime/video">Enjoy</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.jilion.com/2010/02/11/sublimevideo-supports-firefox/feed</wfw:commentRss>
+		<slash:comments>102</slash:comments>
+		</item>
+		<item>
+		<title>Introducing SublimeVideo</title>
+		<link>http://blog.jilion.com/2010/01/25/introducing-sublimevideo</link>
+		<comments>http://blog.jilion.com/2010/01/25/introducing-sublimevideo#comments</comments>
+		<pubDate>Mon, 25 Jan 2010 16:22:13 +0000</pubDate>
+		<dc:creator>Zeno</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://blog.jilion.com/?p=204</guid>
+		<description><![CDATA[Today we&#8217;d like to show you a pre-release demo of SublimeVideo. It&#8217;s an HTML5 video player that will allow you to easily embed videos in any page, blog or site using the latest modern web standards.
+
+Browsers makers are still working on fully supporting the HTML5 video specification, so at the moment SublimeVideo is still in [...]]]></description>
+			<content:encoded><![CDATA[<p>Today we&#8217;d like to show you a pre-release demo of SublimeVideo. It&#8217;s an <a href="http://en.wikipedia.org/wiki/Html5">HTML5</a> video player that will allow you to easily embed videos in any page, blog or site using the latest modern web standards.</p>
+<p><a href="http://jilion.com/sublime/video"><img src="http://blog.medias.jilion.com/uploads/2010/01/sublime_video-600x480.png" alt="Sublime Video" class="no_rounded" /></a></p>
+<p>Browsers makers are still working on fully supporting the HTML5 video specification, so at the moment SublimeVideo is still in <em>experimental state</em> and only works on a limited number of browsers. But the long term goal is to make it work on all modern browsers.</p>
+<p>SublimeVideo will be soon released for free (at least for non-commercial use).</p>
+<h3>Key Features</h3>
+<ul>
+<li><strong>Full-window mode</strong><br />
+This will maximize the video to fit the browser&#8217;s window. It can be handy if you still want to access other applications while watching a maximized video in your browser.<br />
+Besides, browsers makers are still working on implementing true fullscreen for HTML5 videos; so full-window is currently the only way to maximize the video on Safari and Chrome.</li>
+<li><strong>Full-screen mode</strong><br />
+Currently only supported in the latest <a href="http://nightly.webkit.org/">WebKit Nightly Builds</a>, you can activate this mode by ALT-clicking on the full-window button.</li>
+<li><strong>HTML5 video benefits</strong><br />
+No browser plugin, no Flash dependencies!<br />
+You can also jump anywhere in the video without having to wait for it to buffer.</li>
+</ul>
+<p>See more features on the <a href="http://jilion.com/sublime/video">SublimeVideo demo</a> page.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.jilion.com/2010/01/25/introducing-sublimevideo/feed</wfw:commentRss>
+		<slash:comments>100</slash:comments>
+		</item>
+		<item>
+		<title>The power to interoperate with social networks</title>
+		<link>http://blog.jilion.com/2010/01/21/the-power-to-interoperate-with-social-networks</link>
+		<comments>http://blog.jilion.com/2010/01/21/the-power-to-interoperate-with-social-networks#comments</comments>
+		<pubDate>Thu, 21 Jan 2010 17:36:29 +0000</pubDate>
+		<dc:creator>Thibaud</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://blog.jilion.com/?p=150</guid>
+		<description><![CDATA[The case of Caprices Festival
+Jilion and Caprices Festival just launched a very interesting social networking integration of Facebook and MySpace in a music festival website.
+Caprices Festival approached us back in October with the goal to be one of the first, if not the first music festival allowing people to influence a great part of the [...]]]></description>
+			<content:encoded><![CDATA[<p><img style="float: right; margin: 10px 0 10px 20px;" src="http://blog.medias.jilion.com/uploads/2010/01/caprices_2010-240x342.jpg" alt="Caprices Festival 2010" /><strong>The case of Caprices Festival</strong></p>
+<p>Jilion and <a href="http://www.caprices.ch/">Caprices Festival</a> just launched a very interesting social networking integration of Facebook and MySpace in a music festival website.</p>
+<p>Caprices Festival approached us back in October with the goal to be one of the first, if not the first music festival allowing people to influence a great part of the festival&#8217;s lineup, by voting for artists willing to enroll in the competition. It&#8217;s worth to mention those artists have not been previously selected by the organizers.</p>
+<p>Launched on January 15, the service allows, on one hand, MySpace artists to quickly submit their profile to Caprices (via MySpaceID), and on the other hand any Facebook user to vote for them (via Facebook Connect).<br />
+As a result 6 “elected” acts per day on 3 stages will play at Caprices next April.</p>
+<p><img class="no_rounded" src="http://blog.medias.jilion.com/uploads/2010/01/jilion_facebook_connect_statistics.png" alt="Facebook Connect Statistics" /><em>6 first days users base growth coming from Facebook Connect</em></p>
+<p>We are very pleased by the early results:</p>
+<ul>
+<li>In the first 6 days, more than 11&#8242;000 Facebook users joined the contest. Previously, Caprices took 3 years to attract ~2500 members on their Facebook group;</li>
+<li>More than 400 artists are participating so far;</li>
+<li>More than 150 MySpace artists have been proposed so far by Facebook users.</li>
+</ul>
+<p>Few comparable websites relying only on their own sign-up can record 11′000 users in the first 6 days. Facebook is a “no-brainer” for users to sign-up as it is a very convenient process for someone already having a Facebook account.<br />
+A proper integration with a leading social network definitely helps to bootstrap a new service as the incentive always exists for users to propagate new kinds of &#8220;cool&#8221; actions back on their profile&#8217;s news feed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.jilion.com/2010/01/21/the-power-to-interoperate-with-social-networks/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>In the Top 20 in one day</title>
+		<link>http://blog.jilion.com/2009/12/05/in-the-top-20-in-one-day</link>
+		<comments>http://blog.jilion.com/2009/12/05/in-the-top-20-in-one-day#comments</comments>
+		<pubDate>Sat, 05 Dec 2009 00:15:49 +0000</pubDate>
+		<dc:creator>Zeno</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://blog.jilion.com/?p=33</guid>
+		<description><![CDATA[We&#8217;re glad to see the iPhone app we developed for Helvetiq entered the Swiss App Store Top 20 Free apps in less than 24 hours.
+]]></description>
+			<content:encoded><![CDATA[<p><img src="http://blog.medias.jilion.com/uploads/2009/12/helvetiq_app_store_screenshot_rank_19.jpg" alt="Helvetiq App Store Rank" style="float:left;margin:10px 20px 10px 0" />We&#8217;re glad to see the <a href="http://iphone.helvetiq.ch">iPhone app</a> we developed for Helvetiq entered the Swiss App Store <strong>Top 20</strong> Free apps in less than 24 hours.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.jilion.com/2009/12/05/in-the-top-20-in-one-day/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Welcome to our blog</title>
+		<link>http://blog.jilion.com/2009/12/03/welcome</link>
+		<comments>http://blog.jilion.com/2009/12/03/welcome#comments</comments>
+		<pubDate>Thu, 03 Dec 2009 21:41:22 +0000</pubDate>
+		<dc:creator>Mehdi</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://blog.jilion.com/?p=9</guid>
+		<description><![CDATA[We&#8217;d like to take the opportunity to introduce ourselves and tell you more about what we do.
+We recently started Jilion late summer 2009 but our team has actually been working together for several years at the EPFL campus in Switzerland.
+Back in 2006, Mehdi and Zeno started the Jime project, rapidly joined by Thibaud and Octave [...]]]></description>
+			<content:encoded><![CDATA[<p>We&#8217;d like to take the opportunity to introduce ourselves and tell you more about what we do.</p>
+<p>We recently started <a href="http://jilion.com">Jilion</a> late summer 2009 but our team has actually been working together for several years at the <a href="http://www.epfl.ch">EPFL</a> campus in Switzerland.</p>
+<p>Back in 2006, Mehdi and Zeno started the <strong>Jime</strong> project, rapidly joined by Thibaud and Octave and several other excellent contributors. Jime is a massive project, which is going to be our contribution to solve the current mess of the music industry by providing a complete Internet-based solution to its numerous problems.</p>
+<p>Jime will propose a completely pro artists platform and a pure level playing field for all participants of this new value chain model.</p>
+<p>Jime is a beautiful project that strongly unites our team. It is still cooking and will be launched &#8230;when ready. So no additional teasing till then!</p>
+<p>We decided to start <a href="http://jilion.com">Jilion</a> for several reasons:</p>
+<p>First of all, we want to stay independent in order to keep a clean focus on what we think Jime should become.</p>
+<p>We were asked from time-to-time to work on other projects as we collectively amassed tons of experience in complex back-end development using Ruby on Rails, rich interactive front-ends using JavaScript and web standards, social media platforms interoperability and stylish and effective interface design.</p>
+<p>Also, it&#8217;s healthy to close the loop more often than your own &#8220;big project&#8221; allows you, meet and work with people on exciting challenges and generate satisfaction for everybody.</p>
+<p>For all these reasons, we are very excited to start <a href="http://jilion.com">Jilion</a> and we&#8217;ll continuously aim at delivering our customers with the highest level of geek-excellence and satisfaction possible.</p>
+<p>Whether you would like to work with us, discuss a project or anything else, feel free to <a href="mailto:%69%6e%66%6f@%6a%69%6c%69%6f%6e.%63%6f%6d">contact us</a>.</p>
+<p>The Jilion Team<br />
+— Mehdi, Zeno, Thibaud, Octave</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.jilion.com/2009/12/03/welcome/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk (enhanced)
+Database Caching using disk
+Content Delivery Network via Amazon Web Services: CloudFront: blog.medias.jilion.com
+
+Served from: blog.jilion.com @ 2010-07-19 09:26:07 -->
