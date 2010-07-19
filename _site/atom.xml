@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com"/>
- <updated>2010-07-14T14:48:33+02:00</updated>
+ <updated>2010-07-19T10:31:25+02:00</updated>
  <id>http://blog.jilion.com</id>
  <author>
    <name>Jilion</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Next Month!</title>
-   <link href="http://blog.jilion.com/2010/07/08/next-month/"/>
+   <link href="http://blog.jilion.com/2010/07/08/next_month/"/>
    <updated>2010-07-08T00:00:00+02:00</updated>
-   <id>http://blog.jilion.com//2010/07/08/next-month</id>
+   <id>http://blog.jilion.com//2010/07/08/next_month</id>
    <content type="html">&lt;p&gt;
 &lt;img style=&quot;float: left;margin: 0 24px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/07/sublimevideo_solution_august_2010_calendar_icon.png&quot; alt=&quot;August 2010 Calendar&quot;&gt;
 For the last three months, we have been thinking thoroughly about how to make of SublimeVideo player the most functional, universal, easy-to-deploy-and-maintain HTML5 video solution.
