@@ -14,10 +14,9 @@ layout: master
       <span class="date">{{page.date | date_to_pretty_string}}</span>
       <span class="authors">by {{page.authors}}</span> 
       <div class="entry_comments_count" id="entry_comments_count_{{page.uid}}">
-        <a href="{{page.url}}#comments">
-          <span>X comments</span>
+        <a href="{{page.url | url_without_slash}}#disqus_thread">
+          0 Comments
         </a>
-        <style type="text/css">@media screen and (-webkit-min-device-pixel-ratio:0){#entry_comments_count_{{page.uid}} a:after {content:'X comments';}}</style>
       </div>
     </div>
   </div>
@@ -26,7 +25,6 @@ layout: master
     <div class="spacer"></div>
   </div>
   <div id="comments">
-    <div id="disqus_thread"></div>
     <script type="text/javascript">
       /**
         * var disqus_identifier; [Optional but recommended: Define a unique identifier (e.g. post id or slug) for this thread] 
@@ -38,7 +36,6 @@ layout: master
       })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=jilionblog">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
     
   </div>
 </div>
