@@ -6,8 +6,9 @@ layout: nil
  
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
- <link href="http://blog.jilion.com"/>
+ <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
  <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <rights>Copyright (c) 2010 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
    <name>Jilion</name>
@@ -17,9 +18,19 @@ layout: nil
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://blog.jilion.com{{ post.url }}"/>
+   <link href="http://blog.jilion.com{{ post.url | url_without_slash }}"/>
+   {% if post.wordpress_url %}
+   <id>{{ post.wordpress_url }}</id>
+   {% else %}
+   <id>http://blog.jilion.com{{ post.id | url_without_slash }}</id>
+   {% endif %}
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://blog.jilion.com/{{ post.id }}</id>
+   <published>{{ post.date | date_to_xmlschema }}</published>
+   {% if post.authors %}
+   <author>
+     <name>{{ post.authors }}</name>
+   </author>
+   {% endif %}
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}

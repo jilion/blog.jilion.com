@@ -4,19 +4,27 @@ layout: master
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_{{page.uid}}" style="font-size:"><a href="{{page.url | url_without_slash}}">{{page.title}}</a></h2>
+      <h2 id="post_{{page.id | id_to_css_id}}" style="font-size:"><a href="{{page.url | url_without_slash}}">{{page.title}}</a></h2>
       {% if page.sub_title %}
         <h3 class="sub_header">{{page.sub_title}}</h3>
       {% endif %}
-      <style type="text/css">@media screen and (-webkit-min-device-pixel-ratio:0){#post_{{page.uid}}:after {content:'{{page.title}}';}}</style>
+      <style type="text/css">@media screen and (-webkit-min-device-pixel-ratio:0){#post_{{page.id | id_to_css_id}}:after {content:'{{page.title}}';}}</style>
     </div>
     <div class="entry_meta">
       <span class="date">{{page.date | date_to_pretty_string}}</span>
       <span class="authors">by {{page.authors}}</span> 
+<<<<<<< HEAD
       <div class="entry_comments_count" id="entry_comments_count_{{page.uid}}">
         <a href="{{page.url | url_without_slash}}#disqus_thread">
           0 Comments
         </a>
+=======
+      <div class="entry_comments_count" id="entry_comments_count_{{page.id | id_to_css_id}}">
+        <a href="{{ page.url | url_without_slash }}#comments">
+          <span>X comments</span>
+        </a>
+        <style type="text/css">@media screen and (-webkit-min-device-pixel-ratio:0){#entry_comments_count_{{page.id | id_to_css_id}} a:after {content:'X comments';}}</style>
+>>>>>>> 521b023374eff1ca42c52b46ea833952806a8f3a
       </div>
     </div>
   </div>
