@@ -14,15 +14,14 @@ Browsers makers are still working on fully supporting the HTML5 video specificat
 SublimeVideo will be soon released for free (at least for non-commercial use).
 
 <h3>Key Features</h3>
-<ul>
-<li><strong>Full-window mode</strong>
-This will maximize the video to fit the browser's window. It can be handy if you still want to access other applications while watching a maximized video in your browser.
-Besides, browsers makers are still working on implementing true fullscreen for HTML5 videos; so full-window is currently the only way to maximize the video on Safari and Chrome.</li>
-<li><strong>Full-screen mode</strong>
-Currently only supported in the latest <a href="http://nightly.webkit.org/">WebKit Nightly Builds</a>, you can activate this mode by ALT-clicking on the full-window button.</li>
-<li><strong>HTML5 video benefits</strong>
-No browser plugin, no Flash dependencies!
-You can also jump anywhere in the video without having to wait for it to buffer.</li>
-</ul>
+
+* *Full-window mode*
+  This will maximize the video to fit the browser's window. It can be handy if you still want to access other applications while watching a maximized video in your browser.
+  Besides, browsers makers are still working on implementing true fullscreen for HTML5 videos; so full-window is currently the only way to maximize the video on Safari and Chrome.
+* *Full-screen mode*
+  Currently only supported in the latest <a href="http://nightly.webkit.org/">WebKit Nightly Builds</a>, you can activate this mode by ALT-clicking on the full-window button.
+* *HTML5 video benefits*
+  No browser plugin, no Flash dependencies!
+  You can also jump anywhere in the video without having to wait for it to buffer.
 
 See more features on the <a href="http://jilion.com/sublime/video">SublimeVideo demo</a> page.
