@@ -27,4 +27,4 @@ For all these reasons, we are very excited to start <a href="http://jilion.com">
 Whether you would like to work with us, discuss a project or anything else, feel free to <a href="mailto:%69%6e%66%6f@%6a%69%6c%69%6f%6e.%63%6f%6d">contact us</a>.
 
 The Jilion Team
-— Mehdi, Zeno, Thibaud, Octave
+-- Mehdi, Zeno, Thibaud, Octave

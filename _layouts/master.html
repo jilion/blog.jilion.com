@@ -2,7 +2,11 @@
 <html lang='en' xml:lang='en' xmlns='http://www.w3.org/1999/xhtml'>
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <title>Jilion Blog - {{ page.title }}</title>
+    {% if page.title %}
+      <title>Jilion Blog - {{ page.title }}</title>
+    {% else %}
+      <title>Jilion Blog</title>
+    {% endif %}
     
     <!--[if (!IE)|(gte IE 8)]><!-->
     <link href="http://blog.medias.jilion.com/07082010162310/assets/style-datauri.css" media="all" rel="stylesheet" type="text/css" />
@@ -45,8 +49,17 @@
     <![endif]-->
     <script type="text/javascript" src="http://use.typekit.com/ibz5qib.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    <script type='text/javascript' src='http://blog.medias.jilion.com/wp-includes/js/comment-reply.js'></script>
-    
+    <script type="text/javascript">
+      var disqus_shortname = 'jilionblog';
+      (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.src = 'http://disqus.com/forums/jilionblog/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+      }());
+    </script>
+    <script type="text/javascript">
+      var disqus_developer = 1; 
+    </script>    
   </head>
   <body>
     <div id="global">

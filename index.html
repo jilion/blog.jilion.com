@@ -1,14 +1,31 @@
 ---
 layout: master
-title: Home
 ---
-
-<div class='home_box' id='home_left'>
   
-  {% for post in site.posts %}
-  <div class='post'>
-    <h1><a href='{{post.url}}'>{{post.title}}</a></h1>
-    <div class='body'>{{ post.content }}</div>
+{% for post in site.posts %}
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      <h2 id="post_{{post.uid}}" style="font-size:"><a href="{{page.url | url_without_slash}}">{{post.title}}</a></h2>
+      {% if post.sub_title %}
+        <h3 class="sub_header">{{post.sub_title}}</h3>
+      {% endif %}
+      <style type="text/css">@media screen and (-webkit-min-device-pixel-ratio:0){#post_{{post.uid}}:after {content:'{{post.title}}';}}</style>
+    </div>
+    <div class="entry_meta">
+      <span class="date">{{post.date | date_to_pretty_string}}</span>
+      <span class="authors">by {{post.authors}}</span> 
+      <div class="entry_comments_count" id="entry_comments_count_{{page.uid}}">
+        <a href="{{page.url}}#comments">
+          <span>X comments</span>
+        </a>
+        <style type="text/css">@media screen and (-webkit-min-device-pixel-ratio:0){#entry_comments_count_{{post.uid}} a:after {content:'X comments';}}</style>
+      </div>
+    </div>
   </div>
-  {% endfor %}
+  <div class="entry_body">
+    {{ post.content }}
+    <div class="spacer"></div>
+  </div>
 </div>
+{% endfor %}
