@@ -1,7 +1,8 @@
 --- 
-wordpress_id: 252
-layout: post
 title: SublimeVideo supports Firefox
+authors: Zeno
+layout: post
+wordpress_id: 252
 wordpress_url: http://blog.jilion.com/?p=252
 ---
 We are working hard on the release of SublimeVideo (no date yet).

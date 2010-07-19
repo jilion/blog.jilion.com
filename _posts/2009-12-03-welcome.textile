@@ -1,7 +1,8 @@
 --- 
-wordpress_id: 9
-layout: post
 title: Welcome to our blog
+authors: Mehdi
+layout: post
+wordpress_id: 9
 wordpress_url: http://blog.jilion.com/?p=9
 ---
 We'd like to take the opportunity to introduce ourselves and tell you more about what we do.
