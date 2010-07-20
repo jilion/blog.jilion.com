@@ -2,10 +2,11 @@
 title: The power to interoperate with social networks
 authors: Thibaud
 layout: post
+font_size : 26
 wordpress_id: 150
 wordpress_url: http://blog.jilion.com/?p=150
 ---
-<img style="float: right; margin: 10px 0 10px 20px;" src="http://blog.jilion.com/uploads/2010/01/caprices_2010-240x342.jpg" alt="Caprices Festival 2010" /><strong>The case of Caprices Festival</strong>
+<img style="float: right; margin: 10px 0 10px 20px;" src="http://blog.medias.jilion.com/uploads/2010/01/caprices_2010-240x342.jpg" alt="Caprices Festival 2010" /><strong>The case of Caprices Festival</strong>
 
 Jilion and <a href="http://www.caprices.ch/">Caprices Festival</a> just launched a very interesting social networking integration of Facebook and MySpace in a music festival website.
 
