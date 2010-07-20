@@ -27,7 +27,10 @@
       <script type="text/javascript">var curvyCornersNoAutoScan = true;</script>
       <script type="text/javascript" src="http://blog.medias.jilion.com/javascripts/curvycorners.js"></script>
       <script type="text/javascript">
+        var disqusPresencePolling;
+        var documentHeight;
         window.onload = function() {
+          documentHeight = document.body.clientHeight;
           var settings = {
             tl: { radius: 10 },
             tr: { radius: 10 },
@@ -36,9 +39,25 @@
             antiAlias: true
           };
           var divObj = document.getElementById("back"); 
+          divObj.className = "curvyRedraw";
           curvyCorners(settings, divObj);
           divObj.style.filter="alpha(opacity=70)";
+          disqusPresencePolling = setInterval("checkDisqusPresence()", 1000);
+        };
+        
+        function checkDisqusPresence() {
+          if (document.body.clientHeight > documentHeight) {
+            clearInterval(disqusPresencePolling);
+            setTimeout(function(){
+              curvyCorners.redraw();
+              document.getElementById("back").style.filter="alpha(opacity=70)";
+            }, 2000);
+          } else {
+            curvyCorners.redraw();
+            document.getElementById("back").style.filter="alpha(opacity=70)";
+          }
         }
+        
       </script>
       <style type="text/css" media="screen">
         *+html #logo_backlights {left:-110px;}
@@ -61,6 +80,7 @@
         s.src = 'http://disqus.com/forums/jilionblog/count.js';
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
       }());
+      var disqus_developer = 1;
     </script>
   </head>
   <body>
