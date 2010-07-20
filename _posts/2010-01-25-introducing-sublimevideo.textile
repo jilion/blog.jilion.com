@@ -7,7 +7,7 @@ wordpress_url: http://blog.jilion.com/?p=204
 ---
 Today we'd like to show you a pre-release demo of SublimeVideo. It's an <a href="http://en.wikipedia.org/wiki/Html5">HTML5</a> video player that will allow you to easily embed videos in any page, blog or site using the latest modern web standards.
 
-<a href="http://jilion.com/sublime/video"><img src="http://blog.jilion.com/uploads/2010/01/sublime_video-600x480.png" alt="Sublime Video" class="no_rounded" /></a>
+<a href="http://jilion.com/sublime/video"><img src="http://blog.medias.jilion.com/uploads/2010/01/sublime_video-600x480.png" alt="Sublime Video" class="no_rounded" /></a>
 
 Browsers makers are still working on fully supporting the HTML5 video specification, so at the moment SublimeVideo is still in <em>experimental state</em> and only works on a limited number of browsers. But the long term goal is to make it work on all modern browsers.
 
