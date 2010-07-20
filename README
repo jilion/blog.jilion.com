@@ -1,9 +1,10 @@
 # Install
-gem install jekyll
-gem install jekyll_ext # needed for extensions support
+bundle install
 
 # Regenerate (inside _site) & launch dev server (http://localhost:4000)
-ejekyll
+bundle exec ejekyll
+# Regenerate for production env
+RACK_ENV=production bundle exec ejekyll --no-server --no-auto
 
 # Docs
 http://jekyllrb.com
