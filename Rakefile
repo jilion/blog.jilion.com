@@ -38,7 +38,8 @@ task :deploy do
   
   puts "Full blog has been generated for production"
   
-  system "git commit -am 'Updated assets before deploy'"
+  system "git add ."
+  system "git commit -m 'Updated assets before deploy'"
   system "git push"
   system "git push heroku master"
   
