@@ -6,6 +6,10 @@ module Jekyll
       ENV['RACK_ENV']
     end
     
+    def timestamp(id)
+      ENV['TIMESTAMP']
+    end
+    
   end
   
 end

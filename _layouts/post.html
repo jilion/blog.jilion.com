@@ -4,7 +4,7 @@ layout: master
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_{{page.id | id_to_css_id}}" style="font-size:"><a href="{{page.url | url_without_slash}}">{{page.title}}</a></h2>
+      <h2 id="post_{{page.id | id_to_css_id}}" style="font-size:"><a href="{{page.url | pretty_url}}">{{page.title}}</a></h2>
       {% if page.sub_title %}
         <h3 class="sub_header">{{page.sub_title}}</h3>
       {% endif %}
@@ -14,8 +14,8 @@ layout: master
       <span class="date">{{page.date | date_to_pretty_string}}</span>
       <span class="authors">by {{page.authors}}</span> 
       <div class="entry_comments_count" id="entry_comments_count_{{page.id | id_to_css_id}}">
-        <a href="{{page.url | url_without_slash}}#disqus_thread">
-          0 Comments
+        <a href="{{page.url | pretty_url}}#disqus_thread">
+          Comments
         </a>
       </div>
     </div>

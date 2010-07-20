@@ -18,11 +18,11 @@ layout: nil
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://blog.jilion.com{{ post.url | url_without_slash }}"/>
+   <link href="{{ post.url | pretty_url }}"/>
    {% if post.wordpress_url %}
    <id>{{ post.wordpress_url }}</id>
    {% else %}
-   <id>http://blog.jilion.com{{ post.id | url_without_slash }}</id>
+   <id>{{ post.id | pretty_url }}</id>
    {% endif %}
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <published>{{ post.date | date_to_xmlschema }}</published>
