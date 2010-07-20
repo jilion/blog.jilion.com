@@ -5,13 +5,13 @@ layout: post
 wordpress_id: 285
 wordpress_url: http://blog.jilion.com/?p=285
 ---
-<img style="float: left;margin: 0 24px 0 0" src="http://blog.jilion.com/uploads/2010/04/flash.png" alt="Flash Icon" /> SublimeVideo has a broader goal than just showcasing some nice HTML5 features in a controlled environment like our <a href="http://jilion.com/sublime/video">demo page</a>. We aim at delivering a modern and simple video-embedding solution for web developers that provides the same user experience and uniform UI across browsers.
+<img style="float: left;margin: 0 24px 0 0" src="http://blog.medias.jilion.com/uploads/2010/04/flash.png" alt="Flash Icon" /> SublimeVideo has a broader goal than just showcasing some nice HTML5 features in a controlled environment like our <a href="http://jilion.com/sublime/video">demo page</a>. We aim at delivering a modern and simple video-embedding solution for web developers that provides the same user experience and uniform UI across browsers.
 
 The first main news of the day is we have just completed the development of the Flash mode of our SublimeVideo player.  It is not a separate product, but a necessary component to achieve our ambition to offer you a truly <strong>universal video player</strong> that works in all browsers.
 
 With SublimeVideo Flash mode, our users will have the warranty that their videos will play seamlessly even in non-HTML5 browsers such as IE 6, 7 or 8 and also in Firefox/Opera when the Ogg Theora video version is not available.
 
-<img class="no_rounded" src="http://blog.jilion.com/uploads/2010/04/sublimevideo_and_flash.png" alt="SublimeVideo and Flash" />
+<img class="no_rounded" src="http://blog.medias.jilion.com/uploads/2010/04/sublimevideo_and_flash.png" alt="SublimeVideo and Flash" />
 <em class="caption">Flash and HTML5 versions look and feel the same</em>
 
 To see the new Flash player in action, we created an additional <a href="http://jilion.com/sublime/video/flash">demo page where SublimeVideo Flash mode is forced</a> for all browsers (including browsers that fully support HTML5 video).
