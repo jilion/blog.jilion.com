@@ -2,8 +2,13 @@ module Jekyll
   
   module Filters
     
-    def url_without_slash(url)
-      url.gsub /\/$/, ''
+    def pretty_url(url)
+      if ENV['RACK_ENV'] == 'production'
+        url.gsub! /\/$/, ''
+        'http://blog.jilion.com' + url
+      else
+        'http://localhost:4000' + url
+      end
     end
     
   end

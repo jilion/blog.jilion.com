@@ -18,7 +18,7 @@ body {
   font-size:18px;
   font-weight:100;
   color:#91a1bb;
-  background:url(http://blog.medias.jilion.com/wp-content/themes/jilion/images/background.png);
+  background:url(http://blog.medias.jilion.com/images/css/background.png);
   text-rendering:optimizeLegibility;
 }
 
@@ -35,7 +35,7 @@ body.win {font-family:Arial, sans-serif !important;}
 #back {
   width:960px;
   margin:0 auto;
-  background:#000 url(/images/embed/texture.png);
+  background:#000 url(../images/embed/texture.png);
   opacity:0.7;
   position:absolute;
   left:0;
@@ -52,7 +52,7 @@ body.win {font-family:Arial, sans-serif !important;}
 #logo_backlights {
   width:960px;
   height:292px;
-  background:url(/images/embed/logo_backlights.png) no-repeat;
+  background:url(../images/embed/logo_backlights.png) no-repeat;
   position:absolute;
   margin:0 auto;
   top:-80px;
@@ -76,7 +76,7 @@ body.win {font-family:Arial, sans-serif !important;}
   width:234px;
   height:54px;
   margin:10px 10px 0;
-  background:url(/images/embed/jilion.png) no-repeat;
+  background:url(../images/embed/jilion.png) no-repeat;
 }
 
 #header h1 a span {display:none;}
@@ -93,7 +93,7 @@ body.win {font-family:Arial, sans-serif !important;}
 #blog_label .wrap {
   width:304px;
   height:173px;
-  background:url(/images/embed/blog_label.png) no-repeat;
+  background:url(../images/embed/blog_label.png) no-repeat;
   position:relative;
 }
 
@@ -108,7 +108,7 @@ body.win {font-family:Arial, sans-serif !important;}
 /*#blog_label .shadow {
   width:251px;
   height:7px;
-  background:url(/images/embed/blog_label_shadow.png) no-repeat;
+  background:url(../images/embed/blog_label_shadow.png) no-repeat;
   position:absolute;
   top:0;
   right:0;
@@ -140,7 +140,7 @@ body.win {font-family:Arial, sans-serif !important;}
 }
 
 #menu li a strong {
-  background:url(/images/embed/black_btn_left.png) no-repeat;
+  background:url(../images/embed/black_btn_left.png) no-repeat;
   height:30px;
   font-weight:500;
   padding:9px 3px 0 12px;
@@ -150,7 +150,7 @@ body.win {font-family:Arial, sans-serif !important;}
 #menu li a:active strong {background-position:0 -39px;}
 
 #menu li a span.corner {
-  background:url(/images/embed/black_btn_right.png) no-repeat;
+  background:url(../images/embed/black_btn_right.png) no-repeat;
   display:block;
   width:6px;
   height:39px;
@@ -163,13 +163,13 @@ body.win {font-family:Arial, sans-serif !important;}
 
 /*#menu li.blog a span.icon {
   padding:0 26px 0 0;
-  background:url(/images/embed/blog_icon.png) no-repeat 100% 0;
+  background:url(../images/embed/blog_icon.png) no-repeat 100% 0;
 }*/
 
 .breakline1 {
   width:649px;
   height:2px;
-  background:url(/images/embed/break_line1.png) no-repeat;
+  background:url(../images/embed/break_line1.png) no-repeat;
   margin:20px auto 35px;
 }
 
@@ -258,7 +258,7 @@ body.win {font-family:Arial, sans-serif !important;}
 
 .entry_comments_count {
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-  background: url(/images/embed/comments_icon.png) no-repeat 94% 50%;
+  background: url(../images/embed/comments_icon.png) no-repeat 94% 50%;
   position:absolute;
   top:10px;  right:0;
   padding:3px 0px 2px 8px;
@@ -326,7 +326,7 @@ body.win {font-family:Arial, sans-serif !important;}
 
 .entry_body li {
   padding:0 0 10px 24px;
-  background:url(/images/embed/li.png) no-repeat 0 10px;
+  background:url(../images/embed/li.png) no-repeat 0 10px;
 }
 
 .entry_body a.show_image {
@@ -367,7 +367,7 @@ body.win {font-family:Arial, sans-serif !important;}
 }
 
 .entry_body a.show_image:hover span.glass {
-  background:rgba(0,0,0,0.3) url(/images/embed/magnifying_glass.png) no-repeat 98% 98%;
+  background:rgba(0,0,0,0.3) url(../images/embed/magnifying_glass.png) no-repeat 98% 98%;
   opacity:1;
 }
 
@@ -421,7 +421,7 @@ body.win {font-family:Arial, sans-serif !important;}
   left:3px;
   right:3px;
   bottom:3px;
-  background:rgba(0,0,0,0.4) url(/images/embed/play_button.png) no-repeat 50% 50%;
+  background:rgba(0,0,0,0.4) url(../images/embed/play_button.png) no-repeat 50% 50%;
   -webkit-border-radius:10px;
   -moz-border-radius:10px;
   -webkit-transition:0.5s background-color;
@@ -464,8 +464,8 @@ body.win {font-family:Arial, sans-serif !important;}
   padding:0 0 0 40px;
 }
 
-#sidebar .box.links li.rss a {background:url(/images/embed/rss_icon.png) no-repeat 0 2px;}
-#sidebar .box.links li.twitter a {background:url(/images/embed/twitter_icon.png) no-repeat 0 5px;}
+#sidebar .box.links li.rss a {background:url(../images/embed/rss_icon.png) no-repeat 0 2px;}
+#sidebar .box.links li.twitter a {background:url(../images/embed/twitter_icon.png) no-repeat 0 5px;}
 
 #comments {
   padding:40px 0 0;
@@ -567,9 +567,9 @@ body.win {font-family:Arial, sans-serif !important;}
   text-align:right !important;
 }
 
-.dsq-comment-footer-reply button {
+.dsq-comment-footer-reply button, .dsq-comment-footer-reply-tab {
   padding:6px 28px 6px 10px !important;
-  background:rgba(0,0,0,0.8) url(/images/embed/comments_icon.png) no-repeat 90% 50% !important;
+  background:rgba(0,0,0,0.8) url(../images/embed/comments_icon.png) no-repeat 90% 50% !important;
   font-size:13px !important;
   font-weight:100 !important;
   letter-spacing:1px !important;
@@ -582,7 +582,7 @@ body.win {font-family:Arial, sans-serif !important;}
   border:none !important;
 }
 
-#dsq-form-area button.dsq-button, #dsq-form-area button.dsq-button-small {
+#dsq-form-area button.dsq-button, #dsq-form-area button.dsq-button-small, .dsq-post-footer button {
   font-size:15px !important;
   font-weight:500 !important;
   background:#000 !important;
@@ -594,7 +594,7 @@ body.win {font-family:Arial, sans-serif !important;}
   -moz-border-radius:6px !important;
 }
 
-#dsq-new-post {
+#dsq-new-post, .dsq-post-area {
   padding:20px !important;
   margin:30px 0 !important;
   position:relative !important;
@@ -604,7 +604,7 @@ body.win {font-family:Arial, sans-serif !important;}
   -moz-border-radius:10px !important;
 }
 
-#dsq-new-post h3 {
+#dsq-new-post h3, .dsq-post-area h3 {
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight:100 !important;
   font-size:24px !important;
@@ -614,6 +614,10 @@ body.win {font-family:Arial, sans-serif !important;}
 
 #dsq-content .dsq-request-user-name {
   padding:14px !important;
+}
+
+#dsq-content .dsq-append-post .dsq-request-user-name {
+  padding:0 14px !important;
 }
 
 #dsq-content .dsq-request-user-info {
@@ -706,14 +710,14 @@ p.subscribe-to-comments label {
 }
 
 .cancel-comment-reply a {
-  background:url(/images/embed/small_cross.png) no-repeat 0 65%;
+  background:url(../images/embed/small_cross.png) no-repeat 0 65%;
   padding:0 0 0 14px;
 }*/
 
 #footer {
   width:840px;
   height:88px;
-  background:url(/images/embed/footer_back.png) no-repeat center top;
+  background:url(../images/embed/footer_back.png) no-repeat center top;
   padding:60px;
   margin:0 auto;
   text-align:center;
