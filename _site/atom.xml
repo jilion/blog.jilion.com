@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2010-07-20T12:55:26+02:00</updated>
+ <updated>2010-07-20T13:24:36+02:00</updated>
  <rights>Copyright (c) 2010 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -26,7 +26,7 @@
      <name>Mehdi</name>
    </author>
    
-   <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 0 24px 0 0&quot; src=&quot;http://blog.jilion.com/uploads/2010/07/sublimevideo_solution_august_2010_calendar_icon.png&quot; alt=&quot;August 2010 Calendar&quot; /&gt; For the last three months, we have been thinking thoroughly about how to make of SublimeVideo player the most functional, universal, easy-to-deploy-and-maintain HTML5 video solution.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 0 24px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/07/sublimevideo_solution_august_2010_calendar_icon.png&quot; alt=&quot;August 2010 Calendar&quot; /&gt; For the last three months, we have been thinking thoroughly about how to make of SublimeVideo player the most functional, universal, easy-to-deploy-and-maintain HTML5 video solution.&lt;/p&gt;
 &lt;p&gt;Next month we will reveal all the details and commercial plan of our upcoming SublimeVideo solution. We hope you will love it as much as we do. Frankly, we are super-excited about it!&lt;/p&gt;
 &lt;p&gt;Once again, thank you so much for your great support and patience. By the way, we promise to communicate more frequently about our progress.&lt;/p&gt;</content>
  </entry>
@@ -44,10 +44,10 @@
      <name>Octave</name>
    </author>
    
-   <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 0 24px 0 0&quot; src=&quot;http://blog.jilion.com/uploads/2010/04/flash.png&quot; alt=&quot;Flash Icon&quot; /&gt; SublimeVideo has a broader goal than just showcasing some nice HTML5 features in a controlled environment like our &lt;a href=&quot;http://jilion.com/sublime/video&quot;&gt;demo page&lt;/a&gt;. We aim at delivering a modern and simple video-embedding solution for web developers that provides the same user experience and uniform UI across browsers.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 0 24px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/04/flash.png&quot; alt=&quot;Flash Icon&quot; /&gt; SublimeVideo has a broader goal than just showcasing some nice HTML5 features in a controlled environment like our &lt;a href=&quot;http://jilion.com/sublime/video&quot;&gt;demo page&lt;/a&gt;. We aim at delivering a modern and simple video-embedding solution for web developers that provides the same user experience and uniform UI across browsers.&lt;/p&gt;
 &lt;p&gt;The first main news of the day is we have just completed the development of the Flash mode of our SublimeVideo player.  It is not a separate product, but a necessary component to achieve our ambition to offer you a truly &lt;strong&gt;universal video player&lt;/strong&gt; that works in all browsers.&lt;/p&gt;
 &lt;p&gt;With SublimeVideo Flash mode, our users will have the warranty that their videos will play seamlessly even in non-HTML5 browsers such as IE 6, 7 or 8 and also in Firefox/Opera when the Ogg Theora video version is not available.&lt;/p&gt;
-&lt;p&gt;&lt;img class=&quot;no_rounded&quot; src=&quot;http://blog.jilion.com/uploads/2010/04/sublimevideo_and_flash.png&quot; alt=&quot;SublimeVideo and Flash&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img class=&quot;no_rounded&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/04/sublimevideo_and_flash.png&quot; alt=&quot;SublimeVideo and Flash&quot; /&gt;&lt;br /&gt;
 &lt;em class=&quot;caption&quot;&gt;Flash and HTML5 versions look and feel the same&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;To see the new Flash player in action, we created an additional &lt;a href=&quot;http://jilion.com/sublime/video/flash&quot;&gt;demo page where SublimeVideo Flash mode is forced&lt;/a&gt; for all browsers (including browsers that fully support HTML5 video).&lt;/p&gt;
 &lt;p&gt;Here are the features of SublimeVideo Flash mode:&lt;/p&gt;
