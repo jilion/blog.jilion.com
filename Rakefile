@@ -20,8 +20,7 @@ task :deploy do
     :secret_access_key => 'zGODjlVgFrfcvNfqDo7aMBMUrpQsvY+mIBwpf+lQ'
   )
   
-  files = Dir.glob(File.join("assets/*")) +
-          Dir.glob(File.join("images/*.{png,jpg,jpeg,gif}"))
+  files = Dir.glob(File.join("assets/*"))
   
   files.each do |file|
     filekey = file.gsub(/\.\.\//,'')
@@ -37,10 +36,12 @@ task :deploy do
   ENV['TIMESTAMP'] = timestamp
   system "bundle exec ejekyll --no-server --no-auto"
   
-  puts "Complete blog has been generated for production"
+  puts "Full blog has been generated for production"
   
   system "git commit . -m 'Updated assets before deploy'"
   system "git push"
   system "git push heroku"
+  
+  puts "The blog is running on Heroku, enjoy!"
   
 end
