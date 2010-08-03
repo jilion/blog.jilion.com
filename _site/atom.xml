@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2010-08-03T22:39:04+02:00</updated>
+ <updated>2010-08-03T22:42:22+02:00</updated>
  <rights>Copyright (c) 2010 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -26,7 +26,7 @@
      <name>Octave</name>
    </author>
    
-   <content type="html">&lt;p&gt;Would you like to be notified when SublimeVideo is released? Are you interested to be part of an early limited beta and give your feedback on the product and the pricing? Go to &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo.net&lt;/a&gt;&lt;/p&gt;</content>
+   <content type="html">&lt;p&gt;Would you like to be notified when SublimeVideo is released? Are you interested to be part of an early limited beta and give your feedback on the product and the pricing? Visit &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo.net&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
