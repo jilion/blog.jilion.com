@@ -3,4 +3,4 @@ title: Stay Updated
 authors: Octave
 layout: post
 ---
-Would you like to be notified when SublimeVideo is released? Are you interested to be part of an early limited beta and give your feedback on the product and the pricing? Go to "SublimeVideo.net":http://sublimevideo.net
+Would you like to be notified when SublimeVideo is released? Are you interested to be part of an early limited beta and give your feedback on the product and the pricing? Visit "SublimeVideo.net":http://sublimevideo.net
