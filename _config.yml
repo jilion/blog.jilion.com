@@ -1,4 +1,4 @@
 auto: true
 server: true
 permalink: pretty
-exclude: [README, config.ru, Gemfile, Rakefile, assets.yml, assets]
+exclude: [README, config.ru, Gemfile, Gemfile.lock, Rakefile, assets.yml, assets]
