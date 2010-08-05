@@ -533,6 +533,8 @@ body.win {font-family:Arial, sans-serif !important;}
   border:none !important;
   width:40px !important;
   height:40px !important;
+  padding:0 !important;
+  margin:0 !important;
 }
 
 .dsq-comment-cite, .dsq-comment-cite a, .dsq-request-user-name {
@@ -621,6 +623,11 @@ body.win {font-family:Arial, sans-serif !important;}
   font-size:24px !important;
   letter-spacing:1px !important;
   padding:0 0 15px !important;
+}
+
+#dsq-content .dsq-request-user-avatar {
+  padding:0 !important;
+  border:none !important;
 }
 
 #dsq-content .dsq-request-user-name {
