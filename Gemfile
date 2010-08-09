@@ -1,6 +1,5 @@
 source 'http://rubygems.org'
 
-gem 'newrelic_rpm'
 gem "rack-jekyll"
 
 # Heroku hack
