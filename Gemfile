@@ -3,7 +3,7 @@ source 'http://rubygems.org'
 gem "rack-jekyll"
 
 # Heroku hack
-group :development do
+if RUBY_PLATFORM =~ /darwin/
   gem 'RedCloth'
   gem 'jekyll',    :git => 'git://github.com/thibaudgg/jekyll.git', :branch => 'no-server'
   gem 'jekyll_ext'  # for ejekyll
