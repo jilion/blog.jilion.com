@@ -5,7 +5,7 @@ class CacheSettings
   def call(env)
     res = @app.call(env)
     res[1]["Cache-Control"] = "max-age=#{@seconds}, public"
-    res[1]["Expires"] = (Time.now + @seconds).utc.rfc2822
+    # res[1]["Expires"] = (Time.now + @seconds).utc.rfc2822
     res
   end
 end
