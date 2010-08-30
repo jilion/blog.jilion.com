@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/thibaudgg/jekyll.git
-  revision: 55025b5
+  revision: 55025b590751e19c6512149a28a84dbac2136525
   branch: no-server
   specs:
     jekyll (0.6.2)
@@ -23,7 +23,7 @@ GEM
     directory_watcher (1.3.2)
     fast-stemmer (1.0.0)
     jekyll_ext (0.1.2)
-    liquid (2.1.3)
+    liquid (2.2.2)
     maruku (0.6.0)
       syntax (>= 1.0.0)
     mime-types (1.16)
@@ -38,8 +38,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  RedCloth
-  aws-s3
+  RedCloth (~> 4.2.3)
+  aws-s3 (~> 0.6.2)
   jekyll!
-  jekyll_ext
-  rack-jekyll
+  jekyll_ext (~> 0.1.2)
+  rack-jekyll (~> 0.3.5)
