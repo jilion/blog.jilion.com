@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem "rack-jekyll", '0.3.5'
+gem "rack-jekyll", :git => 'git://github.com/thibaudgg/rack-jekyll.git'
 
 gem 'RedCloth',    '4.2.3'
 gem 'liquid',      '1.9.0'
