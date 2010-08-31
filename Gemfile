@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 
+gem "bundler"
 gem "rack-jekyll", :git => 'git://github.com/thibaudgg/rack-jekyll.git'
 
 gem 'RedCloth',    '4.2.3'
