@@ -1,15 +1,14 @@
 ---
 title: Introducing SublimeVideo Player as a Service
-sub_title: Public Beta to start in September
+sub_title: Beta of Cloud based HTML5 Player to start in September
 authors: Mehdi
 font_size: 27
 layout: post
 ---
-This is a big day for us at Jilion!
-Today as promised we let you know what we’ve been working on during the past few months.
-We hope you’ll like it as much as we do.
+<img style="float: left;margin: 5px 25px 0 0" src="http://blog.medias.jilion.com/uploads/2010/08/sublimevideo_cloud.png" alt="Introducing SublimeVideo Player as a Service" /> This is a big day for us at Jilion!
+Today, as promised we let you know what we’ve been working on during the past few months. We hope you’ll like it as much as we do.
 
-After 6 months of exciting work, we are extremely happy to introduce SublimeVideo HTML5 Video Player as a Service.
+After 6 months of exciting work, we are extremely happy to introduce "SublimeVideo.net":http://sublimevideo.net, our HTML5 Video Player as a Service.
 
 Some of you were anticipating that we would distribute Sublime Video as a ZIP file download.
 Well, today we’re offering a much better option - a real-world and practical HTML5 video player solution.
@@ -22,12 +21,12 @@ This is just not realistic for the vast majority of web sites willing to enable 
 Thanks to SublimeVideo HTML5 Video Player as a Service, none of this is a problem for you anymore: We take care of all that complexity, allowing you to instantly deliver to your audience the best HTML5 video experience possible on the web, worry-free!
 That's the main benefit of SublimeVideo but there’s more:
 
-* Get your own SublimeVideo player up-and-running in seconds on "sublimevideo.net":http://sublimevideo.net.
-* Get your SublimeVideo player delivered to your audience globally through our fast, reliable and low-latency * Content Delivery Network.
+* Get your own SublimeVideo player up-and-running in seconds.
+* Get your SublimeVideo player delivered to your audience globally through our fast, reliable and low-latency Content Delivery Network.
 * Welcome to Zero Maintenance: Your SublimeVideo player is always up-to-date.
 * Updates including bug-fixes and new platforms support are automatically deployed.
 * Updates are near-instantaneous for our global customers base.
-* Monitor your players usage in near real-time.
+* Monitor your players usages in near real-time.
 * Integration in your web pages is done in just one-simple-line of embed code that we generate for you.
 * Integration can be done by mere mortals, i.e. non-developers.
 * There are no integration costs, no deployment costs and no maintenance costs, the usual hidden costs of "free download solutions".
@@ -48,4 +47,4 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
 In the mean time, please have a look at our just released "sublimevideo.net":http://sublimevideo.net homepage, as well as our new "demo page":http://sublimevideo.net/demo!
 
 Thanks again,
-- the Jilion team
+— the Jilion team
