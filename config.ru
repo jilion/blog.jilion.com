@@ -26,5 +26,5 @@ end
 
 use CacheSettings, 31536000 # 1 year
 
-# require 'rack/jekyll'
+require 'rack/jekyll'
 run Rack::Jekyll.new
