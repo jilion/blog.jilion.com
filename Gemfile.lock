@@ -46,9 +46,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  RedCloth (~> 4.2.3)
-  aws-s3 (~> 0.6.2)
+  RedCloth (= 4.2.3)
+  aws-s3 (= 0.6.2)
   jekyll!
-  jekyll_ext (~> 0.1.2)
-  liquid (~> 1.9.0)
-  rack-jekyll (~> 0.3.5)
+  jekyll_ext (= 0.1.2)
+  liquid (= 1.9.0)
+  rack-jekyll (= 0.3.5)

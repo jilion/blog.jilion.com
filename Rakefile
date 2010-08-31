@@ -42,6 +42,7 @@ task :deploy do
   system "git commit -m 'Updated assets before deploy'"
   system "git push"
   system "git push heroku master"
+  system "heroku restart"
   
   puts "The blog is running on Heroku, enjoy!"
   
