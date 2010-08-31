@@ -1,0 +1,51 @@
+---
+title: Introducing SublimeVideo Player as a Service
+sub_title: Public Beta to start in September
+authors: Mehdi
+font_size: 27
+layout: post
+---
+This is a big day for us at Jilion!
+Today as promised we let you know what we’ve been working on during the past few months.
+We hope you’ll like it as much as we do.
+
+After 6 months of exciting work, we are extremely happy to introduce SublimeVideo HTML5 Video Player as a Service.
+
+Some of you were anticipating that we would distribute Sublime Video as a ZIP file download.
+Well, today we’re offering a much better option - a real-world and practical HTML5 video player solution.
+
+Our goal is simple: We really want you to get “state-of-the-art you can actually use”, instantly, easily and inexpensively.
+
+Let's face it, for 99% of our potential customers, HTML5 Video could be a real pain to deploy. Why? Because every browser has its own specificities which means you need to hire experts in HTML5, JavaScript and CSS3 to ensure your HTML5 Video Player works flawlessly in all of them. And that’s not all: To be sure your player does not break and that you always provide the best experience to your audience, you still need to maintain it continuously by following on a daily basis the evolution of numerous browsers and their versions, on various desktop and mobile platforms.
+This is just not realistic for the vast majority of web sites willing to enable HTML5 video.
+
+Thanks to SublimeVideo HTML5 Video Player as a Service, none of this is a problem for you anymore: We take care of all that complexity, allowing you to instantly deliver to your audience the best HTML5 video experience possible on the web, worry-free!
+That's the main benefit of SublimeVideo but there’s more:
+
+* Get your own SublimeVideo player up-and-running in seconds on "sublimevideo.net":http://sublimevideo.net.
+* Get your SublimeVideo player delivered to your audience globally through our fast, reliable and low-latency * Content Delivery Network.
+* Welcome to Zero Maintenance: Your SublimeVideo player is always up-to-date.
+* Updates including bug-fixes and new platforms support are automatically deployed.
+* Updates are near-instantaneous for our global customers base.
+* Monitor your players usage in near real-time.
+* Integration in your web pages is done in just one-simple-line of embed code that we generate for you.
+* Integration can be done by mere mortals, i.e. non-developers.
+* There are no integration costs, no deployment costs and no maintenance costs, the usual hidden costs of "free download solutions".
+
+So what's next?
+What about the pricing and when can you start using SublimeVideo?
+
+First of all, we would like to thank you for all the amazing feedback you sent us in the past few days since we opened our "Notify-Me" form on "sublimevideo.net":http://sublimevideo.net.
+After just two tweets, in the first days of a quiet August month, we received thousands of participation requests for our upcoming Beta!
+
+In the next few days, we will start sending the first invitations for the Beta to as many people as possible.
+The Beta will be free while it's on.
+During the Beta, we will fine-tune the service, collect your comments, and most importantly, we will work hard to define the best pricing model!
+
+Shaping the right pricing model is going to be a challenging experience for us. We will need your help because we want to do our best to shape a pricing model that can fit a wide range of potential customers, from individuals to large companies.
+To address this pricing challenge, we plan to ask Beta testers to answer a quick survey and we will also contact some of you directly. We hope we can collectively find a solid answer to the question "What would you be willing to pay for the value SublimeVideo provides to you?".
+
+In the mean time, please have a look at our just released "sublimevideo.net":http://sublimevideo.net homepage, as well as our new "demo page":http://sublimevideo.net/demo!
+
+Thanks again,
+- the Jilion team
