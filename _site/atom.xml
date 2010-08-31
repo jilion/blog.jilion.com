@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2010-08-31T10:47:05+02:00</updated>
+ <updated>2010-08-31T12:17:06+02:00</updated>
  <rights>Copyright (c) 2010 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -26,10 +26,9 @@
      <name>Mehdi</name>
    </author>
    
-   <content type="html">&lt;p&gt;This is a big day for us at Jilion!&lt;br /&gt;
-Today as promised we let you know what we’ve been working on during the past few months.&lt;br /&gt;
-We hope you’ll like it as much as we do.&lt;/p&gt;
-&lt;p&gt;After 6 months of exciting work, we are extremely happy to introduce SublimeVideo HTML5 Video Player as a Service.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 5px 25px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/08/sublimevideo_cloud.png&quot; alt=&quot;Introducing SublimeVideo Player as a Service&quot; /&gt; This is a big day for us at Jilion!&lt;br /&gt;
+Today, as promised we let you know what we’ve been working on during the past few months. We hope you’ll like it as much as we do.&lt;/p&gt;
+&lt;p&gt;After 6 months of exciting work, we are extremely happy to introduce &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo.net&lt;/a&gt;, our HTML5 Video Player as a Service.&lt;/p&gt;
 &lt;p&gt;Some of you were anticipating that we would distribute Sublime Video as a &lt;span class=&quot;caps&quot;&gt;ZIP&lt;/span&gt; file download.&lt;br /&gt;
 Well, today we’re offering a much better option &amp;#8211; a real-world and practical HTML5 video player solution.&lt;/p&gt;
 &lt;p&gt;Our goal is simple: We really want you to get “state-of-the-art you can actually use”, instantly, easily and inexpensively.&lt;/p&gt;
@@ -38,12 +37,12 @@ This is just not realistic for the vast majority of web sites willing to enable 
 &lt;p&gt;Thanks to SublimeVideo HTML5 Video Player as a Service, none of this is a problem for you anymore: We take care of all that complexity, allowing you to instantly deliver to your audience the best HTML5 video experience possible on the web, worry-free!&lt;br /&gt;
 That&amp;#8217;s the main benefit of SublimeVideo but there’s more:&lt;/p&gt;
 &lt;ul&gt;
-	&lt;li&gt;Get your own SublimeVideo player up-and-running in seconds on &lt;a href=&quot;http://sublimevideo.net&quot;&gt;sublimevideo.net&lt;/a&gt;.&lt;/li&gt;
-	&lt;li&gt;Get your SublimeVideo player delivered to your audience globally through our fast, reliable and low-latency * Content Delivery Network.&lt;/li&gt;
+	&lt;li&gt;Get your own SublimeVideo player up-and-running in seconds.&lt;/li&gt;
+	&lt;li&gt;Get your SublimeVideo player delivered to your audience globally through our fast, reliable and low-latency Content Delivery Network.&lt;/li&gt;
 	&lt;li&gt;Welcome to Zero Maintenance: Your SublimeVideo player is always up-to-date.&lt;/li&gt;
 	&lt;li&gt;Updates including bug-fixes and new platforms support are automatically deployed.&lt;/li&gt;
 	&lt;li&gt;Updates are near-instantaneous for our global customers base.&lt;/li&gt;
-	&lt;li&gt;Monitor your players usage in near real-time.&lt;/li&gt;
+	&lt;li&gt;Monitor your players usages in near real-time.&lt;/li&gt;
 	&lt;li&gt;Integration in your web pages is done in just one-simple-line of embed code that we generate for you.&lt;/li&gt;
 	&lt;li&gt;Integration can be done by mere mortals, i.e. non-developers.&lt;/li&gt;
 	&lt;li&gt;There are no integration costs, no deployment costs and no maintenance costs, the usual hidden costs of &amp;#8220;free download solutions&amp;#8221;.&lt;/li&gt;
@@ -59,7 +58,7 @@ During the Beta, we will fine-tune the service, collect your comments, and most 
 To address this pricing challenge, we plan to ask Beta testers to answer a quick survey and we will also contact some of you directly. We hope we can collectively find a solid answer to the question &amp;#8220;What would you be willing to pay for the value SublimeVideo provides to you?&amp;#8221;.&lt;/p&gt;
 &lt;p&gt;In the mean time, please have a look at our just released &lt;a href=&quot;http://sublimevideo.net&quot;&gt;sublimevideo.net&lt;/a&gt; homepage, as well as our new &lt;a href=&quot;http://sublimevideo.net/demo&quot;&gt;demo page&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;Thanks again,&lt;br /&gt;
-- the Jilion team&lt;/p&gt;</content>
+— the Jilion team&lt;/p&gt;</content>
  </entry>
  
  <entry>
