@@ -1,6 +1,6 @@
 ---
 title: Introducing SublimeVideo Player as a Service
-sub_title: Beta of Cloud based HTML5 Player to start in September
+sub_title: Beta of HTML5 video cloud player to start in September
 authors: Mehdi
 font_size: 27
 layout: post
