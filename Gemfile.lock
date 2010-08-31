@@ -9,6 +9,14 @@ GIT
       liquid (>= 1.9.0)
       maruku (>= 0.5.9)
 
+GIT
+  remote: git://github.com/thibaudgg/rack-jekyll.git
+  revision: ee331770e42a67cf13c51915c500ee82be536c56
+  specs:
+    rack-jekyll (0.3.5)
+      jekyll (~> 0.6.2)
+      rack (~> 1.2.1)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -33,9 +41,6 @@ GEM
       syntax (>= 1.0.0)
     mime-types (1.16)
     rack (1.2.1)
-    rack-jekyll (0.3.5)
-      jekyll
-      rack
     rake (0.8.7)
     rubyforge (2.0.4)
       json_pure (>= 1.1.7)
@@ -51,4 +56,4 @@ DEPENDENCIES
   jekyll!
   jekyll_ext (= 0.1.2)
   liquid (= 1.9.0)
-  rack-jekyll (= 0.3.5)
+  rack-jekyll!
