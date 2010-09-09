@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2010-09-09T10:18:41+02:00</updated>
+ <updated>2010-09-09T10:27:31+02:00</updated>
  <rights>Copyright (c) 2010 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -29,7 +29,7 @@
    <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 5px 25px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/08/sublimevideo_cloud.png&quot; alt=&quot;Introducing SublimeVideo Player as a Service&quot; /&gt; This is a big day for us at Jilion!&lt;br /&gt;
 Today, as promised we let you know what we’ve been working on during the past few months. We hope you’ll like it as much as we do.&lt;/p&gt;
 &lt;p&gt;After 6 months of exciting work, we are extremely happy to introduce &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo.net&lt;/a&gt;, our HTML5 Video Player as a Service.&lt;/p&gt;
-&lt;p&gt;Some of you were anticipating that we would distribute Sublime Video as a &lt;span class=&quot;caps&quot;&gt;ZIP&lt;/span&gt; file download.&lt;br /&gt;
+&lt;p&gt;Some of you were anticipating that we would distribute SublimeVideo as a &lt;span class=&quot;caps&quot;&gt;ZIP&lt;/span&gt; file download.&lt;br /&gt;
 Well, today we’re offering a much better option &amp;#8211; a real-world and practical HTML5 video player solution.&lt;/p&gt;
 &lt;p&gt;Our goal is simple: We really want you to get “state-of-the-art you can actually use”, instantly, easily and inexpensively.&lt;/p&gt;
 &lt;p&gt;Let&amp;#8217;s face it, for 99% of our potential customers, HTML5 Video could be a real pain to deploy. Why? Because every browser has its own specificities which means you need to hire experts in HTML5, JavaScript and CSS3 to ensure your HTML5 Video Player works flawlessly in all of them. And that’s not all: To be sure your player does not break and that you always provide the best experience to your audience, you still need to maintain it continuously by following on a daily basis the evolution of numerous browsers and their versions, on various desktop and mobile platforms.&lt;br /&gt;
