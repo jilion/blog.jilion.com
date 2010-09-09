@@ -1,8 +1,46 @@
 require 'aws/s3'
 
-desc "Jammitify assets, upload on AWS and deploy on Heroku"
-task :deploy do
+namespace :deploy do
+  desc "Jammitify assets, upload on AWS and deploy on Heroku [PRODUCTION]"
+  task :production do
+    timestamp = prepare_and_upload_assets
+    
+    ENV['RACK_ENV'] = 'production'
+    ENV['TIMESTAMP'] = timestamp
+    system "bundle exec ejekyll --no-server --no-auto"
+    
+    puts "Full blog has been generated for production"
+    
+    system "git add ."
+    system "git commit -m 'Updated assets before deploy [PRODUCTION]'"
+    system "git push origin production"
+    system "git push git@heroku.com:blogjilion.git production:master"
+    system "heroku restart"
+    
+    puts "The blog is running on Heroku, enjoy!"
+  end
   
+  desc "Jammitify assets, upload on AWS and deploy on Heroku [STAGING]"
+  task :staging do
+    timestamp = prepare_and_upload_assets
+    
+    ENV['RACK_ENV'] = 'staging'
+    ENV['TIMESTAMP'] = timestamp
+    system "bundle exec ejekyll --no-server --no-auto"
+    
+    puts "Full blog has been generated for production"
+    
+    system "git add ."
+    system "git commit -m 'Updated assets before deploy [STAGING]'"
+    system "git push origin staging"
+    system "git push git@heroku.com:blogjilion-staging.git staging:master"
+    system "heroku restart"
+    
+    puts "The blog is running on Heroku, enjoy!"
+  end
+end
+
+def prepare_and_upload_assets
   timestamp = Time.now.strftime("%m%d%Y%H%M%S")
   system "jammit -c assets.yml -o assets -u http://blog.medias.jilion.com/#{timestamp} -f"
   
@@ -31,19 +69,5 @@ task :deploy do
   end
   
   puts "Finished uploaded assets on Amazon S3"
-  
-  ENV['RACK_ENV'] = 'production'
-  ENV['TIMESTAMP'] = timestamp
-  system "bundle exec ejekyll --no-server --no-auto"
-  
-  puts "Full blog has been generated for production"
-  
-  system "git add ."
-  system "git commit -m 'Updated assets before deploy'"
-  system "git push"
-  system "git push heroku master"
-  system "heroku restart"
-  
-  puts "The blog is running on Heroku, enjoy!"
-  
+  return timestamp
 end
