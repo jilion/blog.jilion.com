@@ -24,15 +24,7 @@ class CacheSettings
   end
 end
 
-if ENV['RACK_ENV'] == 'staging'
-  # require 'rack-ssl-enforcer'
-  require 'rack-private'
-  
-  # use Rack::SslEnforcer
-  use Rack::Private, :code => ENV['PRIVATE_CODE']
-else
-  use CacheSettings, 31536000 # 1 year
-end
+use CacheSettings, 31536000 # 1 year
 
 require 'rack/jekyll'
 run Rack::Jekyll.new
