@@ -17,7 +17,7 @@ namespace :deploy do
     system "git push git@heroku.com:blogjilion.git production:master"
     system "heroku restart"
     
-    puts "The blog is running on Heroku, enjoy!"
+    puts "The blog is running on Heroku [PRODUCTION], enjoy!"
   end
   
   desc "Jammitify assets, upload on AWS and deploy on Heroku [STAGING]"
@@ -28,7 +28,7 @@ namespace :deploy do
     ENV['TIMESTAMP'] = timestamp
     system "bundle exec ejekyll --no-server --no-auto"
     
-    puts "Full blog has been generated for production"
+    puts "Full blog has been generated for staging"
     
     system "git add ."
     system "git commit -m 'Updated assets before deploy [STAGING]'"
@@ -36,7 +36,7 @@ namespace :deploy do
     system "git push git@heroku.com:blogjilion-staging.git staging:master"
     system "heroku restart"
     
-    puts "The blog is running on Heroku, enjoy!"
+    puts "The blog is running on Heroku [STAGING], enjoy!"
   end
 end
 
