@@ -25,10 +25,10 @@ class CacheSettings
 end
 
 if ENV['RACK_ENV'] == 'staging'
-  require 'rack-ssl-enforcer'
+  # require 'rack-ssl-enforcer'
   require 'rack-private'
   
-  use Rack::SslEnforcer
+  # use Rack::SslEnforcer
   use Rack::Private, :code => ENV['PRIVATE_CODE']
 else
   use CacheSettings, 31536000 # 1 year
