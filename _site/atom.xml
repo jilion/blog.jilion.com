@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2010-09-14T15:53:53+02:00</updated>
+ <updated>2010-09-14T16:06:28+02:00</updated>
  <rights>Copyright (c) 2010 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -15,9 +15,9 @@
  
  <entry>
    <title>SublimeVideo Beta starts Today</title>
-   <link href="http://localhost:4000/2010/09/14/sublimevideo-beta-starts-today/"/>
+   <link href="http://blog.jilion.com/2010/09/14/sublimevideo-beta-starts-today"/>
    
-   <id>http://localhost:4000/2010/09/14/sublimevideo-beta-starts-today</id>
+   <id>http://blog.jilion.com/2010/09/14/sublimevideo-beta-starts-today</id>
    
    <updated>2010-09-14T00:00:00+02:00</updated>
    <published>2010-09-14T00:00:00+02:00</published>
@@ -41,9 +41,9 @@ We would love to know if you&amp;#8217;re happy with SublimeVideo and what we ca
  
  <entry>
    <title>Introducing SublimeVideo Player as a Service</title>
-   <link href="http://localhost:4000/2010/08/31/introducing-sublimevideo-player-as-a-service/"/>
+   <link href="http://blog.jilion.com/2010/08/31/introducing-sublimevideo-player-as-a-service"/>
    
-   <id>http://localhost:4000/2010/08/31/introducing-sublimevideo-player-as-a-service</id>
+   <id>http://blog.jilion.com/2010/08/31/introducing-sublimevideo-player-as-a-service</id>
    
    <updated>2010-08-31T00:00:00+02:00</updated>
    <published>2010-08-31T00:00:00+02:00</published>
@@ -89,9 +89,9 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>Stay Updated</title>
-   <link href="http://localhost:4000/2010/08/03/stay-updated/"/>
+   <link href="http://blog.jilion.com/2010/08/03/stay-updated"/>
    
-   <id>http://localhost:4000/2010/08/03/stay-updated</id>
+   <id>http://blog.jilion.com/2010/08/03/stay-updated</id>
    
    <updated>2010-08-03T00:00:00+02:00</updated>
    <published>2010-08-03T00:00:00+02:00</published>
@@ -105,7 +105,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>Next Month!</title>
-   <link href="http://localhost:4000/2010/07/08/next-month/"/>
+   <link href="http://blog.jilion.com/2010/07/08/next-month"/>
    
    <id>http://blog.jilion.com/?p=328</id>
    
@@ -123,7 +123,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>SublimeVideo Flash mode</title>
-   <link href="http://localhost:4000/2010/04/07/sublimevideo-flash-mode/"/>
+   <link href="http://blog.jilion.com/2010/04/07/sublimevideo-flash-mode"/>
    
    <id>http://blog.jilion.com/?p=285</id>
    
@@ -155,7 +155,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>SublimeVideo supports Firefox</title>
-   <link href="http://localhost:4000/2010/02/11/sublimevideo-supports-firefox/"/>
+   <link href="http://blog.jilion.com/2010/02/11/sublimevideo-supports-firefox"/>
    
    <id>http://blog.jilion.com/?p=252</id>
    
@@ -183,7 +183,7 @@ At the moment we couldn&amp;#8217;t integrate this directly into our controls as
  
  <entry>
    <title>Introducing SublimeVideo</title>
-   <link href="http://localhost:4000/2010/01/25/introducing-sublimevideo/"/>
+   <link href="http://blog.jilion.com/2010/01/25/introducing-sublimevideo"/>
    
    <id>http://blog.jilion.com/?p=204</id>
    
@@ -214,7 +214,7 @@ At the moment we couldn&amp;#8217;t integrate this directly into our controls as
  
  <entry>
    <title>The power to interoperate with social networks</title>
-   <link href="http://localhost:4000/2010/01/21/the-power-to-interoperate-with-social-networks/"/>
+   <link href="http://blog.jilion.com/2010/01/21/the-power-to-interoperate-with-social-networks"/>
    
    <id>http://blog.jilion.com/?p=150</id>
    
@@ -243,7 +243,7 @@ A proper integration with a leading social network definitely helps to bootstrap
  
  <entry>
    <title>In the Top 20 in one day</title>
-   <link href="http://localhost:4000/2009/12/05/in-the-top-20-in-one-day/"/>
+   <link href="http://blog.jilion.com/2009/12/05/in-the-top-20-in-one-day"/>
    
    <id>http://blog.jilion.com/?p=33</id>
    
@@ -259,7 +259,7 @@ A proper integration with a leading social network definitely helps to bootstrap
  
  <entry>
    <title>Welcome to our blog</title>
-   <link href="http://localhost:4000/2009/12/03/welcome/"/>
+   <link href="http://blog.jilion.com/2009/12/03/welcome"/>
    
    <id>http://blog.jilion.com/?p=9</id>
    
