@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2010-09-14T15:22:22+02:00</updated>
+ <updated>2010-09-14T15:48:49+02:00</updated>
  <rights>Copyright (c) 2010 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -33,7 +33,7 @@
 &lt;p&gt;We hope you will enjoy the super-simple process we designed for you to get your players up and running almost instantly on your sites.&lt;/p&gt;
 &lt;p&gt;Keep in mind SublimeVideo Player is a player, not a video hosting solution forcing you to use our service to host your videos: You retain the full flexibility to host your videos wherever you want.&lt;/p&gt;
 &lt;p&gt;Please refer to the &lt;a href=&quot;http://docs.sublimevideo.net&quot;&gt;Documentation&lt;/a&gt; to learn more about it.&lt;/p&gt;
-&lt;h3&gt;Your feedback&lt;/h3&gt;
+&lt;h3 style=&quot;padding-top:15px&quot;&gt;Your feedback&lt;/h3&gt;
 &lt;p&gt;As written earlier, SublimeVideo will be free during the Beta phase. The two main goals of this phase will be to get your feedback on the product and shape the right pricing with your help.&lt;/p&gt;
 &lt;p&gt;We are really looking forward to receiving your feedback!  &lt;br /&gt;
 We would love to know if you&amp;#8217;re happy with SublimeVideo and what we can do to improve it. Please send us comments, bug reports, feature requests and suggestions for improvement using the dedicated &lt;a href=&quot;http://my.sublimevideo.net/feedback&quot;&gt;form&lt;/a&gt; on MySublimeVideo.&lt;/p&gt;</content>
