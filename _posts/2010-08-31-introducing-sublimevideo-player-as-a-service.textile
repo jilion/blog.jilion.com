@@ -1,6 +1,6 @@
 ---
 title: Introducing SublimeVideo Player as a Service
-sub_title: Beta of Cloud based HTML5 Player to start in September
+sub_title: Beta of HTML5 video cloud player to start in September
 authors: Mehdi
 font_size: 27
 layout: post
@@ -10,7 +10,7 @@ Today, as promised we let you know what we’ve been working on during the past 
 
 After 6 months of exciting work, we are extremely happy to introduce "SublimeVideo.net":http://sublimevideo.net, our HTML5 Video Player as a Service.
 
-Some of you were anticipating that we would distribute Sublime Video as a ZIP file download.
+Some of you were anticipating that we would distribute SublimeVideo as a ZIP file download.
 Well, today we’re offering a much better option - a real-world and practical HTML5 video player solution.
 
 Our goal is simple: We really want you to get “state-of-the-art you can actually use”, instantly, easily and inexpensively.
