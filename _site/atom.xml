@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2010-09-14T15:00:40+02:00</updated>
+ <updated>2010-09-14T15:02:56+02:00</updated>
  <rights>Copyright (c) 2010 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -12,6 +12,32 @@
    <email>info@jilion.com</email>
  </author>
  
+ 
+ <entry>
+   <title>SublimeVideo Beta starts Today</title>
+   <link href="http://localhost:4000/2010/09/14/sublimevideo-beta-starts-today/"/>
+   
+   <id>http://localhost:4000/2010/09/14/sublimevideo-beta-starts-today</id>
+   
+   <updated>2010-09-14T00:00:00+02:00</updated>
+   <published>2010-09-14T00:00:00+02:00</published>
+   
+   <author>
+     <name>Zeno</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;We are happy to announce we are launching SublimeVideo Beta today and we are sending out the first wave of invitations right now.&lt;/p&gt;
+&lt;p&gt;A lot of you registered for the beta. We are thrilled to see the amount of requests we received and are receiving daily. If everything goes smoothly with SublimeVideo service infrastructure we will send Beta invitations to all of those who registered as quickly as possible. If you didn’t register yet, you can do it from this &lt;a href=&quot;http://sublimevideo.net/notify&quot;&gt;page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When you get your invitation, you will be asked to create an account on &lt;a href=&quot;https://my.sublimevideo.net&quot;&gt;my.sublimevideo.net&lt;/a&gt; where you will be able to generate and manage SublimeVideo players for your sites.&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;position:relative;left:-5px&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/09/mysublimevideo_screenshot.png&quot; alt=&quot;MySublimeVideo Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We hope you will enjoy the super-simple process we designed for you to get your players up and running almost instantly on your sites.&lt;/p&gt;
+&lt;p&gt;Keep in mind SublimeVideo Player is a player, not a video hosting solution forcing you to use our service to host your videos: You retain the full flexibility to host your videos wherever you want.&lt;/p&gt;
+&lt;p&gt;Please refer to the &lt;a href=&quot;http://docs.sublimevideo.net&quot;&gt;Documentation&lt;/a&gt; to learn more about it.&lt;/p&gt;
+&lt;h3&gt;Your feedback&lt;/h3&gt;
+&lt;p&gt;As written earlier, SublimeVideo will be free during the Beta phase. The two main goals of this phase will be to get your feedback on the product and shape the right pricing with your help.&lt;/p&gt;
+&lt;p&gt;We are really looking forward to receiving your feedback!  &lt;br /&gt;
+We would love to know if you&amp;#8217;re happy with SublimeVideo and what we can do to improve it. Please send us comments, bug reports, feature requests and suggestions for improvement using the dedicated &lt;a href=&quot;http://my.sublimevideo.net/feedback&quot;&gt;form&lt;/a&gt; on MySublimeVideo.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Introducing SublimeVideo Player as a Service</title>
@@ -29,7 +55,7 @@
    <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 5px 25px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/08/sublimevideo_cloud.png&quot; alt=&quot;Introducing SublimeVideo Player as a Service&quot; /&gt; This is a big day for us at Jilion!&lt;br /&gt;
 Today, as promised we let you know what we’ve been working on during the past few months. We hope you’ll like it as much as we do.&lt;/p&gt;
 &lt;p&gt;After 6 months of exciting work, we are extremely happy to introduce &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo.net&lt;/a&gt;, our HTML5 Video Player as a Service.&lt;/p&gt;
-&lt;p&gt;Some of you were anticipating that we would distribute Sublime Video as a &lt;span class=&quot;caps&quot;&gt;ZIP&lt;/span&gt; file download.&lt;br /&gt;
+&lt;p&gt;Some of you were anticipating that we would distribute SublimeVideo as a &lt;span class=&quot;caps&quot;&gt;ZIP&lt;/span&gt; file download.&lt;br /&gt;
 Well, today we’re offering a much better option &amp;#8211; a real-world and practical HTML5 video player solution.&lt;/p&gt;
 &lt;p&gt;Our goal is simple: We really want you to get “state-of-the-art you can actually use”, instantly, easily and inexpensively.&lt;/p&gt;
 &lt;p&gt;Let&amp;#8217;s face it, for 99% of our potential customers, HTML5 Video could be a real pain to deploy. Why? Because every browser has its own specificities which means you need to hire experts in HTML5, JavaScript and CSS3 to ensure your HTML5 Video Player works flawlessly in all of them. And that’s not all: To be sure your player does not break and that you always provide the best experience to your audience, you still need to maintain it continuously by following on a daily basis the evolution of numerous browsers and their versions, on various desktop and mobile platforms.&lt;br /&gt;
