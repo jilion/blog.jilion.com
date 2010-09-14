@@ -7,7 +7,7 @@ We are happy to announce we are launching SublimeVideo Beta today and we are sen
 
 A lot of you registered for the beta. We are thrilled to see the amount of requests we received and are receiving daily. If everything goes smoothly with SublimeVideo service infrastructure we will send Beta invitations to all of those who registered as quickly as possible. If you didn’t register yet, you can do it from this "page":http://sublimevideo.net/notify.
 
-When you get your invitation, you will be asked to create an account on "my.sublimevideo.net":https://my.sublimevideo.net where you will be able to generate and manage SublimeVideo players for your sites.
+In your invitation you will be asked to create an account on "my.sublimevideo.net":https://my.sublimevideo.net where you will be able to generate and manage SublimeVideo players for your sites.
 
 <img style="position:relative;left:-5px" src="http://blog.medias.jilion.com/uploads/2010/09/mysublimevideo_screenshot.png" alt="MySublimeVideo Screenshot" />
 
@@ -17,10 +17,9 @@ Keep in mind SublimeVideo Player is a player, not a video hosting solution forci
 
 Please refer to the "Documentation":http://docs.sublimevideo.net to learn more about it.
 
-h3. Your feedback
+<h3 style="padding-top:15px">Your feedback</h3>
 
 As written earlier, SublimeVideo will be free during the Beta phase. The two main goals of this phase will be to get your feedback on the product and shape the right pricing with your help.
 
 We are really looking forward to receiving your feedback!  
-We would love to know if you're happy with SublimeVideo and what we can do to improve it. Please send us comments, bug reports, feature requests and suggestions for improvement using the dedicated "form":http://my.sublimevideo.net/feedback on MySublimeVideo. 
-
+We would love to know if you're happy with SublimeVideo and what we can do to improve it. Please send us comments, bug reports, feature requests and suggestions for improvement using the dedicated "form":http://my.sublimevideo.net/feedback on MySublimeVideo.
