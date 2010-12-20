@@ -322,7 +322,10 @@ body.win {font-family:Arial, sans-serif !important;}
   font-size:15px;
 }
 
-.entry_body strong {font-size:19px;}
+.entry_body strong {
+  font-size:19px;
+  font-weight:600;
+}
 
 .entry_body ul {
   list-style-type:none;
