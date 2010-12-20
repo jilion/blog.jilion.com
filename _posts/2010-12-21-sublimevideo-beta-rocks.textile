@@ -1,0 +1,28 @@
+---
+title: SublimeVideo Beta rocks!
+authors: Zeno
+layout: post
+---
+<img style="float: left;margin: -4px 12px 0 0" src="http://blog.jilion.com.s3.amazonaws.com/uploads/2010/12/SublimeVideo-News-Holidays-Icon.png" alt="" /> SublimeVideo Beta has started 3 months ago and we are extremely happy to report that basically… it rocks! 
+
+Here are some information we would like to share with you:
+
+* Since the Beta started, we have released 36 automatic and transparent updates of the Player. You can follow the SublimeVideo player updates on our new "Release Notes":http://docs.sublimevideo.net/releases page.
+
+* These updates were often made possible thanks to the rich feedback we received from our Beta testers with 405 tickets submitted and only 13 remaining open as of today.
+
+* Not only the player is better and more compatible every day but our cloud-based server infrastructure has been running smoothly from day one: the MySublimeVideo.net site has been down for some minutes but our CDN has never been, continuously serving video players to our end-users without any interruption.
+
+<img style="position:relative;left:-5px" src="http://blog.jilion.com.s3.amazonaws.com/uploads/2010/12/SublimeVideo-Release-Notes-Screenshot.png" alt="SublimeVideo Release Notes Screenshot" />
+
+<h3 style="padding-top:15px">SublimeVideo is the best Video Player solution on the Web</h3>
+
+All-in-all, we believe the Beta has not only demonstrated that "SublimeVideo Universal Web Video Player as a Service" is working very well but that it also delivers all the key advantages we expected when we announced it back in August.
+
+<h3 style="padding-top:15px">What's next</h3>
+
+We are finalizing the development of the commercial release which is scheduled for Q1 2011.
+
+The pricing survey we discussed before will be sent to our Beta users in January. Stay tuned, we know lots of you are waiting to know how much it will cost. We will do our best to please you.
+
+Finally we wish you all happy holidays and plenty of good things for the new year! Thank you again for your support, it's been an amazing year for us.
