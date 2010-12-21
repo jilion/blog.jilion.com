@@ -1,28 +1,34 @@
 ---
-title: SublimeVideo Beta rocks!
-authors: Zeno
+title: SublimeVideo Beta runs great!
+sub_title: 36 player updates, 100% uptime, thousands of users, millions of video pages served
+authors: Mehdi
 layout: post
 ---
-<img style="float: left;margin: -4px 12px 0 0" src="http://blog.jilion.com.s3.amazonaws.com/uploads/2010/12/SublimeVideo-News-Holidays-Icon.png" alt="" /> SublimeVideo Beta has started 3 months ago and we are extremely happy to report that basically… it rocks! 
-
-Here are some information we would like to share with you:
-
-* Since the Beta started, we have released 36 automatic and transparent updates of the Player. You can follow the SublimeVideo player updates on our new "Release Notes":http://docs.sublimevideo.net/releases page.
-
-* These updates were often made possible thanks to the rich feedback we received from our Beta testers with 405 tickets submitted and only 13 remaining open as of today.
-
-* Not only the player is better and more compatible every day but our cloud-based server infrastructure has been running smoothly from day one: the MySublimeVideo.net site has been down for some minutes but our CDN has never been, continuously serving video players to our end-users without any interruption.
+SublimeVideo Beta has started 3 months ago and we are extremely happy to report that basically everything is running great!
+<!-- <img style="float: left;margin: -4px 12px 0 0" src="http://blog.jilion.com.s3.amazonaws.com/uploads/2010/12/SublimeVideo-News-Holidays-Icon.png" alt="" />-->
 
 <img style="position:relative;left:-5px" src="http://blog.jilion.com.s3.amazonaws.com/uploads/2010/12/SublimeVideo-Release-Notes-Screenshot.png" alt="SublimeVideo Release Notes Screenshot" />
 
-<h3 style="padding-top:15px">SublimeVideo is the best Video Player solution on the Web</h3>
+Here are some information we would like to share with you:
 
-All-in-all, we believe the Beta has not only demonstrated that "SublimeVideo Universal Web Video Player as a Service" is working very well but that it also delivers all the key advantages we expected when we announced it back in August.
+* Since the Beta started, we have released 36 automatic and transparent updates of the Player to all our users. That means we updated the player in average every 3 days. You can now follow the SublimeVideo player updates on our new "Release Notes":http://docs.sublimevideo.net/releases page.
+
+* These updates were made possible thanks to the rich feedback from our Beta testers with over 400 feedback and bug reports received.
+
+* On the server side, our cloud-based infrastructure has been running smoothly from day one without any delivery interruption of the player by our CDN (100% uptime). Also, even if less visible, it is worth noting that our SublimeVideo Rails application running on Heroku has scaled as expected along with the surge in usage, allowing us to parse large amount of data, something that will allow us to bring you really cool new features and services in the future.
+
+* On the usage side, we are keeping a low profile while in the Beta but we can at least report there are currently thousands of beta users and that the traffic is already in millions of video pages served per month. 
+
+At this stage of the Beta, we have now passed two important milestones:
+First, the Beta has confirmed the technical service is working well and will be able to scale as we enter the commercial phase.
+Second and maybe even more importantly, the Beta is demonstrating the value of our "SublimeVideo Universal Web Video Player as a Service" which is indeed delivering all the key benefits we expected when we announced it back in August.
+
+So, you are not going to surprised to hear we are excited, but yes, we are excited! More than ever.
 
 <h3 style="padding-top:15px">What's next</h3>
 
-We are finalizing the development of the commercial release which is scheduled for Q1 2011.
+We are focusing on finalizing the development of the commercial release, which is scheduled for Q1 2011.
 
-The pricing survey we discussed before will be sent to our Beta users in January. Stay tuned, we know lots of you are waiting to know how much it will cost. We will do our best to please you.
+The pricing survey we discussed earlier will be sent to our Beta users in January. Stay tuned, we know lots of you are waiting to know how much it will cost to start using SublimeVideo. We will do our best to please you.
 
 Finally we wish you all happy holidays and plenty of good things for the new year! Thank you again for your support, it's been an amazing year for us.
