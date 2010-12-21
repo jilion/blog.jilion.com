@@ -234,7 +234,8 @@ body.win {font-family:Arial, sans-serif !important;}
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight:300;
   font-size:22px;
-  padding:5px 0;
+  line-height:30px;
+  padding:5px 0 10px;
   color:#627591;
 }
 
@@ -322,7 +323,10 @@ body.win {font-family:Arial, sans-serif !important;}
   font-size:15px;
 }
 
-.entry_body strong {font-size:19px;}
+.entry_body strong {
+  font-size:19px;
+  font-weight:600;
+}
 
 .entry_body ul {
   list-style-type:none;
@@ -769,5 +773,4 @@ strong {font-weight:bold;}
 button::-moz-focus-inner { border: 0; }
 
 /* Disqus Hacks*/
-#dsq-content .dsq-options, #dsq-global-toolbar, #dsq-pagination, .dsq-comment-hide-thread, .dsq-like, .dsq-post-report, .dsq-post-edit, #dsq-thread-settings, #dsq-content-stub div, .dsq-comment-header-meta-wrapper > a, .dsq-moderator-star, .dsq-request-user-stats {display:none !important;}
-
+#dsq-content.dsq-mobile, #dsq-content .dsq-options, #dsq-content-stub, #dsq-global-toolbar, #dsq-pagination, .dsq-comment-hide-thread, .dsq-like, .dsq-post-report, .dsq-post-edit, #dsq-thread-settings, #dsq-content-stub div, .dsq-comment-header-meta-wrapper > a, .dsq-moderator-star, .dsq-request-user-stats {display:none !important;}
