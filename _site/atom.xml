@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2010-09-14T15:53:53+02:00</updated>
+ <updated>2010-12-21T15:02:03+01:00</updated>
  <rights>Copyright (c) 2010 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -12,6 +12,45 @@
    <email>info@jilion.com</email>
  </author>
  
+ 
+ <entry>
+   <title>SublimeVideo Beta runs great!</title>
+   <link href="http://localhost:4000/2010/12/21/sublimevideo-beta-rocks/"/>
+   
+   <id>http://localhost:4000/2010/12/21/sublimevideo-beta-rocks</id>
+   
+   <updated>2010-12-21T00:00:00+01:00</updated>
+   <published>2010-12-21T00:00:00+01:00</published>
+   
+   <author>
+     <name>Mehdi</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;SublimeVideo Beta has started 3 months ago and we are extremely happy to report that basically everything is running great!&lt;br /&gt;
+&lt;!-- &lt;img style=&quot;float: left;margin: -4px 12px 0 0&quot; src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2010/12/SublimeVideo-News-Holidays-Icon.png&quot; alt=&quot;&quot; /&gt;--&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;position:relative;left:-5px&quot; src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2010/12/SublimeVideo-Release-Notes-Screenshot.png&quot; alt=&quot;SublimeVideo Release Notes Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Here are some information we would like to share with you:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Since the Beta started, we have released 36 automatic and transparent updates of the Player to all our users, again, automatically and without bothering them. It means we updated the player in average every 3 days. You can now follow SublimeVideo player updates on our new &lt;a href=&quot;http://docs.sublimevideo.net/releases&quot;&gt;Release Notes&lt;/a&gt; page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;These updates were made possible thanks to the rich feedback received from our Beta testers: over 400 feedback and bug reports have been received and 98% of them answered.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;On the server side, our cloud-based infrastructure has been running smoothly from day one without any delivery interruption of the player by our &lt;span class=&quot;caps&quot;&gt;CDN&lt;/span&gt; (100% uptime). Also, even if this is less visible, it is worth noting that our SublimeVideo Ruby on Rails application running on Heroku has scaled as expected along with the growth in usage, allowing us to parse large amount of data, something that will allow us to bring you really cool new features and services in the future.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;On the usage side, we wished to somehow keep a low profile during the Beta, but we are thrilled to report there are currently thousands of beta users and that the traffic is already in the range of millions of video pages served per month!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At this stage of the Beta, we have now passed two important milestones:&lt;br /&gt;
+First, the Beta has confirmed the technical service is working well and will be able to scale as we enter the commercial phase.&lt;br /&gt;
+Second and maybe even more importantly, the Beta is demonstrating the value of our &amp;#8220;SublimeVideo Universal Web Video Player as a Service&amp;#8221; which is indeed delivering all the key benefits we expected when we announced it back in August.&lt;/p&gt;
+&lt;p&gt;So, you are not going to be surprised to hear we are excited!&lt;/p&gt;
+&lt;h3 style=&quot;padding-top:15px&quot;&gt;What&amp;#8217;s next&lt;/h3&gt;
+&lt;p&gt;We are finalizing the development of the commercial release, which is scheduled for Q1 2011.&lt;/p&gt;
+&lt;p&gt;The pricing survey we discussed earlier will be sent out to our Beta users in January. Stay tuned, we know lots of you are waiting to know how much it will cost to start using SublimeVideo. We will do our best to please you.&lt;/p&gt;
+&lt;p&gt;Last but not least, we wish you all happy holidays and lots of good vibes for the new year! Thank you again for your support, it&amp;#8217;s been an amazing year.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>SublimeVideo Beta starts Today</title>
