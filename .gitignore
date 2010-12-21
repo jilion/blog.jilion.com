@@ -1,3 +1,5 @@
 .DS_Store
 *.swp
 .bundle
+_site/tmp/restart.txt
+tmp/restart.txt
