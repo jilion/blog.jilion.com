@@ -234,7 +234,8 @@ body.win {font-family:Arial, sans-serif !important;}
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight:300;
   font-size:22px;
-  padding:5px 0;
+  line-height:30px;
+  padding:5px 0 10px;
   color:#627591;
 }
 
