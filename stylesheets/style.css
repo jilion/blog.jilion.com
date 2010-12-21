@@ -772,5 +772,4 @@ strong {font-weight:bold;}
 button::-moz-focus-inner { border: 0; }
 
 /* Disqus Hacks*/
-#dsq-content .dsq-options, #dsq-global-toolbar, #dsq-pagination, .dsq-comment-hide-thread, .dsq-like, .dsq-post-report, .dsq-post-edit, #dsq-thread-settings, #dsq-content-stub div, .dsq-comment-header-meta-wrapper > a, .dsq-moderator-star, .dsq-request-user-stats {display:none !important;}
-
+#dsq-content.dsq-mobile, #dsq-content .dsq-options, #dsq-content-stub, #dsq-global-toolbar, #dsq-pagination, .dsq-comment-hide-thread, .dsq-like, .dsq-post-report, .dsq-post-edit, #dsq-thread-settings, #dsq-content-stub div, .dsq-comment-header-meta-wrapper > a, .dsq-moderator-star, .dsq-request-user-stats {display:none !important;}
