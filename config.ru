@@ -24,10 +24,6 @@ class CacheSettings
   end
 end
 
-if ENV['RACK_ENV'] == 'staging'
-  require 'rack-private'
-  use Rack::Private, :code => ENV['STAGING_CODE']
-end
 use CacheSettings, 31536000 # 1 year
 
 require 'rack/jekyll'

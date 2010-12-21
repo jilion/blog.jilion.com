@@ -41,7 +41,6 @@ GEM
       syntax (>= 1.0.0)
     mime-types (1.16)
     rack (1.2.1)
-    rack-private (0.1.5)
     rake (0.8.7)
     rubyforge (2.0.4)
       json_pure (>= 1.1.7)
@@ -59,4 +58,3 @@ DEPENDENCIES
   jekyll_ext (= 0.1.2)
   liquid (= 1.9.0)
   rack-jekyll!
-  rack-private (~> 0.1.5)
