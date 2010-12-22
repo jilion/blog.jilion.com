@@ -4,7 +4,7 @@ sub_title: 36 player updates, 100% uptime, thousands of users,<br /> millions of
 authors: Mehdi
 layout: post
 ---
-SublimeVideo Beta has started 3 months ago and we are extremely happy to report that basically everything is running great!
+"SublimeVideo":http://sublimevideo.net Beta has started 3 months ago and we are extremely happy to report that basically everything is running great!
 
 <a href="http://docs.sublimevideo.net/releases"><img src="http://blog.medias.jilion.com/uploads/2010/12/SublimeVideo-Release-Notes-Screenshot.jpg" alt="SublimeVideo Release Notes Screenshot" /></a>
 
