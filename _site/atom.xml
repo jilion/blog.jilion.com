@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2010-12-21T16:52:47+01:00</updated>
+ <updated>2010-12-22T17:23:20+01:00</updated>
  <rights>Copyright (c) 2010 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -26,7 +26,7 @@
      <name>Mehdi</name>
    </author>
    
-   <content type="html">&lt;p&gt;SublimeVideo Beta has started 3 months ago and we are extremely happy to report that basically everything is running great!&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Beta has started 3 months ago and we are extremely happy to report that basically everything is running great!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://docs.sublimevideo.net/releases&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2010/12/SublimeVideo-Release-Notes-Screenshot.jpg&quot; alt=&quot;SublimeVideo Release Notes Screenshot&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Here are some information we would like to share with you:&lt;/p&gt;
 &lt;ul&gt;
