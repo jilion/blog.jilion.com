@@ -6,7 +6,7 @@
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     
-      <title>Jilion Blog - SublimeVideo supports Firefox</title>
+      <title>Jilion Blog - Consistency down to the right-click</title>
     
     
     
@@ -95,34 +95,44 @@
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_20100211" style=""><a href="http://localhost:4000/2010/02/11/sublimevideo-supports-firefox/">SublimeVideo supports Firefox</a></h2>
+      <h2 id="post_20110119" style="font-size:35px"><a href="http://localhost:4000/2011/01/19/consistency-down-to-the-right-click/">Consistency down to the right-click</a></h2>
       
-      <style type="text/css">@media screen and (-webkit-min-device-pixel-ratio:0){#post_20100211:after {content:'SublimeVideo supports Firefox';}}</style>
+      <style type="text/css">@media screen and (-webkit-min-device-pixel-ratio:0){#post_20110119:after {content:'Consistency down to the right-click';}}</style>
     </div>
     <div class="entry_meta">
-      <span class="date">February 11th, 2010</span>
+      <span class="date">January 19th, 2011</span>
       <span class="authors">by Zeno</span> 
-      <div class="entry_comments_count" id="entry_comments_count_20100211">
-        <a href="http://localhost:4000/2010/02/11/sublimevideo-supports-firefox/#disqus_thread">
+      <div class="entry_comments_count" id="entry_comments_count_20110119">
+        <a href="http://localhost:4000/2011/01/19/consistency-down-to-the-right-click/#disqus_thread">
           Comments
         </a>
       </div>
     </div>
   </div>
   <div class="entry_body">
-    <p>We are working hard on the release of SublimeVideo (no date yet).</p>
-<p><img src="http://blog.medias.jilion.com/uploads/2010/02/firefox.png" alt="Firefox Icon" style="float:left;margin:0 24px 0 0;" /> We&#8217;ve just finished adding support for Firefox and <a href="http://en.wikipedia.org/wiki/Theora">Ogg Theora</a> videos. We figured we&#8217;d update the <a href="http://jilion.com/sublime/video">demo page</a> to show it to you.</p>
-<p>It should work on Firefox 3.5, but we strongly encourage you to upgrade to the latest version (currently 3.6).</p>
-<p>SublimeVideo on Firefox has pretty much all the basic features of the WebKit (Safari/Chrome) version, however there&#8217;re some secondary features which couldn&#8217;t be implemented because of Firefox limitations.</p>
-<p>Here are the features that are currently <strong>missing</strong>:</p>
-<p>1. Sleek Zoom-in/out transitions when entering/leaving full-window mode<br />
-2. Playback speed controls (when in full-window mode)<br />
-3. Other minor fade-in/out effects to highlight the poster frame and reveal the controls when mouse-hovering over the video</p>
-<p><img src="http://blog.medias.jilion.com/uploads/2010/02/SublimeVideo-full-window-controls-browsers-comparison.jpg" alt="SublimeVideo Full-Window Controls Browsers Comparison" /><em class="caption">SublimeVideo full-window controls browsers comparison</em></p>
-<p>We are confident that the <a href="http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/">next release of Firefox</a> (3.7) will include all the necessary improvements that will allow us to implement the missing features.</p>
-<p>A note regarding true <em>full-screen</em> mode:<br />
-At the moment we couldn&#8217;t integrate this directly into our controls as we did for the WebKit Nightly build (by alt-clicking the full-window button), but if you&#8217;re using Firefox 3.6 you can enter this mode by right-clicking on the video and choosing &#8220;Full Screen&#8221; from the contextual menu.</p>
-<p><a href="http://jilion.com/sublime/video">Enjoy</a>.</p>
+    <p>If you are a developer or a curious user, you have probably found yourself often <strong>right-clicking</strong> on videos in your browser to get the contextual menu and see if they are played using Flash or HTML5.</p>
+<p>Today we want to show something that you have probably <strong>never seen on the Web before</strong>: a handcrafted contextual menu that consistently works<sup><a href="#fn-2011-01-19">1</a></sup> over <span class="caps">HTML</span> and Flash and that not only shows you if the video is being played with HTML5 or Flash, but also allows you to easily switch between the two modes.</p>
+<p><img style="float: left;margin: 10px 25px 0 0" src="http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_menu_animation.gif" alt="SublimeVideo Player Mode Switching" /> We think this is a great opportunity to highlight the universal aspect of <a href="http://sublimevideo.net">our player</a> as well as the uniform implementation of both our HTML5 and Flash modes. It is also a way to show our brand without interfering with the player interface.</p>
+<p>Please try it out yourself by right-clicking on the video below! </p>
+<video class="sublime" width="600" height="252" preload="none" poster="http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_demo_video_poster.jpg">
+<source src="http://medias.jilion.com/sublimevideo/dartmoor1_800.mp4" />
+<source src="http://medias.jilion.com/sublimevideo/dartmoor1-mobile.mp4" />
+<source src="http://medias.jilion.com/sublimevideo/dartmoor1_800.ogv" />
+</video>
+<script type="text/javascript">
+  sublimevideo.ready(function(){
+    sublimevideo.onEnd(function(sv){
+      sublimevideo.stop();
+    });
+  });
+</script><p class="hide"><small><em class="caption">If you are reading through your <span class="caps">RSS</span> reader, please visit this <a href="http://blog.jilion.com/2011/01/19/consistency-down-to-the-right-click">web page</a> on the browser to test it.</em></small></p>
+<p>It may be shocking to see this cute contextual menu when right-clicking on a Flash video ;-). If you need some proof it is really Flash or need to access the standard contextual menu, you can hold down Command (Mac) or Ctrl (Windows/Linux) while right-clicking (this trick also works in HTML5 mode and if you are developer we know you will love it).</p>
+<p>To our beta users: we will release the contextual menu publicly later today (or tomorrow, depending on where you are living). We will <a href="http://twitter.com/jilion">notify you</a> and update our <a href="http://docs.sublimevideo.net/releases">Release Notes</a> page when it&#8217;s ready!</p>
+<div class="footnotes">
+<ol>
+	<li id="fn-2011-01-19">Currently, it does not work (in Flash mode) on Opera and some old versions of Safari pre-Leopard.<br />
+</div></li>
+</ol>
     <div class="spacer"></div>
   </div>
   <div id="comments">

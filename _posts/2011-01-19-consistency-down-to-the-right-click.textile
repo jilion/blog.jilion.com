@@ -1,0 +1,36 @@
+---
+title: Consistency down to the right-click
+authors: Zeno
+font_size: 35
+layout: post
+---
+If you are a developer or a curious user, you have probably found yourself often *right-clicking* on videos in your browser to get the contextual menu and see if they are played using Flash or HTML5.
+
+Today we want to show something that you have probably *never seen on the Web before*: a handcrafted contextual menu that consistently works[^"1":#fn-2011-01-19^] over HTML and Flash and that not only shows you if the video is being played with HTML5 or Flash, but also allows you to easily switch between the two modes.
+
+<img style="float: left;margin: 10px 25px 0 0" src="http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_menu_animation.gif" alt="SublimeVideo Player Mode Switching" /> We think this is a great opportunity to highlight the universal aspect of "our player":http://sublimevideo.net as well as the uniform implementation of both our HTML5 and Flash modes. It is also a way to show our brand without interfering with the player interface.
+
+Please try it out yourself by right-clicking on the video below! 
+
+<video class="sublime" width="600" height="252" preload="none" poster="http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_demo_video_poster.jpg">
+  <source src="http://medias.jilion.com/sublimevideo/dartmoor1_800.mp4" />
+  <source src="http://medias.jilion.com/sublimevideo/dartmoor1-mobile.mp4" />
+  <source src="http://medias.jilion.com/sublimevideo/dartmoor1_800.ogv" />
+</video>
+<script type="text/javascript">
+  sublimevideo.ready(function(){
+    sublimevideo.onEnd(function(sv){
+      sublimevideo.stop();
+    });
+  });
+</script>
+
+p(hide). <small><em class="caption">If you are reading through your RSS reader, please visit this "web page":http://blog.jilion.com/2011/01/19/consistency-down-to-the-right-click on the browser to test it.</em></small>
+
+It may be shocking to see this cute contextual menu when right-clicking on a Flash video ;-). If you need some proof it is really Flash or need to access the standard contextual menu, you can hold down Command (Mac) or Ctrl (Windows/Linux) while right-clicking (this trick also works in HTML5 mode and if you are developer we know you will love it).
+
+To our beta users: we will release the contextual menu publicly later today (or tomorrow, depending on where you are living). We will "notify you":http://twitter.com/jilion and update our "Release Notes":http://docs.sublimevideo.net/releases page when it's ready!
+
+<div class="footnotes">
+#(#fn-2011-01-19) Currently, it does not work (in Flash mode) on Opera and some old versions of Safari pre-Leopard.
+</div>
