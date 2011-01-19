@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2011-01-19T15:16:19+01:00</updated>
+ <updated>2011-01-19T15:21:03+01:00</updated>
  <rights>Copyright (c) 2010 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -45,9 +45,9 @@
 &lt;p&gt;To our beta users: we will release the contextual menu publicly in a few hours. We will &lt;a href=&quot;http://twitter.com/jilion&quot;&gt;notify you&lt;/a&gt; and update our &lt;a href=&quot;http://docs.sublimevideo.net/releases&quot;&gt;Release Notes&lt;/a&gt; page when it&amp;#8217;s ready!&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
 &lt;ol&gt;
-	&lt;li id=&quot;fn-2011-01-19&quot;&gt;Currently, it does not work (in Flash mode) on Opera and some old versions of Safari pre-Leopard.&lt;br /&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ol&gt;</content>
+    &lt;li id=&quot;fn-2011-01-19&quot;&gt;Currently, it does not work (in Flash mode) on Opera and some old versions of Safari pre-Leopard.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content>
  </entry>
  
  <entry>
