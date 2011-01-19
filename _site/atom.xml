@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2011-01-19T14:05:34+01:00</updated>
+ <updated>2011-01-19T15:12:15+01:00</updated>
  <rights>Copyright (c) 2010 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -14,7 +14,7 @@
  
  
  <entry>
-   <title>Consistency down to the right-click</title>
+   <title>Consistency, down to the right-click</title>
    <link href="http://localhost:4000/2011/01/19/consistency-down-to-the-right-click/"/>
    
    <id>http://localhost:4000/2011/01/19/consistency-down-to-the-right-click</id>
@@ -28,13 +28,12 @@
    
    <content type="html">&lt;p&gt;If you are a developer or a curious user, you have probably found yourself often &lt;strong&gt;right-clicking&lt;/strong&gt; on videos in your browser to get the contextual menu and see if they are played using Flash or HTML5.&lt;/p&gt;
 &lt;p&gt;Today we want to show something that you have probably &lt;strong&gt;never seen on the Web before&lt;/strong&gt;: a handcrafted contextual menu that consistently works&lt;sup&gt;&lt;a href=&quot;#fn-2011-01-19&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; over &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; and Flash and that not only shows you if the video is being played with HTML5 or Flash, but also allows you to easily switch between the two modes.&lt;/p&gt;
-&lt;p&gt;&lt;img style=&quot;float: left;margin: 10px 25px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_menu_animation.gif&quot; alt=&quot;SublimeVideo Player Mode Switching&quot; /&gt; We think this is a great opportunity to highlight the universal aspect of &lt;a href=&quot;http://sublimevideo.net&quot;&gt;our player&lt;/a&gt; as well as the uniform implementation of both our HTML5 and Flash modes. It is also a way to show our brand without interfering with the player interface.&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;float: left;margin: 10px 25px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_menu_animation.gif&quot; alt=&quot;SublimeVideo Player Mode Switching&quot; /&gt; We think this is a great way to highlight the universal aspect of &lt;a href=&quot;http://sublimevideo.net&quot;&gt;our player&lt;/a&gt; as well as the uniform implementation of both our HTML5 and Flash modes. It is also a way to show our brand without interfering with the player interface.&lt;/p&gt;
 &lt;p&gt;Please try it out yourself by right-clicking on the video below! &lt;/p&gt;
-&lt;video class=&quot;sublime&quot; width=&quot;600&quot; height=&quot;252&quot; preload=&quot;none&quot; poster=&quot;http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_demo_video_poster.jpg&quot;&gt;
-&lt;source src=&quot;http://medias.jilion.com/sublimevideo/dartmoor1_800.mp4&quot; /&gt;
-&lt;source src=&quot;http://medias.jilion.com/sublimevideo/dartmoor1-mobile.mp4&quot; /&gt;
-&lt;source src=&quot;http://medias.jilion.com/sublimevideo/dartmoor1_800.ogv&quot; /&gt;
-&lt;/video&gt;
+&lt;div&gt;&lt;video class=&quot;sublime&quot; width=&quot;600&quot; height=&quot;252&quot; preload=&quot;none&quot; poster=&quot;http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_demo_video_poster.jpg&quot;&gt;&lt;br /&gt;
+  &lt;source src=&quot;http://medias.jilion.com/sublimevideo/dartmoor1_800.mp4&quot; /&gt;&lt;br /&gt;
+  &lt;source src=&quot;http://medias.jilion.com/sublimevideo/dartmoor1-mobile.mp4&quot; /&gt;&lt;br /&gt;
+  &lt;source src=&quot;http://medias.jilion.com/sublimevideo/dartmoor1_800.ogv&quot; /&gt;&lt;/video&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   sublimevideo.ready(function(){
     sublimevideo.onEnd(function(sv){
@@ -42,8 +41,8 @@
     });
   });
 &lt;/script&gt;&lt;p class=&quot;hide&quot;&gt;&lt;small&gt;&lt;em class=&quot;caption&quot;&gt;If you are reading through your &lt;span class=&quot;caps&quot;&gt;RSS&lt;/span&gt; reader, please visit this &lt;a href=&quot;http://blog.jilion.com/2011/01/19/consistency-down-to-the-right-click&quot;&gt;web page&lt;/a&gt; on the browser to test it.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;It may be shocking to see this cute contextual menu when right-clicking on a Flash video ;-). If you need some proof it is really Flash or need to access the standard contextual menu, you can hold down Command (Mac) or Ctrl (Windows/Linux) while right-clicking (this trick also works in HTML5 mode and if you are developer we know you will love it).&lt;/p&gt;
-&lt;p&gt;To our beta users: we will release the contextual menu publicly later today (or tomorrow, depending on where you are living). We will &lt;a href=&quot;http://twitter.com/jilion&quot;&gt;notify you&lt;/a&gt; and update our &lt;a href=&quot;http://docs.sublimevideo.net/releases&quot;&gt;Release Notes&lt;/a&gt; page when it&amp;#8217;s ready!&lt;/p&gt;
+&lt;p&gt;It may feel odd to see this cute contextual menu when right-clicking on a Flash video ;-). If you need some proof it is really Flash or need to access the standard contextual menu, you can hold down Command (Mac) or Ctrl (Windows/Linux) while right-clicking (this trick also works in HTML5 mode and if you are developer we know you will love it).&lt;/p&gt;
+&lt;p&gt;To our beta users: we will release the contextual menu publicly in a few hours. We will &lt;a href=&quot;http://twitter.com/jilion&quot;&gt;notify you&lt;/a&gt; and update our &lt;a href=&quot;http://docs.sublimevideo.net/releases&quot;&gt;Release Notes&lt;/a&gt; page when it&amp;#8217;s ready!&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
 &lt;ol&gt;
 	&lt;li id=&quot;fn-2011-01-19&quot;&gt;Currently, it does not work (in Flash mode) on Opera and some old versions of Safari pre-Leopard.&lt;br /&gt;

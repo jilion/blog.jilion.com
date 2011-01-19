@@ -12,11 +12,11 @@ Today we want to show something that you have probably *never seen on the Web be
 
 Please try it out yourself by right-clicking on the video below! 
 
-<video class="sublime" width="600" height="252" preload="none" poster="http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_demo_video_poster.jpg">
+<div><video class="sublime" width="600" height="252" preload="none" poster="http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_demo_video_poster.jpg">
   <source src="http://medias.jilion.com/sublimevideo/dartmoor1_800.mp4" />
   <source src="http://medias.jilion.com/sublimevideo/dartmoor1-mobile.mp4" />
   <source src="http://medias.jilion.com/sublimevideo/dartmoor1_800.ogv" />
-</video>
+</video></div>
 <script type="text/javascript">
   sublimevideo.ready(function(){
     sublimevideo.onEnd(function(sv){
