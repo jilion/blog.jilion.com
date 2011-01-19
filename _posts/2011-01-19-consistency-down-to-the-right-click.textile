@@ -1,5 +1,5 @@
 ---
-title: Consistency down to the right-click
+title: Consistency, down to the right-click
 authors: Zeno
 font_size: 35
 layout: post
@@ -8,7 +8,7 @@ If you are a developer or a curious user, you have probably found yourself often
 
 Today we want to show something that you have probably *never seen on the Web before*: a handcrafted contextual menu that consistently works[^"1":#fn-2011-01-19^] over HTML and Flash and that not only shows you if the video is being played with HTML5 or Flash, but also allows you to easily switch between the two modes.
 
-<img style="float: left;margin: 10px 25px 0 0" src="http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_menu_animation.gif" alt="SublimeVideo Player Mode Switching" /> We think this is a great opportunity to highlight the universal aspect of "our player":http://sublimevideo.net as well as the uniform implementation of both our HTML5 and Flash modes. It is also a way to show our brand without interfering with the player interface.
+<img style="float: left;margin: 10px 25px 0 0" src="http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_menu_animation.gif" alt="SublimeVideo Player Mode Switching" /> We think this is a great way to highlight the universal aspect of "our player":http://sublimevideo.net as well as the uniform implementation of both our HTML5 and Flash modes. It is also a way to show our brand without interfering with the player interface.
 
 Please try it out yourself by right-clicking on the video below! 
 
