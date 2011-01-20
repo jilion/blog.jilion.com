@@ -29,16 +29,22 @@ layout: master
 </div>
 {% endfor %}
 
-
-<ul class="pagination">
-  {% if paginator.previous_page %}
-    {% if paginator.previous_page == 1 %}
-      <li><a href="/" title="newer posts">newer</a></li>
-    {% else %}
-      <li><a href="/pages/{{ paginator.previous_page }}" title="newer posts">newer</a></li>
+<div class="pagination">
+  <div class="newer">
+    {% if paginator.previous_page %}
+      {% if paginator.previous_page == 1 %}
+        <a href="/" title="newer posts">newer</a>
+      {% else %}
+        <a href="/page/{{ paginator.previous_page }}" title="newer posts">newer</a>
+      {% endif %}
     {% endif %}
-  {% endif %}
-  {% if paginator.next_page %}
-    <li><a href="/pages/{{ paginator.next_page }}" title="older posts">older</a></li>
-  {% endif %}
-</ul>
+  </div>
+  <div class="pages">
+    Page {{ paginator.page }} of {{ paginator.total_pages	}}
+  </div>
+  <div class="older">
+    {% if paginator.next_page %}
+      <a href="/page/{{ paginator.next_page }}" title="older posts">older</a>
+    {% endif %}
+  </div>
+</div>
