@@ -1,22 +1,3 @@
-GIT
-  remote: git://github.com/thibaudgg/jekyll.git
-  revision: 55025b590751e19c6512149a28a84dbac2136525
-  branch: no-server
-  specs:
-    jekyll (0.6.2)
-      classifier (>= 1.3.1)
-      directory_watcher (>= 1.1.1)
-      liquid (>= 1.9.0)
-      maruku (>= 0.5.9)
-
-GIT
-  remote: git://github.com/thibaudgg/rack-jekyll.git
-  revision: ee331770e42a67cf13c51915c500ee82be536c56
-  specs:
-    rack-jekyll (0.3.5)
-      jekyll (~> 0.6.2)
-      rack (~> 1.2.1)
-
 GEM
   remote: http://rubygems.org/
   specs:
@@ -25,25 +6,25 @@ GEM
       builder
       mime-types
       xml-simple
-    builder (2.1.2)
+    builder (3.0.0)
     classifier (1.3.3)
       fast-stemmer (>= 1.0.0)
     directory_watcher (1.3.2)
     fast-stemmer (1.0.0)
-    hoe (2.6.1)
-      rake (>= 0.8.7)
-      rubyforge (>= 2.0.4)
-    jekyll_ext (0.1.2)
-    json_pure (1.4.6)
-    liquid (1.9.0)
-      hoe (>= 1.5.1)
+    jekyll (0.10.0)
+      classifier (>= 1.3.1)
+      directory_watcher (>= 1.1.1)
+      liquid (>= 1.9.0)
+      maruku (>= 0.5.9)
+    jekyll_ext (0.1.3)
+    liquid (2.2.2)
     maruku (0.6.0)
       syntax (>= 1.0.0)
     mime-types (1.16)
     rack (1.2.1)
-    rake (0.8.7)
-    rubyforge (2.0.4)
-      json_pure (>= 1.1.7)
+    rack-jekyll (0.3.5)
+      jekyll
+      rack
     syntax (1.0.0)
     xml-simple (1.0.12)
 
@@ -54,7 +35,7 @@ DEPENDENCIES
   RedCloth (= 4.2.3)
   aws-s3 (= 0.6.2)
   bundler
-  jekyll!
-  jekyll_ext (= 0.1.2)
-  liquid (= 1.9.0)
-  rack-jekyll!
+  jekyll (~> 0.10.0)
+  jekyll_ext (= 0.1.3)
+  liquid (= 2.2.2)
+  rack-jekyll (~> 0.3.5)
