@@ -13,7 +13,7 @@ module Jekyll
           # =================================
           # = Monkey Patch pages path here! =
           # =================================
-          newpage.dir = File.join(page.dir, "pages/#{num_page}")
+          newpage.dir = File.join(page.dir, "page/#{num_page}")
           site.pages << newpage
         else
           page.pager = pager
