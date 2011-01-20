@@ -8,14 +8,9 @@
     
       <title>Jilion Blog - SublimeVideo Beta runs great!</title>
     
+
     
-    
-    <!--[if (!IE)|(gte IE 8)]><!-->
-    <link href="http://blog.medias.jilion.com/01192011152441/assets/style-datauri.css" media="all" rel="stylesheet" type="text/css" />
-    <!--<![endif]-->
-    <!--[if lte IE 7]>
-    <link href="http://blog.medias.jilion.com/01192011152441/assets/style-mhtml.css" media="all" rel="stylesheet" type="text/css" />
-    <![endif]-->
+      <link href="/stylesheets/style.css" media="all" rel="stylesheet" type="text/css" />
     
     <link rel="alternate" type="application/rss+xml" title="Jilion Blog" href="http://feeds.feedburner.com/jilion" />
     <link rel="shortcut icon" href="http://blog.medias.jilion.com/favicon.ico" type="image/x-icon" />
@@ -34,13 +29,13 @@
             br: { radius: 10 },
             antiAlias: true
           };
-          var divObj = document.getElementById("back"); 
+          var divObj = document.getElementById("back");
           divObj.className = "curvyRedraw";
           curvyCorners(settings, divObj);
           divObj.style.filter="alpha(opacity=70)";
           disqusPresencePolling = setInterval("checkDisqusPresence()", 1000);
         };
-        
+
         function checkDisqusPresence() {
           if (document.body.clientHeight > documentHeight) {
             clearInterval(disqusPresencePolling);
@@ -53,13 +48,13 @@
             document.getElementById("back").style.filter="alpha(opacity=70)";
           }
         }
-        
+
       </script>
       <style type="text/css" media="screen">
         *+html #logo_backlights {left:-110px;}
         *+html #back {filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);}
       </style>
-      
+
     <![endif]-->
     <!--[if lte IE 6]>
       <meta content='0;url=http://jilion.com/ie' http-equiv='Refresh' />
@@ -100,7 +95,7 @@
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_20101221" style=""><a href="http://blog.jilion.com/2010/12/21/sublimevideo-beta-runs-great">SublimeVideo Beta runs great!</a></h2>
+      <h2 id="post_20101221" style=""><a href="http://localhost:4000/2010/12/21/sublimevideo-beta-runs-great/">SublimeVideo Beta runs great!</a></h2>
       
         <h3 class="sub_header">36 player updates, 100% uptime, thousands of users,<br /> millions of video pages served</h3>
       
@@ -110,7 +105,7 @@
       <span class="date">December 21st, 2010</span>
       <span class="authors">by Mehdi</span> 
       <div class="entry_comments_count" id="entry_comments_count_20101221">
-        <a href="http://blog.jilion.com/2010/12/21/sublimevideo-beta-runs-great#disqus_thread">
+        <a href="http://localhost:4000/2010/12/21/sublimevideo-beta-runs-great/#disqus_thread">
           Comments
         </a>
       </div>
@@ -146,7 +141,7 @@ Second and maybe even more importantly, the Beta is demonstrating the value of o
     <div id="disqus_thread"></div>
     <script type="text/javascript">
       
-        var disqus_developer = 0;
+        var disqus_developer = 1;
       
       (function() {
        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
@@ -168,7 +163,7 @@ Second and maybe even more importantly, the Beta is demonstrating the value of o
           <div class="box links">
             <ul>
               <li class="rss"><a href="http://feeds.feedburner.com/Jilion">Subscribe</a></li>
-              <li class="twitter"><a href="http://twitter.com/jilion">Twitter</a></li>        
+              <li class="twitter"><a href="http://twitter.com/jilion">Twitter</a></li>
             </ul>
           </div>
         </div>
@@ -176,7 +171,7 @@ Second and maybe even more importantly, the Beta is demonstrating the value of o
       </div>
     </div>
     <div id="footer">
-      <p>Copyright © 2010 Jime™ SA — Jilion™ is the consulting group of Jime™ SA</p>
+      <p>Copyright © 2011 Jime™ SA — Jilion™ is the consulting group of Jime™ SA</p>
     </div>
     <script type="text/javascript">if((navigator.userAgent.indexOf("Windows")!=-1))document.body.className='win';</script>
     <script type="text/javascript">
