@@ -10,3 +10,12 @@ RACK_ENV=production TIMESTAMP=123456 bundle exec ejekyll --no-server --no-auto
 http://jekyllrb.com
 http://wiki.github.com/mojombo/jekyll
 http://wiki.github.com/tobi/liquid/liquid-for-designers
+
+
+# Deploy
+
+gpo master
+gco staging
+glo staging # if needed
+gm master
+rake deploy:staging
