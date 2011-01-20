@@ -19,3 +19,11 @@ gco staging
 glo staging # if needed
 gm master
 rake deploy:staging
+# check on staging
+gco production
+glo production # if needed
+gm staging
+rake deploy:production
+gco master
+gm production
+gpo master
