@@ -1,8 +1,8 @@
 ---
 layout: master
 ---
-  
-{% for post in site.posts %}
+
+{% for post in paginator.posts %}
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
@@ -14,7 +14,7 @@ layout: master
     </div>
     <div class="entry_meta">
       <span class="date">{{post.date | date_to_pretty_string}}</span>
-      <span class="authors">by {{post.authors}}</span> 
+      <span class="authors">by {{post.authors}}</span>
       <div class="entry_comments_count" id="entry_comments_count_{{post.id | id_to_css_id}}">
         <a href="{{post.url | pretty_url}}#disqus_thread">
           Comments
@@ -28,3 +28,17 @@ layout: master
   </div>
 </div>
 {% endfor %}
+
+
+<ul class="pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <li><a href="/" title="newer posts">newer</a></li>
+    {% else %}
+      <li><a href="/pages/{{ paginator.previous_page }}" title="newer posts">newer</a></li>
+    {% endif %}
+  {% endif %}
+  {% if paginator.next_page %}
+    <li><a href="/pages/{{ paginator.next_page }}" title="older posts">older</a></li>
+  {% endif %}
+</ul>
