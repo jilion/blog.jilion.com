@@ -3,5 +3,5 @@ server: true
 permalink: pretty
 exclude: [README, config.ru, Gemfile, Gemfile.lock, Rakefile, assets.yml, assets]
 
-paginate: 9
+paginate: 10
 paginate_file: index.html
