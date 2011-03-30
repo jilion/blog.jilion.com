@@ -448,6 +448,28 @@ body.win {font-family:Arial, sans-serif !important;}
   border-radius:0;
 }
 
+.pagination {
+  position:relative;
+}
+
+.pagination .newer {
+  position:absolute;
+  top:0;
+  left:0;
+  font-weight:600;
+}
+
+.pagination .pages {
+  text-align:center;
+}
+
+.pagination .older {
+  position:absolute;
+  top:0;
+  right:0;
+  font-weight:600;
+}
+
 #sidebar {
   width:240px;
   float:left;

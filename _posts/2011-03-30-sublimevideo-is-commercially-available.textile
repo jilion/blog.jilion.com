@@ -1,0 +1,25 @@
+---
+title: SublimeVideo is commercially available!
+authors: The Jilion Team
+font_size: 31
+layout: post
+---
+<a href="http://sublimevideo.net"><img src="http://blog.medias.jilion.com/uploads/2011/03/SublimeVideo-Public-Launch.png" alt="SublimeVideo Public Launch" /></a>
+Back in early 2010 more than a million visitors enjoyed what many considered was the best HTML5 video player on the Internet.
+
+A few months later, we decided to turn "SublimeVideo":http://sublimevideo.net from a tech demo into the world’s best HTML5 video player solution. We began developing an ambitious cloud-based service, allowing our customers to ensure that their video will always play flawlessly on a huge variety of browsers and mobile devices, without any extra work from them, ever.
+
+6 months ago we began beta-testing SublimeVideo Player - the world's first cloud-based HTML5 video player. This was an incredibly valuable and important period for us; it not only showed us that SublimeVideo worked and scaled flawlessly, but also allowed us to show the world the value of a universal video player service.
+
+Today we are commercially launching "SublimeVideo":http://sublimevideo.net - making it available to everyone.
+Check out our "Press Release":http://jilion.com/pr/2011-03-30 and "Plans & Pricing":http://sublimevideo.net/plans page to find out more and "sign up today":https://my.sublimevideo.net/signup if you are not already a beta tester.
+
+Figuring out the right pricing model for SublimeVideo was more difficult than we had initially expected, and is something that we took great care with. The valuable data we gained from our pricing survey provided us with what we needed to finalize our commercialization plans. We would like to thank the 2,000 people who participated in this survey, and all of you who gave us amazing feedback and encouragement throughout the beta period.
+
+Something that the survey results confirmed for us is that we must continue to strive for the highest possible quality product and service. As such, we decided that all plans will only be differentiated by their volume levels and not their feature sets. For example, you won't need to purchase the biggest plan in order to access SSL.
+
+Another element we are proud to include in all plans is Peak Insurance; a flexible feature that allows your site to exceed its video pageview limit for a certain number of days in the event of a burst of traffic, without forcing you to upgrade plans.
+
+We believe that features like these display our commitment to providing customers with a top-quality service.
+
+We have seen some truly fantastic implementations of SublimeVideo Player from beta users, and hope that new users will also enjoy using the superior HTML5 and universal playback of SublimeVideo to showcase their own video on thousands of new sites.
