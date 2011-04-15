@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2011-03-30T15:42:35+02:00</updated>
+ <updated>2011-04-15T15:19:36+02:00</updated>
  <rights>Copyright (c) 2011 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -12,6 +12,29 @@
    <email>info@jilion.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Customer Showcase: LittleBigPlanet 2 by Media Molecule</title>
+   <link href="http://localhost:4000/2011/04/15/customer-showcase-media-molecule-littlebigplanet2/"/>
+   
+   <id>http://localhost:4000/2011/04/15/customer-showcase-media-molecule-littlebigplanet2</id>
+   
+   <updated>2011-04-15T00:00:00+02:00</updated>
+   <published>2011-04-15T00:00:00+02:00</published>
+   
+   <author>
+     <name>The Jilion Team</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player to promote and showcase their products, services and ideas. We’ll be interviewing and profiling some of them on our blog in the near future.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://littlebigplanet.com/en/&quot; title=&quot;Visit LittleBigPlanet.com&quot;&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2011/04/littlebigplanet2_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on LittleBigPlaner 2&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+LittleBiPlanet 2 &amp;#8211; &lt;a href=&quot;http://littlebigplanet.com/en/&quot;&gt;http://littlebigplanet.com/en&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Media Molecule are the UK-based video game developer behind one of this year’s hottest Playstation 3 games &amp;#8211; LittleBigPlanet 2, sequel to 2008’s critically acclaimed and best-selling original. The sequel received universal acclaim for it’s beautiful graphics and innovative approach to user-based content creation and sharing &amp;#8211; there are currently over 4.1 million user generated games available to play online in the LittleBigPlanet universe. Video is a vital and effective way to show off any video game, let alone one as media-rich and visually stunning as LittleBigPlanet 2. We are very proud that MediaMolecule used SublimeVideo Player to showcase their trailer for the game, front and centre on the official website.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2011/04/tom_kiss_mediamolecule.jpg&quot; alt=&quot;Tom Kiss - MediaMolecule&quot; class=&quot;no_rounded&quot; style=&quot;float:left;margin:7px 22px 0 0&quot; /&gt; &amp;#8220;The SublimeVideo player has set a real benchmark for high quality HTML5 video players. By using it on littlebigplanet.com, it’s allowed us to deliver our videos across a broad spectrum of devices and operating systems to a much wider audience, including the latest smartphone handsets – an ever increasing proportion of our site visitors. Additionally, the Jilion team have been really helpful and supportive, allowing us to deliver the best experience for our users.&amp;#8221;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class=&quot;quote_author&quot;&gt;—Tom Kiss, Community Manager at &lt;a href=&quot;http://www.mediamolecule.com&quot;&gt;MediaMolecule&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>SublimeVideo is commercially available!</title>
