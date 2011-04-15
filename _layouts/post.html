@@ -6,11 +6,10 @@ layout: master
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_{{page.id | id_to_css_id}}" style="{% if page.font_size %}font-size:{{page.font_size}}px{% endif %}"><a href="{{page.url | pretty_url}}">{{page.title}}</a></h2>
+      <h2 id="post_{{page.id | id_to_css_id}}" style="{% if page.font_size %}font-size:{{page.font_size}}px{% endif %}"><a href="{{page.url | pretty_url}}">{% if page.blog_display_title %}{{page.blog_display_title}}{% else %}<span>{{page.title}}</span>{% endif %}</a></h2>
       {% if page.sub_title %}
         <h3 class="sub_header">{{page.sub_title}}</h3>
       {% endif %}
-      <style type="text/css">@media screen and (-webkit-min-device-pixel-ratio:0){#post_{{page.id | id_to_css_id}}:after {content:'{{page.title}}';}}</style>
     </div>
     <div class="entry_meta">
       <span class="date">{{page.date | date_to_pretty_string}}</span>
