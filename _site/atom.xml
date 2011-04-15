@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Jilion Blog</title>
+ <link href="http://blog.jilion.com/atom.xml" rel="self"/>
+ <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
+ <updated>2011-04-15T16:25:09+02:00</updated>
+ <rights>Copyright (c) 2011 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
+ <id>http://blog.jilion.com</id>
+ <author>
+   <name>Jilion</name>
+   <email>info@jilion.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Customer Showcase: LittleBigPlanet 2 by Media Molecule</title>
+   <link href="http://blog.jilion.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2"/>
+   
+   <id>http://blog.jilion.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2</id>
+   
+   <updated>2011-04-15T00:00:00+02:00</updated>
+   <published>2011-04-15T00:00:00+02:00</published>
+   
+   <author>
+     <name>The Jilion Team</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player to promote and showcase their products, services and ideas. We’ll be interviewing and profiling some of them on our blog in the near future.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://littlebigplanet.com/en/&quot; title=&quot;Visit LittleBigPlanet.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/04/littlebigplanet2_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on LittleBigPlaner 2&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+LittleBigPlanet 2 &amp;#8211; &lt;a href=&quot;http://littlebigplanet.com/en/&quot;&gt;http://littlebigplanet.com/en&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Media Molecule are the UK-based video game developer behind one of this year’s hottest Playstation 3 games &amp;#8211; LittleBigPlanet 2, sequel to 2008’s critically acclaimed and best-selling original. The sequel received universal acclaim for it’s beautiful graphics and innovative approach to user-based content creation and sharing &amp;#8211; there are currently over 4.1 million user generated games available to play online in the LittleBigPlanet universe. Video is a vital and effective way to show off any video game, let alone one as media-rich and visually stunning as LittleBigPlanet 2. We are very proud that MediaMolecule used SublimeVideo Player to showcase their trailer for the game, front and centre on the official website.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/04/tom_kiss_mediamolecule.jpg&quot; alt=&quot;Tom Kiss - MediaMolecule&quot; class=&quot;no_rounded&quot; style=&quot;float:left;margin:7px 22px 0 0&quot; /&gt; &amp;#8220;The SublimeVideo player has set a real benchmark for high quality HTML5 video players. By using it on littlebigplanet.com, it’s allowed us to deliver our videos across a broad spectrum of devices and operating systems to a much wider audience, including the latest smartphone handsets – an ever increasing proportion of our site visitors. Additionally, the Jilion team have been really helpful and supportive, allowing us to deliver the best experience for our users.&amp;#8221;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class=&quot;quote_author&quot;&gt;—Tom Kiss, Community Manager at &lt;a href=&quot;http://www.mediamolecule.com&quot;&gt;MediaMolecule&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>SublimeVideo is commercially available!</title>
+   <link href="http://blog.jilion.com/2011/03/30/sublimevideo-is-commercially-available"/>
+   
+   <id>http://blog.jilion.com/2011/03/30/sublimevideo-is-commercially-available</id>
+   
+   <updated>2011-03-30T00:00:00+02:00</updated>
+   <published>2011-03-30T00:00:00+02:00</published>
+   
+   <author>
+     <name>The Jilion Team</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://sublimevideo.net&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/03/SublimeVideo-Public-Launch.png&quot; alt=&quot;SublimeVideo Public Launch&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+Back in early 2010 more than a million visitors enjoyed what many considered was the best HTML5 video player on the Internet.&lt;/p&gt;
+&lt;p&gt;A few months later, we decided to turn &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; from a tech demo into the world’s best HTML5 video player solution. We began developing an ambitious cloud-based service, allowing our customers to ensure that their video will always play flawlessly on a huge variety of browsers and mobile devices, without any extra work from them, ever.&lt;/p&gt;
+&lt;p&gt;6 months ago we began beta-testing SublimeVideo Player &amp;#8211; the world&amp;#8217;s first cloud-based HTML5 video player. This was an incredibly valuable and important period for us; it not only showed us that SublimeVideo worked and scaled flawlessly, but also allowed us to show the world the value of a universal video player service.&lt;/p&gt;
+&lt;p&gt;Today we are commercially launching &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; &amp;#8211; making it available to everyone.&lt;br /&gt;
+Check out our &lt;a href=&quot;http://jilion.com/pr/2011-03-30&quot;&gt;Press Release&lt;/a&gt; and &lt;a href=&quot;http://sublimevideo.net/plans&quot;&gt;Plans &amp;amp; Pricing&lt;/a&gt; page to find out more and &lt;a href=&quot;https://my.sublimevideo.net/signup&quot;&gt;sign up today&lt;/a&gt; if you are not already a beta tester.&lt;/p&gt;
+&lt;p&gt;Figuring out the right pricing model for SublimeVideo was more difficult than we had initially expected, and is something that we took great care with. The valuable data we gained from our pricing survey provided us with what we needed to finalize our commercialization plans. We would like to thank the 2,000 people who participated in this survey, and all of you who gave us amazing feedback and encouragement throughout the beta period.&lt;/p&gt;
+&lt;p&gt;Something that the survey results confirmed for us is that we must continue to strive for the highest possible quality product and service. As such, we decided that all plans will only be differentiated by their volume levels and not their feature sets. For example, you won&amp;#8217;t need to purchase the biggest plan in order to access &lt;span class=&quot;caps&quot;&gt;SSL&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Another element we are proud to include in all plans is Peak Insurance; a flexible feature that allows your site to exceed its video pageview limit for a certain number of days in the event of a burst of traffic, without forcing you to upgrade plans.&lt;/p&gt;
+&lt;p&gt;We believe that features like these display our commitment to providing customers with a top-quality service.&lt;/p&gt;
+&lt;p&gt;We have seen some truly fantastic implementations of SublimeVideo Player from beta users, and hope that new users will also enjoy using the superior HTML5 and universal playback of SublimeVideo to showcase their own video on thousands of new sites.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Consistency, down to the right-click</title>
+   <link href="http://blog.jilion.com/2011/01/19/consistency-down-to-the-right-click"/>
+   
+   <id>http://blog.jilion.com/2011/01/19/consistency-down-to-the-right-click</id>
+   
+   <updated>2011-01-19T00:00:00+01:00</updated>
+   <published>2011-01-19T00:00:00+01:00</published>
+   
+   <author>
+     <name>Zeno</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;If you are a developer or a curious user, you have probably found yourself often &lt;strong&gt;right-clicking&lt;/strong&gt; on videos in your browser to get the contextual menu and see if they are played using Flash or HTML5.&lt;/p&gt;
+&lt;p&gt;Today we want to show something that you have probably &lt;strong&gt;never seen on the Web before&lt;/strong&gt;: a handcrafted contextual menu that consistently works&lt;sup&gt;&lt;a href=&quot;#fn-2011-01-19&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; over &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; and Flash and that not only shows you if the video is being played with HTML5 or Flash, but also allows you to easily switch between the two modes.&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;float: left;margin: 10px 25px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_menu_animation.gif&quot; alt=&quot;SublimeVideo Player Mode Switching&quot; /&gt; We think this is a great way to highlight the universal aspect of &lt;a href=&quot;http://sublimevideo.net&quot;&gt;our player&lt;/a&gt; as well as the uniform implementation of both our HTML5 and Flash modes. It is also a way to show our brand without interfering with the player interface.&lt;/p&gt;
+&lt;p&gt;Please try it out yourself by right-clicking on the video below! &lt;/p&gt;
+&lt;div&gt;&lt;video class=&quot;sublime&quot; width=&quot;600&quot; height=&quot;252&quot; preload=&quot;none&quot; poster=&quot;http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_demo_video_poster.jpg&quot;&gt;&lt;br /&gt;
+  &lt;source src=&quot;http://medias.jilion.com/sublimevideo/dartmoor1_800.mp4&quot; /&gt;&lt;br /&gt;
+  &lt;source src=&quot;http://medias.jilion.com/sublimevideo/dartmoor1-mobile.mp4&quot; /&gt;&lt;br /&gt;
+  &lt;source src=&quot;http://medias.jilion.com/sublimevideo/dartmoor1_800.ogv&quot; /&gt;&lt;/video&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  sublimevideo.ready(function(){
+    sublimevideo.onEnd(function(sv){
+      sublimevideo.stop();
+    });
+  });
+&lt;/script&gt;&lt;p class=&quot;hide&quot;&gt;&lt;small&gt;&lt;em class=&quot;caption&quot;&gt;If you are reading through your &lt;span class=&quot;caps&quot;&gt;RSS&lt;/span&gt; reader, please visit this &lt;a href=&quot;http://blog.jilion.com/2011/01/19/consistency-down-to-the-right-click&quot;&gt;web page&lt;/a&gt; on the browser to test it.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;It may feel odd to see this cute contextual menu when right-clicking on a Flash video ;-). If you need some proof it is really Flash or need to access the standard contextual menu, you can hold down Command (Mac) or Ctrl (Windows/Linux) while right-clicking (this trick also works in HTML5 mode and if you are developer we know you will love it).&lt;/p&gt;
+&lt;p&gt;To our beta users: we will release the contextual menu publicly in a few hours. We will &lt;a href=&quot;http://twitter.com/jilion&quot;&gt;notify you&lt;/a&gt; and update our &lt;a href=&quot;http://docs.sublimevideo.net/releases&quot;&gt;Release Notes&lt;/a&gt; page when it&amp;#8217;s ready!&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;ol&gt;
+    &lt;li id=&quot;fn-2011-01-19&quot;&gt;Currently, it does not work (in Flash mode) on Opera and some old versions of Safari pre-Leopard.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>SublimeVideo Beta runs great!</title>
+   <link href="http://blog.jilion.com/2010/12/21/sublimevideo-beta-runs-great"/>
+   
+   <id>http://blog.jilion.com/2010/12/21/sublimevideo-beta-runs-great</id>
+   
+   <updated>2010-12-21T00:00:00+01:00</updated>
+   <published>2010-12-21T00:00:00+01:00</published>
+   
+   <author>
+     <name>Mehdi</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Beta has started 3 months ago and we are extremely happy to report that basically everything is running great!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://docs.sublimevideo.net/releases&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2010/12/SublimeVideo-Release-Notes-Screenshot.jpg&quot; alt=&quot;SublimeVideo Release Notes Screenshot&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here are some information we would like to share with you:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Since the Beta started, we have released 36 automatic and transparent updates of the Player to all our users, again, automatically and without bothering them. It means we updated the player in average every 3 days. You can now follow SublimeVideo player updates on our new &lt;a href=&quot;http://docs.sublimevideo.net/releases&quot;&gt;Release Notes&lt;/a&gt; page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;These updates were made possible thanks to the rich feedback received from our Beta testers: over 400 feedback and bug reports have been received and 98% of them answered.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;On the server side, our cloud-based infrastructure has been running smoothly from day one without any delivery interruption of the player by our &lt;span class=&quot;caps&quot;&gt;CDN&lt;/span&gt; (100% uptime). Also, even if this is less visible, it is worth noting that our SublimeVideo Ruby on Rails application running on Heroku has scaled as expected along with the growth in usage, allowing us to parse large amount of data, something that will allow us to bring you really cool new features and services in the future.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;On the usage side, we wished to somehow keep a low profile during the Beta, but we are thrilled to report there are currently thousands of beta users and that the traffic is already in the range of millions of video pages served per month!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At this stage of the Beta, we have now passed two important milestones:&lt;br /&gt;
+First, the Beta has confirmed the technical service is working well and will be able to scale as we enter the commercial phase.&lt;br /&gt;
+Second and maybe even more importantly, the Beta is demonstrating the value of our &amp;#8220;SublimeVideo Universal Web Video Player as a Service&amp;#8221; which is indeed delivering all the key benefits we expected when we announced it back in August.&lt;/p&gt;
+&lt;p&gt;So, you are not going to be surprised to hear we are excited!&lt;/p&gt;
+&lt;h3 style=&quot;padding-top:15px&quot;&gt;What&amp;#8217;s next&lt;/h3&gt;
+&lt;p&gt;We are finalizing the development of the commercial release, which is scheduled for Q1 2011.&lt;/p&gt;
+&lt;p&gt;The pricing survey we discussed earlier will be sent out to our Beta users in January. Stay tuned, we know lots of you are waiting to know how much it will cost to start using SublimeVideo. We will do our best to please you.&lt;/p&gt;
+&lt;p&gt;Last but not least, we wish you all happy holidays and lots of good vibes for the new year! Thank you again for your support, it&amp;#8217;s been an amazing year.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>SublimeVideo Beta starts Today</title>
+   <link href="http://blog.jilion.com/2010/09/14/sublimevideo-beta-starts-today"/>
+   
+   <id>http://blog.jilion.com/2010/09/14/sublimevideo-beta-starts-today</id>
+   
+   <updated>2010-09-14T00:00:00+02:00</updated>
+   <published>2010-09-14T00:00:00+02:00</published>
+   
+   <author>
+     <name>Zeno</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;We are happy to announce we are launching SublimeVideo Beta today and we are sending out the first wave of invitations right now.&lt;/p&gt;
+&lt;p&gt;A lot of you registered for the beta. We are thrilled to see the amount of requests we received and are receiving daily. If everything goes smoothly with SublimeVideo service infrastructure we will send Beta invitations to all of those who registered as quickly as possible. If you didn’t register yet, you can do it from this &lt;a href=&quot;http://sublimevideo.net/notify&quot;&gt;page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In your invitation you will be asked to create an account on &lt;a href=&quot;https://my.sublimevideo.net&quot;&gt;my.sublimevideo.net&lt;/a&gt; where you will be able to generate and manage SublimeVideo players for your sites.&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;position:relative;left:-5px&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/09/mysublimevideo_screenshot.png&quot; alt=&quot;MySublimeVideo Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We hope you will enjoy the super-simple process we designed for you to get your players up and running almost instantly on your sites.&lt;/p&gt;
+&lt;p&gt;Keep in mind SublimeVideo Player is a player, not a video hosting solution forcing you to use our service to host your videos: You retain the full flexibility to host your videos wherever you want.&lt;/p&gt;
+&lt;p&gt;Please refer to the &lt;a href=&quot;http://docs.sublimevideo.net&quot;&gt;Documentation&lt;/a&gt; to learn more about it.&lt;/p&gt;
+&lt;h3 style=&quot;padding-top:15px&quot;&gt;Your feedback&lt;/h3&gt;
+&lt;p&gt;As written earlier, SublimeVideo will be free during the Beta phase. The two main goals of this phase will be to get your feedback on the product and shape the right pricing with your help.&lt;/p&gt;
+&lt;p&gt;We are really looking forward to receiving your feedback!  &lt;br /&gt;
+We would love to know if you&amp;#8217;re happy with SublimeVideo and what we can do to improve it. Please send us comments, bug reports, feature requests and suggestions for improvement using the dedicated &lt;a href=&quot;http://my.sublimevideo.net/feedback&quot;&gt;form&lt;/a&gt; on MySublimeVideo.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Introducing SublimeVideo Player as a Service</title>
+   <link href="http://blog.jilion.com/2010/08/31/introducing-sublimevideo-player-as-a-service"/>
+   
+   <id>http://blog.jilion.com/2010/08/31/introducing-sublimevideo-player-as-a-service</id>
+   
+   <updated>2010-08-31T00:00:00+02:00</updated>
+   <published>2010-08-31T00:00:00+02:00</published>
+   
+   <author>
+     <name>Mehdi</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 5px 25px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/08/sublimevideo_cloud.png&quot; alt=&quot;Introducing SublimeVideo Player as a Service&quot; /&gt; This is a big day for us at Jilion!&lt;br /&gt;
+Today, as promised we let you know what we’ve been working on during the past few months. We hope you’ll like it as much as we do.&lt;/p&gt;
+&lt;p&gt;After 6 months of exciting work, we are extremely happy to introduce &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo.net&lt;/a&gt;, our HTML5 Video Player as a Service.&lt;/p&gt;
+&lt;p&gt;Some of you were anticipating that we would distribute SublimeVideo as a &lt;span class=&quot;caps&quot;&gt;ZIP&lt;/span&gt; file download.&lt;br /&gt;
+Well, today we’re offering a much better option &amp;#8211; a real-world and practical HTML5 video player solution.&lt;/p&gt;
+&lt;p&gt;Our goal is simple: We really want you to get “state-of-the-art you can actually use”, instantly, easily and inexpensively.&lt;/p&gt;
+&lt;p&gt;Let&amp;#8217;s face it, for 99% of our potential customers, HTML5 Video could be a real pain to deploy. Why? Because every browser has its own specificities which means you need to hire experts in HTML5, JavaScript and CSS3 to ensure your HTML5 Video Player works flawlessly in all of them. And that’s not all: To be sure your player does not break and that you always provide the best experience to your audience, you still need to maintain it continuously by following on a daily basis the evolution of numerous browsers and their versions, on various desktop and mobile platforms.&lt;br /&gt;
+This is just not realistic for the vast majority of web sites willing to enable HTML5 video.&lt;/p&gt;
+&lt;p&gt;Thanks to SublimeVideo HTML5 Video Player as a Service, none of this is a problem for you anymore: We take care of all that complexity, allowing you to instantly deliver to your audience the best HTML5 video experience possible on the web, worry-free!&lt;br /&gt;
+That&amp;#8217;s the main benefit of SublimeVideo but there’s more:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Get your own SublimeVideo player up-and-running in seconds.&lt;/li&gt;
+	&lt;li&gt;Get your SublimeVideo player delivered to your audience globally through our fast, reliable and low-latency Content Delivery Network.&lt;/li&gt;
+	&lt;li&gt;Welcome to Zero Maintenance: Your SublimeVideo player is always up-to-date.&lt;/li&gt;
+	&lt;li&gt;Updates including bug-fixes and new platforms support are automatically deployed.&lt;/li&gt;
+	&lt;li&gt;Updates are near-instantaneous for our global customers base.&lt;/li&gt;
+	&lt;li&gt;Monitor your players usages in near real-time.&lt;/li&gt;
+	&lt;li&gt;Integration in your web pages is done in just one-simple-line of embed code that we generate for you.&lt;/li&gt;
+	&lt;li&gt;Integration can be done by mere mortals, i.e. non-developers.&lt;/li&gt;
+	&lt;li&gt;There are no integration costs, no deployment costs and no maintenance costs, the usual hidden costs of &amp;#8220;free download solutions&amp;#8221;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So what&amp;#8217;s next?&lt;br /&gt;
+What about the pricing and when can you start using SublimeVideo?&lt;/p&gt;
+&lt;p&gt;First of all, we would like to thank you for all the amazing feedback you sent us in the past few days since we opened our &amp;#8220;Notify-Me&amp;#8221; form on &lt;a href=&quot;http://sublimevideo.net&quot;&gt;sublimevideo.net&lt;/a&gt;.&lt;br /&gt;
+After just two tweets, in the first days of a quiet August month, we received thousands of participation requests for our upcoming Beta!&lt;/p&gt;
+&lt;p&gt;In the next few days, we will start sending the first invitations for the Beta to as many people as possible.&lt;br /&gt;
+The Beta will be free while it&amp;#8217;s on.&lt;br /&gt;
+During the Beta, we will fine-tune the service, collect your comments, and most importantly, we will work hard to define the best pricing model!&lt;/p&gt;
+&lt;p&gt;Shaping the right pricing model is going to be a challenging experience for us. We will need your help because we want to do our best to shape a pricing model that can fit a wide range of potential customers, from individuals to large companies.&lt;br /&gt;
+To address this pricing challenge, we plan to ask Beta testers to answer a quick survey and we will also contact some of you directly. We hope we can collectively find a solid answer to the question &amp;#8220;What would you be willing to pay for the value SublimeVideo provides to you?&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;In the mean time, please have a look at our just released &lt;a href=&quot;http://sublimevideo.net&quot;&gt;sublimevideo.net&lt;/a&gt; homepage, as well as our new &lt;a href=&quot;http://sublimevideo.net/demo&quot;&gt;demo page&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Thanks again,&lt;br /&gt;
+— the Jilion team&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Stay Updated</title>
+   <link href="http://blog.jilion.com/2010/08/03/stay-updated"/>
+   
+   <id>http://blog.jilion.com/2010/08/03/stay-updated</id>
+   
+   <updated>2010-08-03T00:00:00+02:00</updated>
+   <published>2010-08-03T00:00:00+02:00</published>
+   
+   <author>
+     <name>Octave</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;Would you like to be notified when SublimeVideo is released? Are you interested to be part of an early limited beta and give your feedback on the product and the pricing? Visit &lt;a href=&quot;http://sublimevideo.net&quot;&gt;sublimevideo.net&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Next Month!</title>
+   <link href="http://blog.jilion.com/2010/07/08/next-month"/>
+   
+   <id>http://blog.jilion.com/?p=328</id>
+   
+   <updated>2010-07-08T00:00:00+02:00</updated>
+   <published>2010-07-08T00:00:00+02:00</published>
+   
+   <author>
+     <name>Mehdi</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 0 24px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/07/sublimevideo_solution_august_2010_calendar_icon.png&quot; alt=&quot;August 2010 Calendar&quot; /&gt; For the last three months, we have been thinking thoroughly about how to make of SublimeVideo player the most functional, universal, easy-to-deploy-and-maintain HTML5 video solution.&lt;/p&gt;
+&lt;p&gt;Next month we will reveal all the details and commercial plan of our upcoming SublimeVideo solution. We hope you will love it as much as we do. Frankly, we are super-excited about it!&lt;/p&gt;
+&lt;p&gt;Once again, thank you so much for your great support and patience. By the way, we promise to communicate more frequently about our progress.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>SublimeVideo Flash mode</title>
+   <link href="http://blog.jilion.com/2010/04/07/sublimevideo-flash-mode"/>
+   
+   <id>http://blog.jilion.com/?p=285</id>
+   
+   <updated>2010-04-07T00:00:00+02:00</updated>
+   <published>2010-04-07T00:00:00+02:00</published>
+   
+   <author>
+     <name>Octave</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 0 24px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/04/flash.png&quot; alt=&quot;Flash Icon&quot; /&gt; SublimeVideo has a broader goal than just showcasing some nice HTML5 features in a controlled environment like our &lt;a href=&quot;http://jilion.com/sublime/video&quot;&gt;demo page&lt;/a&gt;. We aim at delivering a modern and simple video-embedding solution for web developers that provides the same user experience and uniform UI across browsers.&lt;/p&gt;
+&lt;p&gt;The first main news of the day is we have just completed the development of the Flash mode of our SublimeVideo player.  It is not a separate product, but a necessary component to achieve our ambition to offer you a truly &lt;strong&gt;universal video player&lt;/strong&gt; that works in all browsers.&lt;/p&gt;
+&lt;p&gt;With SublimeVideo Flash mode, our users will have the warranty that their videos will play seamlessly even in non-HTML5 browsers such as IE 6, 7 or 8 and also in Firefox/Opera when the Ogg Theora video version is not available.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;no_rounded&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/04/sublimevideo_and_flash.png&quot; alt=&quot;SublimeVideo and Flash&quot; /&gt;&lt;br /&gt;
+&lt;em class=&quot;caption&quot;&gt;Flash and HTML5 versions look and feel the same&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;To see the new Flash player in action, we created an additional &lt;a href=&quot;http://jilion.com/sublime/video/flash&quot;&gt;demo page where SublimeVideo Flash mode is forced&lt;/a&gt; for all browsers (including browsers that fully support HTML5 video).&lt;/p&gt;
+&lt;p&gt;Here are the features of SublimeVideo Flash mode:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Same sleek UI as the HTML5 player&lt;/li&gt;
+	&lt;li&gt;Full-window mode (click on the full-window button, or double-click on the video) with draggable controls pane&lt;/li&gt;
+	&lt;li&gt;Full-screen mode (hold down Command (Mac) or Ctrl (Windows/Linux) while entering full-window mode)&lt;/li&gt;
+	&lt;li&gt;While in full-window or full-screen mode, press spacebar to play/pause and Esc to exit full-window/full-screen&lt;/li&gt;
+	&lt;li&gt;SublimeVideo automatically falls back to Flash in Firefox and Opera to decode H.264 video in case the Ogg Theora version is not provided&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Open web standard &amp;#8220;purists&amp;#8221; who do not care about compatibility with old browsers will be able to completely disable the Flash fallback to provide a pure HTML5 video experience.&lt;/p&gt;
+&lt;p&gt;The second big news of the day is that we have entirely rewritten our JavaScript code to remove all dependencies to external libraries or frameworks (originally SublimeVideo was written using the Prototype JS framework). This is a big deal, because it means SublimeVideo is now a standalone pure JavaScript library with the benefit that anyone can easily use it along side any version of any other libraries (jQuery, Prototype, MooTools, Dojo, &lt;span class=&quot;caps&quot;&gt;YUI&lt;/span&gt;, Ext JS, &amp;#8230;) without having to worry about conflicts.&lt;/p&gt;
+&lt;p&gt;Finally, we received a lot of requests concerning the release date. We really want to make this product right. The fact that you see SublimeVideo working on our demo page doesn&amp;#8217;t mean it is fully ready to be released and embedded in any webpage out there. There&amp;#8217;s still some work to do. Thank you for your patience, we are doing our best in order the wait will be worth it!&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>SublimeVideo supports Firefox</title>
+   <link href="http://blog.jilion.com/2010/02/11/sublimevideo-supports-firefox"/>
+   
+   <id>http://blog.jilion.com/?p=252</id>
+   
+   <updated>2010-02-11T00:00:00+01:00</updated>
+   <published>2010-02-11T00:00:00+01:00</published>
+   
+   <author>
+     <name>Zeno</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;We are working hard on the release of SublimeVideo (no date yet).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2010/02/firefox.png&quot; alt=&quot;Firefox Icon&quot; style=&quot;float:left;margin:0 24px 0 0;&quot; /&gt; We&amp;#8217;ve just finished adding support for Firefox and &lt;a href=&quot;http://en.wikipedia.org/wiki/Theora&quot;&gt;Ogg Theora&lt;/a&gt; videos. We figured we&amp;#8217;d update the &lt;a href=&quot;http://jilion.com/sublime/video&quot;&gt;demo page&lt;/a&gt; to show it to you.&lt;/p&gt;
+&lt;p&gt;It should work on Firefox 3.5, but we strongly encourage you to upgrade to the latest version (currently 3.6).&lt;/p&gt;
+&lt;p&gt;SublimeVideo on Firefox has pretty much all the basic features of the WebKit (Safari/Chrome) version, however there&amp;#8217;re some secondary features which couldn&amp;#8217;t be implemented because of Firefox limitations.&lt;/p&gt;
+&lt;p&gt;Here are the features that are currently &lt;strong&gt;missing&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;1. Sleek Zoom-in/out transitions when entering/leaving full-window mode&lt;br /&gt;
+2. Playback speed controls (when in full-window mode)&lt;br /&gt;
+3. Other minor fade-in/out effects to highlight the poster frame and reveal the controls when mouse-hovering over the video&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2010/02/SublimeVideo-full-window-controls-browsers-comparison.jpg&quot; alt=&quot;SublimeVideo Full-Window Controls Browsers Comparison&quot; /&gt;&lt;em class=&quot;caption&quot;&gt;SublimeVideo full-window controls browsers comparison&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We are confident that the &lt;a href=&quot;http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/&quot;&gt;next release of Firefox&lt;/a&gt; (3.7) will include all the necessary improvements that will allow us to implement the missing features.&lt;/p&gt;
+&lt;p&gt;A note regarding true &lt;em&gt;full-screen&lt;/em&gt; mode:&lt;br /&gt;
+At the moment we couldn&amp;#8217;t integrate this directly into our controls as we did for the WebKit Nightly build (by alt-clicking the full-window button), but if you&amp;#8217;re using Firefox 3.6 you can enter this mode by right-clicking on the video and choosing &amp;#8220;Full Screen&amp;#8221; from the contextual menu.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://jilion.com/sublime/video&quot;&gt;Enjoy&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Introducing SublimeVideo</title>
+   <link href="http://blog.jilion.com/2010/01/25/introducing-sublimevideo"/>
+   
+   <id>http://blog.jilion.com/?p=204</id>
+   
+   <updated>2010-01-25T00:00:00+01:00</updated>
+   <published>2010-01-25T00:00:00+01:00</published>
+   
+   <author>
+     <name>Zeno</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;Today we&amp;#8217;d like to show you a pre-release demo of SublimeVideo. It&amp;#8217;s an &lt;a href=&quot;http://en.wikipedia.org/wiki/Html5&quot;&gt;HTML5&lt;/a&gt; video player that will allow you to easily embed videos in any page, blog or site using the latest modern web standards.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://jilion.com/sublime/video&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2010/01/sublime_video-600x480.png&quot; alt=&quot;Sublime Video&quot; class=&quot;no_rounded&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Browsers makers are still working on fully supporting the HTML5 video specification, so at the moment SublimeVideo is still in &lt;em&gt;experimental state&lt;/em&gt; and only works on a limited number of browsers. But the long term goal is to make it work on all modern browsers.&lt;/p&gt;
+&lt;p&gt;SublimeVideo will be soon released for free (at least for non-commercial use).&lt;/p&gt;
+&lt;h3&gt;Key Features&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Full-window mode&lt;/strong&gt;&lt;br /&gt;
+  This will maximize the video to fit the browser&amp;#8217;s window. It can be handy if you still want to access other applications while watching a maximized video in your browser.&lt;br /&gt;
+  Besides, browsers makers are still working on implementing true fullscreen for HTML5 videos; so full-window is currently the only way to maximize the video on Safari and Chrome.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Full-screen mode&lt;/strong&gt;&lt;br /&gt;
+  Currently only supported in the latest &lt;a href=&quot;http://nightly.webkit.org/&quot;&gt;WebKit Nightly Builds&lt;/a&gt;, you can activate this mode by &lt;span class=&quot;caps&quot;&gt;ALT&lt;/span&gt;-clicking on the full-window button.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;HTML5 video benefits&lt;/strong&gt;&lt;br /&gt;
+  No browser plugin, no Flash dependencies!&lt;br /&gt;
+  You can also jump anywhere in the video without having to wait for it to buffer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See more features on the &lt;a href=&quot;http://jilion.com/sublime/video&quot;&gt;SublimeVideo demo&lt;/a&gt; page.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>The power to interoperate with social networks</title>
+   <link href="http://blog.jilion.com/2010/01/21/the-power-to-interoperate-with-social-networks"/>
+   
+   <id>http://blog.jilion.com/?p=150</id>
+   
+   <updated>2010-01-21T00:00:00+01:00</updated>
+   <published>2010-01-21T00:00:00+01:00</published>
+   
+   <author>
+     <name>Thibaud</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;&lt;img style=&quot;float: right; margin: 10px 0 10px 20px;&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/01/caprices_2010-240x342.jpg&quot; alt=&quot;Caprices Festival 2010&quot; /&gt;&lt;strong&gt;The case of Caprices Festival&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jilion and &lt;a href=&quot;http://www.caprices.ch/&quot;&gt;Caprices Festival&lt;/a&gt; just launched a very interesting social networking integration of Facebook and MySpace in a music festival website.&lt;/p&gt;
+&lt;p&gt;Caprices Festival approached us back in October with the goal to be one of the first, if not the first music festival allowing people to influence a great part of the festival&amp;#8217;s lineup, by voting for artists willing to enroll in the competition. It&amp;#8217;s worth to mention those artists have not been previously selected by the organizers.&lt;/p&gt;
+&lt;p&gt;Launched on January 15, the service allows, on one hand, MySpace artists to quickly submit their profile to Caprices (via MySpaceID), and on the other hand any Facebook user to vote for them (via Facebook Connect).&lt;br /&gt;
+As a result 6 &amp;#8220;elected&amp;#8221; acts per day on 3 stages will play at Caprices next April.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;no_rounded&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/01/jilion_facebook_connect_statistics.png&quot; alt=&quot;Facebook Connect Statistics&quot; /&gt;&lt;em&gt;6 first days users base growth coming from Facebook Connect&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We are very pleased by the early results:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;In the first 6 days, more than 11&amp;#8217;000 Facebook users joined the contest. Previously, Caprices took 3 years to attract ~2500 members on their Facebook group;&lt;/li&gt;
+	&lt;li&gt;More than 400 artists are participating so far;&lt;/li&gt;
+	&lt;li&gt;More than 150 MySpace artists have been proposed so far by Facebook users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Few comparable websites relying only on their own sign-up can record 11?000 users in the first 6 days. Facebook is a &amp;#8220;no-brainer&amp;#8221; for users to sign-up as it is a very convenient process for someone already having a Facebook account.&lt;br /&gt;
+A proper integration with a leading social network definitely helps to bootstrap a new service as the incentive always exists for users to propagate new kinds of &amp;#8220;cool&amp;#8221; actions back on their profile&amp;#8217;s news feed.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>In the Top 20 in one day</title>
+   <link href="http://blog.jilion.com/2009/12/05/in-the-top-20-in-one-day"/>
+   
+   <id>http://blog.jilion.com/?p=33</id>
+   
+   <updated>2009-12-05T00:00:00+01:00</updated>
+   <published>2009-12-05T00:00:00+01:00</published>
+   
+   <author>
+     <name>Zeno</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2009/12/helvetiq_app_store_screenshot_rank_19.jpg&quot; alt=&quot;Helvetiq App Store Rank&quot; style=&quot;float:left;margin:10px 20px 10px 0&quot; /&gt;We&amp;#8217;re glad to see the &lt;a href=&quot;http://iphone.helvetiq.ch&quot;&gt;iPhone app&lt;/a&gt; we developed for Helvetiq entered the Swiss App Store &lt;strong&gt;Top 20&lt;/strong&gt; Free apps in less than 24 hours.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Welcome to our blog</title>
+   <link href="http://blog.jilion.com/2009/12/03/welcome"/>
+   
+   <id>http://blog.jilion.com/?p=9</id>
+   
+   <updated>2009-12-03T00:00:00+01:00</updated>
+   <published>2009-12-03T00:00:00+01:00</published>
+   
+   <author>
+     <name>Mehdi</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;We&amp;#8217;d like to take the opportunity to introduce ourselves and tell you more about what we do.&lt;/p&gt;
+&lt;p&gt;We recently started &lt;a href=&quot;http://jilion.com&quot;&gt;Jilion&lt;/a&gt; late summer 2009 but our team has actually been working together for several years at the &lt;a href=&quot;http://www.epfl.ch&quot;&gt;&lt;span class=&quot;caps&quot;&gt;EPFL&lt;/span&gt;&lt;/a&gt; campus in Switzerland.&lt;/p&gt;
+&lt;p&gt;Back in 2006, Mehdi and Zeno started the &lt;strong&gt;Jime&lt;/strong&gt; project, rapidly joined by Thibaud and Octave and several other excellent contributors. Jime is a massive project, which is going to be our contribution to solve the current mess of the music industry by providing a complete Internet-based solution to its numerous problems.&lt;/p&gt;
+&lt;p&gt;Jime will propose a completely pro artists platform and a pure level playing field for all participants of this new value chain model.&lt;/p&gt;
+&lt;p&gt;Jime is a beautiful project that strongly unites our team. It is still cooking and will be launched &amp;#8230;when ready. So no additional teasing till then!&lt;/p&gt;
+&lt;p&gt;We decided to start &lt;a href=&quot;http://jilion.com&quot;&gt;Jilion&lt;/a&gt; for several reasons:&lt;/p&gt;
+&lt;p&gt;First of all, we want to stay independent in order to keep a clean focus on what we think Jime should become.&lt;/p&gt;
+&lt;p&gt;We were asked from time-to-time to work on other projects as we collectively amassed tons of experience in complex back-end development using Ruby on Rails, rich interactive front-ends using JavaScript and web standards, social media platforms interoperability and stylish and effective interface design.&lt;/p&gt;
+&lt;p&gt;Also, it&amp;#8217;s healthy to close the loop more often than your own &amp;#8220;big project&amp;#8221; allows you, meet and work with people on exciting challenges and generate satisfaction for everybody.&lt;/p&gt;
+&lt;p&gt;For all these reasons, we are very excited to start &lt;a href=&quot;http://jilion.com&quot;&gt;Jilion&lt;/a&gt; and we&amp;#8217;ll continuously aim at delivering our customers with the highest level of geek-excellence and satisfaction possible.&lt;/p&gt;
+&lt;p&gt;Whether you would like to work with us, discuss a project or anything else, feel free to &lt;a href=&quot;mailto:%69%6e%66%6f@%6a%69%6c%69%6f%6e.%63%6f%6d&quot;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Jilion Team&lt;br /&gt;
+&amp;#8212; Mehdi, Zeno, Thibaud, Octave&lt;/p&gt;</content>
+ </entry>
+ 
+
+</feed>
