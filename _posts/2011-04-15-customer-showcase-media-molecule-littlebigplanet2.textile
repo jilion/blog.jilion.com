@@ -1,0 +1,17 @@
+---
+title: "Customer Showcase: LittleBigPlanet 2 by Media Molecule"
+blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>LittleBigPlanet 2 by Media Molecule</span>"
+authors: The Jilion Team
+font_size: 31
+layout: post
+---
+We are proud to have some great customers using "SublimeVideo":http://sublimevideo.net Player to promote and showcase their products, services and ideas. We’ll be interviewing and profiling some of them on our blog in the near future.
+
+<a href="http://littlebigplanet.com/en/" title="Visit LittleBigPlanet.com"><img src="http://blog.medias.jilion.com/uploads/2011/04/littlebigplanet2_sublimevideo.jpg" alt="SublimeVideo on LittleBigPlaner 2" /></a>
+LittleBigPlanet 2 - "http://littlebigplanet.com/en":http://littlebigplanet.com/en/
+
+Media Molecule are the UK-based video game developer behind one of this year’s hottest Playstation 3 games - LittleBigPlanet 2, sequel to 2008’s critically acclaimed and best-selling original. The sequel received universal acclaim for it’s beautiful graphics and innovative approach to user-based content creation and sharing - there are currently over 4.1 million user generated games available to play online in the LittleBigPlanet universe. Video is a vital and effective way to show off any video game, let alone one as media-rich and visually stunning as LittleBigPlanet 2. We are very proud that MediaMolecule used SublimeVideo Player to showcase their trailer for the game, front and centre on the official website.
+
+bq. <img src="http://blog.medias.jilion.com/uploads/2011/04/tom_kiss_mediamolecule.jpg" alt="Tom Kiss - MediaMolecule" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> "The SublimeVideo player has set a real benchmark for high quality HTML5 video players. By using it on littlebigplanet.com, it’s allowed us to deliver our videos across a broad spectrum of devices and operating systems to a much wider audience, including the latest smartphone handsets – an ever increasing proportion of our site visitors. Additionally, the Jilion team have been really helpful and supportive, allowing us to deliver the best experience for our users."
+
+p(quote_author). —Tom Kiss, Community Manager at "MediaMolecule":http://www.mediamolecule.com.

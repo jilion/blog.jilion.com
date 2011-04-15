@@ -197,6 +197,7 @@ body.win {font-family:Arial, sans-serif !important;}
 }
 
 .entry_title h2 a {
+  display:block;
   color:#7c96bf;
 }
 
@@ -204,29 +205,34 @@ body.win {font-family:Arial, sans-serif !important;}
   color:#fff;
 }
 
-@media screen and (-webkit-min-device-pixel-ratio:0){
-  .entry_title h2 {
-    position:relative;
-    text-shadow:0 0 1px #000;
-    height:45px;
-    width:580px;
-    color:#30415c;
-    -webkit-transition:color 0.5s;
-  }
-}
-
-@media screen and (-webkit-min-device-pixel-ratio:0){
-  .entry_title h2:hover {color:#fff;}
+.entry_title h2 span.title_logo {
+  display:block;
+  font-family:"proxima-nova-1","proxima-nova-2","Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform:uppercase;
+  font-size:20px;
+  font-weight:bold;
+  letter-spacing:1px;
+  margin-bottom:5px;
+  color:#4e6283;
 }
 
 @media screen and (-webkit-min-device-pixel-ratio:0){
   .entry_title h2 a {
-    position:absolute;
-    top:0;
-    left:0;
-    z-index:2;
-    color:#c6dafc;
-    -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
+    font-weight:600;
+    letter-spacing:-1px;
+  }
+  
+  .entry_title h2 a span {
+    display:block;
+    background:-webkit-gradient(linear, left top, left bottom, from(#c2d7f8), to(#364661));
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+  }
+  
+  .entry_title h2 span.title_logo {
+    background:-webkit-gradient(linear, left top, left bottom, from(#789bd2), to(#253550));
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
   }
 }
 
@@ -423,6 +429,22 @@ body.win {font-family:Arial, sans-serif !important;}
   letter-spacing:1px;
   font-size:14px;
   line-height:22px;
+}
+
+.entry_body blockquote {
+  margin-top:10px;
+  font-family:"chaparral-pro-1","chaparral-pro-2",Georgia,Times,sans-serif;
+  font-style:italic;
+  font-size:22px;
+}
+
+.entry_body blockquote p {
+  padding-bottom:10px;
+}
+
+.entry_body p.quote_author {
+  text-align:right;
+  font-size:18px;
 }
 
 .entry_body .footnotes {
