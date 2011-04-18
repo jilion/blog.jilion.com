@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2011-04-15T16:25:09+02:00</updated>
+ <updated>2011-04-18T15:42:34+02:00</updated>
  <rights>Copyright (c) 2011 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -14,10 +14,33 @@
 
  
  <entry>
-   <title>Customer Showcase: LittleBigPlanet 2 by Media Molecule</title>
-   <link href="http://blog.jilion.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2"/>
+   <title>Customer Showcase: Method & Craft</title>
+   <link href="http://blogjilion-staging.heroku.com/2011/04/18/customer-showcase-method-and-craft"/>
    
-   <id>http://blog.jilion.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2</id>
+   <id>http://blogjilion-staging.heroku.com/2011/04/18/customer-showcase-method-and-craft</id>
+   
+   <updated>2011-04-18T00:00:00+02:00</updated>
+   <published>2011-04-18T00:00:00+02:00</published>
+   
+   <author>
+     <name>The Jilion Team</name>
+   </author>
+   
+   <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Here is the latest entry to our Customer Showcase:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://methodandcraft.com&quot; title=&quot;Visit methodandcraft.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/04/methodandcraft_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on Method &amp;amp; Craft&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+Method &amp;amp; Craft &amp;#8211; &lt;a href=&quot;http://methodandcraft.com&quot;&gt;http://methodandcraft.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Launched in February 2011, Method &amp;amp; Craft boasts a rich collection of articles, interviews, notes and videos focusing on the process of design and those who practice it. The team behind Method &amp;amp; Craft have done a great job at designing a beautiful site that also makes it easy to find and read any of their articles, interviews and notes on design. Presenting their rapidly growing collection of videos as beautifully as their text-based content was a different challenge, and we are thrilled that they turned to SublimeVideo Player to achieve just that. If you are a designer or creative of any kind who hasn’t already done so, we’d strongly recommend checking out Method &amp;amp; Craft.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/04/phil_coffman_methodandcraft.jpg&quot; alt=&quot;Phil Coffman- Method &amp;amp; Craft&quot; class=&quot;no_rounded&quot; style=&quot;float:left;margin:7px 22px 0 0&quot; /&gt; &amp;#8220;We needed to leverage HTML5 video for Method &amp;amp; Craft because we knew iOS device use would be high among our visitors. The SublimeVideo player not only delivered on that need in spades, but also looks absolutely gorgeous which is a big deal to design nerds like us.&amp;#8221;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class=&quot;quote_author&quot;&gt;—Phil Coffman, Founder of &lt;a href=&quot;http://methodandcraft.com&quot;&gt;Method &amp;amp; Craft&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Customer Showcase: LittleBigPlanet 2 by Media Molecule</title>
+   <link href="http://blogjilion-staging.heroku.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2"/>
+   
+   <id>http://blogjilion-staging.heroku.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2</id>
    
    <updated>2011-04-15T00:00:00+02:00</updated>
    <published>2011-04-15T00:00:00+02:00</published>
@@ -38,9 +61,9 @@ LittleBigPlanet 2 &amp;#8211; &lt;a href=&quot;http://littlebigplanet.com/en/&qu
  
  <entry>
    <title>SublimeVideo is commercially available!</title>
-   <link href="http://blog.jilion.com/2011/03/30/sublimevideo-is-commercially-available"/>
+   <link href="http://blogjilion-staging.heroku.com/2011/03/30/sublimevideo-is-commercially-available"/>
    
-   <id>http://blog.jilion.com/2011/03/30/sublimevideo-is-commercially-available</id>
+   <id>http://blogjilion-staging.heroku.com/2011/03/30/sublimevideo-is-commercially-available</id>
    
    <updated>2011-03-30T00:00:00+02:00</updated>
    <published>2011-03-30T00:00:00+02:00</published>
@@ -64,9 +87,9 @@ Check out our &lt;a href=&quot;http://jilion.com/pr/2011-03-30&quot;&gt;Press Re
  
  <entry>
    <title>Consistency, down to the right-click</title>
-   <link href="http://blog.jilion.com/2011/01/19/consistency-down-to-the-right-click"/>
+   <link href="http://blogjilion-staging.heroku.com/2011/01/19/consistency-down-to-the-right-click"/>
    
-   <id>http://blog.jilion.com/2011/01/19/consistency-down-to-the-right-click</id>
+   <id>http://blogjilion-staging.heroku.com/2011/01/19/consistency-down-to-the-right-click</id>
    
    <updated>2011-01-19T00:00:00+01:00</updated>
    <published>2011-01-19T00:00:00+01:00</published>
@@ -101,9 +124,9 @@ Check out our &lt;a href=&quot;http://jilion.com/pr/2011-03-30&quot;&gt;Press Re
  
  <entry>
    <title>SublimeVideo Beta runs great!</title>
-   <link href="http://blog.jilion.com/2010/12/21/sublimevideo-beta-runs-great"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/12/21/sublimevideo-beta-runs-great"/>
    
-   <id>http://blog.jilion.com/2010/12/21/sublimevideo-beta-runs-great</id>
+   <id>http://blogjilion-staging.heroku.com/2010/12/21/sublimevideo-beta-runs-great</id>
    
    <updated>2010-12-21T00:00:00+01:00</updated>
    <published>2010-12-21T00:00:00+01:00</published>
@@ -139,9 +162,9 @@ Second and maybe even more importantly, the Beta is demonstrating the value of o
  
  <entry>
    <title>SublimeVideo Beta starts Today</title>
-   <link href="http://blog.jilion.com/2010/09/14/sublimevideo-beta-starts-today"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/09/14/sublimevideo-beta-starts-today"/>
    
-   <id>http://blog.jilion.com/2010/09/14/sublimevideo-beta-starts-today</id>
+   <id>http://blogjilion-staging.heroku.com/2010/09/14/sublimevideo-beta-starts-today</id>
    
    <updated>2010-09-14T00:00:00+02:00</updated>
    <published>2010-09-14T00:00:00+02:00</published>
@@ -165,9 +188,9 @@ We would love to know if you&amp;#8217;re happy with SublimeVideo and what we ca
  
  <entry>
    <title>Introducing SublimeVideo Player as a Service</title>
-   <link href="http://blog.jilion.com/2010/08/31/introducing-sublimevideo-player-as-a-service"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/08/31/introducing-sublimevideo-player-as-a-service"/>
    
-   <id>http://blog.jilion.com/2010/08/31/introducing-sublimevideo-player-as-a-service</id>
+   <id>http://blogjilion-staging.heroku.com/2010/08/31/introducing-sublimevideo-player-as-a-service</id>
    
    <updated>2010-08-31T00:00:00+02:00</updated>
    <published>2010-08-31T00:00:00+02:00</published>
@@ -213,9 +236,9 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>Stay Updated</title>
-   <link href="http://blog.jilion.com/2010/08/03/stay-updated"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/08/03/stay-updated"/>
    
-   <id>http://blog.jilion.com/2010/08/03/stay-updated</id>
+   <id>http://blogjilion-staging.heroku.com/2010/08/03/stay-updated</id>
    
    <updated>2010-08-03T00:00:00+02:00</updated>
    <published>2010-08-03T00:00:00+02:00</published>
@@ -229,7 +252,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>Next Month!</title>
-   <link href="http://blog.jilion.com/2010/07/08/next-month"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/07/08/next-month"/>
    
    <id>http://blog.jilion.com/?p=328</id>
    
@@ -247,7 +270,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>SublimeVideo Flash mode</title>
-   <link href="http://blog.jilion.com/2010/04/07/sublimevideo-flash-mode"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/04/07/sublimevideo-flash-mode"/>
    
    <id>http://blog.jilion.com/?p=285</id>
    
@@ -279,7 +302,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>SublimeVideo supports Firefox</title>
-   <link href="http://blog.jilion.com/2010/02/11/sublimevideo-supports-firefox"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/02/11/sublimevideo-supports-firefox"/>
    
    <id>http://blog.jilion.com/?p=252</id>
    
@@ -307,7 +330,7 @@ At the moment we couldn&amp;#8217;t integrate this directly into our controls as
  
  <entry>
    <title>Introducing SublimeVideo</title>
-   <link href="http://blog.jilion.com/2010/01/25/introducing-sublimevideo"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/01/25/introducing-sublimevideo"/>
    
    <id>http://blog.jilion.com/?p=204</id>
    
@@ -338,7 +361,7 @@ At the moment we couldn&amp;#8217;t integrate this directly into our controls as
  
  <entry>
    <title>The power to interoperate with social networks</title>
-   <link href="http://blog.jilion.com/2010/01/21/the-power-to-interoperate-with-social-networks"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/01/21/the-power-to-interoperate-with-social-networks"/>
    
    <id>http://blog.jilion.com/?p=150</id>
    
@@ -367,7 +390,7 @@ A proper integration with a leading social network definitely helps to bootstrap
  
  <entry>
    <title>In the Top 20 in one day</title>
-   <link href="http://blog.jilion.com/2009/12/05/in-the-top-20-in-one-day"/>
+   <link href="http://blogjilion-staging.heroku.com/2009/12/05/in-the-top-20-in-one-day"/>
    
    <id>http://blog.jilion.com/?p=33</id>
    
@@ -383,7 +406,7 @@ A proper integration with a leading social network definitely helps to bootstrap
  
  <entry>
    <title>Welcome to our blog</title>
-   <link href="http://blog.jilion.com/2009/12/03/welcome"/>
+   <link href="http://blogjilion-staging.heroku.com/2009/12/03/welcome"/>
    
    <id>http://blog.jilion.com/?p=9</id>
    
