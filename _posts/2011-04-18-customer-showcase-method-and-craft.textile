@@ -1,0 +1,17 @@
+---
+title: "Customer Showcase: Method & Craft"
+blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Method & Craft</span>"
+authors: The Jilion Team
+font_size: 31
+layout: post
+---
+We are proud to have some great customers using "SublimeVideo":http://sublimevideo.net Player. Here is the latest entry to our Customer Showcase:
+
+<a href="http://methodandcraft.com" title="Visit methodandcraft.com"><img src="http://blog.medias.jilion.com/uploads/2011/04/methodandcraft_sublimevideo.jpg" alt="SublimeVideo on Method &amp; Craft" /></a>
+Method & Craft - "http://methodandcraft.com":http://methodandcraft.com
+
+Launched in February 2011, Method & Craft boasts a rich collection of articles, interviews, notes and videos focusing on the process of design and those who practice it. The team behind Method & Craft have done a great job at designing a beautiful site that also makes it easy to find and read any of their articles, interviews and notes on design. Presenting their rapidly growing collection of videos as beautifully as their text-based content was a different challenge, and we are thrilled that they turned to SublimeVideo Player to achieve just that. If you are a designer or creative of any kind who hasn’t already done so, we’d strongly recommend checking out Method & Craft.
+
+bq. <img src="http://blog.medias.jilion.com/uploads/2011/04/phil_coffman_methodandcraft.jpg" alt="Phil Coffman- Method &amp; Craft" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> "We needed to leverage HTML5 video for Method & Craft because we knew iOS device use would be high among our visitors. The SublimeVideo player not only delivered on that need in spades, but also looks absolutely gorgeous which is a big deal to design nerds like us."
+
+p(quote_author). —Phil Coffman, Founder of "Method & Craft":http://methodandcraft.com.
