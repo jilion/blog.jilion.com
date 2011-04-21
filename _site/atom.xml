@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2011-04-18T16:17:32+02:00</updated>
+ <updated>2011-04-21T10:48:05+02:00</updated>
  <rights>Copyright (c) 2011 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -14,7 +14,7 @@
 
  
  <entry>
-   <title>Customer Showcase: Method & Craft</title>
+   <title>Customer Showcase: Method &amp; Craft</title>
    <link href="http://blog.jilion.com/2011/04/18/customer-showcase-method-and-craft"/>
    
    <id>http://blog.jilion.com/2011/04/18/customer-showcase-method-and-craft</id>
