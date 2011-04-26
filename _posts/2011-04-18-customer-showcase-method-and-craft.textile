@@ -1,5 +1,5 @@
 ---
-title: "Customer Showcase: Method &amp; Craft"
+title: "Customer Showcase: Method & Craft"
 blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Method &amp; Craft</span>"
 authors: The Jilion Team
 font_size: 34
