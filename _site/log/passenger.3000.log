@@ -1,0 +1,2 @@
+2011/01/20 14:32:12 [error] 8191#0: *4 "/Users/Thibaud/Development/Code/Jilion/Products/Jilion.com/blog.jilion.com/public/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:3000"
+2011/01/20 14:32:19 [error] 8191#0: *5 "/Users/Thibaud/Development/Code/Jilion/Products/Jilion.com/blog.jilion.com/public/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:3000"
