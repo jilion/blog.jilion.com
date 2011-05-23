@@ -5,9 +5,11 @@ authors: The Jilion Team
 font_size: 34
 layout: post
 ---
-Today we are launching "Aelios Weather":http://aeliosapp.com/appstore 1.0 for iPad, now available on the "App Store":http://aeliosapp.com/appstore at the special launch price of $2.99.
+Today we are launching "Aelios Weather":http://aeliosapp.com 1.0 for iPad, now available on the "App Store":http://aeliosapp.com/appstore at the special launch price of $2.99.
 
-<video class="sublime" height="337" preload="none" width="600" poster="http://blog.medias.jilion.com/uploads/2011/05/aelios_for_ipad_video_intro.jpg">
+<a href="http://aeliosapp.com"><img src="http://blog.medias.jilion.com/uploads/2011/05/aelios_for_ipad_and_icon.png" alt="Aelios for iPad" style="margin:10px 0 10px;" /></a>
+
+<video class="sublime" height="337" preload="none" width="600" poster="http://blog.medias.jilion.com/uploads/2011/05/aelios_for_ipad_video_zoomed.jpg">
   <source src="http://d19fll8qngs7ry.cloudfront.net/videos/aelios-intro-hd.mp4" />
   <source src="http://d19fll8qngs7ry.cloudfront.net/videos/aelios-intro-mobile.mp4" />
 </video>
