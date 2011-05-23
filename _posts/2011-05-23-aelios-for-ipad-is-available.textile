@@ -1,0 +1,23 @@
+---
+title: "Aelios for iPad is available"
+sub_title: Explore the World's Weather Forecasts!
+authors: The Jilion Team
+font_size: 34
+layout: post
+---
+Today we are launching "Aelios Weather":http://aeliosapp.com/appstore 1.0 for iPad, now available on the "App Store":http://aeliosapp.com/appstore at the special launch price of $2.99.
+
+<video class="sublime" height="337" preload="none" width="600" poster="http://blog.medias.jilion.com/uploads/2011/05/aelios_for_ipad_video_intro.jpg">
+  <source src="http://d19fll8qngs7ry.cloudfront.net/videos/aelios-intro-hd.mp4" />
+  <source src="http://d19fll8qngs7ry.cloudfront.net/videos/aelios-intro-mobile.mp4" />
+</video>
+
+<p class="hide"><small><em class="caption">If you are reading through your <span class="caps">RSS</span> reader, please visit this <a href="http://blog.jilion.com/2011/05/23/aelios-for-ipad-is-available">web page</a> on the browser to watch the video.</em></small></p>
+
+Aelios is a completely new kind of Weather app.
+
+We have tried really hard to innovate in the weather category and we believe we have created something both functional and well designed; Something that your iPad really deserves.
+
+Visit "the Aelios' website":http://aeliosapp.com to learn more about the app and make sure you don’t miss the quick intro video.
+
+Follow "@aeliosapp":http://twitter.com/aeliosapp and "@jilion":http://twitter.com/jilion for the latest news on Aelios.
