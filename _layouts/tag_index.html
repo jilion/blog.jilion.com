@@ -1,0 +1,32 @@
+---
+layout: master
+body: blog archive
+---
+
+<h2>Tag: {{ page.tag }}</h2>
+
+{% for post in site.tags[page.tag] %}
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      <h2 id="post_{{post.id | id_to_css_id}}" style="{% if post.font_size %}font-size:{{post.font_size}}px{% endif %}"><a href="{{post.url | pretty_url}}">{% if post.blog_display_title %}{{post.blog_display_title}}{% else %}<span>{{post.title}}</span>{% endif %}</a></h2>
+      {% if post.sub_title %}
+        <h3 class="sub_header">{{post.sub_title}}</h3>
+      {% endif %}
+    </div>
+    <div class="entry_meta">
+      <span class="date">{{post.date | date_to_pretty_string}}</span>
+      <span class="authors">by {{post.authors}}</span>
+      <div class="entry_comments_count" id="entry_comments_count_{{post.id | id_to_css_id}}">
+        <a href="{{post.url | pretty_url}}#disqus_thread">
+          Comments
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    {{ post.content }}
+    <div class="spacer"></div>
+  </div>
+</div>
+{% endfor %}

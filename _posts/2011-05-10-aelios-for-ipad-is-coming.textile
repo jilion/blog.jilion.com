@@ -2,6 +2,8 @@
 title: Aelios for iPad is coming!
 authors: The Jilion Team
 layout: post
+tags:
+- Aelios
 ---
 <a href="http://aeliosapp.com"><img src="http://blog.medias.jilion.com/uploads/2011/05/aelios_ipad_app_teaser.jpg" alt="Aelios App for iPad Teaser" /></a>
 Jilion is about to launch "Aelios":http://aeliosapp.com, our first iPad app!
