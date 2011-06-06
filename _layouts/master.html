@@ -112,6 +112,16 @@
               <li class="twitter"><a href="http://twitter.com/jilion">Twitter</a></li>
             </ul>
           </div>
+
+          <div class="tags">
+            <h4>Tags list</h4>
+            <ul>
+            {% for tag in site.tags_name %}
+              <li><a href="/tags/{{ tag | replace:' ', '-' | downcase }}" name="{{ tag | replace:' ','-' | downcase }}">{{ tag }}</a></h4>
+            {% endfor %}
+            </ul>
+          </div>
+
         </div>
         <div class="spacer"></div>
       </div>

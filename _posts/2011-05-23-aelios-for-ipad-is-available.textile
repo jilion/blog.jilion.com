@@ -4,6 +4,8 @@ sub_title: Explore the World's Weather Forecasts!
 authors: The Jilion Team
 font_size: 34
 layout: post
+tags:
+- Aelios
 ---
 Today we are launching "Aelios Weather":http://aeliosapp.com 1.0 for iPad, now available on the "App Store":http://aeliosapp.com/appstore at the special launch price of $2.99.
 
