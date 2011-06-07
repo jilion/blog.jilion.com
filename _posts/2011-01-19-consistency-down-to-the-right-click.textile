@@ -3,6 +3,8 @@ title: Consistency, down to the right-click
 authors: Zeno
 font_size: 35
 layout: post
+tags:
+- SublimeVideo
 ---
 If you are a developer or a curious user, you have probably found yourself often *right-clicking* on videos in your browser to get the contextual menu and see if they are played using Flash or HTML5.
 

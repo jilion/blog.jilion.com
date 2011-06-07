@@ -2,8 +2,7 @@
 layout: master
 body: blog archive
 ---
-
-<h2>Tag: {{ page.tag }}</h2>
+{% capture rack_env %}{{ "" | rack_env }}{% endcapture %}
 
 {% for post in site.tags[page.tag] %}
 <div class="entry">
@@ -25,7 +24,7 @@ body: blog archive
     </div>
   </div>
   <div class="entry_body">
-    {{ post.content }}
+    {{ post.content | textilize }}
     <div class="spacer"></div>
   </div>
 </div>

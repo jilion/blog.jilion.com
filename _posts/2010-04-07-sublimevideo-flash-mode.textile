@@ -4,6 +4,8 @@ authors: Octave
 layout: post
 wordpress_id: 285
 wordpress_url: http://blog.jilion.com/?p=285
+tags:
+- SublimeVideo
 ---
 <img style="float: left;margin: 0 24px 0 0" src="http://blog.medias.jilion.com/uploads/2010/04/flash.png" alt="Flash Icon" /> SublimeVideo has a broader goal than just showcasing some nice HTML5 features in a controlled environment like our <a href="http://jilion.com/sublime/video">demo page</a>. We aim at delivering a modern and simple video-embedding solution for web developers that provides the same user experience and uniform UI across browsers.
 
