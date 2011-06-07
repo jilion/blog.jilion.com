@@ -4,6 +4,8 @@ sub_title: Beta of HTML5 video cloud player to start in September
 authors: Mehdi
 font_size: 27
 layout: post
+tags:
+- SublimeVideo
 ---
 <img style="float: left;margin: 5px 25px 0 0" src="http://blog.medias.jilion.com/uploads/2010/08/sublimevideo_cloud.png" alt="Introducing SublimeVideo Player as a Service" /> This is a big day for us at Jilion!
 Today, as promised we let you know what we’ve been working on during the past few months. We hope you’ll like it as much as we do.

@@ -4,6 +4,9 @@ blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Lit
 authors: The Jilion Team
 font_size: 31
 layout: post
+tags:
+- SublimeVideo
+- Customer Showcase
 ---
 We are proud to have some great customers using "SublimeVideo":http://sublimevideo.net Player to promote and showcase their products, services and ideas. We’ll be interviewing and profiling some of them on our blog in the near future.
 

@@ -3,6 +3,8 @@ title: SublimeVideo is commercially available!
 authors: The Jilion Team
 font_size: 31
 layout: post
+tags:
+- SublimeVideo
 ---
 <a href="http://sublimevideo.net"><img src="http://blog.medias.jilion.com/uploads/2011/03/SublimeVideo-Public-Launch.png" alt="SublimeVideo Public Launch" /></a>
 Back in early 2010 more than a million visitors enjoyed what many considered was the best HTML5 video player on the Internet.

@@ -2,6 +2,8 @@
 title: SublimeVideo Beta starts Today
 authors: Zeno
 layout: post
+tags:
+- SublimeVideo
 ---
 We are happy to announce we are launching SublimeVideo Beta today and we are sending out the first wave of invitations right now.
 
