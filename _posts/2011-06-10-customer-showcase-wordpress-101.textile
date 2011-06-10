@@ -1,0 +1,22 @@
+---
+title: "Customer Showcase: Wordpress 101"
+blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Wordpress 101</span>"
+authors: The Jilion Team
+font_size: 34
+layout: post
+tags:
+- SublimeVideo
+- Customer Showcase
+---
+We are proud to have some great customers using "SublimeVideo":http://sublimevideo.net Player. Here is the latest entry to our Customer Showcase:
+
+<a href="http://www.wp101.com" title="Visit wp101.com"><img src="http://blog.medias.jilion.com/uploads/2011/06/wp101_sublimevideo.jpg" alt="SublimeVideo on wp101.com" /></a>
+Wordpress 101 - "http://www.wp101.com":http://www.wp101.com
+
+Since its launch in 2008, WP101 has earned a reputation for delivering the highest-quality, online video training for the popular WordPress content management system. Through the WordPress 101 tutorial series, thousands of WordPress users have learned to create and manage their own website content, using just their web browser.
+
+Originally created for WordPress beginners, WP101 has also become an invaluable resource for designers and consultants, enabling them to provide online WordPress training for their own clients and customers. As such, WP101's ongoing success is completely dependent upon smooth, reliable video playback for hundreds of simultaneous users.
+
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/06/shawn_hesketh_wp101.jpg" alt="Shawn Hesketh - WordPress 101" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “After trying more than a dozen other video players, we were thrilled to discover the SublimeVideo Player, with its support for HTML5 video. Now, whether our users access the training videos from their desktop or mobile device, we know they'll enjoy the same gorgeous interface and ease of use.</p><p>Best of all, since we began using the SublimeVideo Player, more than 50 bug fixes and new features have been automatically added—without us having to do anything at all. This not only frees up our time, but also provides much-welcome peace of mind.”</p></blockquote>
+
+p(quote_author). —Shawn Hesketh, Creator of WordPress 101.
