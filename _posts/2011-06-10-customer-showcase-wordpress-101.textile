@@ -1,6 +1,6 @@
 ---
-title: "Customer Showcase: Wordpress 101"
-blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Wordpress 101</span>"
+title: "Customer Showcase: WordPress 101"
+blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>WordPress 101</span>"
 authors: The Jilion Team
 font_size: 34
 layout: post
@@ -11,7 +11,7 @@ tags:
 We are proud to have some great customers using "SublimeVideo":http://sublimevideo.net Player. Here is the latest entry to our Customer Showcase:
 
 <a href="http://www.wp101.com" title="Visit wp101.com"><img src="http://blog.medias.jilion.com/uploads/2011/06/wp101_sublimevideo.jpg" alt="SublimeVideo on wp101.com" /></a>
-Wordpress 101 - "http://www.wp101.com":http://www.wp101.com
+WordPress 101 - "http://www.wp101.com":http://www.wp101.com
 
 Since its launch in 2008, WP101 has earned a reputation for delivering the highest-quality, online video training for the popular WordPress content management system. Through the WordPress 101 tutorial series, thousands of WordPress users have learned to create and manage their own website content, using just their web browser.
 
