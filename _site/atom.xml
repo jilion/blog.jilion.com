@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2011-06-10T14:32:50+02:00</updated>
+ <updated>2011-06-10T14:39:09+02:00</updated>
  <rights>Copyright (c) 2011 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -14,7 +14,7 @@
 
  
  <entry>
-   <title>Customer Showcase: Wordpress 101</title>
+   <title>Customer Showcase: WordPress 101</title>
    <link href="http://blog.jilion.com/2011/06/10/customer-showcase-wordpress-101"/>
    
    <id>http://blog.jilion.com/2011/06/10/customer-showcase-wordpress-101</id>
@@ -28,7 +28,7 @@
    
    <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Here is the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.wp101.com&quot; title=&quot;Visit wp101.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/06/wp101_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on wp101.com&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
-Wordpress 101 &amp;#8211; &lt;a href=&quot;http://www.wp101.com&quot;&gt;http://www.wp101.com&lt;/a&gt;&lt;/p&gt;
+WordPress 101 &amp;#8211; &lt;a href=&quot;http://www.wp101.com&quot;&gt;http://www.wp101.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Since its launch in 2008, WP101 has earned a reputation for delivering the highest-quality, online video training for the popular WordPress content management system. Through the WordPress 101 tutorial series, thousands of WordPress users have learned to create and manage their own website content, using just their web browser.&lt;/p&gt;
 &lt;p&gt;Originally created for WordPress beginners, WP101 has also become an invaluable resource for designers and consultants, enabling them to provide online WordPress training for their own clients and customers. As such, WP101&amp;#8217;s ongoing success is completely dependent upon smooth, reliable video playback for hundreds of simultaneous users.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/06/shawn_hesketh_wp101.jpg&quot; alt=&quot;Shawn Hesketh - WordPress 101&quot; class=&quot;no_rounded&quot; style=&quot;float:left;margin:7px 22px 0 0&quot; /&gt; “After trying more than a dozen other video players, we were thrilled to discover the SublimeVideo Player, with its support for HTML5 video. Now, whether our users access the training videos from their desktop or mobile device, we know they&amp;#8217;ll enjoy the same gorgeous interface and ease of use.&lt;/p&gt;&lt;p&gt;Best of all, since we began using the SublimeVideo Player, more than 50 bug fixes and new features have been automatically added—without us having to do anything at all. This not only frees up our time, but also provides much-welcome peace of mind.”&lt;/p&gt;&lt;/blockquote&gt;
