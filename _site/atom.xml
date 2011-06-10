@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2011-06-10T14:18:30+02:00</updated>
+ <updated>2011-06-10T14:20:37+02:00</updated>
  <rights>Copyright (c) 2011 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -15,9 +15,9 @@
  
  <entry>
    <title>Customer Showcase: Wordpress 101</title>
-   <link href="http://localhost:4000/2011/06/10/customer-showcase-wordpress-101/"/>
+   <link href="http://blogjilion-staging.heroku.com/2011/06/10/customer-showcase-wordpress-101"/>
    
-   <id>http://localhost:4000/2011/06/10/customer-showcase-wordpress-101</id>
+   <id>http://blogjilion-staging.heroku.com/2011/06/10/customer-showcase-wordpress-101</id>
    
    <updated>2011-06-10T00:00:00+02:00</updated>
    <published>2011-06-10T00:00:00+02:00</published>
@@ -37,9 +37,9 @@ Wordpress 101 &amp;#8211; &lt;a href=&quot;http://www.wp101.com&quot;&gt;http://
  
  <entry>
    <title>Customer Showcase: Camera +</title>
-   <link href="http://localhost:4000/2011/06/01/customer-showcase-camera-plus/"/>
+   <link href="http://blogjilion-staging.heroku.com/2011/06/01/customer-showcase-camera-plus"/>
    
-   <id>http://localhost:4000/2011/06/01/customer-showcase-camera-plus</id>
+   <id>http://blogjilion-staging.heroku.com/2011/06/01/customer-showcase-camera-plus</id>
    
    <updated>2011-06-01T00:00:00+02:00</updated>
    <published>2011-06-01T00:00:00+02:00</published>
@@ -58,9 +58,9 @@ Camera + (Clarity) &amp;#8211; &lt;a href=&quot;http://campl.us/clarity&quot;&gt
  
  <entry>
    <title>Customer Showcase: Small Change</title>
-   <link href="http://localhost:4000/2011/05/30/customer-showcase-small-change/"/>
+   <link href="http://blogjilion-staging.heroku.com/2011/05/30/customer-showcase-small-change"/>
    
-   <id>http://localhost:4000/2011/05/30/customer-showcase-small-change</id>
+   <id>http://blogjilion-staging.heroku.com/2011/05/30/customer-showcase-small-change</id>
    
    <updated>2011-05-30T00:00:00+02:00</updated>
    <published>2011-05-30T00:00:00+02:00</published>
@@ -79,9 +79,9 @@ Small Change &amp;#8211; &lt;a href=&quot;http://www.smallchangeshort.com&quot;&
  
  <entry>
    <title>Aelios for iPad is available</title>
-   <link href="http://localhost:4000/2011/05/23/aelios-for-ipad-is-available/"/>
+   <link href="http://blogjilion-staging.heroku.com/2011/05/23/aelios-for-ipad-is-available"/>
    
-   <id>http://localhost:4000/2011/05/23/aelios-for-ipad-is-available</id>
+   <id>http://blogjilion-staging.heroku.com/2011/05/23/aelios-for-ipad-is-available</id>
    
    <updated>2011-05-23T00:00:00+02:00</updated>
    <published>2011-05-23T00:00:00+02:00</published>
@@ -105,9 +105,9 @@ Small Change &amp;#8211; &lt;a href=&quot;http://www.smallchangeshort.com&quot;&
  
  <entry>
    <title>Customer Showcase: Yaniv Fridman</title>
-   <link href="http://localhost:4000/2011/05/16/customer-showcase-yaniv-fridman/"/>
+   <link href="http://blogjilion-staging.heroku.com/2011/05/16/customer-showcase-yaniv-fridman"/>
    
-   <id>http://localhost:4000/2011/05/16/customer-showcase-yaniv-fridman</id>
+   <id>http://blogjilion-staging.heroku.com/2011/05/16/customer-showcase-yaniv-fridman</id>
    
    <updated>2011-05-16T00:00:00+02:00</updated>
    <published>2011-05-16T00:00:00+02:00</published>
@@ -126,9 +126,9 @@ Yaniv Fridman &amp;#8211; &lt;a href=&quot;http://www.yanivfridman.com&quot;&gt;
  
  <entry>
    <title>Aelios for iPad is coming!</title>
-   <link href="http://localhost:4000/2011/05/10/aelios-for-ipad-is-coming/"/>
+   <link href="http://blogjilion-staging.heroku.com/2011/05/10/aelios-for-ipad-is-coming"/>
    
-   <id>http://localhost:4000/2011/05/10/aelios-for-ipad-is-coming</id>
+   <id>http://blogjilion-staging.heroku.com/2011/05/10/aelios-for-ipad-is-coming</id>
    
    <updated>2011-05-10T00:00:00+02:00</updated>
    <published>2011-05-10T00:00:00+02:00</published>
@@ -147,9 +147,9 @@ We won’t reveal much more just yet, but here’s a hint: it’s something you 
  
  <entry>
    <title>Customer Showcase: Big Cartel</title>
-   <link href="http://localhost:4000/2011/04/26/customer-showcase-big-cartel/"/>
+   <link href="http://blogjilion-staging.heroku.com/2011/04/26/customer-showcase-big-cartel"/>
    
-   <id>http://localhost:4000/2011/04/26/customer-showcase-big-cartel</id>
+   <id>http://blogjilion-staging.heroku.com/2011/04/26/customer-showcase-big-cartel</id>
    
    <updated>2011-04-26T00:00:00+02:00</updated>
    <published>2011-04-26T00:00:00+02:00</published>
@@ -170,9 +170,9 @@ Big Cartel &amp;#8211; &lt;a href=&quot;http://bigcartel.com&quot;&gt;http://big
  
  <entry>
    <title>Customer Showcase: Method &amp; Craft</title>
-   <link href="http://localhost:4000/2011/04/18/customer-showcase-method-and-craft/"/>
+   <link href="http://blogjilion-staging.heroku.com/2011/04/18/customer-showcase-method-and-craft"/>
    
-   <id>http://localhost:4000/2011/04/18/customer-showcase-method-and-craft</id>
+   <id>http://blogjilion-staging.heroku.com/2011/04/18/customer-showcase-method-and-craft</id>
    
    <updated>2011-04-18T00:00:00+02:00</updated>
    <published>2011-04-18T00:00:00+02:00</published>
@@ -193,9 +193,9 @@ Method &amp;amp; Craft &amp;#8211; &lt;a href=&quot;http://methodandcraft.com&qu
  
  <entry>
    <title>Customer Showcase: LittleBigPlanet 2 by Media Molecule</title>
-   <link href="http://localhost:4000/2011/04/15/customer-showcase-media-molecule-littlebigplanet2/"/>
+   <link href="http://blogjilion-staging.heroku.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2"/>
    
-   <id>http://localhost:4000/2011/04/15/customer-showcase-media-molecule-littlebigplanet2</id>
+   <id>http://blogjilion-staging.heroku.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2</id>
    
    <updated>2011-04-15T00:00:00+02:00</updated>
    <published>2011-04-15T00:00:00+02:00</published>
@@ -216,9 +216,9 @@ LittleBigPlanet 2 &amp;#8211; &lt;a href=&quot;http://littlebigplanet.com/en/&qu
  
  <entry>
    <title>SublimeVideo is commercially available!</title>
-   <link href="http://localhost:4000/2011/03/30/sublimevideo-is-commercially-available/"/>
+   <link href="http://blogjilion-staging.heroku.com/2011/03/30/sublimevideo-is-commercially-available"/>
    
-   <id>http://localhost:4000/2011/03/30/sublimevideo-is-commercially-available</id>
+   <id>http://blogjilion-staging.heroku.com/2011/03/30/sublimevideo-is-commercially-available</id>
    
    <updated>2011-03-30T00:00:00+02:00</updated>
    <published>2011-03-30T00:00:00+02:00</published>
@@ -242,9 +242,9 @@ Check out our &lt;a href=&quot;http://jilion.com/pr/2011-03-30&quot;&gt;Press Re
  
  <entry>
    <title>Consistency, down to the right-click</title>
-   <link href="http://localhost:4000/2011/01/19/consistency-down-to-the-right-click/"/>
+   <link href="http://blogjilion-staging.heroku.com/2011/01/19/consistency-down-to-the-right-click"/>
    
-   <id>http://localhost:4000/2011/01/19/consistency-down-to-the-right-click</id>
+   <id>http://blogjilion-staging.heroku.com/2011/01/19/consistency-down-to-the-right-click</id>
    
    <updated>2011-01-19T00:00:00+01:00</updated>
    <published>2011-01-19T00:00:00+01:00</published>
@@ -279,9 +279,9 @@ Check out our &lt;a href=&quot;http://jilion.com/pr/2011-03-30&quot;&gt;Press Re
  
  <entry>
    <title>SublimeVideo Beta runs great!</title>
-   <link href="http://localhost:4000/2010/12/21/sublimevideo-beta-runs-great/"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/12/21/sublimevideo-beta-runs-great"/>
    
-   <id>http://localhost:4000/2010/12/21/sublimevideo-beta-runs-great</id>
+   <id>http://blogjilion-staging.heroku.com/2010/12/21/sublimevideo-beta-runs-great</id>
    
    <updated>2010-12-21T00:00:00+01:00</updated>
    <published>2010-12-21T00:00:00+01:00</published>
@@ -317,9 +317,9 @@ Second and maybe even more importantly, the Beta is demonstrating the value of o
  
  <entry>
    <title>SublimeVideo Beta starts Today</title>
-   <link href="http://localhost:4000/2010/09/14/sublimevideo-beta-starts-today/"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/09/14/sublimevideo-beta-starts-today"/>
    
-   <id>http://localhost:4000/2010/09/14/sublimevideo-beta-starts-today</id>
+   <id>http://blogjilion-staging.heroku.com/2010/09/14/sublimevideo-beta-starts-today</id>
    
    <updated>2010-09-14T00:00:00+02:00</updated>
    <published>2010-09-14T00:00:00+02:00</published>
@@ -343,9 +343,9 @@ We would love to know if you&amp;#8217;re happy with SublimeVideo and what we ca
  
  <entry>
    <title>Introducing SublimeVideo Player as a Service</title>
-   <link href="http://localhost:4000/2010/08/31/introducing-sublimevideo-player-as-a-service/"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/08/31/introducing-sublimevideo-player-as-a-service"/>
    
-   <id>http://localhost:4000/2010/08/31/introducing-sublimevideo-player-as-a-service</id>
+   <id>http://blogjilion-staging.heroku.com/2010/08/31/introducing-sublimevideo-player-as-a-service</id>
    
    <updated>2010-08-31T00:00:00+02:00</updated>
    <published>2010-08-31T00:00:00+02:00</published>
@@ -391,9 +391,9 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>Stay Updated</title>
-   <link href="http://localhost:4000/2010/08/03/stay-updated/"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/08/03/stay-updated"/>
    
-   <id>http://localhost:4000/2010/08/03/stay-updated</id>
+   <id>http://blogjilion-staging.heroku.com/2010/08/03/stay-updated</id>
    
    <updated>2010-08-03T00:00:00+02:00</updated>
    <published>2010-08-03T00:00:00+02:00</published>
@@ -407,7 +407,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>Next Month!</title>
-   <link href="http://localhost:4000/2010/07/08/next-month/"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/07/08/next-month"/>
    
    <id>http://blog.jilion.com/?p=328</id>
    
@@ -425,7 +425,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>SublimeVideo Flash mode</title>
-   <link href="http://localhost:4000/2010/04/07/sublimevideo-flash-mode/"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/04/07/sublimevideo-flash-mode"/>
    
    <id>http://blog.jilion.com/?p=285</id>
    
@@ -457,7 +457,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>SublimeVideo supports Firefox</title>
-   <link href="http://localhost:4000/2010/02/11/sublimevideo-supports-firefox/"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/02/11/sublimevideo-supports-firefox"/>
    
    <id>http://blog.jilion.com/?p=252</id>
    
@@ -485,7 +485,7 @@ At the moment we couldn&amp;#8217;t integrate this directly into our controls as
  
  <entry>
    <title>Introducing SublimeVideo</title>
-   <link href="http://localhost:4000/2010/01/25/introducing-sublimevideo/"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/01/25/introducing-sublimevideo"/>
    
    <id>http://blog.jilion.com/?p=204</id>
    
@@ -516,7 +516,7 @@ At the moment we couldn&amp;#8217;t integrate this directly into our controls as
  
  <entry>
    <title>The power to interoperate with social networks</title>
-   <link href="http://localhost:4000/2010/01/21/the-power-to-interoperate-with-social-networks/"/>
+   <link href="http://blogjilion-staging.heroku.com/2010/01/21/the-power-to-interoperate-with-social-networks"/>
    
    <id>http://blog.jilion.com/?p=150</id>
    
@@ -545,7 +545,7 @@ A proper integration with a leading social network definitely helps to bootstrap
  
  <entry>
    <title>In the Top 20 in one day</title>
-   <link href="http://localhost:4000/2009/12/05/in-the-top-20-in-one-day/"/>
+   <link href="http://blogjilion-staging.heroku.com/2009/12/05/in-the-top-20-in-one-day"/>
    
    <id>http://blog.jilion.com/?p=33</id>
    
@@ -561,7 +561,7 @@ A proper integration with a leading social network definitely helps to bootstrap
  
  <entry>
    <title>Welcome to our blog</title>
-   <link href="http://localhost:4000/2009/12/03/welcome/"/>
+   <link href="http://blogjilion-staging.heroku.com/2009/12/03/welcome"/>
    
    <id>http://blog.jilion.com/?p=9</id>
    
