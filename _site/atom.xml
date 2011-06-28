@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2011-06-28T16:17:27+02:00</updated>
+ <updated>2011-06-28T16:20:04+02:00</updated>
  <rights>Copyright (c) 2011 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -27,7 +27,7 @@
    </author>
    
    <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Here is the latest entry to our Customer Showcase:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://icast2.brax.se&quot; title=&quot;Visit i-Cast 2.0 Replica&quot;&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2011/06/tetra_pak.jpg&quot; alt=&quot;SublimeVideo on Tetra Pak&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;http://icast2.brax.se&quot; title=&quot;Visit i-Cast 2.0 Replica&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/06/tetra_pak.jpg&quot; alt=&quot;SublimeVideo on Tetra Pak&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
 i-Cast 2.0 Replica &amp;#8211; &lt;a href=&quot;http://icast2.brax.se&quot;&gt;http://icast2.brax.se&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Tetra Pak developed an internal video publishing and distribution platform called i-Cast to improve the accessibility and sharing of digital video within the company. Today, the highly scalable platform serves well over 1,000 videos over the company’s intranet, and can be accessed from over 200 local offices in 150 countries worldwide. The developers chose to implement SublimeVideo Player to handle playback of all of their video content. The replica system currently available online contains far less video content, but is otherwise identical.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/06/lennart_hagberg_tetra_pak.jpg&quot; alt=&quot;Lennart Hagberg - Tetra Pak&quot; class=&quot;no_rounded&quot; style=&quot;float:left;margin:7px 22px 0 0&quot; /&gt; “We looked at plenty different players as well as building one ourselves. We wanted something that was high impact. The choice was dead easy: we love the SublimeVideo player.”&lt;/p&gt;&lt;/blockquote&gt;
