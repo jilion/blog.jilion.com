@@ -1,0 +1,20 @@
+---
+title: "Leo Laporte loves Aelios Weather"
+authors: The Jilion Team
+font_size: 34
+layout: post
+tags:
+- Aelios
+---
+Aelios was just featured on "Leo Laporte":http://leoville.com and ["Sarah Lane":http://www.sarahlane.com]'s podcast ""iPad Today 52":http://twit.tv/ipt52: Weather App Extravaganza"! Check out the "video":http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/ipad/ipad0052/ipad0052_h264b_864x480_500.mp4 (starting at 7:45).
+
+<a href="http://twit.tv/ipt52"><img src="http://blog.medias.jilion.com/uploads/2011/07/leo_laporte_and_sarah_lane_aelios_weather.jpg" alt="iPad Today 52: Weather App Extravaganza" /></a>
+
+There's one funny thing about it that we really want to share with you:
+You might have noticed that Leo always has a large LCD clock behind him. The truth is that this particular clock actually provided us with the spark of inspiration to design Aelios’ “Weather Poster” mode!
+
+Indeed, during the design phase we routinely said to one another “We need to design a beautiful weather forecast view, something that could be used like Leo’s big clock; something that he would love himself”.
+
+Last week this story came full circle; Leo and Sarah gave Aelios a rave review, all without ever speaking to us. Isn’t that cool ? :-)
+
+The Team would like to give a warm thank you to Sarah and Leo for their kind words and this unintentional connection.
