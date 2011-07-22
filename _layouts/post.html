@@ -15,7 +15,7 @@ layout: master
       <span class="date">{{page.date | date_to_pretty_string}}</span>
       <span class="authors">by {{page.authors}}</span> 
       <div class="entry_comments_count" id="entry_comments_count_{{page.id | id_to_css_id}}">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-text="{{page.title}} —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ page.url | pretty_url }}" data-text="{{page.title}} —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
         <!-- <a href="{{page.url | pretty_url}}#disqus_thread">
           Comments
         </a> -->
