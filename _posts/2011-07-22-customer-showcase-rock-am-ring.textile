@@ -1,0 +1,21 @@
+---
+title: "Customer Showcase: Rock am Ring"
+blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Rock am Ring</span>"
+authors: The Jilion Team
+layout: post
+tags:
+- SublimeVideo
+- Customer Showcase
+---
+We are proud to have some great customers using "SublimeVideo":http://sublimevideo.net Player. Here is the latest entry to our Customer Showcase:
+
+<a href="http://www.rock-am-ring.com" title="Visit rock-am-ring.com"><img src="http://blog.medias.jilion.com/uploads/2011/07/rock_am_ring_sublimevideo.jpg" alt="SublimeVideo on Rock am Ring" /></a>
+Rock am Ring - "http://www.rock-am-ring.com":http://www.rock-am-ring.com
+
+_Rock am Ring_ and _Rock im Park_ are simultaneous rock festivals held annually in Germany. With headline acts over the years including bands such as Metallica, Kiss, The Smashing Pumpkins, The Prodigy and even Coldplay, and combined attendances of just over 150,000 people, they are two of the largest and most popular music festivals in the world.
+
+Makalu Media - the company behind the official website - knew that it was vital to give visitors the best video experience whilst watching festival content online. We’re thrilled that they chose SublimeVideo Player to showcase the videos from this year’s festival.
+
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/07/matt_henderson_makalu_media.jpg" alt="Matt Henderson - Makalu Media" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “We chose Sublime having become frustrated with FlowPlayer. We liked that it looks the same with Flash or HTML5 video (that was important to our customer; they didn't want to know about different video types, etc; they just didn't want the look to change at any time), and (most importantly) that it was super-easy to implement. The ease-of-implementation saved us a lot of time.”</p></blockquote>
+
+p(quote_author). —Matt Henderson, Director of Makalu Media Inc.
