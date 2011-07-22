@@ -9,7 +9,7 @@ tags:
 ---
 We are proud to have some great customers using "SublimeVideo":http://sublimevideo.net Player. Here is the latest entry to our Customer Showcase:
 
-<a href="http://www.rock-am-ring.com" title="Visit rock-am-ring.com"><img src="http://blog.medias.jilion.com/uploads/2011/07/rock_am_ring_sublimevideo.jpg" alt="SublimeVideo on Rock am Ring" /></a>
+<a href="http://www.rock-am-ring.com" title="Visit rock-am-ring.com"><img src="http://blog.medias.jilion.com/uploads/2011/07/rockamring_sublimevideo.jpg" alt="SublimeVideo on Rock am Ring" /></a>
 Rock am Ring - "http://www.rock-am-ring.com":http://www.rock-am-ring.com
 
 _Rock am Ring_ and _Rock im Park_ are simultaneous rock festivals held annually in Germany. With headline acts over the years including bands such as Metallica, Kiss, The Smashing Pumpkins, The Prodigy and even Coldplay, and combined attendances of just over 150,000 people, they are two of the largest and most popular music festivals in the world.
