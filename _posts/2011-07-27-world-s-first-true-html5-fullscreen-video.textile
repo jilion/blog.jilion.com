@@ -10,7 +10,7 @@ We have some exciting news for all the HTML5 enthusiasts out there: true HTML5 f
 
 Until now, the lack of true fullscreen playback has been the biggest limitation of HTML5 over Flash video. Safari already offered a basic fullscreen option for HTML5 video players, but this was via a non-customizable QuickTime view that didn’t allow the player to be branded or to feature custom controls.
 
-For the first time since we "demoed our player last year":http://blog.jilion.com/2010/01/25/introducing-sublimevideo, we can finally enjoy SublimeVideo’s HTML5 controls in "glorious fullscreen":http://cl.ly/8ou5.
+For the first time since we "demoed our player last year":http://blog.jilion.com/2010/01/25/introducing-sublimevideo, we can finally enjoy SublimeVideo’s HTML5 controls in "glorious fullscreen":http://cl.ly/8owo.
 
 This is a cutting-edge feature and we are breaking new ground by being the first video player to implement it. Right now it requires the very latest version of Safari 5.1, but Chrome and Firefox support should arrive soon[^"1":#fn-2011-07-27-1^].
 
@@ -31,7 +31,7 @@ p(hide). <small><em class="caption">If you are reading through your RSS reader, 
 
 <em class="caption">Click on the fullscreen button or double click on the video to enter fullscreen.<br /> Safari 5.1 required.</em>
 
-We've "now":http://docs.sublimevideo.net/releases#2011-07-26-14-03 enabled this feature on all instances of SublimeVideo Player. However, because this is a brand new feature that is currently only available in Safari, for now we have left the traditional "full-window":http://cl.ly/8oKv behavior as the default player option. If you are running Safari 5.1, simply hold down Command (Mac) or Ctrl (Windows) while clicking the player’s full-window button to enjoy true fullscreen HTML5 playback[^"2":#fn-2011-07-27-2^]. You can also double-click the video whilst holding the modifier key to activate fullscreen. You can test it yourself on "some of our customers sites":http://blog.jilion.com/tags/customer-showcase!
+We've "now":http://docs.sublimevideo.net/releases#2011-07-26-14-03 enabled this feature on all instances of SublimeVideo Player. However, because this is a brand new feature that is currently only available in Safari, for now we have left the traditional "full-window":http://cl.ly/8oKv behavior as the default player option. If you are running Safari 5.1, simply hold down Command (Mac) or Ctrl (Windows) while clicking the player’s full-window button to enjoy true fullscreen HTML5 playback[^"2":#fn-2011-07-27-2^]. You can also double-click the video whilst holding the modifier key to activate fullscreen. You can test it yourself on "some of our customers' sites":http://blog.jilion.com/tags/customer-showcase!
 
 Stay tuned for more SublimeVideo news and developments.
 
