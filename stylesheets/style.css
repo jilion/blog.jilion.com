@@ -448,21 +448,25 @@ body.win {font-family:Arial, sans-serif !important;}
   font-size:18px;
 }
 
+.entry_body code {
+  font-family:Monaco, monospace;
+}
+
 .entry_body .footnotes {
   margin-top:10px;
   border-top:1px solid #2a323f;
-  width:70%;
+/*  width:70%;*/
 }
 
 .entry_body .footnotes ol {
-  padding:15px 0 15px 20px;
+  padding:15px 0 5px 20px;
   font-size:14px;
   line-height:20px;
 }
 
 .entry_body .footnotes ol li {
   background:none;
-  padding:0;
+  padding:0 0 10px;
 }
 
 .entry_body .sublime_video_wrapper img {
