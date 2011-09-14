@@ -1,0 +1,15 @@
+---
+title: "Happy Birthday SublimeVideo!"
+authors: Jilion Team
+font_size: 30
+layout: post
+tags:
+- SublimeVideo
+---
+<img style="float: left;margin: -4px 30px 0 25px" src="http://blog.medias.jilion.com/uploads/2011/09/SublimeVideo-One-Year-Anniversary.png" alt="Happy Birthday SublimeVideo" /> Today "SublimeVideo":http://sublimevideo.net celebrates its first birthday! A year ago we launched the "SublimeVideo beta":http://blog.jilion.com/2010/09/14/sublimevideo-beta-starts-today and were totally overwhelmed by the response of the HTML5 and video communities. 
+
+Throughout the beta and since our "commercial launch":http://blog.jilion.com/2011/03/30/sublimevideo-is-commercially-available in March we've gained some truly amazing users. We've been making an effort to profile some of them in a series of "Customer Showcases":http://blog.jilion.com/tags/customer-showcase — check it out to see some of the fantastic ways people are using SublimeVideo. 
+
+Our cloud-based model has worked as we had hoped, allowing us to administer "61 transparent updates":http://docs.sublimevideo.net/releases since launching the beta; improving compatibility, fixing bugs and adding functionality to all of our users players without them ever needing to lift a finger. We are also proud to be able to say that there have so far been zero interruptions to the delivery of the player.
+
+We'd like to thank the SublimeVideo community for all of your help and support, we couldn't have gotten where we are today without you. Finally, we’d like to let you all know that we have some big announcements planned before the end of the year - stay tuned to find out more.
