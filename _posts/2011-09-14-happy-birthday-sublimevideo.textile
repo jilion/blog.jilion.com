@@ -6,7 +6,7 @@ layout: post
 tags:
 - SublimeVideo
 ---
-<img style="float: left;margin: -4px 30px 0 25px" src="http://blog.medias.jilion.com/uploads/2011/09/SublimeVideo-One-Year-Anniversary.png" alt="Happy Birthday SublimeVideo" /> Today "SublimeVideo":http://sublimevideo.net celebrates its first birthday! A year ago we launched the "SublimeVideo beta":http://blog.jilion.com/2010/09/14/sublimevideo-beta-starts-today and were totally overwhelmed by the response of the HTML5 and video communities. 
+<img style="float: left;margin: -4px 30px 0 25px" src="http://blog.medias.jilion.com/uploads/2011/09/SublimeVideo-One-Year-Anniversary.png" alt="Happy Birthday SublimeVideo" /> Today "SublimeVideo":http://sublimevideo.net celebrates its first birthday! A year ago we launched the "SublimeVideo Beta":http://blog.jilion.com/2010/09/14/sublimevideo-beta-starts-today and were totally overwhelmed by the response of the HTML5 and video communities. 
 
 Throughout the beta and since our "commercial launch":http://blog.jilion.com/2011/03/30/sublimevideo-is-commercially-available in March we've gained some truly amazing users. We've been making an effort to profile some of them in a series of "Customer Showcases":http://blog.jilion.com/tags/customer-showcase — check it out to see some of the fantastic ways people are using SublimeVideo. 
 
