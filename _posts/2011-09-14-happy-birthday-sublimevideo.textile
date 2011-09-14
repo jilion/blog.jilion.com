@@ -1,7 +1,6 @@
 ---
 title: "Happy Birthday SublimeVideo!"
 authors: Jilion Team
-font_size: 30
 layout: post
 tags:
 - SublimeVideo
