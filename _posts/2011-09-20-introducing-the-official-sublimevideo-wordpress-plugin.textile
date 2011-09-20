@@ -7,7 +7,7 @@ font_size: 36
 tags:
 - SublimeVideo
 ---
-We're thrilled to announce the release of the official SublimeVideo WordPress plugin - available today from the "WordPress Plugin Directory":http://wordpress.org/extend/plugins/sublimevideo-official.
+We're thrilled to announce the release of the official SublimeVideo WordPress plugin - available today from the WordPress Plugin Directory.
 
 Our plugin is fully integrated with MySublimeVideo, so you don't need to remember your site's 'token' or any other technical details. Once you’ve installed and authorized the plugin to access your account details, you’re ready to start embedding video using the plugin’s powerful video embed builder.
 
