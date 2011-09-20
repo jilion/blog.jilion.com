@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2011-09-20T16:25:14+02:00</updated>
+ <updated>2011-09-20T16:31:35+02:00</updated>
  <rights>Copyright (c) 2011 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -26,7 +26,7 @@
      <name>Jilion Team</name>
    </author>
    
-   <content type="html">&lt;p&gt;We&amp;#8217;re thrilled to announce the release of the official SublimeVideo WordPress plugin &amp;#8211; available today from the &lt;a href=&quot;http://wordpress.org/extend/plugins/sublimevideo-official&quot;&gt;WordPress Plugin Directory&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;We&amp;#8217;re thrilled to announce the release of the official SublimeVideo WordPress plugin &amp;#8211; available today from the WordPress Plugin Directory.&lt;/p&gt;
 &lt;p&gt;Our plugin is fully integrated with MySublimeVideo, so you don&amp;#8217;t need to remember your site&amp;#8217;s &amp;#8216;token&amp;#8217; or any other technical details. Once you’ve installed and authorized the plugin to access your account details, you’re ready to start embedding video using the plugin’s powerful video embed builder.&lt;/p&gt;
 &lt;p&gt;Check out the short demo video below to see just how easy it is to use. For more detailed usage instructions head over to our dedicated &lt;a href=&quot;http://docs.sublimevideo.net/wordpress&quot;&gt;documentation page&lt;/a&gt;.&lt;/p&gt;
 &lt;video class=&quot;sublime&quot; width=&quot;600&quot; height=&quot;337&quot; poster=&quot;http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo.jpg&quot; preload=&quot;none&quot;&gt;
