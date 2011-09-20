@@ -13,7 +13,7 @@ Our plugin is fully integrated with MySublimeVideo, so you don't need to remembe
 
 Check out the short demo video below to see just how easy it is to use.
 
-<div style="margin-bottom:30px"><video class="sublime" width="600" height="337" poster="http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo.jpg" preload="none">
+<div style="margin-bottom:30px" ><video class="sublime" width="600" height="337" poster="http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo.jpg" preload="none">
   <source src="http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo.mp4" />
   <source src="http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo-mobile.mp4" />
 </video></div>
