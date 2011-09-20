@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2011-09-20T17:24:18+02:00</updated>
+ <updated>2011-09-20T19:00:35+02:00</updated>
  <rights>Copyright (c) 2011 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -29,7 +29,7 @@
    <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 2px 25px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2011/09/wordpress-logo.png&quot; alt=&quot;SublimeVideo WordPress plugin&quot; /&gt;We&amp;#8217;re thrilled to announce the release of the official SublimeVideo WordPress plugin.&lt;/p&gt;
 &lt;p&gt;Our plugin is fully integrated with MySublimeVideo, so you don&amp;#8217;t need to remember your site&amp;#8217;s &amp;#8216;token&amp;#8217; or any other technical details. Once you’ve installed and authorized the plugin to access your account details, you’re ready to start embedding video using the plugin’s powerful video embed builder.&lt;/p&gt;
 &lt;p&gt;Check out the short demo video below to see just how easy it is to use.&lt;/p&gt;
-&lt;div style=&quot;margin-bottom:30px&quot; &gt;&lt;video class=&quot;sublime&quot; width=&quot;600&quot; height=&quot;337&quot; poster=&quot;http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo.jpg&quot; preload=&quot;none&quot;&gt;&lt;br /&gt;
+&lt;div style=&quot;margin-bottom:30px&quot; &gt;&lt;video class=&quot;sublime&quot; width=&quot;600&quot; height=&quot;337&quot; poster=&quot;http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo.jpg&quot; preload=&quot;none&quot; data-sublime-settings=&quot;initial-overlay:none&quot;&gt;&lt;br /&gt;
   &lt;source src=&quot;http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo.mp4&quot; /&gt;&lt;br /&gt;
   &lt;source src=&quot;http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo-mobile.mp4&quot; /&gt;&lt;/video&gt;&lt;/div&gt;
 &lt;p class=&quot;hide&quot;&gt;&lt;small&gt;&lt;em class=&quot;caption&quot;&gt;If you are reading through your &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;RSS&lt;/span&gt;&lt;/span&gt; reader, please visit this &lt;a href=&quot;http://blog.jilion.com/2011/05/23/aelios-for-ipad-is-available&quot;&gt;web page&lt;/a&gt; on the browser to watch the video.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
