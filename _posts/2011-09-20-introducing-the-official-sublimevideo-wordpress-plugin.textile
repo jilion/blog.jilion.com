@@ -18,7 +18,7 @@ Check out the short demo video below to see just how easy it is to use.
   <source src="http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo-mobile.mp4" />
 </video></div>
 
-<p class="hide"><small><em class="caption">If you are reading through your <span class="caps">RSS</span> reader, please visit this <a href="http://blog.jilion.com/2011/05/23/aelios-for-ipad-is-available">web page</a> on the browser to watch the video.</em></small></p>
+<p class="hide"><small><em class="caption">If you are reading through your <span class="caps">RSS</span> reader, please visit this <a href="http://blog.jilion.com/2011/09/20/introducing-the-official-sublimevideo-wordpress-plugin">web page</a> on the browser to watch the video.</em></small></p>
 
 We'd like to take this opportunity to say thank you to "Jon Breitenbucher":http://jon.breitenbucher.net for developing and releasing the unofficial SublimeVideo WordPress plugin back in September 2010 (just two days after we launched the SublimeVideo beta). 
 
