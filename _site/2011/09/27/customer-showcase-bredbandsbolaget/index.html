@@ -10,7 +10,12 @@
     
 
     
-      <link href="/stylesheets/style.css" media="all" rel="stylesheet" type="text/css" />
+    <!--[if (!IE)|(gte IE 8)]><!-->
+    <link href="http://blog.medias.jilion.com/09272011145146/assets/style-datauri.css" media="all" rel="stylesheet" type="text/css" />
+    <!--<![endif]-->
+    <!--[if lte IE 7]>
+    <link href="http://blog.medias.jilion.com/09272011145146/assets/style-mhtml.css" media="all" rel="stylesheet" type="text/css" />
+    <![endif]-->
     
     <link rel="alternate" type="application/rss+xml" title="Jilion Blog" href="http://feeds.feedburner.com/jilion" />
     <link rel="shortcut icon" href="http://blog.medias.jilion.com/favicon.ico" type="image/x-icon" />
@@ -95,15 +100,15 @@
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_20110927" style=""><a href="http://blogjilion-staging.heroku.com/2011/09/27/customer-showcase-bredbandsbolaget"><span class='title_logo'>Customer Showcase</span> <span>Bredbandsbolaget</span></a></h2>
+      <h2 id="post_20110927" style=""><a href="http://blog.jilion.com/2011/09/27/customer-showcase-bredbandsbolaget"><span class='title_logo'>Customer Showcase</span> <span>Bredbandsbolaget</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">September 27th, 2011</span>
       <span class="authors">by The Jilion Team</span> 
       <div class="entry_comments_count" id="entry_comments_count_20110927">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blogjilion-staging.heroku.com/2011/09/27/customer-showcase-bredbandsbolaget" data-text="Customer Showcase: Bredbandsbolaget —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blogjilion-staging.heroku.com/2011/09/27/customer-showcase-bredbandsbolaget#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2011/09/27/customer-showcase-bredbandsbolaget" data-text="Customer Showcase: Bredbandsbolaget —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://blog.jilion.com/2011/09/27/customer-showcase-bredbandsbolaget#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -111,11 +116,11 @@
   </div>
   <div class="entry_body">
     <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a> Player. Introducing the latest entry to our Customer Showcase:</p>
-<p><a href="http://www.bredbandsbolaget.se" title="Visit bredbandsbolaget.se"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2011/09/bredbandsbolaget_sublimevideo.jpg" alt="SublimeVideo on Bredbandsbolaget" /></a><br />
+<p><a href="http://www.bredbandsbolaget.se" title="Visit bredbandsbolaget.se"><img src="http://blog.medias.jilion.com/uploads/2011/09/bredbandsbolaget_sublimevideo.jpg" alt="SublimeVideo on Bredbandsbolaget" /></a><br />
 Bredbandsbolaget &#8211; <a href="http://www.bredbandsbolaget.se">http://www.bredbandsbolaget.se</a></p>
 <p>Bredbandsbolaget is one of the most innovative operators in the world and the second biggest <span class="caps">ISP</span> in Sweden &#8211; offering high speed Internet access through fiber optic cable, copper wire and wireless / mobile. They also provide phone services and TV packages from well-known content suppliers like Viasat and Canal Digital.</p>
 <p>Bredbandsbolaget is part of Telenor Sweden, which also includes mobile operator Telenor and Glocalnet, and has more than 2 million subscriptions. They chose SublimeVideo to power the video demos on their product pages.</p>
-<blockquote><p><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2011/09/david_thunman_telenor_sweden.jpg" alt="David Thunman - Bredbandsbolaget" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “Since the launch of our updated TV service back in 2010 we have strived to offer our customers new channels, with a high quality of service. The SublimeVideo Player has helped us to showcase the latest and upcoming TV-shows. Thanks to the support offered by SublimeVideo, the implementation into our <span class="caps">CMS</span> was made simple.</p><p>Our editors can quickly add a video player as part of the website or as a lightbox. We love the fact that the player automatically chose the best format for each visitor and that it works in all browsers.”</p></blockquote>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/09/david_thunman_telenor_sweden.jpg" alt="David Thunman - Bredbandsbolaget" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “Since the launch of our updated TV service back in 2010 we have strived to offer our customers new channels, with a high quality of service. The SublimeVideo Player has helped us to showcase the latest and upcoming TV-shows. Thanks to the support offered by SublimeVideo, the implementation into our <span class="caps">CMS</span> was made simple.</p><p>Our editors can quickly add a video player as part of the website or as a lightbox. We love the fact that the player automatically chose the best format for each visitor and that it works in all browsers.”</p></blockquote>
 <p class="quote_author">—David Thunman, Online Business Developer at Telenor Sweden.</p>
     <div class="spacer"></div>
   </div>
@@ -123,7 +128,7 @@ Bredbandsbolaget &#8211; <a href="http://www.bredbandsbolaget.se">http://www.bre
     <div id="disqus_thread"></div>
     <script type="text/javascript">
       
-        var disqus_developer = 1;
+        var disqus_developer = 0;
       
       (function() {
        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
