@@ -1,0 +1,21 @@
+---
+title: "Customer Showcase: Bredbandsbolaget"
+blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Bredbandsbolaget</span>"
+authors: The Jilion Team
+layout: post
+tags:
+- SublimeVideo
+- Customer Showcase
+---
+We are proud to have some great customers using "SublimeVideo":http://sublimevideo.net Player. Introducing the latest entry to our Customer Showcase:
+
+<a href="http://www.bredbandsbolaget.se" title="Visit bredbandsbolaget.se"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2011/09/bredbandsbolaget_sublimevideo.jpg" alt="SublimeVideo on Bredbandsbolaget" /></a>
+Bredbandsbolaget - "http://www.bredbandsbolaget.se":http://www.bredbandsbolaget.se
+
+Bredbandsbolaget is one of the most innovative operators in the world and the second biggest ISP in Sweden - offering high speed Internet access through fiber optic cable, copper wire and wireless / mobile. They also provide phone services and TV packages from well-known content suppliers like Viasat and Canal Digital.
+ 
+Bredbandsbolaget is part of Telenor Sweden, which also includes mobile operator Telenor and Glocalnet, and has more than 2 million subscriptions. They chose SublimeVideo to power the video demos on their product pages.
+
+<blockquote><p><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2011/09/david_thunman_telenor_sweden.jpg" alt="David Thunman - Bredbandsbolaget" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “Since the launch of our updated TV service back in 2010 we have strived to offer our customers new channels, with a high quality of service. The SublimeVideo Player has helped us to showcase the latest and upcoming TV-shows. Thanks to the support offered by SublimeVideo, the implementation into our CMS was made simple.</p><p>Our editors can quickly add a video player as part of the website or as a lightbox. We love the fact that the player automatically chose the best format for each visitor and that it works in all browsers.”</p></blockquote>
+
+p(quote_author). —David Thunman, Online Business Developer at Telenor Sweden.
