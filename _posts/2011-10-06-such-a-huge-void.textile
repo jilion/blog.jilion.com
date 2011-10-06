@@ -5,7 +5,7 @@ layout: post
 tags:
 - SublimeVideo
 ---
-<img style="float: left;margin: -4px 25px 20px 0" src="http://blog.jilion.com.s3.amazonaws.com/uploads/2011/10/next-icon-off.png" alt="Next Computer Icon Off" />
+<img style="float: left;margin: -4px 25px 20px 0" src="http://blog.medias.jilion.com/uploads/2011/10/next-icon-off.png" alt="Next Computer Icon Off" />
 
 We had so much to tell you...
 
