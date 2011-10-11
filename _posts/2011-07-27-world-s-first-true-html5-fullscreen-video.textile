@@ -35,6 +35,8 @@ We've "now":http://docs.sublimevideo.net/releases#2011-07-26-14-03 enabled this 
 
 Stay tuned for more SublimeVideo news and developments.
 
+*UPDATE*: October 11, 2011: We "added":http://docs.sublimevideo.net/releases#2011-10-11-15-18 True HTML5 fullscreen support for the upcoming "Firefox 10":http://nightly.mozilla.org/.
+
 <div class="footnotes">
   <ol>
     <li id="fn-2011-07-27-1">The WebKit/Safari fullscreen implementation is actually based on "Mozilla’s Fullscreen API Proposal":https://wiki.mozilla.org/Gecko:FullScreenAPI, so hopefully this will soon be added to Firefox; you can add your voice and push for this feature on Firefox via "this thread":https://bugzilla.mozilla.org/show_bug.cgi?id=545812.</li>
