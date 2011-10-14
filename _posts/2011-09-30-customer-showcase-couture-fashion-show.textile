@@ -9,13 +9,13 @@ tags:
 ---
 We are proud to have some great customers using "SublimeVideo":http://sublimevideo.net Player. Introducing the latest entry to our Customer Showcase:
 
-<a href="http://springintofall.com" title="Visit springintofall.com"><img src="http://blog.medias.jilion.com/uploads/2011/09/spring_into_fall_sublimevideo.jpg" alt="SublimeVideo on Couture Fashion Show " /></a>
-Couture Fashion Show  - "http://springintofall.com":http://springintofall.com
+<a href="http://springintofall.com" title="Visit springintofall.com"><img src="http://blog.medias.jilion.com/uploads/2011/09/spring_into_fall_sublimevideo.jpg" alt="SublimeVideo on Couture Fashion Show" /></a>
+Couture Fashion Show - "http://springintofall.com":http://springintofall.com
 
 The Spring Into Fall Couture Fashion Show debuted on March 11th 2011 at the historic Bently Reserve in San Francisco. A fundraising event for the nonprofit Coral Reef Alliance, the show was a resounding success.
 
 Website designer and developer "Brady J Frey":http://bradyjfrey.com turned to SublimeVideo to showcase some of the show’s highlights on the event’s official website.
 
-<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/09/brady_j_frey.jpg" alt="David Thunman - Couture Fashion Show " class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “We've already moved into the next generation of the web; with the abundant growth of tablets and smartphones making their way into our analytics, service rich media to all of our audience is highly important to me. As a result, I specifically wanted a player that 1) could reach multiple formats, 2) avoided flash unless necessary, 3) was friendly to use, and 4) was damn good looking.</p><p>SublimeVideo caught my eye last year, and with the hosted launch, it was my first choice. It took me more time to find my credit card then it did to install. As a result, our over 30% of iOS device users can now enjoy our past event, and stay inspired as we plan our next event around the corner!”</p></blockquote>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/09/brady_j_frey.jpg" alt="Brady J Frey - Couture Fashion Show" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “We've already moved into the next generation of the web; with the abundant growth of tablets and smartphones making their way into our analytics, service rich media to all of our audience is highly important to me. As a result, I specifically wanted a player that 1) could reach multiple formats, 2) avoided flash unless necessary, 3) was friendly to use, and 4) was damn good looking.</p><p>SublimeVideo caught my eye last year, and with the hosted launch, it was my first choice. It took me more time to find my credit card then it did to install. As a result, our over 30% of iOS device users can now enjoy our past event, and stay inspired as we plan our next event around the corner!”</p></blockquote>
 
 p(quote_author). —Brady J Frey, Art Director, Designer & Developer of Spring Into Fall.
