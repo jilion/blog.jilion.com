@@ -9,11 +9,11 @@ tags:
 ---
 We are proud to have some great customers using "SublimeVideo":http://sublimevideo.net Player. Introducing the latest entry to our Customer Showcase:
 
-<a href="http://katabatic.tv" title="Visit katabatic.tv"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2011/10/katabatic_sublimevideo.jpg" alt="SublimeVideo on Katabatic Digital" /></a>
+<a href="http://katabatic.tv" title="Visit katabatic.tv"><img src="http://blog.medias.jilion.com/uploads/2011/10/katabatic_sublimevideo.jpg" alt="SublimeVideo on Katabatic Digital" /></a>
 Katabatic Digital - "http://katabatic.tv":http://katabatic.tv
 
 Katabatic are a high-end digital video production company based in New York City. Founded in 2006, they quickly grew from a one room office to a multi-suite studio and cemented their reputation as a leader in their field. Today they offer a host of production and post-production services including editing, colour grading, visual effects and more. Katabatic have produced film, commercials and music videos for an impressive roster of world-renowned clients including *Saturday Night Live*, *Google*, *Jaguar*, *Sony*, *Nike* and *Ikea*.
 
-<blockquote><p><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2011/10/emery_wells_katabatic.jpg" alt="Emery Wells - Katabatic Digital" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “Katabatic Digital is a creative services media company and video content is our product.  We've spent a great deal of R&D on developing proprietary encoding technology to display our work on the web and our digital artists spend countless hours perfecting every pixel on screen. We needed a first class vehicle for showcasing our work to our clients and SublimeVideo delivered on tech and style.”</p></blockquote>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/10/emery_wells_katabatic.jpg" alt="Emery Wells - Katabatic Digital" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “Katabatic Digital is a creative services media company and video content is our product.  We've spent a great deal of R&D on developing proprietary encoding technology to display our work on the web and our digital artists spend countless hours perfecting every pixel on screen. We needed a first class vehicle for showcasing our work to our clients and SublimeVideo delivered on tech and style.”</p></blockquote>
 
 p(quote_author). —Emery Wells, Founder/CTO of Katabatic Digital.
