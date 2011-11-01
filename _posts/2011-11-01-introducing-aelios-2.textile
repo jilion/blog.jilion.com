@@ -5,7 +5,7 @@ layout: post
 tags:
 - Aelios
 ---
-Aelios 2 is the *first Weather App to support multiple weather providers* by allowing its users to choose their preferred provider!
+"Aelios 2":http://aeliosapp.com is the *first Weather App to support multiple weather providers* by allowing its users to choose their preferred provider!
 
 Alongside multi-provider support, we’re thrilled to offer *data from AccuWeather* - one of the world's leading and most respected weather forecasters. We think our North american users will be particularly pleased!
 
@@ -33,4 +33,4 @@ We're also working on some great new features for the near future, including a p
 
 Aelios 2 is available now "on the App Store":http://aeliosapp.com/appstore. 
 
-Make sure to follow "@jilion":http://twitter.com/jilion and "@aeliosapp":http://aeliosapp.com and keep an eye on the blog for the latest Aelios news. We hope you enjoy Aelios 2!
+Make sure to follow "@jilion":http://twitter.com/jilion and "@aeliosapp":http://aeliosapp.com and keep an eye on the blog for the latest Aelios news. We hope you enjoy "Aelios 2":http://aeliosapp.com!
