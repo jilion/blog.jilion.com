@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2011-11-15T13:05:38+01:00</updated>
+ <updated>2011-11-15T13:37:30+01:00</updated>
  <rights>Copyright (c) 2011 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -27,7 +27,7 @@
    </author>
    
    <content type="html">&lt;p&gt;Here’s some news regarding our recent &lt;a href=&quot;http://blog.jilion.com/2011/11/01/win-a-collectors-edition-ipad-2&quot;&gt;Twitter contest&lt;/a&gt; to celebrate the &lt;a href=&quot;http://blog.jilion.com/2011/11/01/introducing-aelios-2&quot;&gt;launch of Aelios 2&lt;/a&gt;. The community response was fantastic &amp;#8211; 858 people entered over the 7 days the contest was running.&lt;/p&gt;
-&lt;p&gt;To select the lucky winner once the contest ended, we needed a method that was fair and transparent. Here’s how we did it: We wrote a simple script to assign each entrant a number. We then flipped a coin ten times, each time recording the result as either a 1 (heads) or 0 (tails). The result was a 10 digit binary representation, which when converted to a decimal number gave us a completely random result between 1 and 1,024.&lt;/p&gt;
+&lt;p&gt;To select the lucky winner once the contest ended, we needed a method that was fair and transparent. Here’s how we did it: We wrote a simple script to assign each entrant a number. We then flipped a coin ten times, each time recording the result as either a 1 (heads) or 0 (tails). The result was a 10 digit binary representation, which when converted to a decimal number gave us a completely random figure between 1 and 1,024.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2011/11/aelios-2-contest-roundup.jpg&quot; alt=&quot;Aelios 2 Contest Roundup&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;The resulting number was 84. So, congratulations to entrant #84, &lt;a href=&quot;https://twitter.com/cmcky&quot;&gt;Chris McKay&lt;/a&gt; &amp;#8211; we hope you’ll enjoy your collectors-edition iPad 2!&lt;/p&gt;
 &lt;p&gt;We’d also like to say a huge thanks to everybody who entered, your continued support of Aelios means a lot to us!&lt;/p&gt;
