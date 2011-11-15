@@ -1,0 +1,18 @@
+---
+title: "Aelios 2 Contest Roundup"
+authors: The Jilion Team
+layout: post
+tags:
+- Aelios
+---
+Here’s some news regarding our recent "Twitter contest":http://blog.jilion.com/2011/11/01/win-a-collectors-edition-ipad-2 to celebrate the "launch of Aelios 2":http://blog.jilion.com/2011/11/01/introducing-aelios-2. The community response was fantastic - 858 people entered over the 7 days the contest was running.
+
+To select the lucky winner once the contest ended, we needed a method that was fair and transparent. Here’s how we did it: We wrote a simple script to assign each entrant a number. We then flipped a coin ten times, each time recording the result as either a 1 (heads) or 0 (tails). The result was a 10 digit binary representation, which when converted to a decimal number gave us a completely random result between 1 and 1,024.
+
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2011/11/aelios-2-contest-roundup.jpg" alt="Aelios 2 Contest Roundup" />
+
+The resulting number was 84. So, congratulations to entrant #84, "Chris McKay":https://twitter.com/cmcky - we hope you’ll enjoy your collectors-edition iPad 2!
+
+We’d also like to say a huge thanks to everybody who entered, your continued support of Aelios means a lot to us! 
+
+Make sure to watch the blog and follow "@jilion":https://twitter.com/jilion and "@aeliosapp":https://twitter.com/aeliosapp for the latest Aelios news.
