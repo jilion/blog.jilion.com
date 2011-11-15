@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2011-11-15T14:47:32+01:00</updated>
+ <updated>2011-11-15T15:06:57+01:00</updated>
  <rights>Copyright (c) 2011 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -27,10 +27,10 @@
    </author>
    
    <content type="html">&lt;p&gt;Here’s some news regarding our recent &lt;a href=&quot;http://blog.jilion.com/2011/11/01/win-a-collectors-edition-ipad-2&quot;&gt;Twitter contest&lt;/a&gt; to celebrate the &lt;a href=&quot;http://blog.jilion.com/2011/11/01/introducing-aelios-2&quot;&gt;launch of Aelios 2&lt;/a&gt;. The community response was fantastic &amp;#8211; 858 people entered over the 7 days the contest was running.&lt;/p&gt;
-&lt;p&gt;To select the lucky winner once the contest ended, we needed a method that was fair and transparent. Here’s how we did it: We assigned a number to each participant in order of entry. We then flipped a coin ten times, each time recording the result as either a 1 (heads) or 0 (tails). The result was a 10 digit binary representation, which when converted to a decimal number gave us a completely random figure between 1 and 1,024.&lt;/p&gt;
+&lt;p&gt;To select the lucky winner once the contest ended, we needed a method that was &lt;strong&gt;fair and transparent&lt;/strong&gt;. Here’s how we did it: We assigned a number to each participant in order of entry. We then flipped a coin ten times, each time recording the result as either a 1 (heads) or 0 (tails). The result was a 10 digit binary representation, which when converted to a decimal number gave us a completely random figure between 1 and 1,024.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/11/aelios-2-contest-roundup.jpg&quot; alt=&quot;Aelios 2 Contest Roundup&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;The resulting number was 84. So, congratulations to entrant #84, &lt;a href=&quot;http://twitter.com/#!/cmcky/status/134631857768775680&quot;&gt;Chris McKay&lt;/a&gt; &amp;#8211; we hope you’ll enjoy your collectors-edition iPad 2!&lt;/p&gt;
-&lt;p&gt;We’d also like to say a huge thanks to everybody who entered, your continued support of Aelios means a lot to us!&lt;/p&gt;
+&lt;p&gt;The resulting number was 84. So, congratulations to entrant #84, &lt;a href=&quot;http://twitter.com/cmcky/status/134631857768775680&quot;&gt;Chris McKay&lt;/a&gt; &amp;#8211; we hope you’ll enjoy your collectors-edition iPad 2!&lt;/p&gt;
+&lt;p&gt;We’d also like to say a huge thanks to all our Aelios users, your positive feedback means a lot to us!&lt;/p&gt;
 &lt;p&gt;Make sure to watch the blog and follow &lt;a href=&quot;https://twitter.com/jilion&quot;&gt;@jilion&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/aeliosapp&quot;&gt;@aeliosapp&lt;/a&gt; for the latest Aelios news.&lt;/p&gt;</content>
  </entry>
  
