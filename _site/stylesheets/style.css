@@ -310,6 +310,13 @@ body.win {font-family:Arial, sans-serif !important;}
   padding:0 0 20px;
 }
 
+.entry_body h4 {
+  font-size:21px;
+  font-weight:500;
+  color:#C2D7FF;
+  padding:10px 0 15px;
+}
+
 .entry_body img {
   border-radius:10px;
   -webkit-border-radius:10px;
