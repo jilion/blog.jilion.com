@@ -9,7 +9,7 @@ tags:
 
 Today we're announcing a major update to SublimeVideo:
 
-<a href="http://sublimevideo.net"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2011/11/sublimevideo_free_and_unlimited.png" alt="SublimeVideo Now Free &amp; Unlimited" style="position:relative;left:-10px" /></a>
+<a href="http://sublimevideo.net"><img src="http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_free_and_unlimited.png" alt="SublimeVideo Now Free &amp; Unlimited" style="position:relative;left:-10px" /></a>
 
 h4. New, Free and Unlimited SublimeVideo HTML5 Video Player
 
@@ -27,7 +27,7 @@ SublimeVideo already provides any website with a fast, reliable and pain-free wa
 
 h4. Enhanced Paid Plans
 
-<a href="http://sublimevideo.net/plans"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2011/11/sublimevideo_plans.jpg" alt="SublimeVideo Plans" /></a>
+<a href="http://sublimevideo.net/plans"><img src="http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_plans.jpg" alt="SublimeVideo Plans" /></a>
 
 In addition to our new free plan, we’re also introducing *enhanced paid plans* with amazing *new Real-Time Stats* (more details below) and *far larger monthly viewing allowances*!
 
@@ -39,7 +39,7 @@ Existing customers: Don't worry! Your plans have automatically been upgraded to 
 
 h4. Universal, Real-Time Stats
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2011/11/sublimevideo_stats.jpg" alt="SublimeVideo Real-Time Stats" style="float:left;margin:8px 26px 5px 0" />Today, we're also introducing a great new feature to our paid plans: Universal, Real-Time Statistics for any platform!
+<img src="http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_stats.jpg" alt="SublimeVideo Real-Time Stats" style="float:left;margin:8px 26px 5px 0" />Today, we're also introducing a great new feature to our paid plans: Universal, Real-Time Statistics for any platform!
 
 We think our new stats platform is quite unique: As far as we know it’s the world’s first to offer a truly *comprehensive, real-time picture* of your site's video traffic, *whether generated from mobile or desktop, HTML5 or Flash*.
 
@@ -51,9 +51,9 @@ h4. HD Switching, Video Embeds and Community Forum
 
 We’ve also added two important features to our player, which we ensured work perfectly in HTML5: HD Switching and Video Embeds.
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2011/11/sublimevideo_hd.png" alt="SublimeVideo HD" style="float:left;margin:14px 16px 2px 0" />You can now switch SD-HD video sources with a single click using the HD switch built straight into the player's UI. To the end user it may just look like an ordinary HD switch, *but we took great care to implement it properly* so that it *fully complies with the HTML5 standard*.
+<img src="http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_hd.png" alt="SublimeVideo HD" style="float:left;margin:14px 16px 2px 0" />You can now switch SD-HD video sources with a single click using the HD switch built straight into the player's UI. To the end user it may just look like an ordinary HD switch, *but we took great care to implement it properly* so that it *fully complies with the HTML5 standard*.
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2011/11/sublimevideo_embed.png" alt="SublimeVideo Embed" style="float:left;margin:14px 16px 2px 0" />The addition of our free plan and larger monthly viewing allowances to our paid plans means that we can now offer SublimeVideo embeds, allowing your audience to easily embed your videos into their own sites or around the web.
+<img src="http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_embed.png" alt="SublimeVideo Embed" style="float:left;margin:14px 16px 2px 0" />The addition of our free plan and larger monthly viewing allowances to our paid plans means that we can now offer SublimeVideo embeds, allowing your audience to easily embed your videos into their own sites or around the web.
 
 Read more about the new player features on our "Features page":http://sublimevideo.net/features.
 
