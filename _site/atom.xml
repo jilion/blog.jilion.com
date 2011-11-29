@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2011-11-29T19:31:19+01:00</updated>
+ <updated>2011-11-29T19:54:10+01:00</updated>
  <rights>Copyright (c) 2011 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -34,13 +34,13 @@
 &lt;h4&gt;Contributing to the web’s transition to HTML5 Video&lt;/h4&gt;
 &lt;p&gt;We started SublimeVideo last year because &lt;strong&gt;we wanted to turn the promises of HTML5 Video into a reality&lt;/strong&gt; &amp;#8211; to make web video simpler and more enjoyable for everybody.&lt;/p&gt;
 &lt;p&gt;Adobe&amp;#8217;s recent decision to stop development of Mobile Flash and fully embrace HTML5 is &lt;strong&gt;a clear signal that HTML5 is now mandatory for all sites&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;SublimeVideo already provides any website with a fast, reliable and pain-free way to migrate from Flash to HTML5 Video. The new, free plan now makes &lt;strong&gt;it accessible to anyone&lt;/strong&gt;. We’re really happy to be able to do this; we see it as &lt;strong&gt;our contribution to a better and more modern Web&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;SublimeVideo already provides any website with a fast, reliable and pain-free way to migrate from Flash to HTML5 Video. The new, free plan now makes it &lt;strong&gt;accessible to anyone&lt;/strong&gt;. We’re really happy to be able to do this; we see it as &lt;strong&gt;our contribution to a better and more modern Web&lt;/strong&gt;.&lt;/p&gt;
 &lt;h4&gt;Enhanced Paid Plans&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&quot;http://sublimevideo.net/plans&quot;&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2011/11/sublimevideo_plans.jpg&quot; alt=&quot;SublimeVideo Plans&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In addition to our new free plan, we’re also introducing &lt;strong&gt;enhanced paid plans&lt;/strong&gt; with amazing &lt;strong&gt;new Real-Time Stats&lt;/strong&gt; (more details below) and &lt;strong&gt;far larger monthly viewing allowances&lt;/strong&gt;!&lt;/p&gt;
 &lt;p&gt;Not only do we now give you many more views, but we&amp;#8217;ve also switched the metric used to measure your player views from &lt;em&gt;Video Pageviews&lt;/em&gt; (counted every time the page containing your video loads) to &lt;em&gt;Video Plays&lt;/em&gt; (counted only when playback of your video starts).&lt;/p&gt;
 &lt;p&gt;The new &lt;em&gt;Plus&lt;/em&gt; plan is available for $9.90 per site/month and $99 per site/year, and replaces the &lt;em&gt;Comet&lt;/em&gt; plan. The new &lt;em&gt;Premium&lt;/em&gt; plan is available for $49.90 per site/month and $499 per site/year, and replaces the &lt;em&gt;Planet&lt;/em&gt;, &lt;em&gt;Star&lt;/em&gt; and &lt;em&gt;Galaxy&lt;/em&gt; Plans.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Existing customers: Don&amp;#8217;t worry!&lt;/strong&gt; Your plans have automatically been upgraded to our new, enhanced offerings. Visit &lt;a href=&quot;https://docs.sublimevideo.net/plan-migration&quot;&gt;this page&lt;/a&gt; for more details on how you&amp;#8217;ve been updated.&lt;/p&gt;
+&lt;p&gt;Existing customers: Don&amp;#8217;t worry! Your plans have automatically been upgraded to our new, enhanced offerings. Visit &lt;a href=&quot;https://docs.sublimevideo.net/plan-migration&quot;&gt;this page&lt;/a&gt; for more details on how you&amp;#8217;ve been updated.&lt;/p&gt;
 &lt;h4&gt;Universal, Real-Time Stats&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2011/11/sublimevideo_stats.jpg&quot; alt=&quot;SublimeVideo Real-Time Stats&quot; style=&quot;float:left;margin:8px 26px 5px 0&quot; /&gt;Today, we&amp;#8217;re also introducing a great new feature to our paid plans: Universal, Real-Time Statistics for any platform!&lt;/p&gt;
 &lt;p&gt;We think our new stats platform is quite unique: As far as we know it’s the world’s first to offer a truly &lt;strong&gt;comprehensive, real-time picture&lt;/strong&gt; of your site&amp;#8217;s video traffic, &lt;strong&gt;whether generated from mobile or desktop, HTML5 or Flash&lt;/strong&gt;.&lt;/p&gt;
