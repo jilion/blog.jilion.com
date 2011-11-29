@@ -4,7 +4,7 @@
  <title>Jilion Blog</title>
  <link href="http://blog.jilion.com/atom.xml" rel="self"/>
  <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
- <updated>2011-11-29T19:54:10+01:00</updated>
+ <updated>2011-11-29T22:18:51+01:00</updated>
  <rights>Copyright (c) 2011 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
  <id>http://blog.jilion.com</id>
  <author>
@@ -15,9 +15,9 @@
  
  <entry>
    <title>SublimeVideo Unleashed!</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/11/29/sublimevideo-unleashed"/>
+   <link href="http://blog.jilion.com/2011/11/29/sublimevideo-unleashed"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/11/29/sublimevideo-unleashed</id>
+   <id>http://blog.jilion.com/2011/11/29/sublimevideo-unleashed</id>
    
    <updated>2011-11-29T00:00:00+01:00</updated>
    <published>2011-11-29T00:00:00+01:00</published>
@@ -27,7 +27,7 @@
    </author>
    
    <content type="html">&lt;p&gt;Today we&amp;#8217;re announcing a major update to SublimeVideo:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://sublimevideo.net&quot;&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2011/11/sublimevideo_free_and_unlimited.png&quot; alt=&quot;SublimeVideo Now Free &amp;amp; Unlimited&quot; style=&quot;position:relative;left:-10px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://sublimevideo.net&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_free_and_unlimited.png&quot; alt=&quot;SublimeVideo Now Free &amp;amp; Unlimited&quot; style=&quot;position:relative;left:-10px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h4&gt;New, Free and Unlimited SublimeVideo HTML5 Video Player&lt;/h4&gt;
 &lt;p&gt;We&amp;#8217;re thrilled to introduce a new, free and unlimited version of &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;After the commercial launch of SublimeVideo earlier this year, and alongside today’s introduction of great, cloud-powered new features, we’re ready to &lt;strong&gt;shift gear and introduce something radical&lt;/strong&gt; that we’ve wanted to do for a while: &lt;strong&gt;Give anyone a free, traffic unlimited, no-compromise&lt;/strong&gt; version of SublimeVideo Player.&lt;/p&gt;
@@ -36,20 +36,20 @@
 &lt;p&gt;Adobe&amp;#8217;s recent decision to stop development of Mobile Flash and fully embrace HTML5 is &lt;strong&gt;a clear signal that HTML5 is now mandatory for all sites&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;SublimeVideo already provides any website with a fast, reliable and pain-free way to migrate from Flash to HTML5 Video. The new, free plan now makes it &lt;strong&gt;accessible to anyone&lt;/strong&gt;. We’re really happy to be able to do this; we see it as &lt;strong&gt;our contribution to a better and more modern Web&lt;/strong&gt;.&lt;/p&gt;
 &lt;h4&gt;Enhanced Paid Plans&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;http://sublimevideo.net/plans&quot;&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2011/11/sublimevideo_plans.jpg&quot; alt=&quot;SublimeVideo Plans&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://sublimevideo.net/plans&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_plans.jpg&quot; alt=&quot;SublimeVideo Plans&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In addition to our new free plan, we’re also introducing &lt;strong&gt;enhanced paid plans&lt;/strong&gt; with amazing &lt;strong&gt;new Real-Time Stats&lt;/strong&gt; (more details below) and &lt;strong&gt;far larger monthly viewing allowances&lt;/strong&gt;!&lt;/p&gt;
 &lt;p&gt;Not only do we now give you many more views, but we&amp;#8217;ve also switched the metric used to measure your player views from &lt;em&gt;Video Pageviews&lt;/em&gt; (counted every time the page containing your video loads) to &lt;em&gt;Video Plays&lt;/em&gt; (counted only when playback of your video starts).&lt;/p&gt;
 &lt;p&gt;The new &lt;em&gt;Plus&lt;/em&gt; plan is available for $9.90 per site/month and $99 per site/year, and replaces the &lt;em&gt;Comet&lt;/em&gt; plan. The new &lt;em&gt;Premium&lt;/em&gt; plan is available for $49.90 per site/month and $499 per site/year, and replaces the &lt;em&gt;Planet&lt;/em&gt;, &lt;em&gt;Star&lt;/em&gt; and &lt;em&gt;Galaxy&lt;/em&gt; Plans.&lt;/p&gt;
 &lt;p&gt;Existing customers: Don&amp;#8217;t worry! Your plans have automatically been upgraded to our new, enhanced offerings. Visit &lt;a href=&quot;https://docs.sublimevideo.net/plan-migration&quot;&gt;this page&lt;/a&gt; for more details on how you&amp;#8217;ve been updated.&lt;/p&gt;
 &lt;h4&gt;Universal, Real-Time Stats&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2011/11/sublimevideo_stats.jpg&quot; alt=&quot;SublimeVideo Real-Time Stats&quot; style=&quot;float:left;margin:8px 26px 5px 0&quot; /&gt;Today, we&amp;#8217;re also introducing a great new feature to our paid plans: Universal, Real-Time Statistics for any platform!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_stats.jpg&quot; alt=&quot;SublimeVideo Real-Time Stats&quot; style=&quot;float:left;margin:8px 26px 5px 0&quot; /&gt;Today, we&amp;#8217;re also introducing a great new feature to our paid plans: Universal, Real-Time Statistics for any platform!&lt;/p&gt;
 &lt;p&gt;We think our new stats platform is quite unique: As far as we know it’s the world’s first to offer a truly &lt;strong&gt;comprehensive, real-time picture&lt;/strong&gt; of your site&amp;#8217;s video traffic, &lt;strong&gt;whether generated from mobile or desktop, HTML5 or Flash&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Our Real-Time Statistics platform leverages the power of SublimeVideo’s cloud-based technology and &lt;strong&gt;lays the foundations for even more great new features to come&lt;/strong&gt;. Please let us know what you think and what you’d like to see next in our new &lt;a href=&quot;http://getsatisfaction.com/sublimevideo&quot;&gt;Community Forum&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Users of our new, free plan also have access to stats for the past 24 hours, and can easily upgrade to our paid plans offering real-time stats and longer data retention (with yearly or unlimited stats storage).&lt;/p&gt;
 &lt;h4&gt;HD Switching, Video Embeds and Community Forum&lt;/h4&gt;
 &lt;p&gt;We’ve also added two important features to our player, which we ensured work perfectly in HTML5: HD Switching and Video Embeds.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2011/11/sublimevideo_hd.png&quot; alt=&quot;SublimeVideo HD&quot; style=&quot;float:left;margin:14px 16px 2px 0&quot; /&gt;You can now switch SD-HD video sources with a single click using the HD switch built straight into the player&amp;#8217;s UI. To the end user it may just look like an ordinary HD switch, &lt;strong&gt;but we took great care to implement it properly&lt;/strong&gt; so that it &lt;strong&gt;fully complies with the HTML5 standard&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2011/11/sublimevideo_embed.png&quot; alt=&quot;SublimeVideo Embed&quot; style=&quot;float:left;margin:14px 16px 2px 0&quot; /&gt;The addition of our free plan and larger monthly viewing allowances to our paid plans means that we can now offer SublimeVideo embeds, allowing your audience to easily embed your videos into their own sites or around the web.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_hd.png&quot; alt=&quot;SublimeVideo HD&quot; style=&quot;float:left;margin:14px 16px 2px 0&quot; /&gt;You can now switch SD-HD video sources with a single click using the HD switch built straight into the player&amp;#8217;s UI. To the end user it may just look like an ordinary HD switch, &lt;strong&gt;but we took great care to implement it properly&lt;/strong&gt; so that it &lt;strong&gt;fully complies with the HTML5 standard&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_embed.png&quot; alt=&quot;SublimeVideo Embed&quot; style=&quot;float:left;margin:14px 16px 2px 0&quot; /&gt;The addition of our free plan and larger monthly viewing allowances to our paid plans means that we can now offer SublimeVideo embeds, allowing your audience to easily embed your videos into their own sites or around the web.&lt;/p&gt;
 &lt;p&gt;Read more about the new player features on our &lt;a href=&quot;http://sublimevideo.net/features&quot;&gt;Features page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Last but not least, we&amp;#8217;re launching a new &lt;a href=&quot;http://getsatisfaction.com/sublimevideo&quot;&gt;Community Forum&lt;/a&gt; on GetSatisfaction which you can use to report bugs, share your ideas and ask us questions. &lt;a href=&quot;http://sublimevideo.net&quot;&gt;Sign up for SublimeVideo&lt;/a&gt; to join the community today and let us know what you’d like to see next!&lt;/p&gt;
 &lt;p&gt;We hope you’ll enjoy the new SublimeVideo as much as we do! &lt;strong&gt;A big thank you to our customers for their continued support&lt;/strong&gt; &amp;#8230;and welcome to our new users!&lt;/p&gt;</content>
@@ -57,9 +57,9 @@
  
  <entry>
    <title>Nissan's 'Zen to Z' Web Campaign Powered by HTML5 and SublimeVideo</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo"/>
+   <link href="http://blog.jilion.com/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo</id>
+   <id>http://blog.jilion.com/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo</id>
    
    <updated>2011-11-24T00:00:00+01:00</updated>
    <published>2011-11-24T00:00:00+01:00</published>
@@ -78,9 +78,9 @@
  
  <entry>
    <title>Aelios 2 Contest Roundup</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/11/15/aelios-2-contest-roundup"/>
+   <link href="http://blog.jilion.com/2011/11/15/aelios-2-contest-roundup"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/11/15/aelios-2-contest-roundup</id>
+   <id>http://blog.jilion.com/2011/11/15/aelios-2-contest-roundup</id>
    
    <updated>2011-11-15T00:00:00+01:00</updated>
    <published>2011-11-15T00:00:00+01:00</published>
@@ -99,9 +99,9 @@
  
  <entry>
    <title>Customer Showcase: CSS-Tricks</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/11/09/customer-showcase-css-tricks"/>
+   <link href="http://blog.jilion.com/2011/11/09/customer-showcase-css-tricks"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/11/09/customer-showcase-css-tricks</id>
+   <id>http://blog.jilion.com/2011/11/09/customer-showcase-css-tricks</id>
    
    <updated>2011-11-09T00:00:00+01:00</updated>
    <published>2011-11-09T00:00:00+01:00</published>
@@ -122,9 +122,9 @@
  
  <entry>
    <title>Win a Collectors-Edition iPad 2!</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/11/01/win-a-collectors-edition-ipad-2"/>
+   <link href="http://blog.jilion.com/2011/11/01/win-a-collectors-edition-ipad-2"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/11/01/win-a-collectors-edition-ipad-2</id>
+   <id>http://blog.jilion.com/2011/11/01/win-a-collectors-edition-ipad-2</id>
    
    <updated>2011-11-01T00:00:00+01:00</updated>
    <published>2011-11-01T00:00:00+01:00</published>
@@ -141,9 +141,9 @@
  
  <entry>
    <title>Introducing Aelios 2</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/11/01/introducing-aelios-2"/>
+   <link href="http://blog.jilion.com/2011/11/01/introducing-aelios-2"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/11/01/introducing-aelios-2</id>
+   <id>http://blog.jilion.com/2011/11/01/introducing-aelios-2</id>
    
    <updated>2011-11-01T00:00:00+01:00</updated>
    <published>2011-11-01T00:00:00+01:00</published>
@@ -177,9 +177,9 @@
  
  <entry>
    <title>Customer Showcase: Katabatic Digital</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/10/14/customer-showcase-katabatic-digital"/>
+   <link href="http://blog.jilion.com/2011/10/14/customer-showcase-katabatic-digital"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/10/14/customer-showcase-katabatic-digital</id>
+   <id>http://blog.jilion.com/2011/10/14/customer-showcase-katabatic-digital</id>
    
    <updated>2011-10-14T00:00:00+02:00</updated>
    <published>2011-10-14T00:00:00+02:00</published>
@@ -198,9 +198,9 @@ Katabatic Digital &amp;#8211; &lt;a href=&quot;http://katabatic.tv&quot;&gt;http
  
  <entry>
    <title>Such a Huge Void</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/10/06/such-a-huge-void"/>
+   <link href="http://blog.jilion.com/2011/10/06/such-a-huge-void"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/10/06/such-a-huge-void</id>
+   <id>http://blog.jilion.com/2011/10/06/such-a-huge-void</id>
    
    <updated>2011-10-06T00:00:00+02:00</updated>
    <published>2011-10-06T00:00:00+02:00</published>
@@ -218,9 +218,9 @@ Katabatic Digital &amp;#8211; &lt;a href=&quot;http://katabatic.tv&quot;&gt;http
  
  <entry>
    <title>Customer Showcase: Couture Fashion Show</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/09/30/customer-showcase-couture-fashion-show"/>
+   <link href="http://blog.jilion.com/2011/09/30/customer-showcase-couture-fashion-show"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/09/30/customer-showcase-couture-fashion-show</id>
+   <id>http://blog.jilion.com/2011/09/30/customer-showcase-couture-fashion-show</id>
    
    <updated>2011-09-30T00:00:00+02:00</updated>
    <published>2011-09-30T00:00:00+02:00</published>
@@ -240,9 +240,9 @@ Couture Fashion Show &amp;#8211; &lt;a href=&quot;http://springintofall.com&quot
  
  <entry>
    <title>Customer Showcase: Bredbandsbolaget</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/09/27/customer-showcase-bredbandsbolaget"/>
+   <link href="http://blog.jilion.com/2011/09/27/customer-showcase-bredbandsbolaget"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/09/27/customer-showcase-bredbandsbolaget</id>
+   <id>http://blog.jilion.com/2011/09/27/customer-showcase-bredbandsbolaget</id>
    
    <updated>2011-09-27T00:00:00+02:00</updated>
    <published>2011-09-27T00:00:00+02:00</published>
@@ -262,9 +262,9 @@ Bredbandsbolaget &amp;#8211; &lt;a href=&quot;http://www.bredbandsbolaget.se&quo
  
  <entry>
    <title>Introducing the Official SublimeVideo WordPress Plugin</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/09/20/introducing-the-official-sublimevideo-wordpress-plugin"/>
+   <link href="http://blog.jilion.com/2011/09/20/introducing-the-official-sublimevideo-wordpress-plugin"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/09/20/introducing-the-official-sublimevideo-wordpress-plugin</id>
+   <id>http://blog.jilion.com/2011/09/20/introducing-the-official-sublimevideo-wordpress-plugin</id>
    
    <updated>2011-09-20T00:00:00+02:00</updated>
    <published>2011-09-20T00:00:00+02:00</published>
@@ -288,9 +288,9 @@ Bredbandsbolaget &amp;#8211; &lt;a href=&quot;http://www.bredbandsbolaget.se&quo
  
  <entry>
    <title>Happy Birthday SublimeVideo!</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/09/14/happy-birthday-sublimevideo"/>
+   <link href="http://blog.jilion.com/2011/09/14/happy-birthday-sublimevideo"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/09/14/happy-birthday-sublimevideo</id>
+   <id>http://blog.jilion.com/2011/09/14/happy-birthday-sublimevideo</id>
    
    <updated>2011-09-14T00:00:00+02:00</updated>
    <published>2011-09-14T00:00:00+02:00</published>
@@ -307,9 +307,9 @@ Bredbandsbolaget &amp;#8211; &lt;a href=&quot;http://www.bredbandsbolaget.se&quo
  
  <entry>
    <title>Customer Showcase: Pocket Diner</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/08/05/customer-showcase-pocket-diner"/>
+   <link href="http://blog.jilion.com/2011/08/05/customer-showcase-pocket-diner"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/08/05/customer-showcase-pocket-diner</id>
+   <id>http://blog.jilion.com/2011/08/05/customer-showcase-pocket-diner</id>
    
    <updated>2011-08-05T00:00:00+02:00</updated>
    <published>2011-08-05T00:00:00+02:00</published>
@@ -328,9 +328,9 @@ Pocket Diner &amp;#8211; &lt;a href=&quot;http://www.pocketdiner.co.uk&quot;&gt;
  
  <entry>
    <title>World's First True HTML5 Fullscreen Video</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/07/27/world-s-first-true-html5-fullscreen-video"/>
+   <link href="http://blog.jilion.com/2011/07/27/world-s-first-true-html5-fullscreen-video"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/07/27/world-s-first-true-html5-fullscreen-video</id>
+   <id>http://blog.jilion.com/2011/07/27/world-s-first-true-html5-fullscreen-video</id>
    
    <updated>2011-07-27T00:00:00+02:00</updated>
    <published>2011-07-27T00:00:00+02:00</published>
@@ -368,9 +368,9 @@ Pocket Diner &amp;#8211; &lt;a href=&quot;http://www.pocketdiner.co.uk&quot;&gt;
  
  <entry>
    <title>Customer Showcase: Rock am Ring</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/07/22/customer-showcase-rock-am-ring"/>
+   <link href="http://blog.jilion.com/2011/07/22/customer-showcase-rock-am-ring"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/07/22/customer-showcase-rock-am-ring</id>
+   <id>http://blog.jilion.com/2011/07/22/customer-showcase-rock-am-ring</id>
    
    <updated>2011-07-22T00:00:00+02:00</updated>
    <published>2011-07-22T00:00:00+02:00</published>
@@ -390,9 +390,9 @@ Rock am Ring &amp;#8211; &lt;a href=&quot;http://www.rock-am-ring.com&quot;&gt;h
  
  <entry>
    <title>Welcome on Board François</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/07/20/welcome-on-board-francois"/>
+   <link href="http://blog.jilion.com/2011/07/20/welcome-on-board-francois"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/07/20/welcome-on-board-francois</id>
+   <id>http://blog.jilion.com/2011/07/20/welcome-on-board-francois</id>
    
    <updated>2011-07-20T00:00:00+02:00</updated>
    <published>2011-07-20T00:00:00+02:00</published>
@@ -413,9 +413,9 @@ Rock am Ring &amp;#8211; &lt;a href=&quot;http://www.rock-am-ring.com&quot;&gt;h
  
  <entry>
    <title>Leo Laporte loves Aelios Weather</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/07/08/leo-laporte-loves-aelios-weather"/>
+   <link href="http://blog.jilion.com/2011/07/08/leo-laporte-loves-aelios-weather"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/07/08/leo-laporte-loves-aelios-weather</id>
+   <id>http://blog.jilion.com/2011/07/08/leo-laporte-loves-aelios-weather</id>
    
    <updated>2011-07-08T00:00:00+02:00</updated>
    <published>2011-07-08T00:00:00+02:00</published>
@@ -435,9 +435,9 @@ You might have noticed that Leo always has a large &lt;span class=&quot;caps&quo
  
  <entry>
    <title>Customer Showcase: Tetra Pak</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/06/28/customer-showcase-tetra-pak"/>
+   <link href="http://blog.jilion.com/2011/06/28/customer-showcase-tetra-pak"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/06/28/customer-showcase-tetra-pak</id>
+   <id>http://blog.jilion.com/2011/06/28/customer-showcase-tetra-pak</id>
    
    <updated>2011-06-28T00:00:00+02:00</updated>
    <published>2011-06-28T00:00:00+02:00</published>
@@ -456,9 +456,9 @@ i-Cast 2.0 Replica &amp;#8211; &lt;a href=&quot;http://icast2.brax.se&quot;&gt;h
  
  <entry>
    <title>Customer Showcase: WordPress 101</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/06/10/customer-showcase-wordpress-101"/>
+   <link href="http://blog.jilion.com/2011/06/10/customer-showcase-wordpress-101"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/06/10/customer-showcase-wordpress-101</id>
+   <id>http://blog.jilion.com/2011/06/10/customer-showcase-wordpress-101</id>
    
    <updated>2011-06-10T00:00:00+02:00</updated>
    <published>2011-06-10T00:00:00+02:00</published>
@@ -478,9 +478,9 @@ WordPress 101 &amp;#8211; &lt;a href=&quot;http://www.wp101.com&quot;&gt;http://
  
  <entry>
    <title>Customer Showcase: Camera +</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/06/01/customer-showcase-camera-plus"/>
+   <link href="http://blog.jilion.com/2011/06/01/customer-showcase-camera-plus"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/06/01/customer-showcase-camera-plus</id>
+   <id>http://blog.jilion.com/2011/06/01/customer-showcase-camera-plus</id>
    
    <updated>2011-06-01T00:00:00+02:00</updated>
    <published>2011-06-01T00:00:00+02:00</published>
@@ -499,9 +499,9 @@ Camera + (Clarity) &amp;#8211; &lt;a href=&quot;http://campl.us/clarity&quot;&gt
  
  <entry>
    <title>Customer Showcase: Small Change</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/05/30/customer-showcase-small-change"/>
+   <link href="http://blog.jilion.com/2011/05/30/customer-showcase-small-change"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/05/30/customer-showcase-small-change</id>
+   <id>http://blog.jilion.com/2011/05/30/customer-showcase-small-change</id>
    
    <updated>2011-05-30T00:00:00+02:00</updated>
    <published>2011-05-30T00:00:00+02:00</published>
@@ -520,9 +520,9 @@ Small Change &amp;#8211; &lt;a href=&quot;http://www.smallchangeshort.com&quot;&
  
  <entry>
    <title>Aelios for iPad is available</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/05/23/aelios-for-ipad-is-available+copy"/>
+   <link href="http://blog.jilion.com/2011/05/23/aelios-for-ipad-is-available+copy"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/05/23/aelios-for-ipad-is-available copy</id>
+   <id>http://blog.jilion.com/2011/05/23/aelios-for-ipad-is-available copy</id>
    
    <updated>2011-05-23T00:00:00+02:00</updated>
    <published>2011-05-23T00:00:00+02:00</published>
@@ -546,9 +546,9 @@ Small Change &amp;#8211; &lt;a href=&quot;http://www.smallchangeshort.com&quot;&
  
  <entry>
    <title>Customer Showcase: Yaniv Fridman</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/05/16/customer-showcase-yaniv-fridman"/>
+   <link href="http://blog.jilion.com/2011/05/16/customer-showcase-yaniv-fridman"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/05/16/customer-showcase-yaniv-fridman</id>
+   <id>http://blog.jilion.com/2011/05/16/customer-showcase-yaniv-fridman</id>
    
    <updated>2011-05-16T00:00:00+02:00</updated>
    <published>2011-05-16T00:00:00+02:00</published>
@@ -567,9 +567,9 @@ Yaniv Fridman &amp;#8211; &lt;a href=&quot;http://www.yanivfridman.com&quot;&gt;
  
  <entry>
    <title>Aelios for iPad is coming!</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/05/10/aelios-for-ipad-is-coming"/>
+   <link href="http://blog.jilion.com/2011/05/10/aelios-for-ipad-is-coming"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/05/10/aelios-for-ipad-is-coming</id>
+   <id>http://blog.jilion.com/2011/05/10/aelios-for-ipad-is-coming</id>
    
    <updated>2011-05-10T00:00:00+02:00</updated>
    <published>2011-05-10T00:00:00+02:00</published>
@@ -588,9 +588,9 @@ We won’t reveal much more just yet, but here’s a hint: it’s something you 
  
  <entry>
    <title>Customer Showcase: Big Cartel</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/04/26/customer-showcase-big-cartel"/>
+   <link href="http://blog.jilion.com/2011/04/26/customer-showcase-big-cartel"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/04/26/customer-showcase-big-cartel</id>
+   <id>http://blog.jilion.com/2011/04/26/customer-showcase-big-cartel</id>
    
    <updated>2011-04-26T00:00:00+02:00</updated>
    <published>2011-04-26T00:00:00+02:00</published>
@@ -611,9 +611,9 @@ Big Cartel &amp;#8211; &lt;a href=&quot;http://bigcartel.com&quot;&gt;http://big
  
  <entry>
    <title>Customer Showcase: Method &amp; Craft</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/04/18/customer-showcase-method-and-craft"/>
+   <link href="http://blog.jilion.com/2011/04/18/customer-showcase-method-and-craft"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/04/18/customer-showcase-method-and-craft</id>
+   <id>http://blog.jilion.com/2011/04/18/customer-showcase-method-and-craft</id>
    
    <updated>2011-04-18T00:00:00+02:00</updated>
    <published>2011-04-18T00:00:00+02:00</published>
@@ -634,9 +634,9 @@ Method &amp;amp; Craft &amp;#8211; &lt;a href=&quot;http://methodandcraft.com&qu
  
  <entry>
    <title>Customer Showcase: LittleBigPlanet 2 by Media Molecule</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2"/>
+   <link href="http://blog.jilion.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2</id>
+   <id>http://blog.jilion.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2</id>
    
    <updated>2011-04-15T00:00:00+02:00</updated>
    <published>2011-04-15T00:00:00+02:00</published>
@@ -657,9 +657,9 @@ LittleBigPlanet 2 &amp;#8211; &lt;a href=&quot;http://littlebigplanet.com/en/&qu
  
  <entry>
    <title>SublimeVideo is commercially available!</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/03/30/sublimevideo-is-commercially-available"/>
+   <link href="http://blog.jilion.com/2011/03/30/sublimevideo-is-commercially-available"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/03/30/sublimevideo-is-commercially-available</id>
+   <id>http://blog.jilion.com/2011/03/30/sublimevideo-is-commercially-available</id>
    
    <updated>2011-03-30T00:00:00+02:00</updated>
    <published>2011-03-30T00:00:00+02:00</published>
@@ -683,9 +683,9 @@ Check out our &lt;a href=&quot;http://jilion.com/pr/2011-03-30&quot;&gt;Press Re
  
  <entry>
    <title>Consistency, down to the right-click</title>
-   <link href="http://blogjilion-staging.heroku.com/2011/01/19/consistency-down-to-the-right-click"/>
+   <link href="http://blog.jilion.com/2011/01/19/consistency-down-to-the-right-click"/>
    
-   <id>http://blogjilion-staging.heroku.com/2011/01/19/consistency-down-to-the-right-click</id>
+   <id>http://blog.jilion.com/2011/01/19/consistency-down-to-the-right-click</id>
    
    <updated>2011-01-19T00:00:00+01:00</updated>
    <published>2011-01-19T00:00:00+01:00</published>
@@ -720,9 +720,9 @@ Check out our &lt;a href=&quot;http://jilion.com/pr/2011-03-30&quot;&gt;Press Re
  
  <entry>
    <title>SublimeVideo Beta runs great!</title>
-   <link href="http://blogjilion-staging.heroku.com/2010/12/21/sublimevideo-beta-runs-great"/>
+   <link href="http://blog.jilion.com/2010/12/21/sublimevideo-beta-runs-great"/>
    
-   <id>http://blogjilion-staging.heroku.com/2010/12/21/sublimevideo-beta-runs-great</id>
+   <id>http://blog.jilion.com/2010/12/21/sublimevideo-beta-runs-great</id>
    
    <updated>2010-12-21T00:00:00+01:00</updated>
    <published>2010-12-21T00:00:00+01:00</published>
@@ -758,9 +758,9 @@ Second and maybe even more importantly, the Beta is demonstrating the value of o
  
  <entry>
    <title>SublimeVideo Beta starts Today</title>
-   <link href="http://blogjilion-staging.heroku.com/2010/09/14/sublimevideo-beta-starts-today"/>
+   <link href="http://blog.jilion.com/2010/09/14/sublimevideo-beta-starts-today"/>
    
-   <id>http://blogjilion-staging.heroku.com/2010/09/14/sublimevideo-beta-starts-today</id>
+   <id>http://blog.jilion.com/2010/09/14/sublimevideo-beta-starts-today</id>
    
    <updated>2010-09-14T00:00:00+02:00</updated>
    <published>2010-09-14T00:00:00+02:00</published>
@@ -784,9 +784,9 @@ We would love to know if you&amp;#8217;re happy with SublimeVideo and what we ca
  
  <entry>
    <title>Introducing SublimeVideo Player as a Service</title>
-   <link href="http://blogjilion-staging.heroku.com/2010/08/31/introducing-sublimevideo-player-as-a-service"/>
+   <link href="http://blog.jilion.com/2010/08/31/introducing-sublimevideo-player-as-a-service"/>
    
-   <id>http://blogjilion-staging.heroku.com/2010/08/31/introducing-sublimevideo-player-as-a-service</id>
+   <id>http://blog.jilion.com/2010/08/31/introducing-sublimevideo-player-as-a-service</id>
    
    <updated>2010-08-31T00:00:00+02:00</updated>
    <published>2010-08-31T00:00:00+02:00</published>
@@ -832,9 +832,9 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>Stay Updated</title>
-   <link href="http://blogjilion-staging.heroku.com/2010/08/03/stay-updated"/>
+   <link href="http://blog.jilion.com/2010/08/03/stay-updated"/>
    
-   <id>http://blogjilion-staging.heroku.com/2010/08/03/stay-updated</id>
+   <id>http://blog.jilion.com/2010/08/03/stay-updated</id>
    
    <updated>2010-08-03T00:00:00+02:00</updated>
    <published>2010-08-03T00:00:00+02:00</published>
@@ -848,7 +848,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>Next Month!</title>
-   <link href="http://blogjilion-staging.heroku.com/2010/07/08/next-month"/>
+   <link href="http://blog.jilion.com/2010/07/08/next-month"/>
    
    <id>http://blog.jilion.com/?p=328</id>
    
@@ -866,7 +866,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>SublimeVideo Flash mode</title>
-   <link href="http://blogjilion-staging.heroku.com/2010/04/07/sublimevideo-flash-mode"/>
+   <link href="http://blog.jilion.com/2010/04/07/sublimevideo-flash-mode"/>
    
    <id>http://blog.jilion.com/?p=285</id>
    
@@ -898,7 +898,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
  
  <entry>
    <title>SublimeVideo supports Firefox</title>
-   <link href="http://blogjilion-staging.heroku.com/2010/02/11/sublimevideo-supports-firefox"/>
+   <link href="http://blog.jilion.com/2010/02/11/sublimevideo-supports-firefox"/>
    
    <id>http://blog.jilion.com/?p=252</id>
    
@@ -926,7 +926,7 @@ At the moment we couldn&amp;#8217;t integrate this directly into our controls as
  
  <entry>
    <title>Introducing SublimeVideo</title>
-   <link href="http://blogjilion-staging.heroku.com/2010/01/25/introducing-sublimevideo"/>
+   <link href="http://blog.jilion.com/2010/01/25/introducing-sublimevideo"/>
    
    <id>http://blog.jilion.com/?p=204</id>
    
@@ -957,7 +957,7 @@ At the moment we couldn&amp;#8217;t integrate this directly into our controls as
  
  <entry>
    <title>The power to interoperate with social networks</title>
-   <link href="http://blogjilion-staging.heroku.com/2010/01/21/the-power-to-interoperate-with-social-networks"/>
+   <link href="http://blog.jilion.com/2010/01/21/the-power-to-interoperate-with-social-networks"/>
    
    <id>http://blog.jilion.com/?p=150</id>
    
@@ -986,7 +986,7 @@ A proper integration with a leading social network definitely helps to bootstrap
  
  <entry>
    <title>In the Top 20 in one day</title>
-   <link href="http://blogjilion-staging.heroku.com/2009/12/05/in-the-top-20-in-one-day"/>
+   <link href="http://blog.jilion.com/2009/12/05/in-the-top-20-in-one-day"/>
    
    <id>http://blog.jilion.com/?p=33</id>
    
@@ -1002,7 +1002,7 @@ A proper integration with a leading social network definitely helps to bootstrap
  
  <entry>
    <title>Welcome to our blog</title>
-   <link href="http://blogjilion-staging.heroku.com/2009/12/03/welcome"/>
+   <link href="http://blog.jilion.com/2009/12/03/welcome"/>
    
    <id>http://blog.jilion.com/?p=9</id>
    
