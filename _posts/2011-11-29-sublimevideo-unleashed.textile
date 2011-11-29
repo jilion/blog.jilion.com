@@ -23,7 +23,7 @@ We started SublimeVideo last year because *we wanted to turn the promises of HTM
 
 Adobe's recent decision to stop development of Mobile Flash and fully embrace HTML5 is *a clear signal that HTML5 is now mandatory for all sites*.
 
-SublimeVideo already provides any website with a fast, reliable and pain-free way to migrate from Flash to HTML5 Video. The new, free plan now makes *it accessible to anyone*. We’re really happy to be able to do this; we see it as *our contribution to a better and more modern Web*.
+SublimeVideo already provides any website with a fast, reliable and pain-free way to migrate from Flash to HTML5 Video. The new, free plan now makes it *accessible to anyone*. We’re really happy to be able to do this; we see it as *our contribution to a better and more modern Web*.
 
 h4. Enhanced Paid Plans
 
@@ -35,7 +35,7 @@ Not only do we now give you many more views, but we've also switched the metric 
 
 The new _Plus_ plan is available for $9.90 per site/month and $99 per site/year, and replaces the _Comet_ plan. The new _Premium_ plan is available for $49.90 per site/month and $499 per site/year, and replaces the _Planet_, _Star_ and _Galaxy_ Plans.
 
-*Existing customers: Don't worry!* Your plans have automatically been upgraded to our new, enhanced offerings. Visit "this page":https://docs.sublimevideo.net/plan-migration for more details on how you've been updated.
+Existing customers: Don't worry! Your plans have automatically been upgraded to our new, enhanced offerings. Visit "this page":https://docs.sublimevideo.net/plan-migration for more details on how you've been updated.
 
 h4. Universal, Real-Time Stats
 
