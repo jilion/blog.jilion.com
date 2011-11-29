@@ -311,7 +311,7 @@ body.win {font-family:Arial, sans-serif !important;}
 }
 
 .entry_body h4 {
-  font-size:21px;
+  font-size:22px;
   font-weight:500;
   color:#C2D7FF;
   padding:10px 0 15px;
@@ -342,8 +342,9 @@ body.win {font-family:Arial, sans-serif !important;}
 }
 
 .entry_body strong {
-  font-size:19px;
-  font-weight:600;
+/*  font-size:19px;*/
+  font-weight:500;
+  color:#C2D7FF;
 }
 
 .entry_body ul {
