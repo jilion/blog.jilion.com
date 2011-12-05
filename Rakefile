@@ -13,7 +13,7 @@ namespace :deploy do
 
     system "git add ."
     system "git commit -m 'Updated assets before deploy [PRODUCTION]'"
-    system "git push origin production"
+    system "git push production"
     system "heroku restart"
 
     puts "The blog is running on Heroku [PRODUCTION], enjoy!"
@@ -31,7 +31,7 @@ namespace :deploy do
 
     system "git add ."
     system "git commit -m 'Updated assets before deploy [STAGING]'"
-    system "git push origin staging"
+    system "git push staging"
     system "heroku restart"
 
     puts "The blog is running on Heroku [STAGING], enjoy!"
