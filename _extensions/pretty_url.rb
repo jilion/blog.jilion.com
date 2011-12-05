@@ -15,6 +15,10 @@ module Jekyll
       end
     end
     
+    def pretty_tag_url(tag)
+      pretty_url("/tags/#{pretty_tag(tag)}")
+    end
+    
   end
   
 end
