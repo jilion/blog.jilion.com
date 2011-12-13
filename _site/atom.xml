@@ -4,8 +4,13 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
+<<<<<<< HEAD
   <updated>2011-12-13T18:26:47+01:00</updated>
   <rights>Copyright (c) 2011 Jilion (r) SA</rights>
+=======
+  <updated>2011-12-12T16:57:43+01:00</updated>
+  <rights>Copyright (c) 2011 Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
+>>>>>>> 702c6534e835445ad29dd90bf422c5c0c1a3873f
   <id>http://blog.jilion.com</id>
   <author>
     <name>Jilion</name>
