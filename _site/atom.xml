@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2011-12-13T18:12:42+01:00</updated>
+  <updated>2011-12-13T18:16:27+01:00</updated>
   <rights>Copyright (c) 2011 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -620,6 +620,35 @@ Small Change &amp;#8211; &lt;a href=&quot;http://www.smallchangeshort.com&quot;&
 &lt;p&gt;&lt;em&gt;Small Change&lt;/em&gt; is an independent short film that tells the story of how a young, single mother’s desperate hope for a big win on the slot machines causes her world to spiral out of control. The film received a lot of attention from such film festivals as Galway and Sundance, and CherryRed Pictures knew they needed an impressive site to help promote the film. They implemented SublimeVideo Player to give viewers the best possible viewing experience when watching the film’s trailer.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/05/mark_weir_cherryred_pictures.jpg&quot; alt=&quot;Mark Weir - CherryRED Pictures&quot; class=&quot;no_rounded&quot; style=&quot;float:left;margin:7px 22px 0 0&quot; /&gt; “One of the main points I wanted to address during the design was how the trailer would stream. After years of using Flash for video I wanted to get away from it and allow iOS and other mobile devices to be able to watch it natively. The trailer was the most important part of the site so I spent a lot of time looking into HTML5 video but was aware we needed to make sure older browsers had a Flash fallback. I had tried a few solutions but nothing wrapped it all up so nicely like the Sublime service. When I showed Cathy a demo she loved the interface and the zoom/full screen options. I had already signed up for the beta earlier and incidentally I got my invite just few days after deciding it was the service for us.&lt;/p&gt;&lt;p&gt;Our visitors have noted on the player and how well it matches the look of the site and it&amp;#8217;s ease of use. For us it meant when we were out and about we could show people our trailer with our iPhones on the spot and at the same time showing off the rest of the site.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p class=&quot;quote_author&quot;&gt;—Mark Weir, Co-Founder, CherryRED Pictures.&lt;/p&gt;</content>
+    </entry>
+  
+    <entry>
+      <title>Aelios for iPad is available</title>
+      <link href="http://blogjilion-staging.heroku.com/2011/05/23/aelios-for-ipad-is-available"/>
+      
+      <id>http://blogjilion-staging.heroku.com/2011/05/23/aelios-for-ipad-is-available</id>
+      
+      <updated>2011-05-23T00:00:00+02:00</updated>
+      <published>2011-05-23T00:00:00+02:00</published>
+      
+      <author>
+       <name>The Jilion Team</name>
+      </author>
+      
+      
+        <category scheme="http://blogjilion-staging.heroku.com/tags/aelios" term="aelios" label="Aelios"/>
+      
+      <content type="html">&lt;p&gt;Today we are launching &lt;a href=&quot;http://aeliosapp.com&quot;&gt;Aelios Weather&lt;/a&gt; 1.0 for iPad, now available on the &lt;a href=&quot;http://aeliosapp.com/appstore&quot;&gt;App Store&lt;/a&gt; at the special launch price of $2.99.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://aeliosapp.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/05/aelios_for_ipad_and_icon.png&quot; alt=&quot;Aelios for iPad&quot; style=&quot;margin:10px 0 10px;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;video class=&quot;sublime&quot; height=&quot;337&quot; preload=&quot;none&quot; width=&quot;600&quot; poster=&quot;http://blog.medias.jilion.com/uploads/2011/05/aelios_for_ipad_video_zoomed.jpg&quot;&gt;
+&lt;source src=&quot;http://d19fll8qngs7ry.cloudfront.net/videos/aelios-intro-hd.mp4&quot; /&gt;
+&lt;source src=&quot;http://d19fll8qngs7ry.cloudfront.net/videos/aelios-intro-mobile.mp4&quot; /&gt;
+&lt;/video&gt;
+&lt;p class=&quot;hide&quot;&gt;&lt;small&gt;&lt;em class=&quot;caption&quot;&gt;If you are reading through your &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;RSS&lt;/span&gt;&lt;/span&gt; reader, please visit this &lt;a href=&quot;http://blog.jilion.com/2011/05/23/aelios-for-ipad-is-available&quot;&gt;web page&lt;/a&gt; on the browser to watch the video.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Aelios is a completely new kind of Weather app.&lt;/p&gt;
+&lt;p&gt;We have tried really hard to innovate in the weather category and we believe we have created something both functional and well designed; Something that your iPad really deserves.&lt;/p&gt;
+&lt;p&gt;Visit &lt;a href=&quot;http://aeliosapp.com&quot;&gt;the Aelios&amp;#8217; website&lt;/a&gt; to learn more about the app and make sure you don’t miss the quick intro video.&lt;/p&gt;
+&lt;p&gt;Follow &lt;a href=&quot;http://twitter.com/aeliosapp&quot;&gt;@aeliosapp&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/jilion&quot;&gt;@jilion&lt;/a&gt; for the latest news on Aelios.&lt;/p&gt;</content>
     </entry>
   
     <entry>
