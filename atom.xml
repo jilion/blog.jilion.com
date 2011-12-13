@@ -8,7 +8,7 @@ layout: nil
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <rights>Copyright (c) {{ site.time | this_year }} Jime (tm) SA — Jilion (tm) is the consulting group of Jime (tm) SA</rights>
+  <rights>Copyright (c) {{ site.time | this_year }} Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
     <name>Jilion</name>
