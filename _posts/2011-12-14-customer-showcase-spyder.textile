@@ -1,0 +1,21 @@
+---
+title: "Customer Showcase: Spyder"
+blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Spyder</span>"
+authors: The Jilion Team
+layout: post
+tags:
+- SublimeVideo
+- Customer Showcase
+---
+We are proud to have some great customers using "SublimeVideo":http://sublimevideo.net. Introducing the latest entry to our Customer Showcase:
+
+<a href="http://spyder.com" title="Visit spyder.com"><img src="http://blog.medias.jilion.com/uploads/2011/12/spyder_sublimevideo.jpg" alt="SublimeVideo on Spyder" /></a>
+Spyder - "http://spyder.com":http://spyder.com
+
+Spyder is a global leader in manufacturing performance ski wear and outerwear for use in snowy environments. Having developed and integrated several innovative technologies into its products to aid speed, performance and durability, Spyder is the chosen brand for some of the world’s top skiers and winter athletes.
+
+US-Based Web agency "BKWLD":http://bkwld.com developed Spyder’s new site, choosing SublimeVideo to power the video profiles of Spyder's sports team.
+
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/12/garrett_bjerkhoel_bkwld.jpg" alt="Garrett Bjerkhoel - BKWLD" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “It was a huge relief to be able to rely on SublimeVideo to have a cross-browser solution that was not only visually pleasing to the users but to our designers as well. It took less than 10 minutes to implement with zero to little configuration to get up and running so we could swiftly move on to other things.</p><p>Something SublimeVideo was able to provide compared to some of their competitors was a very simple JavaScript API so we could track some vital video analytics for when the user started the video and to see if they finished watching the whole clip which is something the client requested.”</p></blockquote>
+
+p(quote_author). —Garrett Bjerkhoel, Senior Developer at BKWLD.
