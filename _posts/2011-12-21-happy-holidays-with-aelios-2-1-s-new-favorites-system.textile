@@ -7,7 +7,7 @@ layout: post
 tags:
 - Aelios
 ---
-We’d like to wish everyone happy holidays and end 2011 nicely by releasing the most requested addition to Aelios: A way to store your favorite locations. This may sound like a basic feature, but we took the time to think about a good way to implement it.
+We’d like to wish everyone happy holidays and end 2011 nicely by releasing the most requested addition to Aelios: *A way to store your favorite locations*. This may sound like a basic feature, but we took the time to think about a good way to implement it.
 
 <a href="http://aeliosapp.com"><img src="http://blog.medias.jilion.com/uploads/2011/12/aelios_favorites.jpg" alt="Aelios Favorites" /></a>
 
