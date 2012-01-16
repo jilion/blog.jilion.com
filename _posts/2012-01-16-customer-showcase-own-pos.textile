@@ -1,0 +1,21 @@
+---
+title: "Customer Showcase: Own POS"
+blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Own POS</span>"
+authors: The Jilion Team
+layout: post
+tags:
+- SublimeVideo
+- Customer Showcase
+---
+We are proud to have some great customers using "SublimeVideo":http://sublimevideo.net. Introducing the latest entry to our Customer Showcase:
+
+<a href="http://ownpointofsale.com" title="Visit ownpointofsale.com"><img src="http://blog.medias.jilion.com/uploads/2012/01/own_pos_sublimevideo.jpg" alt="SublimeVideo on Own POS" /></a>
+Own POS - "http://ownpointofsale.com":http://ownpointofsale.com
+
+Own is an end-to-end solution for running quick service businesses. Billed as the world’s first ‘social point of sale’ platform, Own provides small business owners with an integrated, cloud-based POS solution. Own offer a 12.1” tablet and ‘Nimbus’ OS to make it easier than ever to take orders from anywhere. Email receipts, open tabs, time-tracking for employees, coupons and real-time analytics are some of the features provided by Own to put the fun back into running a small business.
+
+The site’s new "Tutorials section":http://ownpointofsale.com/own/tutorials/ makes use of SublimeVideo’s playlists feature to showcase video demos of various Own features and workflows.
+
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2012/01/erol_ahmed_own_pos.jpg" alt="Erol Ahmed - Own POS" class="no_rounded" style="float:left;margin:0 22px 0 0" /> “SublimeVideo lets me focus on creating beautiful videos and not on maintaining plug-ins. It is a breeze to set-up, and the video player design is just slick and awesome.”</p></blockquote>
+
+p(quote_author). —Erol Ahmed, Vice President of Own Point of Sale.
