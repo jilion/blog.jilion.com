@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-01-16T15:47:36+01:00</updated>
+  <updated>2012-01-16T16:28:15+01:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -14,10 +14,10 @@
 
   
     <entry>
-      <title>Customer Showcase: Own POS</title>
-      <link href="http://blogjilion-staging.heroku.com/2012/01/16/customer-showcase-own-pos"/>
+      <title>Customer Showcase: Own Point of Sale</title>
+      <link href="http://blogjilion-staging.heroku.com/2012/01/16/customer-showcase-own-point-of-sale"/>
       
-      <id>http://blogjilion-staging.heroku.com/2012/01/16/customer-showcase-own-pos</id>
+      <id>http://blogjilion-staging.heroku.com/2012/01/16/customer-showcase-own-point-of-sale</id>
       
       <updated>2012-01-16T00:00:00+01:00</updated>
       <published>2012-01-16T00:00:00+01:00</published>
@@ -32,11 +32,11 @@
         <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt;. Introducing the latest entry to our Customer Showcase:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://ownpointofsale.com&quot; title=&quot;Visit ownpointofsale.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/01/own_pos_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on Own POS&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
-Own &lt;span class=&quot;caps&quot;&gt;POS&lt;/span&gt; &amp;#8211; &lt;a href=&quot;http://ownpointofsale.com&quot;&gt;http://ownpointofsale.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ownpointofsale.com&quot; title=&quot;Visit ownpointofsale.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/01/own_pos_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on Own Point of Sale&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+Own Point of Sale &amp;#8211; &lt;a href=&quot;http://ownpointofsale.com&quot;&gt;http://ownpointofsale.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Own is an end-to-end solution for running quick service businesses. Billed as the world’s first ‘social point of sale’ platform, Own provides small business owners with an integrated, cloud-based &lt;span class=&quot;caps&quot;&gt;POS&lt;/span&gt; solution. Own offer a 12.1” tablet and ‘Nimbus’ OS to make it easier than ever to take orders from anywhere. Email receipts, open tabs, time-tracking for employees, coupons and real-time analytics are some of the features provided by Own to put the fun back into running a small business.&lt;/p&gt;
 &lt;p&gt;The site’s new &lt;a href=&quot;http://ownpointofsale.com/own/tutorials/&quot;&gt;Tutorials section&lt;/a&gt; makes use of SublimeVideo’s playlists feature to showcase video demos of various Own features and workflows.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/01/erol_ahmed_own_pos.jpg&quot; alt=&quot;Erol Ahmed - Own POS&quot; class=&quot;no_rounded&quot; style=&quot;float:left;margin:0 22px 0 0&quot; /&gt; “SublimeVideo lets me focus on creating beautiful videos and not on maintaining plug-ins. It is a breeze to set-up, and the video player design is just slick and awesome.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/01/erol_ahmed_own_pos.jpg&quot; alt=&quot;Erol Ahmed - Own Point of Sale&quot; class=&quot;no_rounded&quot; style=&quot;float:left;margin:0 22px 0 0&quot; /&gt; “SublimeVideo lets me focus on creating beautiful videos and not on maintaining plug-ins. It is a breeze to set-up, and the video player design is just slick and awesome.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p class=&quot;quote_author&quot;&gt;—Erol Ahmed, Vice President of Own Point of Sale.&lt;/p&gt;</content>
     </entry>
   
