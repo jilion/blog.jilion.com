@@ -7,6 +7,7 @@ layout: post
 tags:
 - SublimeVideo
 - Customer Showcase
+- SublimeVideo Showcase
 ---
 We are proud to have some great customers using "SublimeVideo":http://sublimevideo.net Player to promote and showcase their products, services and ideas. We’ll be interviewing and profiling some of them on our blog in the near future.
 
