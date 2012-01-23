@@ -12,7 +12,7 @@ We’re proud to have great individuals, companies and organizations using "Subl
 <a href="http://www.wing.tv" title="Visit wing.tv"><img src="http://blog.medias.jilion.com/uploads/2012/01/wing_sublimevideo.jpg" alt="SublimeVideo on Wing" /></a>
 Wing - "http://www.wing.tv":http://www.wing.tv
 
-Wing is a London-based creative visual agency specializing in delivering innovative, targeted campaigns. Wing have created ads, promotional videos and other short form content for such leading brands as Coca Cola, Adidas, Lotus, McLaren and Hugo Boss.
+Wing is a London-based creative visual agency specializing in delivering innovative, targeted campaigns. Wing have created ads, promotional videos and other short form content for such leading brands as Coca Cola, Puma, Lotus, McLaren and Hugo Boss.
 
 UK-based digital agency "Slipstream":http://www.slipstreamstudio.com developed Wing's video-driven site, and chose SublimeVideo to power their video portfolio. Using SublimeVideo API ("resize method":http://docs.sublimevideo.net/javascript-api/methods#resize), Slipstream implemented a custom 'Cinema Mode' to instantly enlarge any video on the Wing site.
 
