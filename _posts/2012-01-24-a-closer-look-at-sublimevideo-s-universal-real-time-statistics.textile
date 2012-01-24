@@ -1,0 +1,48 @@
+---
+title: A Closer Look at SublimeVideo's Universal, Real-Time Statistics
+blog_display_title:  "<span>A Closer Look at SublimeVideo's</span> <span>Universal, Real-Time Statistics</span>"
+authors: The Jilion Team
+layout: post
+tags:
+- SublimeVideo
+---
+
+We recently introduced a "major update to SublimeVideo":http://blog.jilion.com/2011/11/29/sublimevideo-unleashed. The biggest new feature added to the service was our Universal, Real-Time Statistics platform. 
+
+SublimeVideo's Real-Time Statistics platform is the first to offer a truly *comprehensive, real-time overview of a user’s site’s video traffic from any device*, whether generated from mobile or desktop, HTML5 or Flash.
+
+We’ve prepared a "live demo":https://my.sublimevideo.net/sites/stats/demo of the Real-Time Statistics dashboard so you can try it out for yourself. Please note that the demo requires a modern browser that supports HTML5. We recommend using the latest version of Chrome, Safari, Firefox, IE9 or Opera.
+
+<a href="https://my.sublimevideo.net/sites/stats/demo"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/01/sublimevideo-integrated-real-time-statistics-demo-600.jpg" alt="" /></a>
+
+h4. Real-Time & Universal
+
+SublimeVideo gives our users instant access to a range of statistics about their videos, *all in real-time*. This simply wouldn't be possible without SublimeVideo's cloud-based infrastructure. 
+
+In addition, SublimeVideo Player reports consistent statistics from all platforms (HTML5 and Flash on both desktop and mobile). Because of this, we're able to collect data from all devices and present a *comprehensive, universal overview of a user’s site's video traffic*. This is increasingly important as the web transitions to HTML5 and more people access content from different platforms and devices.
+
+<div style="margin-bottom:30px" ><video class="sublime" width="600" height="338" poster="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/01/sublimevideo-integrated-real-time-statistics-demo-poster.jpg" preload="none" data-sublime-settings="initial-overlay:none">
+  <source src="http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo.mp4" />
+  <source src="http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo-mobile.mp4" />
+</video></div>
+
+You can find more information on our "documentation page":http://docs.sublimevideo.net.
+
+h4. Under the Hood
+
+We built a sophisticated architecture to power SublimeVideo’s Real-Time Statistics; 
+SublimeVideo Player 'reports' every load / play. Then, every 60 seconds, our ["Heroku":http://heroku.com]-hosted "Rails":http://rubyonrails.org backend workers parse and separate statistics logs by time period (days / hours / minutes), before storing them in a "MongoDB":http://www.mongodb.org database (hosted on "MongoHQ":http://mongohq.com).
+
+These stats are then displayed on the user's stats dashboard (which is implemented using Rails, "Backbone.js":http://documentcloud.github.com/backbone/ and "CoffeeScript":http://coffeescript.org). The graphs automatically refresh themselves every 60 seconds, so there's no need to manually refresh the page.
+
+We use a different setup for stats from the last 60 seconds (available only with paid plans); here, SublimeVideo Player ‘reports’ plays / loads to our Ruby async server ("Cramp":http://cramp.in), also hosted on Heroku. 
+
+Plays and loads over the last 60 seconds are stored on the same MongoDB database and pushed directly - in real time - to the user’s stats dashboard via "Pusher":http://pusher.com. Keeping the period covering the last 60 seconds in sync everywhere was a nice technical challenge; we created a tiny 'ticker' app, which pushes each second via a public Pusher channel.
+
+Real-Time Statistics are available with our Plus and Premium paid plans, while Standard statistics for the last 24 hours are available with our new, Free & Unlimited plan.
+
+h4. Tell us what you want next
+
+With the first version of our player-integrated statistics we've laid the foundations for more features to come.  
+
+Please share your comments and suggestions about how you think we can improve our statistics platform on this "SublimeVideo Community Forum thread":http://getsatisfaction.com/sublimevideo/topics/comments_suggestions_for_sublimevideos_real_time_statistics_platform.

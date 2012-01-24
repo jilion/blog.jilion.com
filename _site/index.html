@@ -10,12 +10,7 @@
     
 
     
-    <!--[if (!IE)|(gte IE 8)]><!-->
-    <link href="http://blog.medias.jilion.com/01232012173551/assets/style-datauri.css" media="all" rel="stylesheet" type="text/css" />
-    <!--<![endif]-->
-    <!--[if lte IE 7]>
-    <link href="http://blog.medias.jilion.com/01232012173551/assets/style-mhtml.css" media="all" rel="stylesheet" type="text/css" />
-    <![endif]-->
+      <link href="/stylesheets/style.css" media="all" rel="stylesheet" type="text/css" />
     
     <link rel="alternate" type="application/rss+xml" title="Jilion Blog" href="http://feeds.feedburner.com/jilion" />
     <link rel="shortcut icon" href="http://blog.medias.jilion.com/favicon.ico" type="image/x-icon" />
@@ -99,15 +94,58 @@
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_20120123" style=""><a href="http://blog.jilion.com/2012/01/23/sublimevideo-showcase-wing"><span class='title_logo'>SublimeVideo Showcase</span> <span>Wing</span></a></h2>
+      <h2 id="post_20120124" style=""><a href="http://localhost:4000/2012/01/24/a-closer-look-at-sublimevideo-s-universal-real-time-statistics/"><span>A Closer Look at SublimeVideo's</span> <span>Universal, Real-Time Statistics</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">January 24th, 2012</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20120124">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/01/24/a-closer-look-at-sublimevideo-s-universal-real-time-statistics/" data-text="A Closer Look at SublimeVideo's Universal, Real-Time Statistics —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/01/24/a-closer-look-at-sublimevideo-s-universal-real-time-statistics/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We recently introduced a <a href="http://blog.jilion.com/2011/11/29/sublimevideo-unleashed">major update to SublimeVideo</a>. The biggest new feature added to the service was our Universal, Real-Time Statistics platform.</p>
+<p>SublimeVideo&#8217;s Real-Time Statistics platform is the first to offer a truly <strong>comprehensive, real-time overview of a user’s site’s video traffic from any device</strong>, whether generated from mobile or desktop, HTML5 or Flash.</p>
+<p>We’ve prepared a <a href="https://my.sublimevideo.net/sites/stats/demo">live demo</a> of the Real-Time Statistics dashboard so you can try it out for yourself. Please note that the demo requires a modern browser that supports HTML5. We recommend using the latest version of Chrome, Safari, Firefox, IE9 or Opera.</p>
+<p><a href="https://my.sublimevideo.net/sites/stats/demo"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/01/sublimevideo-integrated-real-time-statistics-demo-600.jpg" alt="" /></a></p>
+<h4>Real-Time &amp; Universal</h4>
+<p>SublimeVideo gives our users instant access to a range of statistics about their videos, <strong>all in real-time</strong>. This simply wouldn&#8217;t be possible without SublimeVideo&#8217;s cloud-based infrastructure.</p>
+<p>In addition, SublimeVideo Player reports consistent statistics from all platforms (HTML5 and Flash on both desktop and mobile). Because of this, we&#8217;re able to collect data from all devices and present a <strong>comprehensive, universal overview of a user’s site&#8217;s video traffic</strong>. This is increasingly important as the web transitions to HTML5 and more people access content from different platforms and devices.</p>
+<div style="margin-bottom:30px" ><video class="sublime" width="600" height="338" poster="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/01/sublimevideo-integrated-real-time-statistics-demo-poster.jpg" preload="none" data-sublime-settings="initial-overlay:none"><br />
+  <source src="http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo.mp4" /><br />
+  <source src="http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo-mobile.mp4" /></video></div>
+<p>You can find more information on our <a href="http://docs.sublimevideo.net">documentation page</a>.</p>
+<h4>Under the Hood</h4>
+<p>We built a sophisticated architecture to power SublimeVideo’s Real-Time Statistics; <br />
+SublimeVideo Player &#8216;reports&#8217; every load / play. Then, every 60 seconds, our <a href="http://heroku.com">Heroku</a>-hosted <a href="http://rubyonrails.org">Rails</a> backend workers parse and separate statistics logs by time period (days / hours / minutes), before storing them in a <a href="http://www.mongodb.org">MongoDB</a> database (hosted on <a href="http://mongohq.com">MongoHQ</a>).</p>
+<p>These stats are then displayed on the user&#8217;s stats dashboard (which is implemented using Rails, <a href="http://documentcloud.github.com/backbone/">Backbone.js</a> and <a href="http://coffeescript.org">CoffeeScript</a>). The graphs automatically refresh themselves every 60 seconds, so there&#8217;s no need to manually refresh the page.</p>
+<p>We use a different setup for stats from the last 60 seconds (available only with paid plans); here, SublimeVideo Player ‘reports’ plays / loads to our Ruby async server (<a href="http://cramp.in">Cramp</a>), also hosted on Heroku.</p>
+<p>Plays and loads over the last 60 seconds are stored on the same MongoDB database and pushed directly &#8211; in real time &#8211; to the user’s stats dashboard via <a href="http://pusher.com">Pusher</a>. Keeping the period covering the last 60 seconds in sync everywhere was a nice technical challenge; we created a tiny &#8216;ticker&#8217; app, which pushes each second via a public Pusher channel.</p>
+<p>Real-Time Statistics are available with our Plus and Premium paid plans, while Standard statistics for the last 24 hours are available with our new, Free &amp; Unlimited plan.</p>
+<h4>Tell us what you want next</h4>
+<p>With the first version of our player-integrated statistics we&#8217;ve laid the foundations for more features to come.</p>
+<p>Please share your comments and suggestions about how you think we can improve our statistics platform on this <a href="http://getsatisfaction.com/sublimevideo/topics/comments_suggestions_for_sublimevideos_real_time_statistics_platform">SublimeVideo Community Forum thread</a>.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      <h2 id="post_20120123" style=""><a href="http://localhost:4000/2012/01/23/sublimevideo-showcase-wing/"><span class='title_logo'>SublimeVideo Showcase</span> <span>Wing</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">January 23rd, 2012</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_20120123">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2012/01/23/sublimevideo-showcase-wing" data-text="SublimeVideo Showcase: Wing —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2012/01/23/sublimevideo-showcase-wing#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/01/23/sublimevideo-showcase-wing/" data-text="SublimeVideo Showcase: Wing —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/01/23/sublimevideo-showcase-wing/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -128,15 +166,15 @@ Wing &#8211; <a href="http://www.wing.tv">http://www.wing.tv</a></p>
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_20120116" style=""><a href="http://blog.jilion.com/2012/01/16/customer-showcase-own-point-of-sale"><span class='title_logo'>Customer Showcase</span> <span>Own Point of Sale</span></a></h2>
+      <h2 id="post_20120116" style=""><a href="http://localhost:4000/2012/01/16/customer-showcase-own-point-of-sale/"><span class='title_logo'>Customer Showcase</span> <span>Own Point of Sale</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">January 16th, 2012</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_20120116">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2012/01/16/customer-showcase-own-point-of-sale" data-text="Customer Showcase: Own Point of Sale —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2012/01/16/customer-showcase-own-point-of-sale#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/01/16/customer-showcase-own-point-of-sale/" data-text="Customer Showcase: Own Point of Sale —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/01/16/customer-showcase-own-point-of-sale/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -157,15 +195,15 @@ Own Point of Sale &#8211; <a href="http://ownpointofsale.com">http://ownpointofs
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_2011122121" style="font-size:36px"><a href="http://blog.jilion.com/2011/12/21/happy-holidays-with-aelios-2-1-s-new-favorites-system"><span>Happy Holidays with Aelios 2.1's</span> <span>New Favorites System!</span></a></h2>
+      <h2 id="post_2011122121" style="font-size:36px"><a href="http://localhost:4000/2011/12/21/happy-holidays-with-aelios-2-1-s-new-favorites-system/"><span>Happy Holidays with Aelios 2.1's</span> <span>New Favorites System!</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">December 21st, 2011</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_2011122121">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2011/12/21/happy-holidays-with-aelios-2-1-s-new-favorites-system" data-text="Happy Holidays with Aelios 2.1's New Favorites System! —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2011/12/21/happy-holidays-with-aelios-2-1-s-new-favorites-system#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/12/21/happy-holidays-with-aelios-2-1-s-new-favorites-system/" data-text="Happy Holidays with Aelios 2.1's New Favorites System! —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/12/21/happy-holidays-with-aelios-2-1-s-new-favorites-system/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -184,15 +222,15 @@ Own Point of Sale &#8211; <a href="http://ownpointofsale.com">http://ownpointofs
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_20111214" style=""><a href="http://blog.jilion.com/2011/12/14/customer-showcase-spyder"><span class='title_logo'>Customer Showcase</span> <span>Spyder</span></a></h2>
+      <h2 id="post_20111214" style=""><a href="http://localhost:4000/2011/12/14/customer-showcase-spyder/"><span class='title_logo'>Customer Showcase</span> <span>Spyder</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">December 14th, 2011</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_20111214">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2011/12/14/customer-showcase-spyder" data-text="Customer Showcase: Spyder —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2011/12/14/customer-showcase-spyder#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/12/14/customer-showcase-spyder/" data-text="Customer Showcase: Spyder —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/12/14/customer-showcase-spyder/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -213,15 +251,15 @@ Spyder &#8211; <a href="http://spyder.com">http://spyder.com</a></p>
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_201112122011" style="font-size:32px"><a href="http://blog.jilion.com/2011/12/12/aelios-selected-in-app-store-rewind-2011"><span>Aelios Selected In App Store Rewind 2011</span></a></h2>
+      <h2 id="post_201112122011" style="font-size:32px"><a href="http://localhost:4000/2011/12/12/aelios-selected-in-app-store-rewind-2011/"><span>Aelios Selected In App Store Rewind 2011</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">December 12th, 2011</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_201112122011">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2011/12/12/aelios-selected-in-app-store-rewind-2011" data-text="Aelios Selected In App Store Rewind 2011 —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2011/12/12/aelios-selected-in-app-store-rewind-2011#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/12/12/aelios-selected-in-app-store-rewind-2011/" data-text="Aelios Selected In App Store Rewind 2011 —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/12/12/aelios-selected-in-app-store-rewind-2011/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -242,7 +280,7 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_20111129" style=""><a href="http://blog.jilion.com/2011/11/29/sublimevideo-unleashed"><span>SublimeVideo Unleashed!</span></a></h2>
+      <h2 id="post_20111129" style=""><a href="http://localhost:4000/2011/11/29/sublimevideo-unleashed/"><span>SublimeVideo Unleashed!</span></a></h2>
       
         <h3 class="sub_header">Introducing a Free and Unlimited plan, Enhanced Paid plans, Unique Real-Time Stats for all platforms, and more.</h3>
       
@@ -251,8 +289,8 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
       <span class="date">November 29th, 2011</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_20111129">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2011/11/29/sublimevideo-unleashed" data-text="SublimeVideo Unleashed! —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2011/11/29/sublimevideo-unleashed#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/11/29/sublimevideo-unleashed/" data-text="SublimeVideo Unleashed! —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/11/29/sublimevideo-unleashed/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -293,15 +331,15 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_201111245" style="font-size:33px"><a href="http://blog.jilion.com/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo"><span>Nissan's 'Zen to Z' Web Campaign</span> <span>Powered by HTML5 and SublimeVideo</span></a></h2>
+      <h2 id="post_201111245" style="font-size:33px"><a href="http://localhost:4000/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo/"><span>Nissan's 'Zen to Z' Web Campaign</span> <span>Powered by HTML5 and SublimeVideo</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">November 24th, 2011</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_201111245">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo" data-text="Nissan's 'Zen to Z' Web Campaign Powered by HTML5 and SublimeVideo —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo/" data-text="Nissan's 'Zen to Z' Web Campaign Powered by HTML5 and SublimeVideo —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -321,15 +359,15 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_201111152" style=""><a href="http://blog.jilion.com/2011/11/15/aelios-2-contest-roundup"><span>Aelios 2 Contest Roundup</span></a></h2>
+      <h2 id="post_201111152" style=""><a href="http://localhost:4000/2011/11/15/aelios-2-contest-roundup/"><span>Aelios 2 Contest Roundup</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">November 15th, 2011</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_201111152">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2011/11/15/aelios-2-contest-roundup" data-text="Aelios 2 Contest Roundup —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2011/11/15/aelios-2-contest-roundup#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/11/15/aelios-2-contest-roundup/" data-text="Aelios 2 Contest Roundup —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/11/15/aelios-2-contest-roundup/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -349,15 +387,15 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_20111109" style=""><a href="http://blog.jilion.com/2011/11/09/customer-showcase-css-tricks"><span class='title_logo'>Customer Showcase</span> <span>CSS-Tricks</span></a></h2>
+      <h2 id="post_20111109" style=""><a href="http://localhost:4000/2011/11/09/customer-showcase-css-tricks/"><span class='title_logo'>Customer Showcase</span> <span>CSS-Tricks</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">November 9th, 2011</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_20111109">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2011/11/09/customer-showcase-css-tricks" data-text="Customer Showcase: CSS-Tricks —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2011/11/09/customer-showcase-css-tricks#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/11/09/customer-showcase-css-tricks/" data-text="Customer Showcase: CSS-Tricks —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/11/09/customer-showcase-css-tricks/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -372,32 +410,6 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
 <p>We’d highly recommend checking out <span class="caps">CSS</span>-Tricks to anyone looking to learn more about the latest capabilities of ever-evolving web standards.</p>
 <blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/11/chris_coyier_css_tricks.jpg" alt="Chris Coyier - CSS-Tricks" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “I&#8217;m a fan of any service that helps make Front End Developers lives easier. In the case of <span class="caps">CSS</span>-Tricks, I have a whole archive of videos that are essentially self-hosted. I want those videos to be watchable by anybody on any browser. But because different browsers need different things to make that happen, it&#8217;s not trivially easy. There are some great free projects that do similar things, but the value for me in SublimeVideo is that I don&#8217;t have to worry about upgrading to new versions or troubleshooting for the browser landscape. Even though I&#8217;m the kind of guy who keeps up on HTML5 stuff, I still love it that I don&#8217;t have to worry about it.</p><p>Another part of making sure videos are watchable by anyone is making sure the videos fit and look good in any browser. For my design, that means the videos need to be fluid with. I&#8217;m happy that SublimeVideo provides the necessary things to make that possible.”</p></blockquote>
 <p class="quote_author">—Chris Coyier, Founder of <span class="caps">CSS</span>-Tricks.</p>
-    <div class="spacer"></div>
-  </div>
-</div>
-
-<div class="entry">
-  <div class="entry_header">
-    <div class="entry_title">
-      <h2 id="post_201111012" style=""><a href="http://blog.jilion.com/2011/11/01/win-a-collectors-edition-ipad-2"><span>Win a Collectors-Edition iPad 2!</span></a></h2>
-      
-    </div>
-    <div class="entry_meta">
-      <span class="date">November 1st, 2011</span>
-      <span class="authors">by The Jilion Team</span>
-      <div class="entry_comments_count" id="entry_comments_count_201111012">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2011/11/01/win-a-collectors-edition-ipad-2" data-text="Win a Collectors-Edition iPad 2! —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2011/11/01/win-a-collectors-edition-ipad-2#disqus_thread">
-          Comments
-        </a> -->
-      </div>
-    </div>
-  </div>
-  <div class="entry_body">
-    <p>To celebrate the release of Aelios 2 we&#8217;re running a Twitter contest; visit <a href="http://aeliosapp.com">aeliosapp.com</a> or click the button below to enter for a chance to win a <strong>one of a kind, laser-engraved Aelios iPad 2</strong>!</p>
-<p><a href="http://aeliosapp.com/#contest"><img src="http://blog.medias.jilion.com/uploads/2011/11/aelios-2-contest.png" alt="Aelios 2 Contest" /></a></p>
-<p>The contest will end at midnight (ET) on 8th November 2011. We&#8217;ll be announcing the winner on <a href="http://twitter.com/jilion">Twitter</a> &#8211; check out <a href="http://aeliosapp.com/#contest">aeliosapp.com</a> for the full contest details. Make sure to tell your friends!</p>
-<p><strong><span class="caps">UPDATE</span></strong>: The contest has now ended, thanks to everybody who participated! We&#8217;ll be announcing the winner on <a href="http://twitter.com/jilion">Twitter</a> shortly.</p>
     <div class="spacer"></div>
   </div>
 </div>
