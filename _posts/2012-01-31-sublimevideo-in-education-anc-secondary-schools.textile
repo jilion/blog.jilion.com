@@ -1,0 +1,25 @@
+---
+title: "SublimeVideo in Education: ANC Secondary Schools"
+blog_display_title: "<span class='title_logo'>SublimeVideo in Education</span> <span>ANC Secondary Schools</span>"
+authors: The Jilion Team
+layout: post
+tags:
+- SublimeVideo
+- SublimeVideo Showcase
+- SublimeVideo in Education
+---
+In the first of our three-part SublimeVideo in Education series we took a look at "Sewanee University":/ in the higher education space.
+
+Today we’d like to introduce a "SublimeVideo":http://sublimevideo.net user in secondary education:
+
+<a href="http://www.ancss.org" title="Visit ancss.org"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/01/ancss_sublimevideo.jpg" alt="SublimeVideo on ANC Secondary Schools" /></a>
+
+ANC Secondary Schools - "http://www.ancss.org":http://www.ancss.org
+
+h4. ANC Secondary Schools (Philadelphia, USA)
+
+ANC Girls and ANC Boys are independent and highly acclaimed private secondary schools in Philadelphia, PA.
+
+<blockquote><p><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/01/chara_odhner_ancss.jpg" alt="Chara Odhner - ANC Secondary Schools" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “In redesigning the website for our private high school, we chose SublimeVideo for two reasons: (1) The lightbox is beautiful, and (2) The flawless and automatic conversion from HTML5 to Flash is exactly what we were looking for.</p><p>SublimeVideo also provides us the benefit of wonderful customer service. When we ran into problems with video encoding, the folks at SublimeVideo walked us through solving the issues step-by-step even though the problem was not with their servers, but with our conversion software.”</p></blockquote>
+
+p(quote_author). —Chara Odhner, Communications Manager at ANC Secondary School.
