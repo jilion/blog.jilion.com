@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-01-24T11:21:44+01:00</updated>
+  <updated>2012-01-25T14:58:06+01:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -14,13 +14,13 @@
 
   
     <entry>
-      <title>A Closer Look at SublimeVideo's Universal, Real-Time Statistics</title>
-      <link href="http://blogjilion-staging.heroku.com/2012/01/24/a-closer-look-at-sublimevideo-s-universal-real-time-statistics"/>
+      <title>A Closer Look at SublimeVideo's Universal Real-Time Statistics</title>
+      <link href="http://blogjilion-staging.heroku.com/2012/01/26/a-closer-look-at-sublimevideo-s-universal-real-time-statistics"/>
       
-      <id>http://blogjilion-staging.heroku.com/2012/01/24/a-closer-look-at-sublimevideo-s-universal-real-time-statistics</id>
+      <id>http://blogjilion-staging.heroku.com/2012/01/26/a-closer-look-at-sublimevideo-s-universal-real-time-statistics</id>
       
-      <updated>2012-01-24T00:00:00+01:00</updated>
-      <published>2012-01-24T00:00:00+01:00</published>
+      <updated>2012-01-26T00:00:00+01:00</updated>
+      <published>2012-01-26T00:00:00+01:00</published>
       
       <author>
        <name>The Jilion Team</name>
@@ -30,19 +30,21 @@
         <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;We recently introduced a &lt;a href=&quot;http://blog.jilion.com/2011/11/29/sublimevideo-unleashed&quot;&gt;major update to SublimeVideo&lt;/a&gt;. The biggest new feature added to the service was our Universal, Real-Time Statistics platform.&lt;/p&gt;
-&lt;p&gt;SublimeVideo&amp;#8217;s Real-Time Statistics platform is the first to offer a truly &lt;strong&gt;comprehensive, real-time overview of a user’s site’s video traffic from any device&lt;/strong&gt;, whether generated from mobile or desktop, HTML5 or Flash.&lt;/p&gt;
-&lt;p&gt;We’ve prepared a &lt;a href=&quot;https://my.sublimevideo.net/sites/stats/demo&quot;&gt;live demo&lt;/a&gt; of the Real-Time Statistics dashboard so you can try it out for yourself. Please note that the demo requires a modern browser that supports HTML5. We recommend using the latest version of Chrome, Safari, Firefox, IE9 or Opera.&lt;/p&gt;
+&lt;p&gt;SublimeVideo&amp;#8217;s statistics platform is the first to offer a truly &lt;strong&gt;comprehensive, real-time overview of a your site&amp;#8217;s video traffic from any device&lt;/strong&gt;, whether generated from mobile or desktop, HTML5 or Flash.&lt;/p&gt;
+&lt;p&gt;We’ve prepared a &lt;a href=&quot;https://my.sublimevideo.net/sites/stats/demo&quot;&gt;live demo&lt;/a&gt; of our Real-Time Statistics dashboard so you can try it out for yourself. Please note that the demo requires a modern browser that supports HTML5. We recommend using the latest version of Chrome, Safari, Firefox, IE9 or Opera.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://my.sublimevideo.net/sites/stats/demo&quot;&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2012/01/sublimevideo-integrated-real-time-statistics-demo-600.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h4&gt;Real-Time &amp;amp; Universal&lt;/h4&gt;
-&lt;p&gt;SublimeVideo gives our users instant access to a range of statistics about their videos, &lt;strong&gt;all in real-time&lt;/strong&gt;. This simply wouldn&amp;#8217;t be possible without SublimeVideo&amp;#8217;s cloud-based infrastructure.&lt;/p&gt;
-&lt;p&gt;In addition, SublimeVideo Player reports consistent statistics from all platforms (HTML5 and Flash on both desktop and mobile). Because of this, we&amp;#8217;re able to collect data from all devices and present a &lt;strong&gt;comprehensive, universal overview of a user’s site&amp;#8217;s video traffic&lt;/strong&gt;. This is increasingly important as the web transitions to HTML5 and more people access content from different platforms and devices.&lt;/p&gt;
-&lt;div style=&quot;margin-bottom:30px&quot; &gt;&lt;video class=&quot;sublime&quot; width=&quot;600&quot; height=&quot;338&quot; poster=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2012/01/sublimevideo-integrated-real-time-statistics-demo-poster.jpg&quot; preload=&quot;none&quot; data-sublime-settings=&quot;initial-overlay:none&quot;&gt;&lt;br /&gt;
-  &lt;source src=&quot;http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo.mp4&quot; /&gt;&lt;br /&gt;
-  &lt;source src=&quot;http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo-mobile.mp4&quot; /&gt;&lt;/video&gt;&lt;/div&gt;
+&lt;p&gt;SublimeVideo gives our users instant access to a range of statistics about their videos, all in &lt;strong&gt;real-time&lt;/strong&gt;. This simply wouldn&amp;#8217;t be possible without SublimeVideo&amp;#8217;s cloud-based infrastructure.&lt;/p&gt;
+&lt;p&gt;In addition, SublimeVideo Player reports consistent statistics from all platforms (HTML5 and Flash on both desktop and mobile). Because of this, we&amp;#8217;re able to collect data from all devices and present a comprehensive, &lt;strong&gt;universal&lt;/strong&gt; overview of a user’s site&amp;#8217;s video traffic. This is increasingly important as the web transitions to HTML5 and more people access content from different platforms and devices.&lt;/p&gt;
+&lt;div style=&quot;margin-bottom:30px&quot; &gt;&lt;video class=&quot;sublime&quot; width=&quot;640&quot; height=&quot;360&quot; poster=&quot;http://media.jilion.com/videos/sublimevideo-real-time-statistics.jpg&quot; preload=&quot;none&quot; data-sublime-settings=&quot;initial-overlay:none&quot; data-uid=&quot;real-time-stats&quot; data-name=&quot;Real-Time Statistics&quot;&gt;&lt;br /&gt;
+&lt;source src=&quot;http://media.jilion.com/videos/sublimevideo-real-time-statistics-720p.mp4&quot; data-quality=&quot;hd&quot; /&gt;&lt;br /&gt;
+&lt;source src=&quot;http://media.jilion.com/videos/sublimevideo-real-time-statistics-360p.mp4&quot; /&gt;&lt;br /&gt;
+&lt;source src=&quot;http://media.jilion.com/videos/sublimevideo-real-time-statistics-720p.webm&quot; data-quality=&quot;hd&quot; /&gt;&lt;br /&gt;
+&lt;source src=&quot;http://media.jilion.com/videos/sublimevideo-real-time-statistics-360p.webm&quot; /&gt;&lt;/video&gt;&lt;/div&gt;
+&lt;p class=&quot;hide&quot;&gt;&lt;small&gt;&lt;em class=&quot;caption&quot;&gt;If you are reading through your &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;RSS&lt;/span&gt;&lt;/span&gt; reader, please visit this &lt;a href=&quot;http://blog.jilion.com/2012/01/26/a-closer-look-at-sublimevideo-s-universal-real-time-statistics&quot;&gt;web page&lt;/a&gt; on the browser to watch the video.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;You can find more information on our &lt;a href=&quot;http://docs.sublimevideo.net&quot;&gt;documentation page&lt;/a&gt;.&lt;/p&gt;
 &lt;h4&gt;Under the Hood&lt;/h4&gt;
-&lt;p&gt;We built a sophisticated architecture to power SublimeVideo’s Real-Time Statistics; &lt;br /&gt;
-SublimeVideo Player &amp;#8216;reports&amp;#8217; every load / play. Then, every 60 seconds, our &lt;a href=&quot;http://heroku.com&quot;&gt;Heroku&lt;/a&gt;-hosted &lt;a href=&quot;http://rubyonrails.org&quot;&gt;Rails&lt;/a&gt; backend workers parse and separate statistics logs by time period (days / hours / minutes), before storing them in a &lt;a href=&quot;http://www.mongodb.org&quot;&gt;MongoDB&lt;/a&gt; database (hosted on &lt;a href=&quot;http://mongohq.com&quot;&gt;MongoHQ&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;We built a sophisticated architecture to power SublimeVideo’s Real-Time Statistics; SublimeVideo Player &amp;#8216;reports&amp;#8217; every load / play. Then, every 60 seconds, our &lt;a href=&quot;http://heroku.com&quot;&gt;Heroku&lt;/a&gt;-hosted &lt;a href=&quot;http://rubyonrails.org&quot;&gt;Rails&lt;/a&gt; backend workers parse and separate statistics logs by time period (days / hours / minutes), before storing them in a &lt;a href=&quot;http://www.mongodb.org&quot;&gt;MongoDB&lt;/a&gt; database (hosted on &lt;a href=&quot;http://mongohq.com&quot;&gt;MongoHQ&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;These stats are then displayed on the user&amp;#8217;s stats dashboard (which is implemented using Rails, &lt;a href=&quot;http://documentcloud.github.com/backbone/&quot;&gt;Backbone.js&lt;/a&gt; and &lt;a href=&quot;http://coffeescript.org&quot;&gt;CoffeeScript&lt;/a&gt;). The graphs automatically refresh themselves every 60 seconds, so there&amp;#8217;s no need to manually refresh the page.&lt;/p&gt;
 &lt;p&gt;We use a different setup for stats from the last 60 seconds (available only with paid plans); here, SublimeVideo Player ‘reports’ plays / loads to our Ruby async server (&lt;a href=&quot;http://cramp.in&quot;&gt;Cramp&lt;/a&gt;), also hosted on Heroku.&lt;/p&gt;
 &lt;p&gt;Plays and loads over the last 60 seconds are stored on the same MongoDB database and pushed directly &amp;#8211; in real time &amp;#8211; to the user’s stats dashboard via &lt;a href=&quot;http://pusher.com&quot;&gt;Pusher&lt;/a&gt;. Keeping the period covering the last 60 seconds in sync everywhere was a nice technical challenge; we created a tiny &amp;#8216;ticker&amp;#8217; app, which pushes each second via a public Pusher channel.&lt;/p&gt;
