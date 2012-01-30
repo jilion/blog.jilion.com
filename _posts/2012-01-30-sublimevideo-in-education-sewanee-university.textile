@@ -12,13 +12,13 @@ This week we’ll be taking a look at some educational establishments who have c
 
 Introducing part one of three, a SublimeVideo user in higher education:
 
-<a href="http://www.sewanee.edu" title="Visit sewanee.edu"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/01/sewanee_sublimevideo.jpg" alt="SublimeVideo on Sewanee" /></a>
+<a href="http://www.sewanee.edu" title="Visit sewanee.edu"><img src="http://blog.medias.jilion.com/uploads/2012/01/sewanee_sublimevideo.jpg" alt="SublimeVideo on Sewanee" /></a>
 Sewanee - "http://www.sewanee.edu":http://www.sewanee.edu
 
 h4. Sewanee: The University of The South (Tennessee, USA)
 
 Sewanee University is a co-educational liberal arts college in Sewanee, Tennessee. Often regarded as one of America’s best colleges, Sewanee has produced 25 Rhodes Scholars.
 
-<blockquote><p><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/01/john_m_rogerson_sewanee.jpg" alt="John M. Rogerson - Sewanee" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “When we first came across SublimeVideo we were really impressed by how beautiful the player looked. At the time, we were in the process of redeveloping our homepage (using HTML5), and SublimeVideo felt like great timing for our video player needs.</p><p>Some may question “why use a paid solution to deliver HTML5 video when there are many free alternatives available?” With SublimeVideo the answer is straightforward: a wonderful interface, responsive support, and ease of use both for us and our users. The peace of mind SublimeVideo brings us is why we were happy to be a paid customer.”</p></blockquote>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2012/01/john_m_rogerson_sewanee.jpg" alt="John M. Rogerson - Sewanee" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “When we first came across SublimeVideo we were really impressed by how beautiful the player looked. At the time, we were in the process of redeveloping our homepage (using HTML5), and SublimeVideo felt like great timing for our video player needs.</p><p>Some may question “why use a paid solution to deliver HTML5 video when there are many free alternatives available?” With SublimeVideo the answer is straightforward: a wonderful interface, responsive support, and ease of use both for us and our users. The peace of mind SublimeVideo brings us is why we were happy to be a paid customer.”</p></blockquote>
 
 p(quote_author). —John M. Rogerson, Director of Web and Digital Media Communications at Sewanee University.
