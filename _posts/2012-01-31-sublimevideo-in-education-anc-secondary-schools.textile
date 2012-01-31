@@ -8,7 +8,7 @@ tags:
 - SublimeVideo Showcase
 - SublimeVideo in Education
 ---
-In the first of our three-part SublimeVideo in Education series we took a look at "Sewanee: The University of the South":http://blog.jilion.com/2012/01/30/sublimevideo-in-education-sewanee-university in the higher education space.
+In the first of our three-part SublimeVideo in Education series, we took a look at "Sewanee: The University of the South":http://blog.jilion.com/2012/01/30/sublimevideo-in-education-sewanee-university in the higher education space.
 
 Introducing part two of three, a "SublimeVideo":http://sublimevideo.net user in secondary education:
 
