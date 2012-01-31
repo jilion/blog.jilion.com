@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-01-30T16:31:02+01:00</updated>
+  <updated>2012-01-31T16:00:26+01:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -12,6 +12,36 @@
     <email>info@jilion.com</email>
   </author>
 
+  
+    <entry>
+      <title>SublimeVideo in Education: ANC Secondary Schools</title>
+      <link href="http://blog.jilion.com/2012/01/31/sublimevideo-in-education-anc-secondary-schools"/>
+      
+      <id>http://blog.jilion.com/2012/01/31/sublimevideo-in-education-anc-secondary-schools</id>
+      
+      <updated>2012-01-31T00:00:00+01:00</updated>
+      <published>2012-01-31T00:00:00+01:00</published>
+      
+      <author>
+       <name>The Jilion Team</name>
+      </author>
+      
+      
+        <category scheme="http://blog.jilion.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+      
+        <category scheme="http://blog.jilion.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+      
+        <category scheme="http://blog.jilion.com/tags/sublimevideo-in-education" term="sublimevideo-in-education" label="SublimeVideo in Education"/>
+      
+      <content type="html">&lt;p&gt;In the first of our three-part SublimeVideo in Education series we took a look at &lt;a href=&quot;http://blog.jilion.com/2012/01/30/sublimevideo-in-education-sewanee-university&quot;&gt;Sewanee: The University of the South&lt;/a&gt; in the higher education space.&lt;/p&gt;
+&lt;p&gt;Introducing part two of three, a &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; user in secondary education:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.ancss.org&quot; title=&quot;Visit ancss.org&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/01/ancss_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on ANC Secondary Schools&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;ANC&lt;/span&gt; Secondary Schools &amp;#8211; &lt;a href=&quot;http://www.ancss.org&quot;&gt;http://www.ancss.org&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;span class=&quot;caps&quot;&gt;ANC&lt;/span&gt; Secondary Schools (Philadelphia, &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;)&lt;/h4&gt;
+&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;ANC&lt;/span&gt; Girls and &lt;span class=&quot;caps&quot;&gt;ANC&lt;/span&gt; Boys are independent and highly acclaimed private secondary schools in Philadelphia, PA.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/01/chara_odhner_ancss.jpg&quot; alt=&quot;Chara Odhner - ANC Secondary Schools&quot; class=&quot;no_rounded&quot; style=&quot;float:left;margin:7px 22px 0 0&quot; /&gt; “In redesigning the website for our private high school, we chose SublimeVideo for two reasons: (1) The lightbox is beautiful, and (2) The flawless and automatic conversion from HTML5 to Flash is exactly what we were looking for.&lt;/p&gt;&lt;p&gt;SublimeVideo also provides us the benefit of wonderful customer service. When we ran into problems with video encoding, the folks at SublimeVideo walked us through solving the issues step-by-step even though the problem was not with their servers, but with our conversion software.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p class=&quot;quote_author&quot;&gt;—Chara Odhner, Communications Manager at &lt;span class=&quot;caps&quot;&gt;ANC&lt;/span&gt; Secondary Schools.&lt;/p&gt;</content>
+    </entry>
   
     <entry>
       <title>SublimeVideo in Education: The University of the South</title>
