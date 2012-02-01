@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-01-31T16:03:53+01:00</updated>
+  <updated>2012-02-01T16:35:30+01:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -12,6 +12,36 @@
     <email>info@jilion.com</email>
   </author>
 
+  
+    <entry>
+      <title>SublimeVideo in Education: Ferdinand Center for the Creative</title>
+      <link href="http://blog.jilion.com/2012/02/01/sublimevideo-in-education-ferdinand-center-for-creative"/>
+      
+      <id>http://blog.jilion.com/2012/02/01/sublimevideo-in-education-ferdinand-center-for-creative</id>
+      
+      <updated>2012-02-01T00:00:00+01:00</updated>
+      <published>2012-02-01T00:00:00+01:00</published>
+      
+      <author>
+       <name>The Jilion Team</name>
+      </author>
+      
+      
+        <category scheme="http://blog.jilion.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+      
+        <category scheme="http://blog.jilion.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+      
+        <category scheme="http://blog.jilion.com/tags/sublimevideo-in-education" term="sublimevideo-in-education" label="SublimeVideo in Education"/>
+      
+      <content type="html">&lt;p&gt;This week we’ve taken a look at some educational establishments using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt;, and profiled &lt;a href=&quot;http://blog.jilion.com/2012/01/30/sublimevideo-in-education-sewanee-university&quot;&gt;Sewanee: The University of the South&lt;/a&gt; and &lt;a href=&quot;http://blog.jilion.com/2012/01/31/sublimevideo-in-education-anc-secondary-schools&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ANC&lt;/span&gt; Secondary Schools&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For the third and final part in this series, we’d like to introduce another kind of educational user:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.ferdinandcc.org&quot; title=&quot;Visit ferdinandcc.org&quot;&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/ferdinand_cc_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on Ferdinand Center for the Creative&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+Ferdinand Center for the Creative &amp;#8211; &lt;a href=&quot;http://www.ferdinandcc.org&quot;&gt;http://www.ferdinandcc.org&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Ferdinand Center for the Creative (The Philippines)&lt;/h4&gt;
+&lt;p&gt;Ferdinand Center for the Creative is a nonprofit in the Philippines working to help young artists become accomplished graphic designers, get great jobs, and escape poverty.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/lester_nelson_ferdinand_cc.jpg&quot; alt=&quot;Lester Nelson - Ferdinand Center for the Creative&quot; class=&quot;no_rounded&quot; style=&quot;float:left;margin:7px 22px 0 0&quot; /&gt; “Ferdinand Center for the Creative is a progressive organization, and when it came to posting videos, I wanted us to support HTML5 first and foremost, with Flash as a fallback, not the other way round. At the same time, I knew that a large segment of our audience views our site from older, outdated PCs at internet cafes around the Philippines, so we needed to be compatible with a large assortment of browsers.&lt;/p&gt;&lt;p&gt;Any video player we chose needed to be elegant, and as un-branded as possible, to let our own brand shine. I’m a very details-oriented graphic designer, but I’m no coder, so it needed to be simple to implement and not require problem-solving on my part. I’m happy to say that SublimeVideo has a gorgeous, but non-disruptive user interface, and was a piece of cake to get set up and running. And when I had server-side caching problems completely unrelated to SublimeVideo, your wonderful tech support even helped me get that solved too!”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p class=&quot;quote_author&quot;&gt;—Lester Nelson, Executive Director &amp;amp; Teacher at Ferdinand Center for the Creative.&lt;/p&gt;</content>
+    </entry>
   
     <entry>
       <title>SublimeVideo in Education: ANC Secondary Schools</title>
