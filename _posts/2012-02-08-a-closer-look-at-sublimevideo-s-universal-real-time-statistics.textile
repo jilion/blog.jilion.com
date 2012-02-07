@@ -35,7 +35,7 @@ You can find more information on our "documentation page":http://docs.sublimevid
 
 h4. Under the Hood
 
-We built a sophisticated architecture to power SublimeVideo’s Real-Time Statistics; SublimeVideo Player 'reports' every load / play. Then, every 60 seconds, our ["Heroku":http://heroku.com]-hosted "Rails":http://rubyonrails.org backend workers parse and separate statistics logs by time period (days / hours / minutes), before storing them in a "MongoDB":http://www.mongodb.org database (hosted on "MongoHQ":http://mongohq.com).
+We built a sophisticated architecture to power SublimeVideo’s Real-Time Statistics; SublimeVideo Player 'reports' every load / play. Then, every 60 seconds, our ["Heroku":http://heroku.com]-hosted "Rails":http://rubyonrails.org backend workers parse and separate statistics logs by time period (days / hours / minutes), before storing them in a "MongoDB":http://www.mongodb.org database.
 
 These stats are then displayed on the user's stats dashboard (which is implemented using Rails, "Backbone.js":http://documentcloud.github.com/backbone/ and "CoffeeScript":http://coffeescript.org). The graphs automatically refresh themselves every 60 seconds, so there's no need to manually refresh the page.
 
