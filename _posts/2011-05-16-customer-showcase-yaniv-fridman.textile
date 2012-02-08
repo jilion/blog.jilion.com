@@ -1,6 +1,6 @@
 ---
-title: "Customer Showcase: Yaniv Fridman"
-blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Yaniv Fridman</span>"
+title: "Yaniv Fridman"
+title_html: "<span>Yaniv Fridman</span>"
 authors: The Jilion Team
 font_size: 34
 layout: post

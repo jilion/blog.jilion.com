@@ -8,7 +8,7 @@ body: blog archive
 <div class="entry">
   <div class="entry_header">
     <div class="entry_title">
-      <h2 id="post_{{post.id | id_to_css_id}}" style="{% if post.font_size %}font-size:{{post.font_size}}px{% endif %}"><a href="{{post.url | pretty_url}}">{% if post.blog_display_title %}{{post.blog_display_title}}{% else %}<span>{{post.title}}</span>{% endif %}</a></h2>
+      <h2 id="post_{{post.id | id_to_css_id}}" style="{% if post.font_size %}font-size:{{post.font_size}}px{% endif %}"><a href="{{post.url | pretty_url}}">{% if post.title_html %}{{post.title_html}}{% else %}<span>{{post.title}}</span>{% endif %}</a></h2>
       {% if post.sub_title %}
         <h3 class="sub_header">{{post.sub_title}}</h3>
       {% endif %}

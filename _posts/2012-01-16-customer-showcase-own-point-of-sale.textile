@@ -1,6 +1,6 @@
 ---
-title: "Customer Showcase: Own Point of Sale"
-blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Own Point of Sale</span>"
+title: "Own Point of Sale"
+title_html: "<span>Own Point of Sale</span>"
 authors: The Jilion Team
 layout: post
 tags:

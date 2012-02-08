@@ -1,6 +1,6 @@
 ---
-title: "Customer Showcase: Couture Fashion Show"
-blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Couture Fashion Show</span>"
+title: "Couture Fashion Show"
+title_html: "<span>Couture Fashion Show</span>"
 authors: The Jilion Team
 layout: post
 tags:

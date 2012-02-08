@@ -1,6 +1,6 @@
 ---
-title: "Customer Showcase: Big Cartel"
-blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Big Cartel</span>"
+title: "Big Cartel"
+title_html: "<span>Big Cartel</span>"
 authors: The Jilion Team
 font_size: 34
 layout: post

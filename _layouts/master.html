@@ -6,7 +6,11 @@
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     {% if page.title %}
-      <title>Jilion Blog - {{ page.title }}</title>
+      {% if page.tags | titles_tag %}
+        <title>Jilion Blog - {{ page.tags | titles_tag }}: {{ page.title }}</title>
+      {% else %}
+        <title>Jilion Blog - {{ page.title }}</title>
+      {% endif %}
     {% else %}
       <title>Jilion Blog</title>
     {% endif %}

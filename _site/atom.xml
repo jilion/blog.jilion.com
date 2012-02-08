@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-02-08T11:59:46+01:00</updated>
+  <updated>2012-02-08T12:56:26+01:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -31,7 +31,7 @@
       
       <content type="html">&lt;p&gt;We recently introduced a &lt;a href=&quot;http://blog.jilion.com/2011/11/29/sublimevideo-unleashed&quot;&gt;major update to SublimeVideo&lt;/a&gt;. The biggest new feature added to the service was our Universal, Real-Time Statistics platform.&lt;/p&gt;
 &lt;p&gt;SublimeVideo&amp;#8217;s statistics platform is the first to offer a truly &lt;strong&gt;comprehensive, real-time overview of your site&amp;#8217;s video traffic from any device&lt;/strong&gt;, whether generated from mobile or desktop, HTML5 or Flash.&lt;/p&gt;
-&lt;p&gt;We’ve prepared a &lt;a href=&quot;https://my.sublimevideo.net/sites/stats/demo&quot;&gt;live demo&lt;/a&gt; of our Real-Time Statistics dashboard so you can try it out for yourself. Please note that the demo requires a modern browser that supports HTML5. We recommend using the latest version of Chrome, Safari, Firefox, IE9 or Opera.&lt;/p&gt;
+&lt;p&gt;We’ve prepared a &lt;a href=&quot;https://my.sublimevideo.net/sites/stats/demo&quot;&gt;live demo&lt;/a&gt; of our Real-Time Statistics dashboard so you can try it out for yourself. Please note that the demo requires a modern browser that supports HTML5. We recommend using the latest version of Chrome, Safari, Firefox, Opera or IE9.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://my.sublimevideo.net/sites/stats/demo&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/01/sublimevideo-integrated-real-time-statistics-demo-600.jpg&quot; alt=&quot;SublimeVideo Universal Real-Time Statistics&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
 &lt;em class=&quot;caption&quot;&gt;Check out the live demo.&lt;/em&gt;&lt;/p&gt;
 &lt;h4&gt;Real-Time &amp;amp; Universal&lt;/h4&gt;
@@ -56,7 +56,7 @@
     </entry>
   
     <entry>
-      <title>SublimeVideo in Education: Ferdinand Center for the Creative</title>
+      <title>Ferdinand Center for the Creative</title>
       <link href="http://localhost:4000/2012/02/01/sublimevideo-in-education-ferdinand-center-for-creative/"/>
       
       <id>http://localhost:4000/2012/02/01/sublimevideo-in-education-ferdinand-center-for-creative</id>
@@ -86,7 +86,7 @@ Ferdinand Center for the Creative &amp;#8211; &lt;a href=&quot;http://www.ferdin
     </entry>
   
     <entry>
-      <title>SublimeVideo in Education: ANC Secondary Schools</title>
+      <title>ANC Secondary Schools</title>
       <link href="http://localhost:4000/2012/01/31/sublimevideo-in-education-anc-secondary-schools/"/>
       
       <id>http://localhost:4000/2012/01/31/sublimevideo-in-education-anc-secondary-schools</id>
@@ -116,7 +116,7 @@ Ferdinand Center for the Creative &amp;#8211; &lt;a href=&quot;http://www.ferdin
     </entry>
   
     <entry>
-      <title>SublimeVideo in Education: Sewanee: The University of the South</title>
+      <title>Sewanee: The University of the South</title>
       <link href="http://localhost:4000/2012/01/30/sublimevideo-in-education-sewanee-university/"/>
       
       <id>http://localhost:4000/2012/01/30/sublimevideo-in-education-sewanee-university</id>
@@ -146,7 +146,7 @@ Sewanee &amp;#8211; &lt;a href=&quot;http://www.sewanee.edu&quot;&gt;http://www.
     </entry>
   
     <entry>
-      <title>SublimeVideo Showcase: Wing</title>
+      <title>Wing</title>
       <link href="http://localhost:4000/2012/01/23/sublimevideo-showcase-wing/"/>
       
       <id>http://localhost:4000/2012/01/23/sublimevideo-showcase-wing</id>
@@ -173,7 +173,7 @@ Wing &amp;#8211; &lt;a href=&quot;http://www.wing.tv&quot;&gt;http://www.wing.tv
     </entry>
   
     <entry>
-      <title>Customer Showcase: Own Point of Sale</title>
+      <title>Own Point of Sale</title>
       <link href="http://localhost:4000/2012/01/16/customer-showcase-own-point-of-sale/"/>
       
       <id>http://localhost:4000/2012/01/16/customer-showcase-own-point-of-sale</id>
@@ -225,7 +225,7 @@ Own Point of Sale &amp;#8211; &lt;a href=&quot;http://ownpointofsale.com&quot;&g
     </entry>
   
     <entry>
-      <title>Customer Showcase: Spyder</title>
+      <title>Spyder</title>
       <link href="http://localhost:4000/2011/12/14/customer-showcase-spyder/"/>
       
       <id>http://localhost:4000/2011/12/14/customer-showcase-spyder</id>
@@ -372,7 +372,7 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
     </entry>
   
     <entry>
-      <title>Customer Showcase: CSS-Tricks</title>
+      <title>CSS-Tricks</title>
       <link href="http://localhost:4000/2011/11/09/customer-showcase-css-tricks/"/>
       
       <id>http://localhost:4000/2011/11/09/customer-showcase-css-tricks</id>
@@ -463,7 +463,7 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
     </entry>
   
     <entry>
-      <title>Customer Showcase: Katabatic Digital</title>
+      <title>Katabatic Digital</title>
       <link href="http://localhost:4000/2011/10/14/customer-showcase-katabatic-digital/"/>
       
       <id>http://localhost:4000/2011/10/14/customer-showcase-katabatic-digital</id>
@@ -512,7 +512,7 @@ Katabatic Digital &amp;#8211; &lt;a href=&quot;http://katabatic.tv&quot;&gt;http
     </entry>
   
     <entry>
-      <title>Customer Showcase: Couture Fashion Show</title>
+      <title>Couture Fashion Show</title>
       <link href="http://localhost:4000/2011/09/30/customer-showcase-couture-fashion-show/"/>
       
       <id>http://localhost:4000/2011/09/30/customer-showcase-couture-fashion-show</id>
@@ -541,7 +541,7 @@ Couture Fashion Show &amp;#8211; &lt;a href=&quot;http://springintofall.com&quot
     </entry>
   
     <entry>
-      <title>Customer Showcase: Bredbandsbolaget</title>
+      <title>Bredbandsbolaget</title>
       <link href="http://localhost:4000/2011/09/27/customer-showcase-bredbandsbolaget/"/>
       
       <id>http://localhost:4000/2011/09/27/customer-showcase-bredbandsbolaget</id>
@@ -621,7 +621,7 @@ Bredbandsbolaget &amp;#8211; &lt;a href=&quot;http://www.bredbandsbolaget.se&quo
     </entry>
   
     <entry>
-      <title>Customer Showcase: Pocket Diner</title>
+      <title>Pocket Diner</title>
       <link href="http://localhost:4000/2011/08/05/customer-showcase-pocket-diner/"/>
       
       <id>http://localhost:4000/2011/08/05/customer-showcase-pocket-diner</id>
@@ -692,7 +692,7 @@ Pocket Diner &amp;#8211; &lt;a href=&quot;http://www.pocketdiner.co.uk&quot;&gt;
     </entry>
   
     <entry>
-      <title>Customer Showcase: Rock am Ring</title>
+      <title>Rock am Ring</title>
       <link href="http://localhost:4000/2011/07/22/customer-showcase-rock-am-ring/"/>
       
       <id>http://localhost:4000/2011/07/22/customer-showcase-rock-am-ring</id>
@@ -770,7 +770,7 @@ You might have noticed that Leo always has a large &lt;span class=&quot;caps&quo
     </entry>
   
     <entry>
-      <title>Customer Showcase: Tetra Pak</title>
+      <title>Tetra Pak</title>
       <link href="http://localhost:4000/2011/06/28/customer-showcase-tetra-pak/"/>
       
       <id>http://localhost:4000/2011/06/28/customer-showcase-tetra-pak</id>
@@ -798,7 +798,7 @@ i-Cast 2.0 Replica &amp;#8211; &lt;a href=&quot;http://icast2.brax.se&quot;&gt;h
     </entry>
   
     <entry>
-      <title>Customer Showcase: WordPress 101</title>
+      <title>WordPress 101</title>
       <link href="http://localhost:4000/2011/06/10/customer-showcase-wordpress-101/"/>
       
       <id>http://localhost:4000/2011/06/10/customer-showcase-wordpress-101</id>
@@ -827,7 +827,7 @@ WordPress 101 &amp;#8211; &lt;a href=&quot;http://www.wp101.com&quot;&gt;http://
     </entry>
   
     <entry>
-      <title>Customer Showcase: Camera +</title>
+      <title>Camera +</title>
       <link href="http://localhost:4000/2011/06/01/customer-showcase-camera-plus/"/>
       
       <id>http://localhost:4000/2011/06/01/customer-showcase-camera-plus</id>
@@ -855,7 +855,7 @@ Camera + (Clarity) &amp;#8211; &lt;a href=&quot;http://campl.us/clarity&quot;&gt
     </entry>
   
     <entry>
-      <title>Customer Showcase: Small Change</title>
+      <title>Small Change</title>
       <link href="http://localhost:4000/2011/05/30/customer-showcase-small-change/"/>
       
       <id>http://localhost:4000/2011/05/30/customer-showcase-small-change</id>
@@ -912,7 +912,7 @@ Small Change &amp;#8211; &lt;a href=&quot;http://www.smallchangeshort.com&quot;&
     </entry>
   
     <entry>
-      <title>Customer Showcase: Yaniv Fridman</title>
+      <title>Yaniv Fridman</title>
       <link href="http://localhost:4000/2011/05/16/customer-showcase-yaniv-fridman/"/>
       
       <id>http://localhost:4000/2011/05/16/customer-showcase-yaniv-fridman</id>
@@ -964,7 +964,7 @@ We won’t reveal much more just yet, but here’s a hint: it’s something you 
     </entry>
   
     <entry>
-      <title>Customer Showcase: Big Cartel</title>
+      <title>Big Cartel</title>
       <link href="http://localhost:4000/2011/04/26/customer-showcase-big-cartel/"/>
       
       <id>http://localhost:4000/2011/04/26/customer-showcase-big-cartel</id>
@@ -994,7 +994,7 @@ Big Cartel &amp;#8211; &lt;a href=&quot;http://bigcartel.com&quot;&gt;http://big
     </entry>
   
     <entry>
-      <title>Customer Showcase: Method &amp; Craft</title>
+      <title>Method &amp; Craft</title>
       <link href="http://localhost:4000/2011/04/18/customer-showcase-method-and-craft/"/>
       
       <id>http://localhost:4000/2011/04/18/customer-showcase-method-and-craft</id>
@@ -1024,7 +1024,7 @@ Method &amp;amp; Craft &amp;#8211; &lt;a href=&quot;http://methodandcraft.com&qu
     </entry>
   
     <entry>
-      <title>Customer Showcase: LittleBigPlanet 2 by Media Molecule</title>
+      <title>LittleBigPlanet 2 by Media Molecule</title>
       <link href="http://localhost:4000/2011/04/15/customer-showcase-media-molecule-littlebigplanet2/"/>
       
       <id>http://localhost:4000/2011/04/15/customer-showcase-media-molecule-littlebigplanet2</id>

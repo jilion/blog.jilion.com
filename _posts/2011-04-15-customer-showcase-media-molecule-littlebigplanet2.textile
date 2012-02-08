@@ -1,6 +1,6 @@
 ---
-title: "Customer Showcase: LittleBigPlanet 2 by Media Molecule"
-blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>LittleBigPlanet 2 by Media Molecule</span>"
+title: "LittleBigPlanet 2 by Media Molecule"
+title_html: "<span>LittleBigPlanet 2 by Media Molecule</span>"
 authors: The Jilion Team
 font_size: 31
 layout: post

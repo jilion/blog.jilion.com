@@ -1,6 +1,6 @@
 ---
 title: "Introducing the Official SublimeVideo WordPress Plugin"
-blog_display_title: "<span>Introducing the Official</span><span>SublimeVideo WordPress Plugin</span>"
+title_html: "<span>Introducing the Official</span><span>SublimeVideo WordPress Plugin</span>"
 authors: Jilion Team
 layout: post
 font_size: 36
