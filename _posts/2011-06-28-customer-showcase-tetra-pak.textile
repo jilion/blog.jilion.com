@@ -1,6 +1,6 @@
 ---
-title: "Customer Showcase: Tetra Pak"
-blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Tetra Pak</span>"
+title: "Tetra Pak"
+title_html: "<span>Tetra Pak</span>"
 authors: The Jilion Team
 font_size: 34
 layout: post

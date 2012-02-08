@@ -1,6 +1,6 @@
 ---
-title: "Customer Showcase: WordPress 101"
-blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>WordPress 101</span>"
+title: "WordPress 101"
+title_html: "<span>WordPress 101</span>"
 authors: The Jilion Team
 font_size: 34
 layout: post

@@ -1,6 +1,6 @@
 ---
-title: "Customer Showcase: Small Change"
-blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Small Change</span>"
+title: "Small Change"
+title_html: "<span>Small Change</span>"
 authors: The Jilion Team
 font_size: 34
 layout: post

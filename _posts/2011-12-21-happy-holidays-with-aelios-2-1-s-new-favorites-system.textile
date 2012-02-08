@@ -1,6 +1,6 @@
 ---
 title: Happy Holidays with Aelios 2.1's New Favorites System!
-blog_display_title: "<span>Happy Holidays with Aelios 2.1's</span> <span>New Favorites System!</span>"
+title_html: "<span>Happy Holidays with Aelios 2.1's</span> <span>New Favorites System!</span>"
 font_size: 36
 authors: The Jilion Team
 layout: post

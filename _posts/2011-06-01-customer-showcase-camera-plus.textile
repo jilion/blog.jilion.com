@@ -1,6 +1,6 @@
 ---
-title: "Customer Showcase: Camera +"
-blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Camera +</span>"
+title: "Camera +"
+title_html: "<span>Camera +</span>"
 authors: The Jilion Team
 font_size: 34
 layout: post

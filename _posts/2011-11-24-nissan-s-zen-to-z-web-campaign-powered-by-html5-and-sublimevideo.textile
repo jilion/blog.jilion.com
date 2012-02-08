@@ -1,6 +1,6 @@
 ---
 title: "Nissan's 'Zen to Z' Web Campaign Powered by HTML5 and SublimeVideo"
-blog_display_title: "<span>Nissan's 'Zen to Z' Web Campaign</span> <span>Powered by HTML5 and SublimeVideo</span>"
+title_html: "<span>Nissan's 'Zen to Z' Web Campaign</span> <span>Powered by HTML5 and SublimeVideo</span>"
 authors: The Jilion Team
 layout: post
 font_size: 33

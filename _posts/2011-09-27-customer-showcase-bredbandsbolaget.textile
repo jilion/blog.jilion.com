@@ -1,6 +1,6 @@
 ---
-title: "Customer Showcase: Bredbandsbolaget"
-blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Bredbandsbolaget</span>"
+title: "Bredbandsbolaget"
+title_html: "<span>Bredbandsbolaget</span>"
 authors: The Jilion Team
 layout: post
 tags:

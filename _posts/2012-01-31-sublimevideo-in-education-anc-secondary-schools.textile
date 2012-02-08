@@ -1,6 +1,6 @@
 ---
-title: "SublimeVideo in Education: ANC Secondary Schools"
-blog_display_title: "<span class='title_logo'>SublimeVideo in Education</span> <span>ANC Secondary Schools</span>"
+title: "ANC Secondary Schools"
+title_html: "<span>ANC Secondary Schools</span>"
 authors: The Jilion Team
 layout: post
 tags:

@@ -1,6 +1,6 @@
 ---
 title: A Closer Look at SublimeVideo’s Universal Real-Time Statistics
-blog_display_title:  "<span>A Closer Look at SublimeVideo’s</span> <span>Universal Real-Time Statistics</span>"
+title_html:  "<span>A Closer Look at SublimeVideo’s</span> <span>Universal Real-Time Statistics</span>"
 authors: The Jilion Team
 layout: post
 tags:

@@ -1,6 +1,6 @@
 ---
-title: "Customer Showcase: Katabatic Digital"
-blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Katabatic Digital</span>"
+title: "Katabatic Digital"
+title_html: "<span>Katabatic Digital</span>"
 authors: The Jilion Team
 layout: post
 tags:

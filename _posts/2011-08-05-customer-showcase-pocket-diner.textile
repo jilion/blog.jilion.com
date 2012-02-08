@@ -1,6 +1,6 @@
 ---
-title: "Customer Showcase: Pocket Diner"
-blog_display_title: "<span class='title_logo'>Customer Showcase</span> <span>Pocket Diner</span>"
+title: "Pocket Diner"
+title_html: "<span>Pocket Diner</span>"
 authors: The Jilion Team
 layout: post
 tags:
