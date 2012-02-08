@@ -1,5 +1,5 @@
 ---
-title: "SublimeVideo in Education: The University of the South"
+title: "SublimeVideo in Education: Sewanee: The University of the South"
 blog_display_title: "<span class='title_logo'>SublimeVideo in Education</span> <span>Sewanee: The University of the South</span>"
 authors: The Jilion Team
 font_size: 35
