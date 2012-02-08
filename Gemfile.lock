@@ -1,7 +1,17 @@
+GIT
+  remote: git://github.com/adaoraul/rack-jekyll.git
+  revision: d9cbc59121c4441820353485fbacd4d5295c5cd3
+  specs:
+    rack-jekyll (0.3.7)
+      jekyll (~> 0.11.0)
+      rack (~> 1.3.2)
+
 GEM
   remote: http://rubygems.org/
   specs:
-    RedCloth (4.2.8)
+    RedCloth (4.2.9)
+    albino (1.3.3)
+      posix-spawn (>= 0.3.6)
     aws-s3 (0.6.2)
       builder
       mime-types
@@ -11,31 +21,32 @@ GEM
       fast-stemmer (>= 1.0.0)
     directory_watcher (1.4.1)
     fast-stemmer (1.0.0)
-    jekyll (0.10.0)
-      classifier (>= 1.3.1)
-      directory_watcher (>= 1.1.1)
-      liquid (>= 1.9.0)
-      maruku (>= 0.5.9)
+    jekyll (0.11.2)
+      albino (~> 1.3)
+      classifier (~> 1.3)
+      directory_watcher (~> 1.1)
+      kramdown (~> 0.13)
+      liquid (~> 2.3)
+      maruku (~> 0.5)
     jekyll_ext (0.1.4)
-    liquid (2.2.2)
+    kramdown (0.13.4)
+    liquid (2.3.0)
     maruku (0.6.0)
       syntax (>= 1.0.0)
-    mime-types (1.16)
-    rack (1.3.3)
-    rack-jekyll (0.3.5)
-      jekyll
-      rack
+    mime-types (1.17.2)
+    posix-spawn (0.3.6)
+    rack (1.3.6)
     syntax (1.0.0)
-    xml-simple (1.1.0)
+    xml-simple (1.1.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  RedCloth (~> 4.2.3)
+  RedCloth (~> 4.2.9)
   aws-s3 (= 0.6.2)
   bundler
-  jekyll (~> 0.10.0)
-  jekyll_ext (~> 0.1.3)
-  liquid (~> 2.2.2)
-  rack-jekyll (~> 0.3.5)
+  jekyll (~> 0.11.2)
+  jekyll_ext (~> 0.1.4)
+  liquid (~> 2.3.0)
+  rack-jekyll!
