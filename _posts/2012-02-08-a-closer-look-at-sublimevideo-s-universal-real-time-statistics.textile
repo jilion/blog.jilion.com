@@ -13,7 +13,7 @@ SublimeVideo's statistics platform is the first to offer a truly *comprehensive,
 
 We’ve prepared a "live demo":https://my.sublimevideo.net/sites/stats/demo of our Real-Time Statistics dashboard so you can try it out for yourself. Please note that the demo requires a modern browser that supports HTML5. We recommend using the latest version of Chrome, Safari, Firefox, Opera or IE9.
 
-<a href="https://my.sublimevideo.net/sites/stats/demo"><img src="http://blog.medias.jilion.com/uploads/2012/01/sublimevideo-integrated-real-time-statistics-demo-600.jpg" alt="SublimeVideo Universal Real-Time Statistics" /></a>
+<a href="https://my.sublimevideo.net/sites/stats/demo"><img src="http://blog.medias.jilion.com/uploads/2012/02/sublimevideo-integrated-real-time-statistics-demo.jpg" alt="SublimeVideo Universal Real-Time Statistics" /></a>
 <em class="caption">Check out the live demo.</em>
 
 h4. Real-Time & Universal
