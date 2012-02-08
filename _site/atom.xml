@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-02-08T14:36:39+01:00</updated>
+  <updated>2012-02-08T14:37:35+01:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -15,9 +15,9 @@
   
     <entry>
       <title>A Closer Look at SublimeVideo’s Universal Real-Time Statistics</title>
-      <link href="http://localhost:4000/2012/02/08/a-closer-look-at-sublimevideo-s-universal-real-time-statistics/"/>
+      <link href="http://blogjilion-staging.heroku.com/2012/02/08/a-closer-look-at-sublimevideo-s-universal-real-time-statistics"/>
       
-      <id>http://localhost:4000/2012/02/08/a-closer-look-at-sublimevideo-s-universal-real-time-statistics</id>
+      <id>http://blogjilion-staging.heroku.com/2012/02/08/a-closer-look-at-sublimevideo-s-universal-real-time-statistics</id>
       
       <updated>2012-02-08T00:00:00+01:00</updated>
       <published>2012-02-08T00:00:00+01:00</published>
@@ -27,7 +27,7 @@
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;We recently introduced a &lt;a href=&quot;http://blog.jilion.com/2011/11/29/sublimevideo-unleashed&quot;&gt;major update to SublimeVideo&lt;/a&gt;. The biggest new feature added to the service was our Universal, Real-Time Statistics platform.&lt;/p&gt;
 &lt;p&gt;SublimeVideo&amp;#8217;s statistics platform is the first to offer a truly &lt;strong&gt;comprehensive, real-time overview of your site&amp;#8217;s video traffic from any device&lt;/strong&gt;, whether generated from mobile or desktop, HTML5 or Flash.&lt;/p&gt;
@@ -57,9 +57,9 @@
   
     <entry>
       <title>Ferdinand Center for the Creative</title>
-      <link href="http://localhost:4000/2012/02/01/sublimevideo-in-education-ferdinand-center-for-creative/"/>
+      <link href="http://blogjilion-staging.heroku.com/2012/02/01/sublimevideo-in-education-ferdinand-center-for-creative"/>
       
-      <id>http://localhost:4000/2012/02/01/sublimevideo-in-education-ferdinand-center-for-creative</id>
+      <id>http://blogjilion-staging.heroku.com/2012/02/01/sublimevideo-in-education-ferdinand-center-for-creative</id>
       
       <updated>2012-02-01T00:00:00+01:00</updated>
       <published>2012-02-01T00:00:00+01:00</published>
@@ -69,11 +69,11 @@
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-in-education" term="sublimevideo-in-education" label="SublimeVideo in Education"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-in-education" term="sublimevideo-in-education" label="SublimeVideo in Education"/>
       
       <content type="html">&lt;p&gt;This week we’ve taken a look at some educational establishments using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt;, and profiled &lt;a href=&quot;http://blog.jilion.com/2012/01/30/sublimevideo-in-education-sewanee-university&quot;&gt;Sewanee: The University of the South&lt;/a&gt; and &lt;a href=&quot;http://blog.jilion.com/2012/01/31/sublimevideo-in-education-anc-secondary-schools&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ANC&lt;/span&gt; Secondary Schools&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;For the third and final part in this series, we’d like to introduce another kind of educational user:&lt;/p&gt;
@@ -87,9 +87,9 @@ Ferdinand Center for the Creative &amp;#8211; &lt;a href=&quot;http://www.ferdin
   
     <entry>
       <title>ANC Secondary Schools</title>
-      <link href="http://localhost:4000/2012/01/31/sublimevideo-in-education-anc-secondary-schools/"/>
+      <link href="http://blogjilion-staging.heroku.com/2012/01/31/sublimevideo-in-education-anc-secondary-schools"/>
       
-      <id>http://localhost:4000/2012/01/31/sublimevideo-in-education-anc-secondary-schools</id>
+      <id>http://blogjilion-staging.heroku.com/2012/01/31/sublimevideo-in-education-anc-secondary-schools</id>
       
       <updated>2012-01-31T00:00:00+01:00</updated>
       <published>2012-01-31T00:00:00+01:00</published>
@@ -99,11 +99,11 @@ Ferdinand Center for the Creative &amp;#8211; &lt;a href=&quot;http://www.ferdin
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-in-education" term="sublimevideo-in-education" label="SublimeVideo in Education"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-in-education" term="sublimevideo-in-education" label="SublimeVideo in Education"/>
       
       <content type="html">&lt;p&gt;In the first of our three-part SublimeVideo in Education series, we took a look at &lt;a href=&quot;http://blog.jilion.com/2012/01/30/sublimevideo-in-education-sewanee-university&quot;&gt;Sewanee: The University of the South&lt;/a&gt; in the higher education space.&lt;/p&gt;
 &lt;p&gt;Introducing part two of three, a &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; user in secondary education:&lt;/p&gt;
@@ -117,9 +117,9 @@ Ferdinand Center for the Creative &amp;#8211; &lt;a href=&quot;http://www.ferdin
   
     <entry>
       <title>Sewanee: The University of the South</title>
-      <link href="http://localhost:4000/2012/01/30/sublimevideo-in-education-sewanee-university/"/>
+      <link href="http://blogjilion-staging.heroku.com/2012/01/30/sublimevideo-in-education-sewanee-university"/>
       
-      <id>http://localhost:4000/2012/01/30/sublimevideo-in-education-sewanee-university</id>
+      <id>http://blogjilion-staging.heroku.com/2012/01/30/sublimevideo-in-education-sewanee-university</id>
       
       <updated>2012-01-30T00:00:00+01:00</updated>
       <published>2012-01-30T00:00:00+01:00</published>
@@ -129,11 +129,11 @@ Ferdinand Center for the Creative &amp;#8211; &lt;a href=&quot;http://www.ferdin
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-in-education" term="sublimevideo-in-education" label="SublimeVideo in Education"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-in-education" term="sublimevideo-in-education" label="SublimeVideo in Education"/>
       
       <content type="html">&lt;p&gt;This week we’ll be taking a look at some educational establishments who have chosen &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; to deliver their video message.&lt;/p&gt;
 &lt;p&gt;Introducing part one of three, a SublimeVideo user in higher education:&lt;/p&gt;
@@ -147,9 +147,9 @@ Sewanee &amp;#8211; &lt;a href=&quot;http://www.sewanee.edu&quot;&gt;http://www.
   
     <entry>
       <title>Wing</title>
-      <link href="http://localhost:4000/2012/01/23/sublimevideo-showcase-wing/"/>
+      <link href="http://blogjilion-staging.heroku.com/2012/01/23/sublimevideo-showcase-wing"/>
       
-      <id>http://localhost:4000/2012/01/23/sublimevideo-showcase-wing</id>
+      <id>http://blogjilion-staging.heroku.com/2012/01/23/sublimevideo-showcase-wing</id>
       
       <updated>2012-01-23T00:00:00+01:00</updated>
       <published>2012-01-23T00:00:00+01:00</published>
@@ -159,9 +159,9 @@ Sewanee &amp;#8211; &lt;a href=&quot;http://www.sewanee.edu&quot;&gt;http://www.
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We’re proud to have great individuals, companies and organizations using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt;. Introducing the latest entry to our SublimeVideo Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.wing.tv&quot; title=&quot;Visit wing.tv&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/01/wing_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on Wing&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -174,9 +174,9 @@ Wing &amp;#8211; &lt;a href=&quot;http://www.wing.tv&quot;&gt;http://www.wing.tv
   
     <entry>
       <title>Own Point of Sale</title>
-      <link href="http://localhost:4000/2012/01/16/customer-showcase-own-point-of-sale/"/>
+      <link href="http://blogjilion-staging.heroku.com/2012/01/16/customer-showcase-own-point-of-sale"/>
       
-      <id>http://localhost:4000/2012/01/16/customer-showcase-own-point-of-sale</id>
+      <id>http://blogjilion-staging.heroku.com/2012/01/16/customer-showcase-own-point-of-sale</id>
       
       <updated>2012-01-16T00:00:00+01:00</updated>
       <published>2012-01-16T00:00:00+01:00</published>
@@ -186,11 +186,11 @@ Wing &amp;#8211; &lt;a href=&quot;http://www.wing.tv&quot;&gt;http://www.wing.tv
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt;. Introducing the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://ownpointofsale.com&quot; title=&quot;Visit ownpointofsale.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/01/own_pos_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on Own Point of Sale&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -203,9 +203,9 @@ Own Point of Sale &amp;#8211; &lt;a href=&quot;http://ownpointofsale.com&quot;&g
   
     <entry>
       <title>Happy Holidays with Aelios 2.1's New Favorites System!</title>
-      <link href="http://localhost:4000/2011/12/21/happy-holidays-with-aelios-2-1-s-new-favorites-system/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/12/21/happy-holidays-with-aelios-2-1-s-new-favorites-system"/>
       
-      <id>http://localhost:4000/2011/12/21/happy-holidays-with-aelios-2-1-s-new-favorites-system</id>
+      <id>http://blogjilion-staging.heroku.com/2011/12/21/happy-holidays-with-aelios-2-1-s-new-favorites-system</id>
       
       <updated>2011-12-21T00:00:00+01:00</updated>
       <published>2011-12-21T00:00:00+01:00</published>
@@ -215,7 +215,7 @@ Own Point of Sale &amp;#8211; &lt;a href=&quot;http://ownpointofsale.com&quot;&g
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/aelios" term="aelios" label="Aelios"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/aelios" term="aelios" label="Aelios"/>
       
       <content type="html">&lt;p&gt;We’d like to wish everyone happy holidays and end 2011 nicely by releasing the most requested addition to Aelios: &lt;strong&gt;A way to store your favorite locations&lt;/strong&gt;. This may sound like a basic feature, but we took the time to think about a good way to implement it.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://aeliosapp.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/12/aelios_favorites.jpg&quot; alt=&quot;Aelios Favorites&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -226,9 +226,9 @@ Own Point of Sale &amp;#8211; &lt;a href=&quot;http://ownpointofsale.com&quot;&g
   
     <entry>
       <title>Spyder</title>
-      <link href="http://localhost:4000/2011/12/14/customer-showcase-spyder/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/12/14/customer-showcase-spyder"/>
       
-      <id>http://localhost:4000/2011/12/14/customer-showcase-spyder</id>
+      <id>http://blogjilion-staging.heroku.com/2011/12/14/customer-showcase-spyder</id>
       
       <updated>2011-12-14T00:00:00+01:00</updated>
       <published>2011-12-14T00:00:00+01:00</published>
@@ -238,11 +238,11 @@ Own Point of Sale &amp;#8211; &lt;a href=&quot;http://ownpointofsale.com&quot;&g
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt;. Introducing the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://spyder.com&quot; title=&quot;Visit spyder.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/12/spyder_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on Spyder&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -255,9 +255,9 @@ Spyder &amp;#8211; &lt;a href=&quot;http://spyder.com&quot;&gt;http://spyder.com
   
     <entry>
       <title>Aelios Selected In App Store Rewind 2011</title>
-      <link href="http://localhost:4000/2011/12/12/aelios-selected-in-app-store-rewind-2011/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/12/12/aelios-selected-in-app-store-rewind-2011"/>
       
-      <id>http://localhost:4000/2011/12/12/aelios-selected-in-app-store-rewind-2011</id>
+      <id>http://blogjilion-staging.heroku.com/2011/12/12/aelios-selected-in-app-store-rewind-2011</id>
       
       <updated>2011-12-12T00:00:00+01:00</updated>
       <published>2011-12-12T00:00:00+01:00</published>
@@ -267,7 +267,7 @@ Spyder &amp;#8211; &lt;a href=&quot;http://spyder.com&quot;&gt;http://spyder.com
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/aelios" term="aelios" label="Aelios"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/aelios" term="aelios" label="Aelios"/>
       
       <content type="html">&lt;p&gt;&lt;a href=&quot;http://aeliosapp.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/12/aelios-app-store-rewind-2011-graphic.jpg&quot; alt=&quot;Aelios Selected In App Store Rewind 2011&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
 Apple have selected Aelios as one of the best iPad Weather apps in the US in their App Store Rewind 2011.&lt;/p&gt;
@@ -280,9 +280,9 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
   
     <entry>
       <title>SublimeVideo Unleashed!</title>
-      <link href="http://localhost:4000/2011/11/29/sublimevideo-unleashed/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/11/29/sublimevideo-unleashed"/>
       
-      <id>http://localhost:4000/2011/11/29/sublimevideo-unleashed</id>
+      <id>http://blogjilion-staging.heroku.com/2011/11/29/sublimevideo-unleashed</id>
       
       <updated>2011-11-29T00:00:00+01:00</updated>
       <published>2011-11-29T00:00:00+01:00</published>
@@ -292,7 +292,7 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;Today we&amp;#8217;re announcing a major update to SublimeVideo:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://sublimevideo.net&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_free_and_unlimited.png&quot; alt=&quot;SublimeVideo Now Free &amp;amp; Unlimited&quot; style=&quot;position:relative;left:-10px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -325,9 +325,9 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
   
     <entry>
       <title>Nissan's 'Zen to Z' Web Campaign Powered by HTML5 and SublimeVideo</title>
-      <link href="http://localhost:4000/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo"/>
       
-      <id>http://localhost:4000/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo</id>
+      <id>http://blogjilion-staging.heroku.com/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo</id>
       
       <updated>2011-11-24T00:00:00+01:00</updated>
       <published>2011-11-24T00:00:00+01:00</published>
@@ -337,7 +337,7 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 2px 25px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2011/11/nissan-logo.png&quot; alt=&quot;Nissan Logo&quot; /&gt;Nissan just launched their &lt;a href=&quot;http://370z.nissan.com.au&quot;&gt;&amp;#8216;Zen to Z&amp;#8217; HTML5 web campaign&lt;/a&gt; for the new Nissan 370Z.&lt;/p&gt;
 &lt;p&gt;Car manufacturers have traditionally relied heavily on Flash to implement and deliver big web campaigns such as this. Nissan’s new campaign is &lt;strong&gt;built entirely with HTML5&lt;/strong&gt; and makes significant use of video.&lt;/p&gt;
@@ -349,9 +349,9 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
   
     <entry>
       <title>Aelios 2 Contest Roundup</title>
-      <link href="http://localhost:4000/2011/11/15/aelios-2-contest-roundup/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/11/15/aelios-2-contest-roundup"/>
       
-      <id>http://localhost:4000/2011/11/15/aelios-2-contest-roundup</id>
+      <id>http://blogjilion-staging.heroku.com/2011/11/15/aelios-2-contest-roundup</id>
       
       <updated>2011-11-15T00:00:00+01:00</updated>
       <published>2011-11-15T00:00:00+01:00</published>
@@ -361,7 +361,7 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/aelios" term="aelios" label="Aelios"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/aelios" term="aelios" label="Aelios"/>
       
       <content type="html">&lt;p&gt;Here’s some news regarding our recent &lt;a href=&quot;http://blog.jilion.com/2011/11/01/win-a-collectors-edition-ipad-2&quot;&gt;Twitter contest&lt;/a&gt; to celebrate the &lt;a href=&quot;http://blog.jilion.com/2011/11/01/introducing-aelios-2&quot;&gt;launch of Aelios 2&lt;/a&gt;. The community response was fantastic &amp;#8211; 858 people entered over the 7 days the contest was running.&lt;/p&gt;
 &lt;p&gt;To select the lucky winner once the contest ended, we needed a method that was &lt;strong&gt;fair and transparent&lt;/strong&gt;. Here’s how we did it: We assigned a number to each participant in order of entry. We then flipped a coin ten times, each time recording the result as either a 1 (heads) or 0 (tails). The result was a 10 digit binary representation, which when converted to a decimal number gave us a completely random figure between 1 and 1,023.&lt;/p&gt;
@@ -373,9 +373,9 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
   
     <entry>
       <title>CSS-Tricks</title>
-      <link href="http://localhost:4000/2011/11/09/customer-showcase-css-tricks/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/11/09/customer-showcase-css-tricks"/>
       
-      <id>http://localhost:4000/2011/11/09/customer-showcase-css-tricks</id>
+      <id>http://blogjilion-staging.heroku.com/2011/11/09/customer-showcase-css-tricks</id>
       
       <updated>2011-11-09T00:00:00+01:00</updated>
       <published>2011-11-09T00:00:00+01:00</published>
@@ -385,11 +385,11 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt;. Introducing the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://css-tricks.com&quot; title=&quot;Visit css-tricks.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/11/css_tricks_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on CSS-Tricks&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -403,9 +403,9 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
   
     <entry>
       <title>Win a Collectors-Edition iPad 2!</title>
-      <link href="http://localhost:4000/2011/11/01/win-a-collectors-edition-ipad-2/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/11/01/win-a-collectors-edition-ipad-2"/>
       
-      <id>http://localhost:4000/2011/11/01/win-a-collectors-edition-ipad-2</id>
+      <id>http://blogjilion-staging.heroku.com/2011/11/01/win-a-collectors-edition-ipad-2</id>
       
       <updated>2011-11-01T00:00:00+01:00</updated>
       <published>2011-11-01T00:00:00+01:00</published>
@@ -415,7 +415,7 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/aelios" term="aelios" label="Aelios"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/aelios" term="aelios" label="Aelios"/>
       
       <content type="html">&lt;p&gt;To celebrate the release of Aelios 2 we&amp;#8217;re running a Twitter contest; visit &lt;a href=&quot;http://aeliosapp.com&quot;&gt;aeliosapp.com&lt;/a&gt; or click the button below to enter for a chance to win a &lt;strong&gt;one of a kind, laser-engraved Aelios iPad 2&lt;/strong&gt;!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://aeliosapp.com/#contest&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/11/aelios-2-contest.png&quot; alt=&quot;Aelios 2 Contest&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -425,9 +425,9 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
   
     <entry>
       <title>Introducing Aelios 2</title>
-      <link href="http://localhost:4000/2011/11/01/introducing-aelios-2/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/11/01/introducing-aelios-2"/>
       
-      <id>http://localhost:4000/2011/11/01/introducing-aelios-2</id>
+      <id>http://blogjilion-staging.heroku.com/2011/11/01/introducing-aelios-2</id>
       
       <updated>2011-11-01T00:00:00+01:00</updated>
       <published>2011-11-01T00:00:00+01:00</published>
@@ -437,7 +437,7 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/aelios" term="aelios" label="Aelios"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/aelios" term="aelios" label="Aelios"/>
       
       <content type="html">&lt;p&gt;&lt;a href=&quot;http://aeliosapp.com&quot;&gt;Aelios 2&lt;/a&gt; is the &lt;strong&gt;first Weather App to support multiple weather providers&lt;/strong&gt; by allowing its users to choose their preferred provider!&lt;/p&gt;
 &lt;p&gt;Alongside multi-provider support, we’re thrilled to offer &lt;strong&gt;data from AccuWeather&lt;/strong&gt; &amp;#8211; one of the world&amp;#8217;s leading and most respected weather forecasters. We think our North american users will be particularly pleased!&lt;/p&gt;
@@ -464,9 +464,9 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
   
     <entry>
       <title>Katabatic Digital</title>
-      <link href="http://localhost:4000/2011/10/14/customer-showcase-katabatic-digital/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/10/14/customer-showcase-katabatic-digital"/>
       
-      <id>http://localhost:4000/2011/10/14/customer-showcase-katabatic-digital</id>
+      <id>http://blogjilion-staging.heroku.com/2011/10/14/customer-showcase-katabatic-digital</id>
       
       <updated>2011-10-14T00:00:00+02:00</updated>
       <published>2011-10-14T00:00:00+02:00</published>
@@ -476,11 +476,11 @@ Apple have selected Aelios as one of the best iPad Weather apps in the US in the
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Introducing the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://katabatic.tv&quot; title=&quot;Visit katabatic.tv&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/10/katabatic_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on Katabatic Digital&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -492,9 +492,9 @@ Katabatic Digital &amp;#8211; &lt;a href=&quot;http://katabatic.tv&quot;&gt;http
   
     <entry>
       <title>Such a Huge Void</title>
-      <link href="http://localhost:4000/2011/10/06/such-a-huge-void/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/10/06/such-a-huge-void"/>
       
-      <id>http://localhost:4000/2011/10/06/such-a-huge-void</id>
+      <id>http://blogjilion-staging.heroku.com/2011/10/06/such-a-huge-void</id>
       
       <updated>2011-10-06T00:00:00+02:00</updated>
       <published>2011-10-06T00:00:00+02:00</published>
@@ -513,9 +513,9 @@ Katabatic Digital &amp;#8211; &lt;a href=&quot;http://katabatic.tv&quot;&gt;http
   
     <entry>
       <title>Couture Fashion Show</title>
-      <link href="http://localhost:4000/2011/09/30/customer-showcase-couture-fashion-show/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/09/30/customer-showcase-couture-fashion-show"/>
       
-      <id>http://localhost:4000/2011/09/30/customer-showcase-couture-fashion-show</id>
+      <id>http://blogjilion-staging.heroku.com/2011/09/30/customer-showcase-couture-fashion-show</id>
       
       <updated>2011-09-30T00:00:00+02:00</updated>
       <published>2011-09-30T00:00:00+02:00</published>
@@ -525,11 +525,11 @@ Katabatic Digital &amp;#8211; &lt;a href=&quot;http://katabatic.tv&quot;&gt;http
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Introducing the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://springintofall.com&quot; title=&quot;Visit springintofall.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/09/spring_into_fall_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on Couture Fashion Show&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -542,9 +542,9 @@ Couture Fashion Show &amp;#8211; &lt;a href=&quot;http://springintofall.com&quot
   
     <entry>
       <title>Bredbandsbolaget</title>
-      <link href="http://localhost:4000/2011/09/27/customer-showcase-bredbandsbolaget/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/09/27/customer-showcase-bredbandsbolaget"/>
       
-      <id>http://localhost:4000/2011/09/27/customer-showcase-bredbandsbolaget</id>
+      <id>http://blogjilion-staging.heroku.com/2011/09/27/customer-showcase-bredbandsbolaget</id>
       
       <updated>2011-09-27T00:00:00+02:00</updated>
       <published>2011-09-27T00:00:00+02:00</published>
@@ -554,11 +554,11 @@ Couture Fashion Show &amp;#8211; &lt;a href=&quot;http://springintofall.com&quot
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Introducing the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.bredbandsbolaget.se&quot; title=&quot;Visit bredbandsbolaget.se&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/09/bredbandsbolaget_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on Bredbandsbolaget&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -571,9 +571,9 @@ Bredbandsbolaget &amp;#8211; &lt;a href=&quot;http://www.bredbandsbolaget.se&quo
   
     <entry>
       <title>Introducing the Official SublimeVideo WordPress Plugin</title>
-      <link href="http://localhost:4000/2011/09/20/introducing-the-official-sublimevideo-wordpress-plugin/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/09/20/introducing-the-official-sublimevideo-wordpress-plugin"/>
       
-      <id>http://localhost:4000/2011/09/20/introducing-the-official-sublimevideo-wordpress-plugin</id>
+      <id>http://blogjilion-staging.heroku.com/2011/09/20/introducing-the-official-sublimevideo-wordpress-plugin</id>
       
       <updated>2011-09-20T00:00:00+02:00</updated>
       <published>2011-09-20T00:00:00+02:00</published>
@@ -583,7 +583,7 @@ Bredbandsbolaget &amp;#8211; &lt;a href=&quot;http://www.bredbandsbolaget.se&quo
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 2px 25px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2011/09/wordpress-logo.png&quot; alt=&quot;SublimeVideo WordPress plugin&quot; /&gt;We&amp;#8217;re thrilled to announce the release of the official SublimeVideo WordPress plugin.&lt;/p&gt;
 &lt;p&gt;Our plugin is fully integrated with MySublimeVideo, so you don&amp;#8217;t need to remember your site&amp;#8217;s &amp;#8216;token&amp;#8217; or any other technical details. Once you’ve installed and authorized the plugin to access your account details, you’re ready to start embedding video using the plugin’s powerful video embed builder.&lt;/p&gt;
@@ -600,9 +600,9 @@ Bredbandsbolaget &amp;#8211; &lt;a href=&quot;http://www.bredbandsbolaget.se&quo
   
     <entry>
       <title>Happy Birthday SublimeVideo!</title>
-      <link href="http://localhost:4000/2011/09/14/happy-birthday-sublimevideo/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/09/14/happy-birthday-sublimevideo"/>
       
-      <id>http://localhost:4000/2011/09/14/happy-birthday-sublimevideo</id>
+      <id>http://blogjilion-staging.heroku.com/2011/09/14/happy-birthday-sublimevideo</id>
       
       <updated>2011-09-14T00:00:00+02:00</updated>
       <published>2011-09-14T00:00:00+02:00</published>
@@ -612,7 +612,7 @@ Bredbandsbolaget &amp;#8211; &lt;a href=&quot;http://www.bredbandsbolaget.se&quo
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: -4px 30px 0 25px&quot; src=&quot;http://blog.medias.jilion.com/uploads/2011/09/SublimeVideo-One-Year-Anniversary.png&quot; alt=&quot;Happy Birthday SublimeVideo&quot; /&gt; Today &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; celebrates its first birthday! A year ago we launched the &lt;a href=&quot;http://blog.jilion.com/2010/09/14/sublimevideo-beta-starts-today&quot;&gt;SublimeVideo Beta&lt;/a&gt; and were totally overwhelmed by the response of the HTML5 and video communities.&lt;/p&gt;
 &lt;p&gt;Throughout the beta and since our &lt;a href=&quot;http://blog.jilion.com/2011/03/30/sublimevideo-is-commercially-available&quot;&gt;commercial launch&lt;/a&gt; in March we&amp;#8217;ve gained some truly amazing users. We&amp;#8217;ve been making an effort to profile some of them in a series of &lt;a href=&quot;http://blog.jilion.com/tags/customer-showcase&quot;&gt;Customer Showcases&lt;/a&gt; — check it out to see some of the fantastic ways people are using SublimeVideo.&lt;/p&gt;
@@ -622,9 +622,9 @@ Bredbandsbolaget &amp;#8211; &lt;a href=&quot;http://www.bredbandsbolaget.se&quo
   
     <entry>
       <title>Pocket Diner</title>
-      <link href="http://localhost:4000/2011/08/05/customer-showcase-pocket-diner/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/08/05/customer-showcase-pocket-diner"/>
       
-      <id>http://localhost:4000/2011/08/05/customer-showcase-pocket-diner</id>
+      <id>http://blogjilion-staging.heroku.com/2011/08/05/customer-showcase-pocket-diner</id>
       
       <updated>2011-08-05T00:00:00+02:00</updated>
       <published>2011-08-05T00:00:00+02:00</published>
@@ -634,11 +634,11 @@ Bredbandsbolaget &amp;#8211; &lt;a href=&quot;http://www.bredbandsbolaget.se&quo
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Here is the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.pocketdiner.co.uk&quot; title=&quot;Visit pocketdiner.co.uk&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/08/pocket_diner_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on Pocket Diner&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -650,9 +650,9 @@ Pocket Diner &amp;#8211; &lt;a href=&quot;http://www.pocketdiner.co.uk&quot;&gt;
   
     <entry>
       <title>World's First True HTML5 Fullscreen Video</title>
-      <link href="http://localhost:4000/2011/07/27/world-s-first-true-html5-fullscreen-video/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/07/27/world-s-first-true-html5-fullscreen-video"/>
       
-      <id>http://localhost:4000/2011/07/27/world-s-first-true-html5-fullscreen-video</id>
+      <id>http://blogjilion-staging.heroku.com/2011/07/27/world-s-first-true-html5-fullscreen-video</id>
       
       <updated>2011-07-27T00:00:00+02:00</updated>
       <published>2011-07-27T00:00:00+02:00</published>
@@ -662,7 +662,7 @@ Pocket Diner &amp;#8211; &lt;a href=&quot;http://www.pocketdiner.co.uk&quot;&gt;
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;We have some exciting news for all the HTML5 enthusiasts out there: true HTML5 fullscreen video playback is now possible, and we’ve built it right into &lt;a href=&quot;http://sublimevideo.net&quot;&gt;our player&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Until now, the lack of true fullscreen playback has been the biggest limitation of HTML5 over Flash video. Safari already offered a basic fullscreen option for HTML5 video players, but this was via a non-customizable QuickTime view that didn’t allow the player to be branded or to feature custom controls.&lt;/p&gt;
@@ -693,9 +693,9 @@ Pocket Diner &amp;#8211; &lt;a href=&quot;http://www.pocketdiner.co.uk&quot;&gt;
   
     <entry>
       <title>Rock am Ring</title>
-      <link href="http://localhost:4000/2011/07/22/customer-showcase-rock-am-ring/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/07/22/customer-showcase-rock-am-ring"/>
       
-      <id>http://localhost:4000/2011/07/22/customer-showcase-rock-am-ring</id>
+      <id>http://blogjilion-staging.heroku.com/2011/07/22/customer-showcase-rock-am-ring</id>
       
       <updated>2011-07-22T00:00:00+02:00</updated>
       <published>2011-07-22T00:00:00+02:00</published>
@@ -705,11 +705,11 @@ Pocket Diner &amp;#8211; &lt;a href=&quot;http://www.pocketdiner.co.uk&quot;&gt;
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Here is the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.rock-am-ring.com&quot; title=&quot;Visit rock-am-ring.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/07/rockamring_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on Rock am Ring&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -722,9 +722,9 @@ Rock am Ring &amp;#8211; &lt;a href=&quot;http://www.rock-am-ring.com&quot;&gt;h
   
     <entry>
       <title>Welcome on Board François</title>
-      <link href="http://localhost:4000/2011/07/20/welcome-on-board-francois/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/07/20/welcome-on-board-francois"/>
       
-      <id>http://localhost:4000/2011/07/20/welcome-on-board-francois</id>
+      <id>http://blogjilion-staging.heroku.com/2011/07/20/welcome-on-board-francois</id>
       
       <updated>2011-07-20T00:00:00+02:00</updated>
       <published>2011-07-20T00:00:00+02:00</published>
@@ -746,9 +746,9 @@ Rock am Ring &amp;#8211; &lt;a href=&quot;http://www.rock-am-ring.com&quot;&gt;h
   
     <entry>
       <title>Leo Laporte loves Aelios Weather</title>
-      <link href="http://localhost:4000/2011/07/08/leo-laporte-loves-aelios-weather/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/07/08/leo-laporte-loves-aelios-weather"/>
       
-      <id>http://localhost:4000/2011/07/08/leo-laporte-loves-aelios-weather</id>
+      <id>http://blogjilion-staging.heroku.com/2011/07/08/leo-laporte-loves-aelios-weather</id>
       
       <updated>2011-07-08T00:00:00+02:00</updated>
       <published>2011-07-08T00:00:00+02:00</published>
@@ -758,7 +758,7 @@ Rock am Ring &amp;#8211; &lt;a href=&quot;http://www.rock-am-ring.com&quot;&gt;h
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/aelios" term="aelios" label="Aelios"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/aelios" term="aelios" label="Aelios"/>
       
       <content type="html">&lt;p&gt;Aelios was just featured on &lt;a href=&quot;http://leoville.com&quot;&gt;Leo Laporte&lt;/a&gt; and &lt;a href=&quot;http://www.sarahlane.com&quot;&gt;Sarah Lane&lt;/a&gt;&amp;#8217;s podcast &amp;#8220;&lt;a href=&quot;http://twit.tv/ipt52&quot;&gt;iPad Today 52&lt;/a&gt;: Weather App Extravaganza&amp;#8221;! Check out the &lt;a href=&quot;http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/ipad/ipad0052/ipad0052_h264b_864x480_500.mp4&quot;&gt;video&lt;/a&gt; (starting at 7:45).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://twit.tv/ipt52&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/07/leo_laporte_and_sarah_lane_aelios_weather.jpg&quot; alt=&quot;iPad Today 52: Weather App Extravaganza&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -771,9 +771,9 @@ You might have noticed that Leo always has a large &lt;span class=&quot;caps&quo
   
     <entry>
       <title>Tetra Pak</title>
-      <link href="http://localhost:4000/2011/06/28/customer-showcase-tetra-pak/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/06/28/customer-showcase-tetra-pak"/>
       
-      <id>http://localhost:4000/2011/06/28/customer-showcase-tetra-pak</id>
+      <id>http://blogjilion-staging.heroku.com/2011/06/28/customer-showcase-tetra-pak</id>
       
       <updated>2011-06-28T00:00:00+02:00</updated>
       <published>2011-06-28T00:00:00+02:00</published>
@@ -783,11 +783,11 @@ You might have noticed that Leo always has a large &lt;span class=&quot;caps&quo
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Here is the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://icast2.brax.se&quot; title=&quot;Visit i-Cast 2.0 Replica&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/06/tetra_pak_2.jpg&quot; alt=&quot;SublimeVideo on Tetra Pak&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -799,9 +799,9 @@ i-Cast 2.0 Replica &amp;#8211; &lt;a href=&quot;http://icast2.brax.se&quot;&gt;h
   
     <entry>
       <title>WordPress 101</title>
-      <link href="http://localhost:4000/2011/06/10/customer-showcase-wordpress-101/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/06/10/customer-showcase-wordpress-101"/>
       
-      <id>http://localhost:4000/2011/06/10/customer-showcase-wordpress-101</id>
+      <id>http://blogjilion-staging.heroku.com/2011/06/10/customer-showcase-wordpress-101</id>
       
       <updated>2011-06-10T00:00:00+02:00</updated>
       <published>2011-06-10T00:00:00+02:00</published>
@@ -811,11 +811,11 @@ i-Cast 2.0 Replica &amp;#8211; &lt;a href=&quot;http://icast2.brax.se&quot;&gt;h
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Here is the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.wp101.com&quot; title=&quot;Visit wp101.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/06/wp101_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on wp101.com&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -828,9 +828,9 @@ WordPress 101 &amp;#8211; &lt;a href=&quot;http://www.wp101.com&quot;&gt;http://
   
     <entry>
       <title>Camera +</title>
-      <link href="http://localhost:4000/2011/06/01/customer-showcase-camera-plus/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/06/01/customer-showcase-camera-plus"/>
       
-      <id>http://localhost:4000/2011/06/01/customer-showcase-camera-plus</id>
+      <id>http://blogjilion-staging.heroku.com/2011/06/01/customer-showcase-camera-plus</id>
       
       <updated>2011-06-01T00:00:00+02:00</updated>
       <published>2011-06-01T00:00:00+02:00</published>
@@ -840,11 +840,11 @@ WordPress 101 &amp;#8211; &lt;a href=&quot;http://www.wp101.com&quot;&gt;http://
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Here is the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://campl.us/clarity&quot; title=&quot;Visit campl.us/clarity&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/06/camplus_clarity_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on campl.us/clarity&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -856,9 +856,9 @@ Camera + (Clarity) &amp;#8211; &lt;a href=&quot;http://campl.us/clarity&quot;&gt
   
     <entry>
       <title>Small Change</title>
-      <link href="http://localhost:4000/2011/05/30/customer-showcase-small-change/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/05/30/customer-showcase-small-change"/>
       
-      <id>http://localhost:4000/2011/05/30/customer-showcase-small-change</id>
+      <id>http://blogjilion-staging.heroku.com/2011/05/30/customer-showcase-small-change</id>
       
       <updated>2011-05-30T00:00:00+02:00</updated>
       <published>2011-05-30T00:00:00+02:00</published>
@@ -868,11 +868,11 @@ Camera + (Clarity) &amp;#8211; &lt;a href=&quot;http://campl.us/clarity&quot;&gt
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Here is the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.smallchangeshort.com&quot; title=&quot;Visit smallchangeshort.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/05/small_change_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on smallchangeshort.com&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -884,9 +884,9 @@ Small Change &amp;#8211; &lt;a href=&quot;http://www.smallchangeshort.com&quot;&
   
     <entry>
       <title>Aelios for iPad is available</title>
-      <link href="http://localhost:4000/2011/05/23/aelios-for-ipad-is-available/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/05/23/aelios-for-ipad-is-available"/>
       
-      <id>http://localhost:4000/2011/05/23/aelios-for-ipad-is-available</id>
+      <id>http://blogjilion-staging.heroku.com/2011/05/23/aelios-for-ipad-is-available</id>
       
       <updated>2011-05-23T00:00:00+02:00</updated>
       <published>2011-05-23T00:00:00+02:00</published>
@@ -896,7 +896,7 @@ Small Change &amp;#8211; &lt;a href=&quot;http://www.smallchangeshort.com&quot;&
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/aelios" term="aelios" label="Aelios"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/aelios" term="aelios" label="Aelios"/>
       
       <content type="html">&lt;p&gt;Today we are launching &lt;a href=&quot;http://aeliosapp.com&quot;&gt;Aelios Weather&lt;/a&gt; 1.0 for iPad, now available on the &lt;a href=&quot;http://aeliosapp.com/appstore&quot;&gt;App Store&lt;/a&gt; at the special launch price of $2.99.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://aeliosapp.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/05/aelios_for_ipad_and_icon.png&quot; alt=&quot;Aelios for iPad&quot; style=&quot;margin:10px 0 10px;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -913,9 +913,9 @@ Small Change &amp;#8211; &lt;a href=&quot;http://www.smallchangeshort.com&quot;&
   
     <entry>
       <title>Yaniv Fridman</title>
-      <link href="http://localhost:4000/2011/05/16/customer-showcase-yaniv-fridman/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/05/16/customer-showcase-yaniv-fridman"/>
       
-      <id>http://localhost:4000/2011/05/16/customer-showcase-yaniv-fridman</id>
+      <id>http://blogjilion-staging.heroku.com/2011/05/16/customer-showcase-yaniv-fridman</id>
       
       <updated>2011-05-16T00:00:00+02:00</updated>
       <published>2011-05-16T00:00:00+02:00</published>
@@ -925,11 +925,11 @@ Small Change &amp;#8211; &lt;a href=&quot;http://www.smallchangeshort.com&quot;&
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Here is the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.yanivfridman.com&quot; title=&quot;Visit yanivfridman.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/05/yaniv_fridman_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on yanivfridman.com&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -941,9 +941,9 @@ Yaniv Fridman &amp;#8211; &lt;a href=&quot;http://www.yanivfridman.com&quot;&gt;
   
     <entry>
       <title>Aelios for iPad is coming!</title>
-      <link href="http://localhost:4000/2011/05/10/aelios-for-ipad-is-coming/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/05/10/aelios-for-ipad-is-coming"/>
       
-      <id>http://localhost:4000/2011/05/10/aelios-for-ipad-is-coming</id>
+      <id>http://blogjilion-staging.heroku.com/2011/05/10/aelios-for-ipad-is-coming</id>
       
       <updated>2011-05-10T00:00:00+02:00</updated>
       <published>2011-05-10T00:00:00+02:00</published>
@@ -953,7 +953,7 @@ Yaniv Fridman &amp;#8211; &lt;a href=&quot;http://www.yanivfridman.com&quot;&gt;
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/aelios" term="aelios" label="Aelios"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/aelios" term="aelios" label="Aelios"/>
       
       <content type="html">&lt;p&gt;&lt;a href=&quot;http://aeliosapp.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/05/aelios_ipad_app_teaser.jpg&quot; alt=&quot;Aelios App for iPad Teaser&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
 Jilion is about to launch &lt;a href=&quot;http://aeliosapp.com&quot;&gt;Aelios&lt;/a&gt;, our first iPad app!&lt;/p&gt;
@@ -965,9 +965,9 @@ We won’t reveal much more just yet, but here’s a hint: it’s something you 
   
     <entry>
       <title>Big Cartel</title>
-      <link href="http://localhost:4000/2011/04/26/customer-showcase-big-cartel/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/04/26/customer-showcase-big-cartel"/>
       
-      <id>http://localhost:4000/2011/04/26/customer-showcase-big-cartel</id>
+      <id>http://blogjilion-staging.heroku.com/2011/04/26/customer-showcase-big-cartel</id>
       
       <updated>2011-04-26T00:00:00+02:00</updated>
       <published>2011-04-26T00:00:00+02:00</published>
@@ -977,11 +977,11 @@ We won’t reveal much more just yet, but here’s a hint: it’s something you 
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Here is the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://bigcartel.com&quot; title=&quot;Visit bigcartel.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/04/big_cartel_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on Big Cartel&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -995,9 +995,9 @@ Big Cartel &amp;#8211; &lt;a href=&quot;http://bigcartel.com&quot;&gt;http://big
   
     <entry>
       <title>Method &amp; Craft</title>
-      <link href="http://localhost:4000/2011/04/18/customer-showcase-method-and-craft/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/04/18/customer-showcase-method-and-craft"/>
       
-      <id>http://localhost:4000/2011/04/18/customer-showcase-method-and-craft</id>
+      <id>http://blogjilion-staging.heroku.com/2011/04/18/customer-showcase-method-and-craft</id>
       
       <updated>2011-04-18T00:00:00+02:00</updated>
       <published>2011-04-18T00:00:00+02:00</published>
@@ -1007,11 +1007,11 @@ Big Cartel &amp;#8211; &lt;a href=&quot;http://bigcartel.com&quot;&gt;http://big
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player. Here is the latest entry to our Customer Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://methodandcraft.com&quot; title=&quot;Visit methodandcraft.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/04/methodandcraft_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on Method &amp;amp; Craft&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -1025,9 +1025,9 @@ Method &amp;amp; Craft &amp;#8211; &lt;a href=&quot;http://methodandcraft.com&qu
   
     <entry>
       <title>LittleBigPlanet 2 by Media Molecule</title>
-      <link href="http://localhost:4000/2011/04/15/customer-showcase-media-molecule-littlebigplanet2/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2"/>
       
-      <id>http://localhost:4000/2011/04/15/customer-showcase-media-molecule-littlebigplanet2</id>
+      <id>http://blogjilion-staging.heroku.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2</id>
       
       <updated>2011-04-15T00:00:00+02:00</updated>
       <published>2011-04-15T00:00:00+02:00</published>
@@ -1037,11 +1037,11 @@ Method &amp;amp; Craft &amp;#8211; &lt;a href=&quot;http://methodandcraft.com&qu
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-        <category scheme="http://localhost:4000/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/customer-showcase" term="customer-showcase" label="Customer Showcase"/>
       
-        <category scheme="http://localhost:4000/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;We are proud to have some great customers using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Player to promote and showcase their products, services and ideas. We’ll be interviewing and profiling some of them on our blog in the near future.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://littlebigplanet.com/en/&quot; title=&quot;Visit LittleBigPlanet.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/04/littlebigplanet2_sublimevideo.jpg&quot; alt=&quot;SublimeVideo on LittleBigPlaner 2&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -1055,9 +1055,9 @@ LittleBigPlanet 2 &amp;#8211; &lt;a href=&quot;http://littlebigplanet.com/en/&qu
   
     <entry>
       <title>SublimeVideo is commercially available!</title>
-      <link href="http://localhost:4000/2011/03/30/sublimevideo-is-commercially-available/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/03/30/sublimevideo-is-commercially-available"/>
       
-      <id>http://localhost:4000/2011/03/30/sublimevideo-is-commercially-available</id>
+      <id>http://blogjilion-staging.heroku.com/2011/03/30/sublimevideo-is-commercially-available</id>
       
       <updated>2011-03-30T00:00:00+02:00</updated>
       <published>2011-03-30T00:00:00+02:00</published>
@@ -1067,7 +1067,7 @@ LittleBigPlanet 2 &amp;#8211; &lt;a href=&quot;http://littlebigplanet.com/en/&qu
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;&lt;a href=&quot;http://sublimevideo.net&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2011/03/SublimeVideo-Public-Launch.png&quot; alt=&quot;SublimeVideo Public Launch&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
 Back in early 2010 more than a million visitors enjoyed what many considered was the best HTML5 video player on the Internet.&lt;/p&gt;
@@ -1084,9 +1084,9 @@ Check out our &lt;a href=&quot;http://jilion.com/pr/2011-03-30&quot;&gt;Press Re
   
     <entry>
       <title>Consistency, down to the right-click</title>
-      <link href="http://localhost:4000/2011/01/19/consistency-down-to-the-right-click/"/>
+      <link href="http://blogjilion-staging.heroku.com/2011/01/19/consistency-down-to-the-right-click"/>
       
-      <id>http://localhost:4000/2011/01/19/consistency-down-to-the-right-click</id>
+      <id>http://blogjilion-staging.heroku.com/2011/01/19/consistency-down-to-the-right-click</id>
       
       <updated>2011-01-19T00:00:00+01:00</updated>
       <published>2011-01-19T00:00:00+01:00</published>
@@ -1096,7 +1096,7 @@ Check out our &lt;a href=&quot;http://jilion.com/pr/2011-03-30&quot;&gt;Press Re
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;If you are a developer or a curious user, you have probably found yourself often &lt;strong&gt;right-clicking&lt;/strong&gt; on videos in your browser to get the contextual menu and see if they are played using Flash or HTML5.&lt;/p&gt;
 &lt;p&gt;Today we want to show something that you have probably &lt;strong&gt;never seen on the Web before&lt;/strong&gt;: a handcrafted contextual menu that consistently works&lt;sup&gt;&lt;a href=&quot;#fn-2011-01-19&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; over &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; and Flash and that not only shows you if the video is being played with HTML5 or Flash, but also allows you to easily switch between the two modes.&lt;/p&gt;
@@ -1124,9 +1124,9 @@ Check out our &lt;a href=&quot;http://jilion.com/pr/2011-03-30&quot;&gt;Press Re
   
     <entry>
       <title>SublimeVideo Beta runs great!</title>
-      <link href="http://localhost:4000/2010/12/21/sublimevideo-beta-runs-great/"/>
+      <link href="http://blogjilion-staging.heroku.com/2010/12/21/sublimevideo-beta-runs-great"/>
       
-      <id>http://localhost:4000/2010/12/21/sublimevideo-beta-runs-great</id>
+      <id>http://blogjilion-staging.heroku.com/2010/12/21/sublimevideo-beta-runs-great</id>
       
       <updated>2010-12-21T00:00:00+01:00</updated>
       <published>2010-12-21T00:00:00+01:00</published>
@@ -1136,7 +1136,7 @@ Check out our &lt;a href=&quot;http://jilion.com/pr/2011-03-30&quot;&gt;Press Re
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;&lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; Beta has started 3 months ago and we are extremely happy to report that basically everything is running great!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://docs.sublimevideo.net/releases&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2010/12/SublimeVideo-Release-Notes-Screenshot.jpg&quot; alt=&quot;SublimeVideo Release Notes Screenshot&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1165,9 +1165,9 @@ Second and maybe even more importantly, the Beta is demonstrating the value of o
   
     <entry>
       <title>SublimeVideo Beta starts Today</title>
-      <link href="http://localhost:4000/2010/09/14/sublimevideo-beta-starts-today/"/>
+      <link href="http://blogjilion-staging.heroku.com/2010/09/14/sublimevideo-beta-starts-today"/>
       
-      <id>http://localhost:4000/2010/09/14/sublimevideo-beta-starts-today</id>
+      <id>http://blogjilion-staging.heroku.com/2010/09/14/sublimevideo-beta-starts-today</id>
       
       <updated>2010-09-14T00:00:00+02:00</updated>
       <published>2010-09-14T00:00:00+02:00</published>
@@ -1177,7 +1177,7 @@ Second and maybe even more importantly, the Beta is demonstrating the value of o
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;We are happy to announce we are launching SublimeVideo Beta today and we are sending out the first wave of invitations right now.&lt;/p&gt;
 &lt;p&gt;A lot of you registered for the beta. We are thrilled to see the amount of requests we received and are receiving daily. If everything goes smoothly with SublimeVideo service infrastructure we will send Beta invitations to all of those who registered as quickly as possible. If you didn’t register yet, you can do it from this &lt;a href=&quot;http://sublimevideo.net/notify&quot;&gt;page&lt;/a&gt;.&lt;/p&gt;
@@ -1194,9 +1194,9 @@ We would love to know if you&amp;#8217;re happy with SublimeVideo and what we ca
   
     <entry>
       <title>Introducing SublimeVideo Player as a Service</title>
-      <link href="http://localhost:4000/2010/08/31/introducing-sublimevideo-player-as-a-service/"/>
+      <link href="http://blogjilion-staging.heroku.com/2010/08/31/introducing-sublimevideo-player-as-a-service"/>
       
-      <id>http://localhost:4000/2010/08/31/introducing-sublimevideo-player-as-a-service</id>
+      <id>http://blogjilion-staging.heroku.com/2010/08/31/introducing-sublimevideo-player-as-a-service</id>
       
       <updated>2010-08-31T00:00:00+02:00</updated>
       <published>2010-08-31T00:00:00+02:00</published>
@@ -1206,7 +1206,7 @@ We would love to know if you&amp;#8217;re happy with SublimeVideo and what we ca
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 5px 25px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/08/sublimevideo_cloud.png&quot; alt=&quot;Introducing SublimeVideo Player as a Service&quot; /&gt; This is a big day for us at Jilion!&lt;br /&gt;
 Today, as promised we let you know what we’ve been working on during the past few months. We hope you’ll like it as much as we do.&lt;/p&gt;
@@ -1245,9 +1245,9 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
   
     <entry>
       <title>Stay Updated</title>
-      <link href="http://localhost:4000/2010/08/03/stay-updated/"/>
+      <link href="http://blogjilion-staging.heroku.com/2010/08/03/stay-updated"/>
       
-      <id>http://localhost:4000/2010/08/03/stay-updated</id>
+      <id>http://blogjilion-staging.heroku.com/2010/08/03/stay-updated</id>
       
       <updated>2010-08-03T00:00:00+02:00</updated>
       <published>2010-08-03T00:00:00+02:00</published>
@@ -1257,14 +1257,14 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;Would you like to be notified when SublimeVideo is released? Are you interested to be part of an early limited beta and give your feedback on the product and the pricing? Visit &lt;a href=&quot;http://sublimevideo.net&quot;&gt;sublimevideo.net&lt;/a&gt;&lt;/p&gt;</content>
     </entry>
   
     <entry>
       <title>Next Month!</title>
-      <link href="http://localhost:4000/2010/07/08/next-month/"/>
+      <link href="http://blogjilion-staging.heroku.com/2010/07/08/next-month"/>
       
       <id>http://blog.jilion.com/?p=328</id>
       
@@ -1276,7 +1276,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 0 24px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/07/sublimevideo_solution_august_2010_calendar_icon.png&quot; alt=&quot;August 2010 Calendar&quot; /&gt; For the last three months, we have been thinking thoroughly about how to make of SublimeVideo player the most functional, universal, easy-to-deploy-and-maintain HTML5 video solution.&lt;/p&gt;
 &lt;p&gt;Next month we will reveal all the details and commercial plan of our upcoming SublimeVideo solution. We hope you will love it as much as we do. Frankly, we are super-excited about it!&lt;/p&gt;
@@ -1285,7 +1285,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
   
     <entry>
       <title>SublimeVideo Flash mode</title>
-      <link href="http://localhost:4000/2010/04/07/sublimevideo-flash-mode/"/>
+      <link href="http://blogjilion-staging.heroku.com/2010/04/07/sublimevideo-flash-mode"/>
       
       <id>http://blog.jilion.com/?p=285</id>
       
@@ -1297,7 +1297,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;&lt;img style=&quot;float: left;margin: 0 24px 0 0&quot; src=&quot;http://blog.medias.jilion.com/uploads/2010/04/flash.png&quot; alt=&quot;Flash Icon&quot; /&gt; SublimeVideo has a broader goal than just showcasing some nice HTML5 features in a controlled environment like our &lt;a href=&quot;http://jilion.com/sublime/video&quot;&gt;demo page&lt;/a&gt;. We aim at delivering a modern and simple video-embedding solution for web developers that provides the same user experience and uniform UI across browsers.&lt;/p&gt;
 &lt;p&gt;The first main news of the day is we have just completed the development of the Flash mode of our SublimeVideo player.  It is not a separate product, but a necessary component to achieve our ambition to offer you a truly &lt;strong&gt;universal video player&lt;/strong&gt; that works in all browsers.&lt;/p&gt;
@@ -1320,7 +1320,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
   
     <entry>
       <title>SublimeVideo supports Firefox</title>
-      <link href="http://localhost:4000/2010/02/11/sublimevideo-supports-firefox/"/>
+      <link href="http://blogjilion-staging.heroku.com/2010/02/11/sublimevideo-supports-firefox"/>
       
       <id>http://blog.jilion.com/?p=252</id>
       
@@ -1332,7 +1332,7 @@ To address this pricing challenge, we plan to ask Beta testers to answer a quick
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;We are working hard on the release of SublimeVideo (no date yet).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2010/02/firefox.png&quot; alt=&quot;Firefox Icon&quot; style=&quot;float:left;margin:0 24px 0 0;&quot; /&gt; We&amp;#8217;ve just finished adding support for Firefox and &lt;a href=&quot;http://en.wikipedia.org/wiki/Theora&quot;&gt;Ogg Theora&lt;/a&gt; videos. We figured we&amp;#8217;d update the &lt;a href=&quot;http://jilion.com/sublime/video&quot;&gt;demo page&lt;/a&gt; to show it to you.&lt;/p&gt;
@@ -1351,7 +1351,7 @@ At the moment we couldn&amp;#8217;t integrate this directly into our controls as
   
     <entry>
       <title>Introducing SublimeVideo</title>
-      <link href="http://localhost:4000/2010/01/25/introducing-sublimevideo/"/>
+      <link href="http://blogjilion-staging.heroku.com/2010/01/25/introducing-sublimevideo"/>
       
       <id>http://blog.jilion.com/?p=204</id>
       
@@ -1363,7 +1363,7 @@ At the moment we couldn&amp;#8217;t integrate this directly into our controls as
       </author>
       
       
-        <category scheme="http://localhost:4000/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;Today we&amp;#8217;d like to show you a pre-release demo of SublimeVideo. It&amp;#8217;s an &lt;a href=&quot;http://en.wikipedia.org/wiki/Html5&quot;&gt;HTML5&lt;/a&gt; video player that will allow you to easily embed videos in any page, blog or site using the latest modern web standards.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://jilion.com/sublime/video&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2010/01/sublime_video-600x480.png&quot; alt=&quot;Sublime Video&quot; class=&quot;no_rounded&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1385,7 +1385,7 @@ At the moment we couldn&amp;#8217;t integrate this directly into our controls as
   
     <entry>
       <title>The power to interoperate with social networks</title>
-      <link href="http://localhost:4000/2010/01/21/the-power-to-interoperate-with-social-networks/"/>
+      <link href="http://blogjilion-staging.heroku.com/2010/01/21/the-power-to-interoperate-with-social-networks"/>
       
       <id>http://blog.jilion.com/?p=150</id>
       
@@ -1415,7 +1415,7 @@ A proper integration with a leading social network definitely helps to bootstrap
   
     <entry>
       <title>In the Top 20 in one day</title>
-      <link href="http://localhost:4000/2009/12/05/in-the-top-20-in-one-day/"/>
+      <link href="http://blogjilion-staging.heroku.com/2009/12/05/in-the-top-20-in-one-day"/>
       
       <id>http://blog.jilion.com/?p=33</id>
       
@@ -1432,7 +1432,7 @@ A proper integration with a leading social network definitely helps to bootstrap
   
     <entry>
       <title>Welcome to our blog</title>
-      <link href="http://localhost:4000/2009/12/03/welcome/"/>
+      <link href="http://blogjilion-staging.heroku.com/2009/12/03/welcome"/>
       
       <id>http://blog.jilion.com/?p=9</id>
       
