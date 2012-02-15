@@ -1,0 +1,1454 @@
+
+
+
+<!DOCTYPE html>
+<html lang='en' xml:lang='en' xmlns='http://www.w3.org/1999/xhtml'>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    
+      
+        <title>Jilion Blog - SublimeVideo</title>
+      
+    
+
+    
+      <link href="/stylesheets/style.css" media="all" rel="stylesheet" type="text/css" />
+    
+    <link rel="alternate" type="application/rss+xml" title="Jilion Blog" href="http://feeds.feedburner.com/jilion" />
+    <link rel="shortcut icon" href="http://blog.medias.jilion.com/favicon.ico" type="image/x-icon" />
+    <!--[if gte IE 7]>
+      <script type="text/javascript">var curvyCornersNoAutoScan = true;</script>
+      <script type="text/javascript" src="http://blog.medias.jilion.com/javascripts/curvycorners.js"></script>
+      <script type="text/javascript">
+        var disqusPresencePolling;
+        var documentHeight;
+        window.onload = function() {
+          documentHeight = document.body.clientHeight;
+          var settings = {
+            tl: { radius: 10 },
+            tr: { radius: 10 },
+            bl: { radius: 10 },
+            br: { radius: 10 },
+            antiAlias: true
+          };
+          var divObj = document.getElementById("back");
+          divObj.className = "curvyRedraw";
+          curvyCorners(settings, divObj);
+          divObj.style.filter="alpha(opacity=70)";
+          disqusPresencePolling = setInterval("checkDisqusPresence()", 1000);
+        };
+
+        function checkDisqusPresence() {
+          if (document.body.clientHeight > documentHeight) {
+            clearInterval(disqusPresencePolling);
+            setTimeout(function(){
+              curvyCorners.redraw();
+              document.getElementById("back").style.filter="alpha(opacity=70)";
+            }, 2000);
+          } else {
+            curvyCorners.redraw();
+            document.getElementById("back").style.filter="alpha(opacity=70)";
+          }
+        }
+
+      </script>
+      <style type="text/css" media="screen">
+        *+html #logo_backlights {left:-110px;}
+        *+html #back {filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);}
+      </style>
+
+    <![endif]-->
+    <!--[if lte IE 6]>
+      <meta content='0;url=http://jilion.com/ie' http-equiv='Refresh' />
+      <style media='screen' type='text/css'>
+        body {background:#fff;display:none;}
+      </style>
+    <![endif]-->
+    <script type="text/javascript" src="http://cdn.sublimevideo.net/js/s070hm52.js"></script>
+    <script type="text/javascript" src="http://use.typekit.com/ibz5qib.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script type="text/javascript">
+      var disqus_shortname = 'jilionblog';
+      (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.src = 'http://disqus.com/forums/jilionblog/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+      }());
+      var disqus_developer = 1;
+    </script>
+  </head>
+  <body>
+    <div id="global">
+      <div id="logo_backlights"></div>
+      <div id="back"></div>
+      <div id="main">
+        <div id="header">
+          <h1><a href="http://jilion.com"><span>Jilion</span></a></h1>
+          <div id="blog_label">
+            <div class="wrap">
+              <h2><a href="http://blog.jilion.com"><span>Blog</span></a></h2>
+            </div>
+          </div>
+        </div>
+        <div class="breakline1"></div>
+        <div id="content">
+          
+
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_20120215" style=""><a href="http://localhost:4000/2012/02/15/a-closer-look-at-sublimevideo-s-universal-real-time-statistics/"><span>A Closer Look at SublimeVideo’s</span> <span>Universal Real-Time Statistics</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">February 15th, 2012</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20120215">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/02/15/a-closer-look-at-sublimevideo-s-universal-real-time-statistics/" data-text="A Closer Look at SublimeVideo’s Universal Real-Time Statistics —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/02/15/a-closer-look-at-sublimevideo-s-universal-real-time-statistics/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We recently introduced a <a href="http://blog.jilion.com/2011/11/29/sublimevideo-unleashed">major update to SublimeVideo</a>. The biggest new feature added to the service was our Universal, Real-Time Statistics platform.</p>
+<p>SublimeVideo&#8217;s statistics platform is the first to offer a truly <strong>comprehensive, real-time overview of your site&#8217;s video traffic from any device, whether generated from mobile or desktop, HTML5 or Flash</strong>.</p>
+<p>We’ve prepared a <a href="https://my.sublimevideo.net/sites/stats/demo">live demo</a> of our Real-Time Statistics dashboard so you can try it out for yourself. Please note that the demo requires a modern browser that supports HTML5. We recommend using the latest version of Chrome, Safari, Firefox, Opera or IE9.</p>
+<p><a href="https://my.sublimevideo.net/sites/stats/demo"><img src="http://blog.medias.jilion.com/uploads/2012/02/sublimevideo-integrated-real-time-statistics-demo.jpg" alt="SublimeVideo Universal Real-Time Statistics" /></a><br />
+<em class="caption">Check out the live demo.</em></p>
+<h4>Real-Time &amp; Universal</h4>
+<p>SublimeVideo gives our users instant access to a range of statistics about their videos, all in <strong>real-time</strong>. This simply wouldn&#8217;t be possible without SublimeVideo&#8217;s cloud-based infrastructure.</p>
+<p>In addition, SublimeVideo Player reports consistent statistics from all platforms (HTML5 and Flash on both desktop and mobile). Because of this, we&#8217;re able to collect data from all devices and present a comprehensive, <strong>universal</strong> overview of a user’s site&#8217;s video traffic. This is increasingly important as the web transitions to HTML5 and more people access content from different platforms and devices.</p>
+<div style="margin-bottom:30px" ><video class="sublime" width="640" height="360" poster="http://media.jilion.com/videos/sublimevideo-real-time-statistics.jpg" preload="none" data-sublime-settings="initial-overlay:none" data-uid="real-time-stats" data-name="Real-Time Statistics"><br />
+<source src="http://media.jilion.com/videos/sublimevideo-real-time-statistics-720p.mp4" data-quality="hd" /><br />
+<source src="http://media.jilion.com/videos/sublimevideo-real-time-statistics-360p.mp4" /><br />
+<source src="http://media.jilion.com/videos/sublimevideo-real-time-statistics-720p.webm" data-quality="hd" /><br />
+<source src="http://media.jilion.com/videos/sublimevideo-real-time-statistics-360p.webm" /></video></div>
+<p class="hide"><small><em class="caption">If you are reading through your <span class="caps"><span class="caps">RSS</span></span> reader, please visit this <a href="http://blog.jilion.com/2012/02/15/a-closer-look-at-sublimevideo-s-universal-real-time-statistics">web page</a> on the browser to watch the video.</em></small></p>
+<p>You can find more information on our <a href="http://docs.sublimevideo.net/real-time-stats">documentation page</a>.</p>
+<h4>Under the hood</h4>
+<p>We built a sophisticated architecture to power SublimeVideo’s Real-Time Statistics; SublimeVideo Player &#8216;reports&#8217; every load / play. Then, every 60 seconds, our <a href="http://heroku.com">Heroku</a>-hosted <a href="http://rubyonrails.org">Rails</a> backend workers parse and separate statistics logs by time period (days / hours / minutes), before storing them in a <a href="http://www.mongodb.org">MongoDB</a> database.</p>
+<p>These stats are then displayed on the user&#8217;s stats dashboard (which is implemented using Rails, <a href="http://documentcloud.github.com/backbone/">Backbone.js</a> and <a href="http://coffeescript.org">CoffeeScript</a>). The graphs automatically refresh themselves every 60 seconds, so there&#8217;s no need to manually refresh the page.</p>
+<p>We use a different setup for stats from the last 60 seconds (available only with paid plans); here, SublimeVideo Player ‘reports’ plays / loads to our Ruby async server (<a href="http://cramp.in">Cramp</a>), also hosted on Heroku.</p>
+<p>Plays and loads over the last 60 seconds are stored on the same MongoDB database and pushed directly &#8211; in real time &#8211; to the user’s stats dashboard via <a href="http://pusher.com">Pusher</a>. Keeping the period covering the last 60 seconds in sync everywhere was a nice technical challenge; we created a tiny &#8216;ticker&#8217; app, which pushes each second via a public Pusher channel.</p>
+<p>Real-Time Statistics are available with our Plus and Premium paid plans, while Standard statistics for the last 24 hours are available with our new, Free &amp; Unlimited plan.</p>
+<h4>Tell us what you want next</h4>
+<p>With the first version of our player-integrated statistics we&#8217;ve laid the foundations for more features to come.</p>
+<p>Please share your comments and suggestions about how you think we can improve our statistics platform on this <a href="http://getsatisfaction.com/sublimevideo/topics/comments_suggestions_for_sublimevideos_real_time_statistics_platform">SublimeVideo Community Forum thread</a>.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo in Education</a>
+      
+      <h2 id="post_20120201" style=""><a href="http://localhost:4000/2012/02/01/sublimevideo-in-education-ferdinand-center-for-creative/"><span>Ferdinand Center for the Creative</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">February 1st, 2012</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20120201">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/02/01/sublimevideo-in-education-ferdinand-center-for-creative/" data-text="Ferdinand Center for the Creative —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/02/01/sublimevideo-in-education-ferdinand-center-for-creative/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>This week we’ve taken a look at some educational establishments using <a href="http://sublimevideo.net">SublimeVideo</a>, and profiled <a href="http://blog.jilion.com/2012/01/30/sublimevideo-in-education-sewanee-university">Sewanee: The University of the South</a> and <a href="http://blog.jilion.com/2012/01/31/sublimevideo-in-education-anc-secondary-schools"><span class="caps">ANC</span> Secondary Schools</a>.</p>
+<p>For the third and final part in this series, we’d like to introduce another kind of educational user:</p>
+<p><a href="http://www.ferdinandcc.org" title="Visit ferdinandcc.org"><img src="http://blog.medias.jilion.com/uploads/2012/02/ferdinand_cc_sublimevideo.jpg" alt="SublimeVideo on Ferdinand Center for the Creative" /></a><br />
+Ferdinand Center for the Creative &#8211; <a href="http://www.ferdinandcc.org">http://www.ferdinandcc.org</a></p>
+<h4>Ferdinand Center for the Creative (The Philippines)</h4>
+<p>Ferdinand Center for the Creative is a nonprofit in the Philippines working to help young artists become accomplished graphic designers, get great jobs, and escape poverty.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2012/02/lester_nelson_ferdinand_cc.jpg" alt="Lester Nelson - Ferdinand Center for the Creative" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “Ferdinand Center for the Creative is a progressive organization, and when it came to posting videos, I wanted us to support HTML5 first and foremost, with Flash as a fallback, not the other way round. At the same time, I knew that a large segment of our audience views our site from older, outdated PCs at internet cafes around the Philippines, so we needed to be compatible with a large assortment of browsers.</p><p>Any video player we chose needed to be elegant, and as un-branded as possible, to let our own brand shine. I’m a very details-oriented graphic designer, but I’m no coder, so it needed to be simple to implement and not require problem-solving on my part. I’m happy to say that SublimeVideo has a gorgeous, but non-disruptive user interface, and was a piece of cake to get set up and running. And when I had server-side caching problems completely unrelated to SublimeVideo, your wonderful tech support even helped me get that solved too!”</p></blockquote>
+<p class="quote_author">—Lester Nelson, Executive Director &amp; Teacher at Ferdinand Center for the Creative.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo in Education</a>
+      
+      <h2 id="post_20120131" style=""><a href="http://localhost:4000/2012/01/31/sublimevideo-in-education-anc-secondary-schools/"><span>ANC Secondary Schools</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">January 31st, 2012</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20120131">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/01/31/sublimevideo-in-education-anc-secondary-schools/" data-text="ANC Secondary Schools —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/01/31/sublimevideo-in-education-anc-secondary-schools/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>In the first of our three-part SublimeVideo in Education series, we took a look at <a href="http://blog.jilion.com/2012/01/30/sublimevideo-in-education-sewanee-university">Sewanee: The University of the South</a> in the higher education space.</p>
+<p>Introducing part two of three, a <a href="http://sublimevideo.net">SublimeVideo</a> user in secondary education:</p>
+<p><a href="http://www.ancss.org" title="Visit ancss.org"><img src="http://blog.medias.jilion.com/uploads/2012/01/ancss_sublimevideo.jpg" alt="SublimeVideo on ANC Secondary Schools" /></a></p>
+<p><span class="caps">ANC</span> Secondary Schools &#8211; <a href="http://www.ancss.org">http://www.ancss.org</a></p>
+<h4><span class="caps">ANC</span> Secondary Schools (Philadelphia, <span class="caps">USA</span>)</h4>
+<p><span class="caps">ANC</span> Girls and <span class="caps">ANC</span> Boys are independent and highly acclaimed private secondary schools in Philadelphia, PA.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2012/01/chara_odhner_ancss.jpg" alt="Chara Odhner - ANC Secondary Schools" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “In redesigning the website for our private high school, we chose SublimeVideo for two reasons: (1) The lightbox is beautiful, and (2) The flawless and automatic conversion from HTML5 to Flash is exactly what we were looking for.</p><p>SublimeVideo also provides us the benefit of wonderful customer service. When we ran into problems with video encoding, the folks at SublimeVideo walked us through solving the issues step-by-step even though the problem was not with their servers, but with our conversion software.”</p></blockquote>
+<p class="quote_author">—Chara Odhner, Communications Manager at <span class="caps">ANC</span> Secondary Schools.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo in Education</a>
+      
+      <h2 id="post_20120130" style="font-size:35px"><a href="http://localhost:4000/2012/01/30/sublimevideo-in-education-sewanee-university/"><span>Sewanee: The University of the South</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">January 30th, 2012</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20120130">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/01/30/sublimevideo-in-education-sewanee-university/" data-text="Sewanee: The University of the South —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/01/30/sublimevideo-in-education-sewanee-university/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>This week we’ll be taking a look at some educational establishments who have chosen <a href="http://sublimevideo.net">SublimeVideo</a> to deliver their video message.</p>
+<p>Introducing part one of three, a SublimeVideo user in higher education:</p>
+<p><a href="http://www.sewanee.edu" title="Visit sewanee.edu"><img src="http://blog.medias.jilion.com/uploads/2012/01/sewanee_sublimevideo.jpg" alt="SublimeVideo on Sewanee" /></a><br />
+Sewanee &#8211; <a href="http://www.sewanee.edu">http://www.sewanee.edu</a></p>
+<h4>Sewanee: The University of The South (Tennessee, <span class="caps">USA</span>)</h4>
+<p>The University of the South is a co-educational liberal arts college in Sewanee, Tennessee. Often regarded as one of America’s best colleges, Sewanee has produced 26 Rhodes Scholars.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2012/01/john_m_rogerson_sewanee.jpg" alt="John M. Rogerson - Sewanee - The University of the South" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “When we first came across SublimeVideo we were really impressed by how beautiful the player looked. At the time, we were in the process of redeveloping our homepage (using HTML5), and SublimeVideo felt like great timing for our video player needs.</p><p>Some may question “why use a paid solution to deliver HTML5 video when there are many free alternatives available?” With SublimeVideo the answer is straightforward: a wonderful interface, responsive support, and ease of use both for us and our users. The peace of mind SublimeVideo brings us is why we were happy to be a paid customer.”</p></blockquote>
+<p class="quote_author">—John M. Rogerson, Director of Web and Digital Media Communications at Sewanee: The University of the South.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20120123" style=""><a href="http://localhost:4000/2012/01/23/sublimevideo-showcase-wing/"><span>Wing</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">January 23rd, 2012</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20120123">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/01/23/sublimevideo-showcase-wing/" data-text="Wing —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/01/23/sublimevideo-showcase-wing/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We’re proud to have great individuals, companies and organizations using <a href="http://sublimevideo.net">SublimeVideo</a>. Introducing the latest entry to our SublimeVideo Showcase:</p>
+<p><a href="http://www.wing.tv" title="Visit wing.tv"><img src="http://blog.medias.jilion.com/uploads/2012/01/wing_sublimevideo.jpg" alt="SublimeVideo on Wing" /></a><br />
+Wing &#8211; <a href="http://www.wing.tv">http://www.wing.tv</a></p>
+<p>Wing is a London-based creative visual agency specializing in delivering innovative, targeted campaigns. Wing have created ads, promotional videos and other short form content for such leading brands as Coca Cola, Puma, Lotus, McLaren and Hugo Boss.</p>
+<p>UK-based digital agency <a href="http://www.slipstreamstudio.com">Slipstream</a> developed Wing&#8217;s video-driven site, and chose SublimeVideo to power their video portfolio. Using SublimeVideo <span class="caps">API</span> (<a href="http://docs.sublimevideo.net/javascript-api/methods#resize">resize method</a>), Slipstream implemented a custom &#8216;Cinema Mode&#8217; to instantly enlarge any video on the Wing site.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2012/01/dan_griffey_slipstream.jpg" alt="Dan Griffey - Slipstream" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “With SublimeVideo we know that videos work in every browser, every time. Slipstream developed a custom video management and encoding platform for Wing, and really needed a player that we could integrate as quickly as possible. Wing also needed to be able to present the results of their campaigns to their clients, so finding a video player with integrated statistics was vital.</p><p>In SublimeVideo we found everything we needed and more, and come back to it as our player of choice for every project.”</p></blockquote>
+<p class="quote_author">—Dan Griffey, Director, Slipstream.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20120116" style=""><a href="http://localhost:4000/2012/01/16/customer-showcase-own-point-of-sale/"><span>Own Point of Sale</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">January 16th, 2012</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20120116">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/01/16/customer-showcase-own-point-of-sale/" data-text="Own Point of Sale —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/01/16/customer-showcase-own-point-of-sale/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a>. Introducing the latest entry to our Customer Showcase:</p>
+<p><a href="http://ownpointofsale.com" title="Visit ownpointofsale.com"><img src="http://blog.medias.jilion.com/uploads/2012/01/own_pos_sublimevideo.jpg" alt="SublimeVideo on Own Point of Sale" /></a><br />
+Own Point of Sale &#8211; <a href="http://ownpointofsale.com">http://ownpointofsale.com</a></p>
+<p>Own is an end-to-end solution for running quick service businesses. Billed as the world’s first ‘social point of sale’ platform, Own provides small business owners with an integrated, cloud-based <span class="caps">POS</span> solution. Own offer a 12.1” tablet and ‘Nimbus’ OS to make it easier than ever to take orders from anywhere. Email receipts, open tabs, time-tracking for employees, coupons and real-time analytics are some of the features provided by Own to put the fun back into running a small business.</p>
+<p>The site’s new <a href="http://ownpointofsale.com/own/tutorials/">Tutorials section</a> makes use of SublimeVideo’s playlists feature to showcase video demos of various Own features and workflows.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2012/01/erol_ahmed_own_pos.jpg" alt="Erol Ahmed - Own Point of Sale" class="no_rounded" style="float:left;margin:0 22px 0 0" /> “SublimeVideo lets me focus on creating beautiful videos and not on maintaining plug-ins. It is a breeze to set-up, and the video player design is just slick and awesome.”</p></blockquote>
+<p class="quote_author">—Erol Ahmed, Vice President of Own Point of Sale.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20111214" style=""><a href="http://localhost:4000/2011/12/14/customer-showcase-spyder/"><span>Spyder</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">December 14th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20111214">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/12/14/customer-showcase-spyder/" data-text="Spyder —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/12/14/customer-showcase-spyder/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a>. Introducing the latest entry to our Customer Showcase:</p>
+<p><a href="http://spyder.com" title="Visit spyder.com"><img src="http://blog.medias.jilion.com/uploads/2011/12/spyder_sublimevideo.jpg" alt="SublimeVideo on Spyder" /></a><br />
+Spyder &#8211; <a href="http://spyder.com">http://spyder.com</a></p>
+<p>Spyder is a global leader in manufacturing performance ski wear and outerwear for use in snowy environments. Having developed and integrated several innovative technologies into its products to aid speed, performance and durability, Spyder is the chosen brand for some of the world’s top skiers and winter athletes.</p>
+<p>US-Based Web agency <a href="http://bkwld.com"><span class="caps">BKWLD</span></a> developed Spyder’s new site, choosing SublimeVideo to power the video profiles of Spyder&#8217;s sports team.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/12/garrett_bjerkhoel_bkwld.jpg" alt="Garrett Bjerkhoel - BKWLD" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “It was a huge relief to be able to rely on SublimeVideo to have a cross-browser solution that was not only visually pleasing to the users but to our designers as well. It took less than 10 minutes to implement with zero to little configuration to get up and running so we could swiftly move on to other things.</p><p>Something SublimeVideo was able to provide compared to some of their competitors was a very simple JavaScript <span class="caps">API</span> so we could track some vital video analytics for when the user started the video and to see if they finished watching the whole clip which is something the client requested.”</p></blockquote>
+<p class="quote_author">—Garrett Bjerkhoel, Senior Developer at <span class="caps">BKWLD</span>.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_20111129" style=""><a href="http://localhost:4000/2011/11/29/sublimevideo-unleashed/"><span>SublimeVideo Unleashed!</span></a></h2>
+      
+        <h3 class="sub_header">Introducing a Free and Unlimited plan, Enhanced Paid plans, Unique Real-Time Stats for all platforms, and more.</h3>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">November 29th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20111129">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/11/29/sublimevideo-unleashed/" data-text="SublimeVideo Unleashed! —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/11/29/sublimevideo-unleashed/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>Today we&#8217;re announcing a major update to SublimeVideo:</p>
+<p><a href="http://sublimevideo.net"><img src="http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_free_and_unlimited.png" alt="SublimeVideo Now Free &amp; Unlimited" style="position:relative;left:-10px" /></a></p>
+<h4>New, Free and Unlimited SublimeVideo HTML5 Video Player</h4>
+<p>We&#8217;re thrilled to introduce a new, free and unlimited version of <a href="http://sublimevideo.net">SublimeVideo</a>.</p>
+<p>After the commercial launch of SublimeVideo earlier this year, and alongside today’s introduction of great, cloud-powered new features, we’re ready to <strong>shift gear and introduce something radical</strong> that we’ve wanted to do for a while: <strong>Give anyone a free, traffic unlimited, no-compromise</strong> version of SublimeVideo Player.</p>
+<h4>Contributing to the web’s transition to HTML5 Video</h4>
+<p>We started SublimeVideo last year because <strong>we wanted to turn the promises of HTML5 Video into a reality</strong> &#8211; to make web video simpler and more enjoyable for everybody.</p>
+<p>Adobe&#8217;s recent decision to stop development of Mobile Flash and fully embrace HTML5 is <strong>a clear signal that HTML5 is now mandatory for all sites</strong>.</p>
+<p>SublimeVideo already provides any website with a fast, reliable and pain-free way to migrate from Flash to HTML5 Video. The new, free plan now makes it <strong>accessible to anyone</strong>. We’re really happy to be able to do this; we see it as <strong>our contribution to a better and more modern Web</strong>.</p>
+<h4>Enhanced Paid Plans</h4>
+<p><a href="http://sublimevideo.net/plans"><img src="http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_plans.jpg" alt="SublimeVideo Plans" /></a></p>
+<p>In addition to our new free plan, we’re also introducing <strong>enhanced paid plans</strong> with amazing <strong>new Real-Time Stats</strong> (more details below) and <strong>far larger monthly viewing allowances</strong>!</p>
+<p>Not only do we now give you many more views, but we&#8217;ve also switched the metric used to measure your player views from <em>Video Pageviews</em> (counted every time the page containing your video loads) to <em>Video Plays</em> (counted only when playback of your video starts).</p>
+<p>The new <em>Plus</em> plan is available for $9.90 per site/month and $99 per site/year, and replaces the <em>Comet</em> plan. The new <em>Premium</em> plan is available for $49.90 per site/month and $499 per site/year, and replaces the <em>Planet</em>, <em>Star</em> and <em>Galaxy</em> Plans.</p>
+<p>Existing customers: Don&#8217;t worry! Your plans have automatically been upgraded to our new, enhanced offerings. Visit <a href="https://docs.sublimevideo.net/plan-migration">this page</a> for more details on how you&#8217;ve been updated.</p>
+<h4>Universal, Real-Time Stats</h4>
+<p><img src="http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_stats.jpg" alt="SublimeVideo Real-Time Stats" style="float:left;margin:8px 26px 5px 0" />Today, we&#8217;re also introducing a great new feature to our paid plans: Universal, Real-Time Statistics for any platform!</p>
+<p>We think our new stats platform is quite unique: As far as we know it’s the world’s first to offer a truly <strong>comprehensive, real-time picture</strong> of your site&#8217;s video traffic, <strong>whether generated from mobile or desktop, HTML5 or Flash</strong>.</p>
+<p>Our Real-Time Statistics platform leverages the power of SublimeVideo’s cloud-based technology and <strong>lays the foundations for even more great new features to come</strong>. Please let us know what you think and what you’d like to see next in our new <a href="http://getsatisfaction.com/sublimevideo">Community Forum</a>.</p>
+<p>Users of our new, free plan also have access to stats for the past 24 hours, and can easily upgrade to our paid plans offering real-time stats and longer data retention (with yearly or unlimited stats storage).</p>
+<h4>HD Switching, Video Embeds and Community Forum</h4>
+<p>We’ve also added two important features to our player, which we ensured work perfectly in HTML5: HD Switching and Video Embeds.</p>
+<p><img src="http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_hd.png" alt="SublimeVideo HD" style="float:left;margin:14px 16px 2px 0" />You can now switch SD-HD video sources with a single click using the HD switch built straight into the player&#8217;s UI. To the end user it may just look like an ordinary HD switch, <strong>but we took great care to implement it properly</strong> so that it <strong>fully complies with the HTML5 standard</strong>.</p>
+<p><img src="http://blog.medias.jilion.com/uploads/2011/11/sublimevideo_embed.png" alt="SublimeVideo Embed" style="float:left;margin:14px 16px 2px 0" />The addition of our free plan and larger monthly viewing allowances to our paid plans means that we can now offer SublimeVideo embeds, allowing your audience to easily embed your videos into their own sites or around the web.</p>
+<p>Read more about the new player features on our <a href="http://sublimevideo.net/features">Features page</a>.</p>
+<p>Last but not least, we&#8217;re launching a new <a href="http://getsatisfaction.com/sublimevideo">Community Forum</a> on GetSatisfaction which you can use to report bugs, share your ideas and ask us questions. <a href="http://sublimevideo.net">Sign up for SublimeVideo</a> to join the community today and let us know what you’d like to see next!</p>
+<p>We hope you’ll enjoy the new SublimeVideo as much as we do! <strong>A big thank you to our customers for their continued support</strong> &#8230;and welcome to our new users!</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_201111245" style="font-size:33px"><a href="http://localhost:4000/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo/"><span>Nissan's 'Zen to Z' Web Campaign</span> <span>Powered by HTML5 and SublimeVideo</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">November 24th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_201111245">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo/" data-text="Nissan's 'Zen to Z' Web Campaign Powered by HTML5 and SublimeVideo —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p><img style="float: left;margin: 2px 25px 0 0" src="http://blog.medias.jilion.com/uploads/2011/11/nissan-logo.png" alt="Nissan Logo" />Nissan just launched their <a href="http://370z.nissan.com.au">&#8216;Zen to Z&#8217; HTML5 web campaign</a> for the new Nissan 370Z.</p>
+<p>Car manufacturers have traditionally relied heavily on Flash to implement and deliver big web campaigns such as this. Nissan’s new campaign is <strong>built entirely with HTML5</strong> and makes significant use of video.</p>
+<p><a href="http://370z.nissan.com.au"><img src="http://blog.medias.jilion.com/uploads/2011/11/nissan-zen-to-z.jpg" alt="Nissan Zen To Z" /></a></p>
+<p><strong>We’re thrilled they decided to rely on <a href="http://sublimevideo.net">SublimeVideo</a> to deliver their video message</strong>. The campaign is live now with new video episodes being revealed every week. It’s always great to see companies such as Nissan taking advantage of the latest web technologies for important product launches.</p>
+<p><a href="http://370z.nissan.com.au"><img src="http://blog.medias.jilion.com/uploads/2011/11/nissan-the-plane.jpg" alt="Nissan Zen To Z - SublimeVideo" /></a></p>
+<p>Check out the campaign at <a href="http://370z.nissan.com.au">http://370z.nissan.com.au</a>.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20111109" style=""><a href="http://localhost:4000/2011/11/09/customer-showcase-css-tricks/"><span>CSS-Tricks</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">November 9th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20111109">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/11/09/customer-showcase-css-tricks/" data-text="CSS-Tricks —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/11/09/customer-showcase-css-tricks/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a>. Introducing the latest entry to our Customer Showcase:</p>
+<p><a href="http://css-tricks.com" title="Visit css-tricks.com"><img src="http://blog.medias.jilion.com/uploads/2011/11/css_tricks_sublimevideo.jpg" alt="SublimeVideo on CSS-Tricks" /></a><br />
+<span class="caps">CSS</span>-Tricks &#8211; <a href="http://css-tricks.com">http://css-tricks.com</a></p>
+<p>To many of those who follow our blog, <span class="caps">CSS</span>-Tricks probably needs no introduction. A popular web design community with the simply-stated goal of making websites better, <span class="caps">CSS</span>-Tricks is a treasure trove of knowledge for all web designers.</p>
+<p>Articles and tutorials keep the community on the cutting-edge, while a broad library of code snippets and downloadable projects helps developers get hands-on. Founder Chris Coyier chose SublimeVideo to power all of the community’s video screencasts, and recently <a href="http://css-tricks.com/14497-making-sublimevideo-fluid-width/">wrote a great post</a> on our player’s new fluid-width capabilities.</p>
+<p>We’d highly recommend checking out <span class="caps">CSS</span>-Tricks to anyone looking to learn more about the latest capabilities of ever-evolving web standards.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/11/chris_coyier_css_tricks.jpg" alt="Chris Coyier - CSS-Tricks" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “I&#8217;m a fan of any service that helps make Front End Developers lives easier. In the case of <span class="caps">CSS</span>-Tricks, I have a whole archive of videos that are essentially self-hosted. I want those videos to be watchable by anybody on any browser. But because different browsers need different things to make that happen, it&#8217;s not trivially easy. There are some great free projects that do similar things, but the value for me in SublimeVideo is that I don&#8217;t have to worry about upgrading to new versions or troubleshooting for the browser landscape. Even though I&#8217;m the kind of guy who keeps up on HTML5 stuff, I still love it that I don&#8217;t have to worry about it.</p><p>Another part of making sure videos are watchable by anyone is making sure the videos fit and look good in any browser. For my design, that means the videos need to be fluid with. I&#8217;m happy that SublimeVideo provides the necessary things to make that possible.”</p></blockquote>
+<p class="quote_author">—Chris Coyier, Founder of <span class="caps">CSS</span>-Tricks.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20111014" style=""><a href="http://localhost:4000/2011/10/14/customer-showcase-katabatic-digital/"><span>Katabatic Digital</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">October 14th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20111014">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/10/14/customer-showcase-katabatic-digital/" data-text="Katabatic Digital —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/10/14/customer-showcase-katabatic-digital/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a> Player. Introducing the latest entry to our Customer Showcase:</p>
+<p><a href="http://katabatic.tv" title="Visit katabatic.tv"><img src="http://blog.medias.jilion.com/uploads/2011/10/katabatic_sublimevideo.jpg" alt="SublimeVideo on Katabatic Digital" /></a><br />
+Katabatic Digital &#8211; <a href="http://katabatic.tv">http://katabatic.tv</a></p>
+<p>Katabatic is a high-end digital video production company based in New York City. Founded in 2006, they quickly grew from a one room office to a multi-suite studio and cemented their reputation as a leader in their field. Today they offer a host of production and post-production services including editing, colour grading, visual effects and more. Katabatic has produced films, commercials and music videos for an impressive roster of world-renowned clients including <strong>Saturday Night Live</strong>, <strong>Google</strong>, <strong>Jaguar</strong>, <strong>Sony</strong>, <strong>Nike</strong> and <strong>Ikea</strong>.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/10/emery_wells_katabatic.jpg" alt="Emery Wells - Katabatic Digital" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “Katabatic Digital is a creative services media company and video content is our product.  We&#8217;ve spent a great deal of R&amp;D on developing proprietary encoding technology to display our work on the web and our digital artists spend countless hours perfecting every pixel on screen. We needed a first class vehicle for showcasing our work to our clients and SublimeVideo delivered on tech and style.”</p></blockquote>
+<p class="quote_author">—Emery Wells, Founder/<span class="caps">CTO</span> of Katabatic Digital.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20110930" style=""><a href="http://localhost:4000/2011/09/30/customer-showcase-couture-fashion-show/"><span>Couture Fashion Show</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">September 30th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110930">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/09/30/customer-showcase-couture-fashion-show/" data-text="Couture Fashion Show —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/09/30/customer-showcase-couture-fashion-show/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a> Player. Introducing the latest entry to our Customer Showcase:</p>
+<p><a href="http://springintofall.com" title="Visit springintofall.com"><img src="http://blog.medias.jilion.com/uploads/2011/09/spring_into_fall_sublimevideo.jpg" alt="SublimeVideo on Couture Fashion Show" /></a><br />
+Couture Fashion Show &#8211; <a href="http://springintofall.com">http://springintofall.com</a></p>
+<p>The Spring Into Fall Couture Fashion Show debuted on March 11th 2011 at the historic Bently Reserve in San Francisco. A fundraising event for the nonprofit Coral Reef Alliance, the show was a resounding success.</p>
+<p>Website designer and developer <a href="http://bradyjfrey.com">Brady J Frey</a> turned to SublimeVideo to showcase some of the show’s highlights on the event’s official website.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/09/brady_j_frey.jpg" alt="Brady J Frey - Couture Fashion Show" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “We&#8217;ve already moved into the next generation of the web; with the abundant growth of tablets and smartphones making their way into our analytics, service rich media to all of our audience is highly important to me. As a result, I specifically wanted a player that 1) could reach multiple formats, 2) avoided flash unless necessary, 3) was friendly to use, and 4) was damn good looking.</p><p>SublimeVideo caught my eye last year, and with the hosted launch, it was my first choice. It took me more time to find my credit card then it did to install. As a result, our over 30% of iOS device users can now enjoy our past event, and stay inspired as we plan our next event around the corner!”</p></blockquote>
+<p class="quote_author">—Brady J Frey, Art Director, Designer &amp; Developer of Spring Into Fall.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20110927" style=""><a href="http://localhost:4000/2011/09/27/customer-showcase-bredbandsbolaget/"><span>Bredbandsbolaget</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">September 27th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110927">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/09/27/customer-showcase-bredbandsbolaget/" data-text="Bredbandsbolaget —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/09/27/customer-showcase-bredbandsbolaget/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a> Player. Introducing the latest entry to our Customer Showcase:</p>
+<p><a href="http://www.bredbandsbolaget.se" title="Visit bredbandsbolaget.se"><img src="http://blog.medias.jilion.com/uploads/2011/09/bredbandsbolaget_sublimevideo.jpg" alt="SublimeVideo on Bredbandsbolaget" /></a><br />
+Bredbandsbolaget &#8211; <a href="http://www.bredbandsbolaget.se">http://www.bredbandsbolaget.se</a></p>
+<p>Bredbandsbolaget is one of the most innovative operators in the world and the second biggest <span class="caps">ISP</span> in Sweden &#8211; offering high speed Internet access through fiber optic cable, copper wire and wireless / mobile. They also provide phone services and TV packages from well-known content suppliers like Viasat and Canal Digital.</p>
+<p>Bredbandsbolaget is part of Telenor Sweden, which also includes mobile operator Telenor and Glocalnet, and has more than 2 million subscriptions. They chose SublimeVideo to power the video demos on their product pages.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/09/david_thunman_telenor_sweden.jpg" alt="David Thunman - Bredbandsbolaget" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “Since the launch of our updated TV service back in 2010 we have strived to offer our customers new channels, with a high quality of service. The SublimeVideo Player has helped us to showcase the latest and upcoming TV-shows. Thanks to the support offered by SublimeVideo, the implementation into our <span class="caps">CMS</span> was made simple.</p><p>Our editors can quickly add a video player as part of the website or as a lightbox. We love the fact that the player automatically chose the best format for each visitor and that it works in all browsers.”</p></blockquote>
+<p class="quote_author">—David Thunman, Online Business Developer at Telenor Sweden.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_20110920" style="font-size:36px"><a href="http://localhost:4000/2011/09/20/introducing-the-official-sublimevideo-wordpress-plugin/"><span>Introducing the Official</span><span>SublimeVideo WordPress Plugin</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">September 20th, 2011</span>
+      <span class="authors">by Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110920">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/09/20/introducing-the-official-sublimevideo-wordpress-plugin/" data-text="Introducing the Official SublimeVideo WordPress Plugin —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/09/20/introducing-the-official-sublimevideo-wordpress-plugin/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p><img style="float: left;margin: 2px 25px 0 0" src="http://blog.medias.jilion.com/uploads/2011/09/wordpress-logo.png" alt="SublimeVideo WordPress plugin" />We&#8217;re thrilled to announce the release of the official SublimeVideo WordPress plugin.</p>
+<p>Our plugin is fully integrated with MySublimeVideo, so you don&#8217;t need to remember your site&#8217;s &#8216;token&#8217; or any other technical details. Once you’ve installed and authorized the plugin to access your account details, you’re ready to start embedding video using the plugin’s powerful video embed builder.</p>
+<p>Check out the short demo video below to see just how easy it is to use.</p>
+<div style="margin-bottom:30px" ><video class="sublime" width="600" height="337" poster="http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo.jpg" preload="none" data-sublime-settings="initial-overlay:none"><br />
+  <source src="http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo.mp4" /><br />
+  <source src="http://assets0.jilion.com/static/videos/SublimeVideo-WP-Plugin-Demo-mobile.mp4" /></video></div>
+<p class="hide"><small><em class="caption">If you are reading through your <span class="caps"><span class="caps">RSS</span></span> reader, please visit this <a href="http://blog.jilion.com/2011/09/20/introducing-the-official-sublimevideo-wordpress-plugin">web page</a> on the browser to watch the video.</em></small></p>
+<p>We&#8217;d like to take this opportunity to say thank you to <a href="http://jon.breitenbucher.net">Jon Breitenbucher</a> for developing and releasing the unofficial SublimeVideo WordPress plugin back in September 2010 (just two days after we launched the SublimeVideo beta).</p>
+<p>We&#8217;d also like to extend a huge thanks to Shawn Hesketh of <a href="http://www.wp101.com">WordPress 101</a> for his continued help and feedback whilst beta-testing the plugin, and for helping us produce the demo video above.</p>
+<p>Finally, thanks to Dennis Stauffer (aka. <a href="http://zoomion.ch">Zoomion</a>) for allowing us to use an extract from his beautiful video &#8216;Sahara Wonderland&#8217; in the demo video.</p>
+<p>Head on over to the <a href="http://wordpress.org/extend/plugins/sublimevideo-official">WordPress Plugin Directory</a> to get your hands on the plugin today. For detailed usage instructions visit our dedicated <a href="http://docs.sublimevideo.net/wordpress">documentation page</a>.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_20110914" style=""><a href="http://localhost:4000/2011/09/14/happy-birthday-sublimevideo/"><span>Happy Birthday SublimeVideo!</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">September 14th, 2011</span>
+      <span class="authors">by Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110914">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/09/14/happy-birthday-sublimevideo/" data-text="Happy Birthday SublimeVideo! —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/09/14/happy-birthday-sublimevideo/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p><img style="float: left;margin: -4px 30px 0 25px" src="http://blog.medias.jilion.com/uploads/2011/09/SublimeVideo-One-Year-Anniversary.png" alt="Happy Birthday SublimeVideo" /> Today <a href="http://sublimevideo.net">SublimeVideo</a> celebrates its first birthday! A year ago we launched the <a href="http://blog.jilion.com/2010/09/14/sublimevideo-beta-starts-today">SublimeVideo Beta</a> and were totally overwhelmed by the response of the HTML5 and video communities.</p>
+<p>Throughout the beta and since our <a href="http://blog.jilion.com/2011/03/30/sublimevideo-is-commercially-available">commercial launch</a> in March we&#8217;ve gained some truly amazing users. We&#8217;ve been making an effort to profile some of them in a series of <a href="http://blog.jilion.com/tags/customer-showcase">Customer Showcases</a> — check it out to see some of the fantastic ways people are using SublimeVideo.</p>
+<p>Our cloud-based model has worked as we had hoped, allowing us to administer <a href="http://docs.sublimevideo.net/releases">61 transparent updates</a> since launching the beta; improving compatibility, fixing bugs and adding functionality to all of our users players without them ever needing to lift a finger. We are also proud to be able to say that there have so far been zero interruptions to the delivery of the player.</p>
+<p>We&#8217;d like to thank the SublimeVideo community for all of your help and support, we couldn&#8217;t have gotten where we are today without you. Finally, we’d like to let you all know that we have some big announcements planned before the end of the year &#8211; stay tuned to find out more.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20110805" style=""><a href="http://localhost:4000/2011/08/05/customer-showcase-pocket-diner/"><span>Pocket Diner</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">August 5th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110805">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/08/05/customer-showcase-pocket-diner/" data-text="Pocket Diner —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/08/05/customer-showcase-pocket-diner/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a> Player. Here is the latest entry to our Customer Showcase:</p>
+<p><a href="http://www.pocketdiner.co.uk" title="Visit pocketdiner.co.uk"><img src="http://blog.medias.jilion.com/uploads/2011/08/pocket_diner_sublimevideo.jpg" alt="SublimeVideo on Pocket Diner" /></a><br />
+Pocket Diner &#8211; <a href="http://www.pocketdiner.co.uk">http://www.pocketdiner.co.uk</a></p>
+<p>Pocket Diner is a new platform that provides restaurant owners with easy-to-create, mobile-optimized websites to complement their existing online presence. Restaurant owners are provided with a flexible content management system, access to an easy mobile booking solution, and afforded a broad range of device compatibility. Pocket Diner’s innovative use of video on their home page is powered by SublimeVideo Player.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/08/alex_willcocks_engage_interactive.jpg" alt="Alex Willlcocks - Engage Interactive" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “Sublime simply gets the job done and looks great whilst doing it! After trying out numerous other (free) alternatives I&#8217;d always come across a random bug or browser issue that meant they couldn&#8217;t be used in a production environment — then along came Sublime, and just worked flawlessly first time. When time is precious, sometimes it&#8217;s best to just spend a little to save a lot — and this is one of those times!”</p></blockquote>
+<p class="quote_author">—Alex Willcocks, Creative Director at Engage Interactive.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_201107275" style="font-size:30px"><a href="http://localhost:4000/2011/07/27/world-s-first-true-html5-fullscreen-video/"><span>World's First True HTML5 Fullscreen Video</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">July 27th, 2011</span>
+      <span class="authors">by Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_201107275">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/07/27/world-s-first-true-html5-fullscreen-video/" data-text="World's First True HTML5 Fullscreen Video —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/07/27/world-s-first-true-html5-fullscreen-video/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We have some exciting news for all the HTML5 enthusiasts out there: true HTML5 fullscreen video playback is now possible, and we’ve built it right into <a href="http://sublimevideo.net">our player</a>.</p>
+<p>Until now, the lack of true fullscreen playback has been the biggest limitation of HTML5 over Flash video. Safari already offered a basic fullscreen option for HTML5 video players, but this was via a non-customizable QuickTime view that didn’t allow the player to be branded or to feature custom controls.</p>
+<p>For the first time since we <a href="http://blog.jilion.com/2010/01/25/introducing-sublimevideo">demoed our player last year</a>, we can finally enjoy SublimeVideo’s HTML5 controls in <a href="http://cl.ly/8owo">glorious fullscreen</a>.</p>
+<p>This is a cutting-edge feature and we are breaking new ground by being the first video player to implement it. Right now it requires the very latest version of Safari 5.1, but Chrome and Firefox support should arrive soon<sup><a href="#fn-2011-07-27-1">1</a></sup>.</p>
+<div><video class="sublime sv_html5_fullscreen" width="600" height="252" preload="none" poster="http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_demo_video_poster.jpg"><br />
+  <source src="http://medias.jilion.com/sublimevideo/dartmoor1_800.mp4" /><br />
+  <source src="http://medias.jilion.com/sublimevideo/dartmoor1-mobile.mp4" /><br />
+  <source src="http://medias.jilion.com/sublimevideo/dartmoor1_800.ogv" /></video></div>
+<script type="text/javascript">
+  sublimevideo.ready(function(){
+    sublimevideo.onEnd(function(sv){
+      sublimevideo.stop();
+    });
+  });
+</script><p class="hide"><small><em class="caption">If you are reading through your <span class="caps">RSS</span> reader, please visit this <a href="http://blog.jilion.com/2011/07/27/world-s-first-true-html5-fullscreen-video">web page</a> on the browser to test it.</em></small></p>
+<p><em class="caption">Click on the fullscreen button or double click on the video to enter fullscreen.<br /> Safari 5.1 required.</em></p>
+<p>We&#8217;ve <a href="http://docs.sublimevideo.net/releases#2011-07-26-14-03">now</a> enabled this feature on all instances of SublimeVideo Player. However, because this is a brand new feature that is currently only available in Safari, for now we have left the traditional <a href="http://cl.ly/8oKv">full-window</a> behavior as the default player option. If you are running Safari 5.1, simply hold down Command (Mac) or Ctrl (Windows) while clicking the player’s full-window button to enjoy true fullscreen HTML5 playback<sup><a href="#fn-2011-07-27-2">2</a></sup>. You can also double-click the video whilst holding the modifier key to activate fullscreen. You can test it yourself on <a href="http://blog.jilion.com/tags/customer-showcase">some of our customers&#8217; sites</a>!</p>
+<p>Stay tuned for more SublimeVideo news and developments.</p>
+<p><strong><span class="caps">UPDATE</span></strong>: October 11, 2011: We <a href="http://docs.sublimevideo.net/releases#2011-10-11-15-18">added</a> True HTML5 fullscreen support for the upcoming <a href="http://nightly.mozilla.org/">Firefox 10</a>.</p>
+<div class="footnotes">
+<ol>
+    <li id="fn-2011-07-27-1">The WebKit/Safari fullscreen implementation is actually based on <a href="https://wiki.mozilla.org/Gecko:FullScreenAPI">Mozilla’s Fullscreen <span class="caps">API</span> Proposal</a>, so hopefully this will soon be added to Firefox; you can add your voice and push for this feature on Firefox via <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=545812">this thread</a>.</li>
+    <li id="fn-2011-07-27-2">If you are a SublimeVideo customer and want to enable true fullscreen playback by default on supported browsers as we have in the video above (i.e. without needing to hold down the command/ctrl key) you can do it by adding the <em>sv_html5_fullscreen</em> class to your <code>&lt;video&gt;</code> elements.</li>
+</ol>
+</div>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20110722" style=""><a href="http://localhost:4000/2011/07/22/customer-showcase-rock-am-ring/"><span>Rock am Ring</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">July 22nd, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110722">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/07/22/customer-showcase-rock-am-ring/" data-text="Rock am Ring —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/07/22/customer-showcase-rock-am-ring/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a> Player. Here is the latest entry to our Customer Showcase:</p>
+<p><a href="http://www.rock-am-ring.com" title="Visit rock-am-ring.com"><img src="http://blog.medias.jilion.com/uploads/2011/07/rockamring_sublimevideo.jpg" alt="SublimeVideo on Rock am Ring" /></a><br />
+Rock am Ring &#8211; <a href="http://www.rock-am-ring.com">http://www.rock-am-ring.com</a></p>
+<p><em>Rock am Ring</em> and <em>Rock im Park</em> are simultaneous rock festivals held annually in Germany. With headline acts over the years including bands such as Metallica, Kiss, The Smashing Pumpkins, The Prodigy and even Coldplay, and combined attendances of just over 150,000 people, they are two of the largest and most popular music festivals in the world.</p>
+<p>Makalu Media &#8211; the company behind the official website &#8211; knew that it was vital to give visitors the best video experience whilst watching festival content online. We’re thrilled that they chose SublimeVideo Player to showcase the videos from this year’s festival.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/07/matt_henderson_makalu_media.jpg" alt="Matt Henderson - Makalu Media" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “We chose Sublime having become frustrated with FlowPlayer. We liked that it looks the same with Flash or HTML5 video (that was important to our customer; they didn&#8217;t want to know about different video types, etc; they just didn&#8217;t want the look to change at any time), and (most importantly) that it was super-easy to implement. The ease-of-implementation saved us a lot of time.”</p></blockquote>
+<p class="quote_author">—Matt Henderson, Director of Makalu Media Inc.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20110628" style="font-size:34px"><a href="http://localhost:4000/2011/06/28/customer-showcase-tetra-pak/"><span>Tetra Pak</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">June 28th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110628">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/06/28/customer-showcase-tetra-pak/" data-text="Tetra Pak —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/06/28/customer-showcase-tetra-pak/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a> Player. Here is the latest entry to our Customer Showcase:</p>
+<p><a href="http://icast2.brax.se" title="Visit i-Cast 2.0 Replica"><img src="http://blog.medias.jilion.com/uploads/2011/06/tetra_pak_2.jpg" alt="SublimeVideo on Tetra Pak" /></a><br />
+i-Cast 2.0 Replica &#8211; <a href="http://icast2.brax.se">http://icast2.brax.se</a></p>
+<p>Tetra Pak developed an internal video publishing and distribution platform called i-Cast to improve the accessibility and sharing of digital video within the company. Today, the highly scalable platform serves well over 1,000 videos over the company’s intranet, and can be accessed from over 200 local offices in 150 countries worldwide. The developers chose to implement SublimeVideo Player to handle playback of all of their video content. The replica system currently available online contains far less video content, but is otherwise identical.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/06/lennart_hagberg_tetra_pak.jpg" alt="Lennart Hagberg - Tetra Pak" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “We looked at plenty different players as well as building one ourselves. We wanted something that was high impact. The choice was dead easy: we love the SublimeVideo player.”</p></blockquote>
+<p class="quote_author">—Lennart Hagberg, Corporate e-Communications at Tetra Pak.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20110610101" style="font-size:34px"><a href="http://localhost:4000/2011/06/10/customer-showcase-wordpress-101/"><span>WordPress 101</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">June 10th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110610101">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/06/10/customer-showcase-wordpress-101/" data-text="WordPress 101 —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/06/10/customer-showcase-wordpress-101/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a> Player. Here is the latest entry to our Customer Showcase:</p>
+<p><a href="http://www.wp101.com" title="Visit wp101.com"><img src="http://blog.medias.jilion.com/uploads/2011/06/wp101_sublimevideo.jpg" alt="SublimeVideo on wp101.com" /></a><br />
+WordPress 101 &#8211; <a href="http://www.wp101.com">http://www.wp101.com</a></p>
+<p>Since its launch in 2008, WP101 has earned a reputation for delivering the highest-quality, online video training for the popular WordPress content management system. Through the WordPress 101 tutorial series, thousands of WordPress users have learned to create and manage their own website content, using just their web browser.</p>
+<p>Originally created for WordPress beginners, WP101 has also become an invaluable resource for designers and consultants, enabling them to provide online WordPress training for their own clients and customers. As such, WP101&#8217;s ongoing success is completely dependent upon smooth, reliable video playback for hundreds of simultaneous users.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/06/shawn_hesketh_wp101.jpg" alt="Shawn Hesketh - WordPress 101" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “After trying more than a dozen other video players, we were thrilled to discover the SublimeVideo Player, with its support for HTML5 video. Now, whether our users access the training videos from their desktop or mobile device, we know they&#8217;ll enjoy the same gorgeous interface and ease of use.</p><p>Best of all, since we began using the SublimeVideo Player, more than 50 bug fixes and new features have been automatically added—without us having to do anything at all. This not only frees up our time, but also provides much-welcome peace of mind.”</p></blockquote>
+<p class="quote_author">—Shawn Hesketh, Creator of WordPress 101.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20110601" style="font-size:34px"><a href="http://localhost:4000/2011/06/01/customer-showcase-camera-plus/"><span>Camera +</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">June 1st, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110601">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/06/01/customer-showcase-camera-plus/" data-text="Camera + —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/06/01/customer-showcase-camera-plus/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a> Player. Here is the latest entry to our Customer Showcase:</p>
+<p><a href="http://campl.us/clarity" title="Visit campl.us/clarity"><img src="http://blog.medias.jilion.com/uploads/2011/06/camplus_clarity_sublimevideo.jpg" alt="SublimeVideo on campl.us/clarity" /></a><br />
+Camera + (Clarity) &#8211; <a href="http://campl.us/clarity">http://campl.us/clarity</a></p>
+<p>Renowned iPhone developers tap tap tap have worked alongside professional photographer and web personality Lisa Bettany to develop Camera+, the ultimate photo app for iPhone. They created a short, sweet promo video showing off the app’s latest killer feature &#8211; Clarity. Clarity automatically analyzes photos and makes intelligent adjustments to really make a user’s photos pop. Of course, tap tap tap needed a great player to show off their new video, and we’re thrilled that they chose SublimeVideo. Check it out now to find out more about Clarity.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/06/scott_meinzer_tap_tap_tap.jpg" alt="Scott Meinzer - tap tap tap" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “HTML5 video can be a bag of hurt if you implement it on your own. The fact that SublimeVideo makes it so we can just drop in a line of Javascript and it works consistently across all the browsers is amazing. The great design and thoughtful user experience just make it even better.”</p></blockquote>
+<p class="quote_author">—Scott Meinzer, Co-founder of tap tap tap, developer of Camera+.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20110530" style="font-size:34px"><a href="http://localhost:4000/2011/05/30/customer-showcase-small-change/"><span>Small Change</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">May 30th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110530">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/05/30/customer-showcase-small-change/" data-text="Small Change —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/05/30/customer-showcase-small-change/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a> Player. Here is the latest entry to our Customer Showcase:</p>
+<p><a href="http://www.smallchangeshort.com" title="Visit smallchangeshort.com"><img src="http://blog.medias.jilion.com/uploads/2011/05/small_change_sublimevideo.jpg" alt="SublimeVideo on smallchangeshort.com" /></a><br />
+Small Change &#8211; <a href="http://www.smallchangeshort.com">http://www.smallchangeshort.com</a></p>
+<p><em>Small Change</em> is an independent short film that tells the story of how a young, single mother’s desperate hope for a big win on the slot machines causes her world to spiral out of control. The film received a lot of attention from such film festivals as Galway and Sundance, and CherryRed Pictures knew they needed an impressive site to help promote the film. They implemented SublimeVideo Player to give viewers the best possible viewing experience when watching the film’s trailer.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/05/mark_weir_cherryred_pictures.jpg" alt="Mark Weir - CherryRED Pictures" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “One of the main points I wanted to address during the design was how the trailer would stream. After years of using Flash for video I wanted to get away from it and allow iOS and other mobile devices to be able to watch it natively. The trailer was the most important part of the site so I spent a lot of time looking into HTML5 video but was aware we needed to make sure older browsers had a Flash fallback. I had tried a few solutions but nothing wrapped it all up so nicely like the Sublime service. When I showed Cathy a demo she loved the interface and the zoom/full screen options. I had already signed up for the beta earlier and incidentally I got my invite just few days after deciding it was the service for us.</p><p>Our visitors have noted on the player and how well it matches the look of the site and it&#8217;s ease of use. For us it meant when we were out and about we could show people our trailer with our iPhones on the spot and at the same time showing off the rest of the site.”</p></blockquote>
+<p class="quote_author">—Mark Weir, Co-Founder, CherryRED Pictures.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20110516" style="font-size:34px"><a href="http://localhost:4000/2011/05/16/customer-showcase-yaniv-fridman/"><span>Yaniv Fridman</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">May 16th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110516">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/05/16/customer-showcase-yaniv-fridman/" data-text="Yaniv Fridman —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/05/16/customer-showcase-yaniv-fridman/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a> Player. Here is the latest entry to our Customer Showcase:</p>
+<p><a href="http://www.yanivfridman.com" title="Visit yanivfridman.com"><img src="http://blog.medias.jilion.com/uploads/2011/05/yaniv_fridman_sublimevideo.jpg" alt="SublimeVideo on yanivfridman.com" /></a><br />
+Yaniv Fridman &#8211; <a href="http://www.yanivfridman.com">http://www.yanivfridman.com</a></p>
+<p>Yaniv Fridman is a freelance director and motion graphic designer from Mexico City, currently working for companies in Vancouver, Toronto and Los Angeles. He mainly works remotely, and depends on his online portfolio to reach both current and future clients. Yaniv built his site purely to showcase his video and motion graphics work, all of which is served up by SublimeVideo Player.</p>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2011/05/yaniv_fridman.jpg" alt="Matt Wigham - Big Cartel" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “Being a motion designer my knowledge building websites is limited so I needed to find a solution that was easy enough to implement it myself without compromising on the design of functionality. I did some research and tested most of today&#8217;s HTML5 players and Sublime was by far the sexiest looking and easiest to implement.</p> <p>The Sublime team was extremely helpful and fast answering my questions and solving the issues I had along the way. SublimeVideo player gave me an option to build an HTML5 site without using a portfolio template that now works on all platforms and devices. I definitely recommend it to any creative person looking for a video player that meets todays standards with a clean and elegant design.”</p></blockquote>
+<p class="quote_author">—Yaniv Fridman, Motion &amp; Graphic Designer.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20110426" style="font-size:34px"><a href="http://localhost:4000/2011/04/26/customer-showcase-big-cartel/"><span>Big Cartel</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">April 26th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110426">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/04/26/customer-showcase-big-cartel/" data-text="Big Cartel —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/04/26/customer-showcase-big-cartel/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a> Player. Here is the latest entry to our Customer Showcase:</p>
+<p><a href="http://bigcartel.com" title="Visit bigcartel.com"><img src="http://blog.medias.jilion.com/uploads/2011/04/big_cartel_sublimevideo.jpg" alt="SublimeVideo on Big Cartel" /></a><br />
+Big Cartel &#8211; <a href="http://bigcartel.com">http://bigcartel.com</a></p>
+<p>Big Cartel provides artists with a simple, easy-to-use and customizable store to sell their stuff online. Its easy setup and customization has made Big Cartel the first choice for many artists looking to sell their clothing, music, jewelry and other products online, and has given birth to many creative and successful independent stores. Big Cartel integrated SublimeVideo Player into their site&#8217;s <a href="http://blog.bigcartel.com/post/4661048740/how-we-made-the-titanium-image">blog</a> and <a href="http://help.bigcartel.com/articles/42-google-analytics">help</a> pages, as well as throughout their &#8216;buzz&#8217; <a href="http://bigcartel.com/buzz">page</a> to showcase videos profiling some of their favorite stores. If you have ever thought about selling your stuff online, make sure to check out Big Cartel.</p>
+<blockquote>
+<p><img src="http://blog.medias.jilion.com/uploads/2011/04/matt_wigham_big_cartel.jpg" alt="Matt Wigham - Big Cartel" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> &#8220;We&#8217;ve tried a number of different video players, but none of them have satisfied our craving for design perfection like SublimeVideo has. Not only does it look amazing, it also works everywhere we need it to, from desktop to mobile. Plus, with its flexible JavaScript <span class="caps">API</span>, we&#8217;re able to wire it up with our internal stats tracking and keep tabs on every video it plays. It feels like it was made just for us.&#8221;</p>
+</blockquote>
+<p class="quote_author">—Matt Wigham, Co-Founder of <a href="http://bigcartel.com">Big Cartel</a>.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_20110418" style="font-size:34px"><a href="http://localhost:4000/2011/04/18/customer-showcase-method-and-craft/"><span>Method &amp; Craft</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">April 18th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110418">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/04/18/customer-showcase-method-and-craft/" data-text="Method & Craft —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/04/18/customer-showcase-method-and-craft/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a> Player. Here is the latest entry to our Customer Showcase:</p>
+<p><a href="http://methodandcraft.com" title="Visit methodandcraft.com"><img src="http://blog.medias.jilion.com/uploads/2011/04/methodandcraft_sublimevideo.jpg" alt="SublimeVideo on Method &amp; Craft" /></a><br />
+Method &amp; Craft &#8211; <a href="http://methodandcraft.com">http://methodandcraft.com</a></p>
+<p>Launched in February 2011, Method &amp; Craft boasts a rich collection of articles, interviews, notes and videos focusing on the process of design and those who practice it. The team behind Method &amp; Craft have done a great job at designing a beautiful site that also makes it easy to find and read any of their articles, interviews and notes on design. Presenting their rapidly growing collection of videos as beautifully as their text-based content was a different challenge, and we are thrilled that they turned to SublimeVideo Player to achieve just that. If you are a designer or creative of any kind who hasn’t already done so, we’d strongly recommend checking out Method &amp; Craft.</p>
+<blockquote>
+<p><img src="http://blog.medias.jilion.com/uploads/2011/04/phil_coffman_methodandcraft.jpg" alt="Phil Coffman- Method &amp; Craft" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> &#8220;We needed to leverage HTML5 video for Method &amp; Craft because we knew iOS device use would be high among our visitors. The SublimeVideo player not only delivered on that need in spades, but also looks absolutely gorgeous which is a big deal to design nerds like us.&#8221;</p>
+</blockquote>
+<p class="quote_author">—Phil Coffman, Founder of <a href="http://methodandcraft.com">Method &amp; Craft</a>.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
+      
+      <h2 id="post_201104152" style="font-size:31px"><a href="http://localhost:4000/2011/04/15/customer-showcase-media-molecule-littlebigplanet2/"><span>LittleBigPlanet 2 by Media Molecule</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">April 15th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_201104152">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/04/15/customer-showcase-media-molecule-littlebigplanet2/" data-text="LittleBigPlanet 2 by Media Molecule —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/04/15/customer-showcase-media-molecule-littlebigplanet2/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are proud to have some great customers using <a href="http://sublimevideo.net">SublimeVideo</a> Player to promote and showcase their products, services and ideas. We’ll be interviewing and profiling some of them on our blog in the near future.</p>
+<p><a href="http://littlebigplanet.com/en/" title="Visit LittleBigPlanet.com"><img src="http://blog.medias.jilion.com/uploads/2011/04/littlebigplanet2_sublimevideo.jpg" alt="SublimeVideo on LittleBigPlaner 2" /></a><br />
+LittleBigPlanet 2 &#8211; <a href="http://littlebigplanet.com/en/">http://littlebigplanet.com/en</a></p>
+<p>Media Molecule are the UK-based video game developer behind one of this year’s hottest Playstation 3 games &#8211; LittleBigPlanet 2, sequel to 2008’s critically acclaimed and best-selling original. The sequel received universal acclaim for it’s beautiful graphics and innovative approach to user-based content creation and sharing &#8211; there are currently over 4.1 million user generated games available to play online in the LittleBigPlanet universe. Video is a vital and effective way to show off any video game, let alone one as media-rich and visually stunning as LittleBigPlanet 2. We are very proud that MediaMolecule used SublimeVideo Player to showcase their trailer for the game, front and centre on the official website.</p>
+<blockquote>
+<p><img src="http://blog.medias.jilion.com/uploads/2011/04/tom_kiss_mediamolecule.jpg" alt="Tom Kiss - MediaMolecule" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> &#8220;The SublimeVideo player has set a real benchmark for high quality HTML5 video players. By using it on littlebigplanet.com, it’s allowed us to deliver our videos across a broad spectrum of devices and operating systems to a much wider audience, including the latest smartphone handsets – an ever increasing proportion of our site visitors. Additionally, the Jilion team have been really helpful and supportive, allowing us to deliver the best experience for our users.&#8221;</p>
+</blockquote>
+<p class="quote_author">—Tom Kiss, Community Manager at <a href="http://www.mediamolecule.com">MediaMolecule</a>.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_20110330" style="font-size:31px"><a href="http://localhost:4000/2011/03/30/sublimevideo-is-commercially-available/"><span>SublimeVideo is commercially available!</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">March 30th, 2011</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110330">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/03/30/sublimevideo-is-commercially-available/" data-text="SublimeVideo is commercially available! —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/03/30/sublimevideo-is-commercially-available/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p><a href="http://sublimevideo.net"><img src="http://blog.medias.jilion.com/uploads/2011/03/SublimeVideo-Public-Launch.png" alt="SublimeVideo Public Launch" /></a><br />
+Back in early 2010 more than a million visitors enjoyed what many considered was the best HTML5 video player on the Internet.</p>
+<p>A few months later, we decided to turn <a href="http://sublimevideo.net">SublimeVideo</a> from a tech demo into the world’s best HTML5 video player solution. We began developing an ambitious cloud-based service, allowing our customers to ensure that their video will always play flawlessly on a huge variety of browsers and mobile devices, without any extra work from them, ever.</p>
+<p>6 months ago we began beta-testing SublimeVideo Player &#8211; the world&#8217;s first cloud-based HTML5 video player. This was an incredibly valuable and important period for us; it not only showed us that SublimeVideo worked and scaled flawlessly, but also allowed us to show the world the value of a universal video player service.</p>
+<p>Today we are commercially launching <a href="http://sublimevideo.net">SublimeVideo</a> &#8211; making it available to everyone.<br />
+Check out our <a href="http://jilion.com/pr/2011-03-30">Press Release</a> and <a href="http://sublimevideo.net/plans">Plans &amp; Pricing</a> page to find out more and <a href="https://my.sublimevideo.net/signup">sign up today</a> if you are not already a beta tester.</p>
+<p>Figuring out the right pricing model for SublimeVideo was more difficult than we had initially expected, and is something that we took great care with. The valuable data we gained from our pricing survey provided us with what we needed to finalize our commercialization plans. We would like to thank the 2,000 people who participated in this survey, and all of you who gave us amazing feedback and encouragement throughout the beta period.</p>
+<p>Something that the survey results confirmed for us is that we must continue to strive for the highest possible quality product and service. As such, we decided that all plans will only be differentiated by their volume levels and not their feature sets. For example, you won&#8217;t need to purchase the biggest plan in order to access <span class="caps">SSL</span>.</p>
+<p>Another element we are proud to include in all plans is Peak Insurance; a flexible feature that allows your site to exceed its video pageview limit for a certain number of days in the event of a burst of traffic, without forcing you to upgrade plans.</p>
+<p>We believe that features like these display our commitment to providing customers with a top-quality service.</p>
+<p>We have seen some truly fantastic implementations of SublimeVideo Player from beta users, and hope that new users will also enjoy using the superior HTML5 and universal playback of SublimeVideo to showcase their own video on thousands of new sites.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_20110119" style="font-size:35px"><a href="http://localhost:4000/2011/01/19/consistency-down-to-the-right-click/"><span>Consistency, down to the right-click</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">January 19th, 2011</span>
+      <span class="authors">by Zeno</span>
+      <div class="entry_comments_count" id="entry_comments_count_20110119">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2011/01/19/consistency-down-to-the-right-click/" data-text="Consistency, down to the right-click —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2011/01/19/consistency-down-to-the-right-click/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>If you are a developer or a curious user, you have probably found yourself often <strong>right-clicking</strong> on videos in your browser to get the contextual menu and see if they are played using Flash or HTML5.</p>
+<p>Today we want to show something that you have probably <strong>never seen on the Web before</strong>: a handcrafted contextual menu that consistently works<sup><a href="#fn-2011-01-19">1</a></sup> over <span class="caps">HTML</span> and Flash and that not only shows you if the video is being played with HTML5 or Flash, but also allows you to easily switch between the two modes.</p>
+<p><img style="float: left;margin: 10px 25px 0 0" src="http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_menu_animation.gif" alt="SublimeVideo Player Mode Switching" /> We think this is a great way to highlight the universal aspect of <a href="http://sublimevideo.net">our player</a> as well as the uniform implementation of both our HTML5 and Flash modes. It is also a way to show our brand without interfering with the player interface.</p>
+<p>Please try it out yourself by right-clicking on the video below! </p>
+<div><video class="sublime" width="600" height="252" preload="none" poster="http://blog.medias.jilion.com/uploads/2011/01/sublimevideo_contextual_demo_video_poster.jpg"><br />
+  <source src="http://medias.jilion.com/sublimevideo/dartmoor1_800.mp4" /><br />
+  <source src="http://medias.jilion.com/sublimevideo/dartmoor1-mobile.mp4" /><br />
+  <source src="http://medias.jilion.com/sublimevideo/dartmoor1_800.ogv" /></video></div>
+<script type="text/javascript">
+  sublimevideo.ready(function(){
+    sublimevideo.onEnd(function(sv){
+      sublimevideo.stop();
+    });
+  });
+</script><p class="hide"><small><em class="caption">If you are reading through your <span class="caps">RSS</span> reader, please visit this <a href="http://blog.jilion.com/2011/01/19/consistency-down-to-the-right-click">web page</a> on the browser to test it.</em></small></p>
+<p>It may feel odd to see this cute contextual menu when right-clicking on a Flash video ;-). If you need some proof it is really Flash or need to access the standard contextual menu, you can hold down Command (Mac) or Ctrl (Windows/Linux) while right-clicking (this trick also works in HTML5 mode and if you are developer we know you will love it).</p>
+<p>To our beta users: we will release the contextual menu publicly in a few hours. We will <a href="http://twitter.com/jilion">notify you</a> and update our <a href="http://docs.sublimevideo.net/releases">Release Notes</a> page when it&#8217;s ready!</p>
+<div class="footnotes">
+<ol>
+    <li id="fn-2011-01-19">Currently, it does not work (in Flash mode) on Opera and some old versions of Safari pre-Leopard.</li>
+</ol>
+</div>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_20101221" style=""><a href="http://localhost:4000/2010/12/21/sublimevideo-beta-runs-great/"><span>SublimeVideo Beta runs great!</span></a></h2>
+      
+        <h3 class="sub_header">36 player updates, 100% uptime, thousands of users,<br /> millions of video pages served</h3>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">December 21st, 2010</span>
+      <span class="authors">by Mehdi</span>
+      <div class="entry_comments_count" id="entry_comments_count_20101221">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2010/12/21/sublimevideo-beta-runs-great/" data-text="SublimeVideo Beta runs great! —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2010/12/21/sublimevideo-beta-runs-great/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p><a href="http://sublimevideo.net">SublimeVideo</a> Beta has started 3 months ago and we are extremely happy to report that basically everything is running great!</p>
+<p><a href="http://docs.sublimevideo.net/releases"><img src="http://blog.medias.jilion.com/uploads/2010/12/SublimeVideo-Release-Notes-Screenshot.jpg" alt="SublimeVideo Release Notes Screenshot" /></a></p>
+<p>Here are some information we would like to share with you:</p>
+<ul>
+	<li>Since the Beta started, we have released 36 automatic and transparent updates of the Player to all our users, again, automatically and without bothering them. It means we updated the player in average every 3 days. You can now follow SublimeVideo player updates on our new <a href="http://docs.sublimevideo.net/releases">Release Notes</a> page.</li>
+</ul>
+<ul>
+	<li>These updates were made possible thanks to the rich feedback received from our Beta testers: over 400 feedback and bug reports have been received and 98% of them answered.</li>
+</ul>
+<ul>
+	<li>On the server side, our cloud-based infrastructure has been running smoothly from day one without any delivery interruption of the player by our <span class="caps">CDN</span> (100% uptime). Also, even if this is less visible, it is worth noting that our SublimeVideo Ruby on Rails application running on Heroku has scaled as expected along with the growth in usage, allowing us to parse large amount of data, something that will allow us to bring you really cool new features and services in the future.</li>
+</ul>
+<ul>
+	<li>On the usage side, we wished to somehow keep a low profile during the Beta, but we are thrilled to report there are currently thousands of beta users and that the traffic is already in the range of millions of video pages served per month!</li>
+</ul>
+<p>At this stage of the Beta, we have now passed two important milestones:<br />
+First, the Beta has confirmed the technical service is working well and will be able to scale as we enter the commercial phase.<br />
+Second and maybe even more importantly, the Beta is demonstrating the value of our &#8220;SublimeVideo Universal Web Video Player as a Service&#8221; which is indeed delivering all the key benefits we expected when we announced it back in August.</p>
+<p>So, you are not going to be surprised to hear we are excited!</p>
+<h3 style="padding-top:15px">What&#8217;s next</h3>
+<p>We are finalizing the development of the commercial release, which is scheduled for Q1 2011.</p>
+<p>The pricing survey we discussed earlier will be sent out to our Beta users in January. Stay tuned, we know lots of you are waiting to know how much it will cost to start using SublimeVideo. We will do our best to please you.</p>
+<p>Last but not least, we wish you all happy holidays and lots of good vibes for the new year! Thank you again for your support, it&#8217;s been an amazing year.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_20100914" style=""><a href="http://localhost:4000/2010/09/14/sublimevideo-beta-starts-today/"><span>SublimeVideo Beta starts Today</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">September 14th, 2010</span>
+      <span class="authors">by Zeno</span>
+      <div class="entry_comments_count" id="entry_comments_count_20100914">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2010/09/14/sublimevideo-beta-starts-today/" data-text="SublimeVideo Beta starts Today —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2010/09/14/sublimevideo-beta-starts-today/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are happy to announce we are launching SublimeVideo Beta today and we are sending out the first wave of invitations right now.</p>
+<p>A lot of you registered for the beta. We are thrilled to see the amount of requests we received and are receiving daily. If everything goes smoothly with SublimeVideo service infrastructure we will send Beta invitations to all of those who registered as quickly as possible. If you didn’t register yet, you can do it from this <a href="http://sublimevideo.net/notify">page</a>.</p>
+<p>In your invitation you will be asked to create an account on <a href="https://my.sublimevideo.net">my.sublimevideo.net</a> where you will be able to generate and manage SublimeVideo players for your sites.</p>
+<p><img style="position:relative;left:-5px" src="http://blog.medias.jilion.com/uploads/2010/09/mysublimevideo_screenshot.png" alt="MySublimeVideo Screenshot" /></p>
+<p>We hope you will enjoy the super-simple process we designed for you to get your players up and running almost instantly on your sites.</p>
+<p>Keep in mind SublimeVideo Player is a player, not a video hosting solution forcing you to use our service to host your videos: You retain the full flexibility to host your videos wherever you want.</p>
+<p>Please refer to the <a href="http://docs.sublimevideo.net">Documentation</a> to learn more about it.</p>
+<h3 style="padding-top:15px">Your feedback</h3>
+<p>As written earlier, SublimeVideo will be free during the Beta phase. The two main goals of this phase will be to get your feedback on the product and shape the right pricing with your help.</p>
+<p>We are really looking forward to receiving your feedback!  <br />
+We would love to know if you&#8217;re happy with SublimeVideo and what we can do to improve it. Please send us comments, bug reports, feature requests and suggestions for improvement using the dedicated <a href="http://my.sublimevideo.net/feedback">form</a> on MySublimeVideo.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_20100831" style="font-size:27px"><a href="http://localhost:4000/2010/08/31/introducing-sublimevideo-player-as-a-service/"><span>Introducing SublimeVideo Player as a Service</span></a></h2>
+      
+        <h3 class="sub_header">Beta of HTML5 video cloud player to start in September</h3>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">August 31st, 2010</span>
+      <span class="authors">by Mehdi</span>
+      <div class="entry_comments_count" id="entry_comments_count_20100831">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2010/08/31/introducing-sublimevideo-player-as-a-service/" data-text="Introducing SublimeVideo Player as a Service —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2010/08/31/introducing-sublimevideo-player-as-a-service/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p><img style="float: left;margin: 5px 25px 0 0" src="http://blog.medias.jilion.com/uploads/2010/08/sublimevideo_cloud.png" alt="Introducing SublimeVideo Player as a Service" /> This is a big day for us at Jilion!<br />
+Today, as promised we let you know what we’ve been working on during the past few months. We hope you’ll like it as much as we do.</p>
+<p>After 6 months of exciting work, we are extremely happy to introduce <a href="http://sublimevideo.net">SublimeVideo.net</a>, our HTML5 Video Player as a Service.</p>
+<p>Some of you were anticipating that we would distribute SublimeVideo as a <span class="caps">ZIP</span> file download.<br />
+Well, today we’re offering a much better option &#8211; a real-world and practical HTML5 video player solution.</p>
+<p>Our goal is simple: We really want you to get “state-of-the-art you can actually use”, instantly, easily and inexpensively.</p>
+<p>Let&#8217;s face it, for 99% of our potential customers, HTML5 Video could be a real pain to deploy. Why? Because every browser has its own specificities which means you need to hire experts in HTML5, JavaScript and CSS3 to ensure your HTML5 Video Player works flawlessly in all of them. And that’s not all: To be sure your player does not break and that you always provide the best experience to your audience, you still need to maintain it continuously by following on a daily basis the evolution of numerous browsers and their versions, on various desktop and mobile platforms.<br />
+This is just not realistic for the vast majority of web sites willing to enable HTML5 video.</p>
+<p>Thanks to SublimeVideo HTML5 Video Player as a Service, none of this is a problem for you anymore: We take care of all that complexity, allowing you to instantly deliver to your audience the best HTML5 video experience possible on the web, worry-free!<br />
+That&#8217;s the main benefit of SublimeVideo but there’s more:</p>
+<ul>
+	<li>Get your own SublimeVideo player up-and-running in seconds.</li>
+	<li>Get your SublimeVideo player delivered to your audience globally through our fast, reliable and low-latency Content Delivery Network.</li>
+	<li>Welcome to Zero Maintenance: Your SublimeVideo player is always up-to-date.</li>
+	<li>Updates including bug-fixes and new platforms support are automatically deployed.</li>
+	<li>Updates are near-instantaneous for our global customers base.</li>
+	<li>Monitor your players usages in near real-time.</li>
+	<li>Integration in your web pages is done in just one-simple-line of embed code that we generate for you.</li>
+	<li>Integration can be done by mere mortals, i.e. non-developers.</li>
+	<li>There are no integration costs, no deployment costs and no maintenance costs, the usual hidden costs of &#8220;free download solutions&#8221;.</li>
+</ul>
+<p>So what&#8217;s next?<br />
+What about the pricing and when can you start using SublimeVideo?</p>
+<p>First of all, we would like to thank you for all the amazing feedback you sent us in the past few days since we opened our &#8220;Notify-Me&#8221; form on <a href="http://sublimevideo.net">sublimevideo.net</a>.<br />
+After just two tweets, in the first days of a quiet August month, we received thousands of participation requests for our upcoming Beta!</p>
+<p>In the next few days, we will start sending the first invitations for the Beta to as many people as possible.<br />
+The Beta will be free while it&#8217;s on.<br />
+During the Beta, we will fine-tune the service, collect your comments, and most importantly, we will work hard to define the best pricing model!</p>
+<p>Shaping the right pricing model is going to be a challenging experience for us. We will need your help because we want to do our best to shape a pricing model that can fit a wide range of potential customers, from individuals to large companies.<br />
+To address this pricing challenge, we plan to ask Beta testers to answer a quick survey and we will also contact some of you directly. We hope we can collectively find a solid answer to the question &#8220;What would you be willing to pay for the value SublimeVideo provides to you?&#8221;.</p>
+<p>In the mean time, please have a look at our just released <a href="http://sublimevideo.net">sublimevideo.net</a> homepage, as well as our new <a href="http://sublimevideo.net/demo">demo page</a>!</p>
+<p>Thanks again,<br />
+— the Jilion team</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_20100803" style=""><a href="http://localhost:4000/2010/08/03/stay-updated/"><span>Stay Updated</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">August 3rd, 2010</span>
+      <span class="authors">by Octave</span>
+      <div class="entry_comments_count" id="entry_comments_count_20100803">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2010/08/03/stay-updated/" data-text="Stay Updated —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2010/08/03/stay-updated/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>Would you like to be notified when SublimeVideo is released? Are you interested to be part of an early limited beta and give your feedback on the product and the pricing? Visit <a href="http://sublimevideo.net">sublimevideo.net</a></p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_20100708" style=""><a href="http://localhost:4000/2010/07/08/next-month/"><span>Next Month!</span></a></h2>
+      
+        <h3 class="sub_header">SublimeVideo HTML5 solution to be revealed next month</h3>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">July 8th, 2010</span>
+      <span class="authors">by Mehdi</span>
+      <div class="entry_comments_count" id="entry_comments_count_20100708">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2010/07/08/next-month/" data-text="Next Month! —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2010/07/08/next-month/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p><img style="float: left;margin: 0 24px 0 0" src="http://blog.medias.jilion.com/uploads/2010/07/sublimevideo_solution_august_2010_calendar_icon.png" alt="August 2010 Calendar" /> For the last three months, we have been thinking thoroughly about how to make of SublimeVideo player the most functional, universal, easy-to-deploy-and-maintain HTML5 video solution.</p>
+<p>Next month we will reveal all the details and commercial plan of our upcoming SublimeVideo solution. We hope you will love it as much as we do. Frankly, we are super-excited about it!</p>
+<p>Once again, thank you so much for your great support and patience. By the way, we promise to communicate more frequently about our progress.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_20100407" style=""><a href="http://localhost:4000/2010/04/07/sublimevideo-flash-mode/"><span>SublimeVideo Flash mode</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">April 7th, 2010</span>
+      <span class="authors">by Octave</span>
+      <div class="entry_comments_count" id="entry_comments_count_20100407">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2010/04/07/sublimevideo-flash-mode/" data-text="SublimeVideo Flash mode —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2010/04/07/sublimevideo-flash-mode/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p><img style="float: left;margin: 0 24px 0 0" src="http://blog.medias.jilion.com/uploads/2010/04/flash.png" alt="Flash Icon" /> SublimeVideo has a broader goal than just showcasing some nice HTML5 features in a controlled environment like our <a href="http://jilion.com/sublime/video">demo page</a>. We aim at delivering a modern and simple video-embedding solution for web developers that provides the same user experience and uniform UI across browsers.</p>
+<p>The first main news of the day is we have just completed the development of the Flash mode of our SublimeVideo player.  It is not a separate product, but a necessary component to achieve our ambition to offer you a truly <strong>universal video player</strong> that works in all browsers.</p>
+<p>With SublimeVideo Flash mode, our users will have the warranty that their videos will play seamlessly even in non-HTML5 browsers such as IE 6, 7 or 8 and also in Firefox/Opera when the Ogg Theora video version is not available.</p>
+<p><img class="no_rounded" src="http://blog.medias.jilion.com/uploads/2010/04/sublimevideo_and_flash.png" alt="SublimeVideo and Flash" /><br />
+<em class="caption">Flash and HTML5 versions look and feel the same</em></p>
+<p>To see the new Flash player in action, we created an additional <a href="http://jilion.com/sublime/video/flash">demo page where SublimeVideo Flash mode is forced</a> for all browsers (including browsers that fully support HTML5 video).</p>
+<p>Here are the features of SublimeVideo Flash mode:</p>
+<ul>
+	<li>Same sleek UI as the HTML5 player</li>
+	<li>Full-window mode (click on the full-window button, or double-click on the video) with draggable controls pane</li>
+	<li>Full-screen mode (hold down Command (Mac) or Ctrl (Windows/Linux) while entering full-window mode)</li>
+	<li>While in full-window or full-screen mode, press spacebar to play/pause and Esc to exit full-window/full-screen</li>
+	<li>SublimeVideo automatically falls back to Flash in Firefox and Opera to decode H.264 video in case the Ogg Theora version is not provided</li>
+</ul>
+<p>Open web standard &#8220;purists&#8221; who do not care about compatibility with old browsers will be able to completely disable the Flash fallback to provide a pure HTML5 video experience.</p>
+<p>The second big news of the day is that we have entirely rewritten our JavaScript code to remove all dependencies to external libraries or frameworks (originally SublimeVideo was written using the Prototype JS framework). This is a big deal, because it means SublimeVideo is now a standalone pure JavaScript library with the benefit that anyone can easily use it along side any version of any other libraries (jQuery, Prototype, MooTools, Dojo, <span class="caps">YUI</span>, Ext JS, &#8230;) without having to worry about conflicts.</p>
+<p>Finally, we received a lot of requests concerning the release date. We really want to make this product right. The fact that you see SublimeVideo working on our demo page doesn&#8217;t mean it is fully ready to be released and embedded in any webpage out there. There&#8217;s still some work to do. Thank you for your patience, we are doing our best in order the wait will be worth it!</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_20100211" style=""><a href="http://localhost:4000/2010/02/11/sublimevideo-supports-firefox/"><span>SublimeVideo supports Firefox</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">February 11th, 2010</span>
+      <span class="authors">by Zeno</span>
+      <div class="entry_comments_count" id="entry_comments_count_20100211">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2010/02/11/sublimevideo-supports-firefox/" data-text="SublimeVideo supports Firefox —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2010/02/11/sublimevideo-supports-firefox/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>We are working hard on the release of SublimeVideo (no date yet).</p>
+<p><img src="http://blog.medias.jilion.com/uploads/2010/02/firefox.png" alt="Firefox Icon" style="float:left;margin:0 24px 0 0;" /> We&#8217;ve just finished adding support for Firefox and <a href="http://en.wikipedia.org/wiki/Theora">Ogg Theora</a> videos. We figured we&#8217;d update the <a href="http://jilion.com/sublime/video">demo page</a> to show it to you.</p>
+<p>It should work on Firefox 3.5, but we strongly encourage you to upgrade to the latest version (currently 3.6).</p>
+<p>SublimeVideo on Firefox has pretty much all the basic features of the WebKit (Safari/Chrome) version, however there&#8217;re some secondary features which couldn&#8217;t be implemented because of Firefox limitations.</p>
+<p>Here are the features that are currently <strong>missing</strong>:</p>
+<p>1. Sleek Zoom-in/out transitions when entering/leaving full-window mode<br />
+2. Playback speed controls (when in full-window mode)<br />
+3. Other minor fade-in/out effects to highlight the poster frame and reveal the controls when mouse-hovering over the video</p>
+<p><img src="http://blog.medias.jilion.com/uploads/2010/02/SublimeVideo-full-window-controls-browsers-comparison.jpg" alt="SublimeVideo Full-Window Controls Browsers Comparison" /><em class="caption">SublimeVideo full-window controls browsers comparison</em></p>
+<p>We are confident that the <a href="http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/">next release of Firefox</a> (3.7) will include all the necessary improvements that will allow us to implement the missing features.</p>
+<p>A note regarding true <em>full-screen</em> mode:<br />
+At the moment we couldn&#8217;t integrate this directly into our controls as we did for the WebKit Nightly build (by alt-clicking the full-window button), but if you&#8217;re using Firefox 3.6 you can enter this mode by right-clicking on the video and choosing &#8220;Full Screen&#8221; from the contextual menu.</p>
+<p><a href="http://jilion.com/sublime/video">Enjoy</a>.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_20100125" style=""><a href="http://localhost:4000/2010/01/25/introducing-sublimevideo/"><span>Introducing SublimeVideo</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">January 25th, 2010</span>
+      <span class="authors">by Zeno</span>
+      <div class="entry_comments_count" id="entry_comments_count_20100125">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2010/01/25/introducing-sublimevideo/" data-text="Introducing SublimeVideo —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2010/01/25/introducing-sublimevideo/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p>Today we&#8217;d like to show you a pre-release demo of SublimeVideo. It&#8217;s an <a href="http://en.wikipedia.org/wiki/Html5">HTML5</a> video player that will allow you to easily embed videos in any page, blog or site using the latest modern web standards.</p>
+<p><a href="http://jilion.com/sublime/video"><img src="http://blog.medias.jilion.com/uploads/2010/01/sublime_video-600x480.png" alt="Sublime Video" class="no_rounded" /></a></p>
+<p>Browsers makers are still working on fully supporting the HTML5 video specification, so at the moment SublimeVideo is still in <em>experimental state</em> and only works on a limited number of browsers. But the long term goal is to make it work on all modern browsers.</p>
+<p>SublimeVideo will be soon released for free (at least for non-commercial use).</p>
+<h3>Key Features</h3>
+<ul>
+	<li><strong>Full-window mode</strong><br />
+  This will maximize the video to fit the browser&#8217;s window. It can be handy if you still want to access other applications while watching a maximized video in your browser.<br />
+  Besides, browsers makers are still working on implementing true fullscreen for HTML5 videos; so full-window is currently the only way to maximize the video on Safari and Chrome.</li>
+	<li><strong>Full-screen mode</strong><br />
+  Currently only supported in the latest <a href="http://nightly.webkit.org/">WebKit Nightly Builds</a>, you can activate this mode by <span class="caps">ALT</span>-clicking on the full-window button.</li>
+	<li><strong>HTML5 video benefits</strong><br />
+  No browser plugin, no Flash dependencies!<br />
+  You can also jump anywhere in the video without having to wait for it to buffer.</li>
+</ul>
+<p>See more features on the <a href="http://jilion.com/sublime/video">SublimeVideo demo</a> page.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+
+        </div>
+        <div id="sidebar">
+          <div class="box intro">
+            <p><strong>Jilion</strong> is the creator of SublimeVideo, the world's first cloud-based HTML5 video player.
+            <a href="http://jilion.com/">more &raquo;</a></p>
+          </div>
+          <div class="box links">
+            <ul>
+              <li class="rss"><a href="http://feeds.feedburner.com/Jilion">Subscribe</a></li>
+              <li class="twitter"><a href="http://twitter.com/jilion">Twitter</a></li>
+            </ul>
+          </div>
+
+          <!-- <div class="tags">
+            <h4>Tags list</h4>
+            <ul>
+            
+              <li><a href="/tags/aelios" name="aelios">Aelios</a></h4>
+            
+              <li><a href="/tags/customer-showcase" name="customer-showcase">Customer Showcase</a></h4>
+            
+              <li><a href="/tags/sublimevideo" name="sublimevideo">SublimeVideo</a></h4>
+            
+              <li><a href="/tags/sublimevideo-showcase" name="sublimevideo-showcase">SublimeVideo Showcase</a></h4>
+            
+              <li><a href="/tags/sublimevideo-in-education" name="sublimevideo-in-education">SublimeVideo in Education</a></h4>
+            
+            </ul>
+          </div> -->
+
+        </div>
+        <div class="spacer"></div>
+      </div>
+    </div>
+    <div id="footer">
+      <p>Copyright © 2012 Jilion® SA</p>
+    </div>
+    <script type="text/javascript">if((navigator.userAgent.indexOf("Windows")!=-1))document.body.className='win';</script>
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-10280941-5");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+    <script type="text/javascript">
+    var GoSquared={};
+    GoSquared.acct = "GSN-473902-X";
+    (function(w){
+        function gs(){
+            w._gstc_lt=+(new Date); var d=document;
+            var g = d.createElement("script"); g.type = "text/javascript"; g.async = true; g.src = "//d1l6p2sc9645hc.cloudfront.net/tracker.js";
+            var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(g, s);
+        }
+        w.addEventListener?w.addEventListener("load",gs,false):w.attachEvent("onload",gs);
+    })(window);</script>
+  </body>
+</html>
