@@ -7,7 +7,7 @@ layout: master
   <div class="entry_header">
     <div class="entry_title">
       {% if page.tags | titles_tag %}
-        <a href='/tags/{{page.tags | titles_link_tag | pretty_tag}}' class="tag_link">{{page.tags | titles_tag}}</a>
+        <a href='/tags/{{page.tags | titles_tag | pretty_tag}}' class="tag_link">{{page.tags | titles_tag}}</a>
       {% endif %}
       <h2 id="post_{{page.id | id_to_css_id}}" style="{% if page.font_size %}font-size:{{page.font_size}}px{% endif %}"><a href="{{page.url | pretty_url}}">{% if page.title_html %}{{page.title_html}}{% else %}<span>{{page.title}}</span>{% endif %}</a></h2>
       {% if page.sub_title %}
