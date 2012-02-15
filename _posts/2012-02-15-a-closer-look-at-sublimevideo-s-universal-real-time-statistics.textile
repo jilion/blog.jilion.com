@@ -9,7 +9,7 @@ tags:
 
 We recently introduced a "major update to SublimeVideo":http://blog.jilion.com/2011/11/29/sublimevideo-unleashed. The biggest new feature added to the service was our Universal, Real-Time Statistics platform. 
 
-SublimeVideo's statistics platform is the first to offer a truly *comprehensive, real-time overview of your site's video traffic from any device*, whether generated from mobile or desktop, HTML5 or Flash.
+SublimeVideo's statistics platform is the first to offer a truly *comprehensive, real-time overview of your site's video traffic from any device, whether generated from mobile or desktop, HTML5 or Flash*.
 
 We’ve prepared a "live demo":https://my.sublimevideo.net/sites/stats/demo of our Real-Time Statistics dashboard so you can try it out for yourself. Please note that the demo requires a modern browser that supports HTML5. We recommend using the latest version of Chrome, Safari, Firefox, Opera or IE9.
 
@@ -29,11 +29,11 @@ In addition, SublimeVideo Player reports consistent statistics from all platform
 <source src="http://media.jilion.com/videos/sublimevideo-real-time-statistics-360p.webm" />
 </video></div>
 
-<p class="hide"><small><em class="caption">If you are reading through your <span class="caps">RSS</span> reader, please visit this <a href="http://blog.jilion.com/2012/02/08/a-closer-look-at-sublimevideo-s-universal-real-time-statistics">web page</a> on the browser to watch the video.</em></small></p>
+<p class="hide"><small><em class="caption">If you are reading through your <span class="caps">RSS</span> reader, please visit this <a href="http://blog.jilion.com/2012/02/15/a-closer-look-at-sublimevideo-s-universal-real-time-statistics">web page</a> on the browser to watch the video.</em></small></p>
 
 You can find more information on our "documentation page":http://docs.sublimevideo.net/real-time-stats.
 
-h4. Under the Hood
+h4. Under the hood
 
 We built a sophisticated architecture to power SublimeVideo’s Real-Time Statistics; SublimeVideo Player 'reports' every load / play. Then, every 60 seconds, our ["Heroku":http://heroku.com]-hosted "Rails":http://rubyonrails.org backend workers parse and separate statistics logs by time period (days / hours / minutes), before storing them in a "MongoDB":http://www.mongodb.org database.
 
