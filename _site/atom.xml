@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-02-15T14:20:41+01:00</updated>
+  <updated>2012-02-15T14:23:22+01:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -37,7 +37,7 @@
 &lt;h4&gt;Real-Time &amp;amp; Universal&lt;/h4&gt;
 &lt;p&gt;SublimeVideo gives our users instant access to a range of statistics about their videos, all in &lt;strong&gt;real-time&lt;/strong&gt;. This simply wouldn&amp;#8217;t be possible without SublimeVideo&amp;#8217;s cloud-based infrastructure.&lt;/p&gt;
 &lt;p&gt;In addition, SublimeVideo Player reports consistent statistics from all platforms (HTML5 and Flash on both desktop and mobile). Because of this, we&amp;#8217;re able to collect data from all devices and present a comprehensive, &lt;strong&gt;universal&lt;/strong&gt; overview of a user’s site&amp;#8217;s video traffic. This is increasingly important as the web transitions to HTML5 and more people access content from different platforms and devices.&lt;/p&gt;
-&lt;div style=&quot;margin-bottom:30px&quot; &gt;&lt;video class=&quot;sublime&quot; width=&quot;640&quot; height=&quot;360&quot; poster=&quot;http://media.jilion.com/videos/sublimevideo-real-time-statistics.jpg&quot; preload=&quot;none&quot; data-sublime-settings=&quot;initial-overlay:none&quot; data-uid=&quot;real-time-stats&quot; data-name=&quot;Real-Time Statistics&quot;&gt;&lt;br /&gt;
+&lt;div style=&quot;margin-bottom:30px&quot; &gt;&lt;video class=&quot;sublime&quot; width=&quot;600&quot; height=&quot;338&quot; poster=&quot;http://media.jilion.com/videos/sublimevideo-real-time-statistics.jpg&quot; preload=&quot;none&quot; data-sublime-settings=&quot;initial-overlay:none&quot; data-uid=&quot;real-time-stats&quot; data-name=&quot;Real-Time Statistics&quot;&gt;&lt;br /&gt;
 &lt;source src=&quot;http://media.jilion.com/videos/sublimevideo-real-time-statistics-720p.mp4&quot; data-quality=&quot;hd&quot; /&gt;&lt;br /&gt;
 &lt;source src=&quot;http://media.jilion.com/videos/sublimevideo-real-time-statistics-360p.mp4&quot; /&gt;&lt;br /&gt;
 &lt;source src=&quot;http://media.jilion.com/videos/sublimevideo-real-time-statistics-720p.webm&quot; data-quality=&quot;hd&quot; /&gt;&lt;br /&gt;
