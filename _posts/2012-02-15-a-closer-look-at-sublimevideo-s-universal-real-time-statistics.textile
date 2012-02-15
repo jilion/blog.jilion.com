@@ -22,7 +22,7 @@ SublimeVideo gives our users instant access to a range of statistics about their
 
 In addition, SublimeVideo Player reports consistent statistics from all platforms (HTML5 and Flash on both desktop and mobile). Because of this, we're able to collect data from all devices and present a comprehensive, *universal* overview of a user’s site's video traffic. This is increasingly important as the web transitions to HTML5 and more people access content from different platforms and devices.
 
-<div style="margin-bottom:30px" ><video class="sublime" width="640" height="360" poster="http://media.jilion.com/videos/sublimevideo-real-time-statistics.jpg" preload="none" data-sublime-settings="initial-overlay:none" data-uid="real-time-stats" data-name="Real-Time Statistics">
+<div style="margin-bottom:30px" ><video class="sublime" width="600" height="338" poster="http://media.jilion.com/videos/sublimevideo-real-time-statistics.jpg" preload="none" data-sublime-settings="initial-overlay:none" data-uid="real-time-stats" data-name="Real-Time Statistics">
 <source src="http://media.jilion.com/videos/sublimevideo-real-time-statistics-720p.mp4" data-quality="hd" />
 <source src="http://media.jilion.com/videos/sublimevideo-real-time-statistics-360p.mp4" />
 <source src="http://media.jilion.com/videos/sublimevideo-real-time-statistics-720p.webm" data-quality="hd" />
