@@ -1,12 +1,13 @@
 {% capture rack_env %}{{ "" | rack_env }}{% endcapture %}
 {% capture timestamp %}{{ "" | timestamp }}{% endcapture %}
+{% capture title_tag %}{{ page.tags | titles_tag }}{% endcapture %}
 
 <!DOCTYPE html>
 <html lang='en' xml:lang='en' xmlns='http://www.w3.org/1999/xhtml'>
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     {% if page.title %}
-      {% if page.tags | titles_tag %}
+      {% if title_tag != '' %}
         <title>Jilion Blog - {{ page.tags | titles_tag }}: {{ page.title }}</title>
       {% else %}
         <title>Jilion Blog - {{ page.title }}</title>
