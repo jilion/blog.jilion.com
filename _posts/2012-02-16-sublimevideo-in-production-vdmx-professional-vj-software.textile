@@ -13,7 +13,7 @@ We’re proud to have great individuals, companies and organizations using "Subl
 <a href="http://vidvox.net/" title="Visit vidvox.net"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/sublimevideo_vidvox.jpg" alt="SublimeVideo on VDMX - Professional VJ Software" /></a>
 VDMX - Professional VJ Software - "http://vidvox.net":http://vidvox.net/
 
-VDMX is a realtime multimedia performance application used by professional VJs and creative professionals around the world. Developed by New-York-based Mac software company Vidvox, VDMX has been used in concert with The Beastie Boys, The Grateful Dead, Phoenix and Aphex Twin, and by many other musicians, design firms, theater groups, and experimental filmmakers around the world.
+VDMX is a realtime multimedia performance application developed by New York-based Mac software company Vidvox. VDMX has been used in concert with The Beastie Boys, The Grateful Dead, Phoenix and Aphex Twin, and by many other musicians, design firms, theater groups, and experimental filmmakers around the world.
 
 VidVox co-manager Jack Turner’s design agency "jackadam":http://jackadam.net produced the website for VDMX and Vidvox. They chose SublimeVideo to showcase a variety of high-quality videos of VDMX in action, ranging from live audiovisual performances to motion graphics and segments of animated work produced with the software.   
 
