@@ -1,7 +1,7 @@
 module Jekyll
 
   TITLE_TAGS = ['SublimeVideo Showcase', 'SublimeVideo in Education']
-  SUB_TITLE_TAGS = ['SublimeVideo in Education']
+  SUB_TITLE_TAGS = ['SublimeVideo in Education', 'SublimeVideo in Production']
 
   module Filters
 
