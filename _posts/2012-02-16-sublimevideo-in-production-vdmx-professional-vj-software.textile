@@ -6,7 +6,6 @@ layout: post
 tags:
 - SublimeVideo
 - SublimeVideo Showcase
-- SublimeVideo in Production
 ---
 We’re proud to have great individuals, companies and organizations using "SublimeVideo":http://sublimevideo.net. Introducing the latest entry to our SublimeVideo Showcase:
 
