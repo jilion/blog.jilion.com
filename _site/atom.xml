@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-02-16T15:30:37+01:00</updated>
+  <updated>2012-02-16T15:35:20+01:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -30,8 +30,6 @@
         <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
         <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
-      
-        <category scheme="http://blogjilion-staging.heroku.com/tags/sublimevideo-in-production" term="sublimevideo-in-production" label="SublimeVideo in Production"/>
       
       <content type="html">&lt;p&gt;We’re proud to have great individuals, companies and organizations using &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt;. Introducing the latest entry to our SublimeVideo Showcase:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://vidvox.net/&quot; title=&quot;Visit vidvox.net&quot;&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/sublimevideo_vidvox.jpg&quot; alt=&quot;SublimeVideo on VDMX - Professional VJ Software&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
