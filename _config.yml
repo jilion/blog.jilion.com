@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: pretty
-exclude: [README, config.ru, Gemfile, Gemfile.lock, Rakefile, assets.yml, assets]
+exclude: [README.md, config.ru, Gemfile, Gemfile.lock, Rakefile, assets.yml, assets]
 
 paginate: 10
 paginate_file: index.html
