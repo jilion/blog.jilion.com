@@ -40,7 +40,7 @@ end
 
 def prepare_and_upload_assets
   timestamp = Time.now.strftime("%m%d%Y%H%M%S")
-  system "jammit -c assets.yml -o assets -u http://blog.medias.jilion.com/#{timestamp} -f"
+  system "bundle exec jammit -c assets.yml -o assets -u http://blog.medias.jilion.com/#{timestamp} -f"
 
   files = ["assets/style.css","assets/style-datauri.css","assets/style-mhtml.css"]
 

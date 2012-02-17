@@ -9,6 +9,10 @@ GIT
 GEM
   remote: http://rubygems.org/
   specs:
+    POpen4 (0.1.4)
+      Platform (>= 0.4.0)
+      open4
+    Platform (0.4.0)
     RedCloth (4.2.9)
     albino (1.3.3)
       posix-spawn (>= 0.3.6)
@@ -20,7 +24,11 @@ GEM
     classifier (1.3.3)
       fast-stemmer (>= 1.0.0)
     directory_watcher (1.4.1)
+    execjs (1.3.0)
+      multi_json (~> 1.0)
     fast-stemmer (1.0.0)
+    jammit (0.6.5)
+      yui-compressor (>= 0.9.3)
     jekyll (0.11.2)
       albino (~> 1.3)
       classifier (~> 1.3)
@@ -34,10 +42,17 @@ GEM
     maruku (0.6.0)
       syntax (>= 1.0.0)
     mime-types (1.17.2)
+    multi_json (1.0.4)
+    open4 (1.3.0)
     posix-spawn (0.3.6)
     rack (1.3.6)
     syntax (1.0.0)
+    uglifier (1.2.3)
+      execjs (>= 0.3.0)
+      multi_json (>= 1.0.2)
     xml-simple (1.1.1)
+    yui-compressor (0.9.6)
+      POpen4 (>= 0.1.4)
 
 PLATFORMS
   ruby
@@ -46,7 +61,9 @@ DEPENDENCIES
   RedCloth (~> 4.2.9)
   aws-s3 (= 0.6.2)
   bundler
+  jammit
   jekyll (~> 0.11.2)
   jekyll_ext (~> 0.1.4)
   liquid (~> 2.3.0)
   rack-jekyll!
+  uglifier

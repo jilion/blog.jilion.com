@@ -1,8 +1,6 @@
 package_assets: on
 embed_assets: on
-javascript_compressor: closure
-compressor_options:
-  compilation_level: "SIMPLE_OPTIMIZATIONS"
+javascript_compressor: uglifier
 
 # javascripts:
 #   sublime:
