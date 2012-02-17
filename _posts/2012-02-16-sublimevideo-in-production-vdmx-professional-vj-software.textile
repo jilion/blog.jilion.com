@@ -7,10 +7,12 @@ tags:
 - SublimeVideo
 - SublimeVideo Showcase
 ---
-We’re proud to have great individuals, companies and organizations using "SublimeVideo":http://sublimevideo.net. Introducing the latest entry to our SublimeVideo Showcase:
+We’ve previously profiled software developers who’ve chosen "SublimeVideo":http://sublimevideo.net/ to showcase videos of their products online, including tap tap tap’s "Camera+":http://blog.jilion.com/2011/06/01/customer-showcase-camera-plus iPhone app, "Own’s social point of sale platform":http://blog.jilion.com/2012/01/16/customer-showcase-own-point-of-sale and MediaMolecule’s "LittleBigPlanet 2":http://blog.jilion.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2 for Playstation 3. 
 
-<a href="http://vidvox.net/" title="Visit vidvox.net"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/sublimevideo_vidvox.jpg" alt="SublimeVideo on VDMX - Professional VJ Software" /></a>
+Today we’d like to introduce a SublimeVideo user whose software is used in several different creative fields:
+
 VDMX - Professional VJ Software - "http://vidvox.net":http://vidvox.net/
+<a href="http://vidvox.net/" title="Visit vidvox.net"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/sublimevideo_vidvox.jpg" alt="SublimeVideo on VDMX - Professional VJ Software" /></a>
 
 VDMX is a realtime multimedia performance application developed by New York-based Mac software company Vidvox. VDMX has been used in concert with The Beastie Boys, The Grateful Dead, Phoenix and Aphex Twin, and by many other musicians, design firms, theater groups, and experimental filmmakers around the world.
 
