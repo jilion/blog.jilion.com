@@ -6,7 +6,7 @@ module Jekyll
   module Filters
 
     def titles_tag(tags)
-      tags.reverse.detect { |tag| TITLE_TAGS.any? { |t| t == tag } }
+      tags && tags.reverse.detect { |tag| TITLE_TAGS.any? { |t| t == tag } }
     end
     
     def titles_link_tag(tags)
