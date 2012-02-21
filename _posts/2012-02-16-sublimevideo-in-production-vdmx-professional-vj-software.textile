@@ -1,0 +1,25 @@
+---
+title: "VDMX - Professional VJ Software"
+title_html: "<span>VDMX - Professional VJ Software</span>"
+authors: The Jilion Team
+layout: post
+tags:
+- SublimeVideo
+- SublimeVideo Showcase
+---
+We’ve previously profiled software developers who’ve chosen "SublimeVideo":http://sublimevideo.net/ to showcase videos of their products online, including tap tap tap’s "Camera+":http://blog.jilion.com/2011/06/01/customer-showcase-camera-plus iPhone app, "Own’s social point of sale platform":http://blog.jilion.com/2012/01/16/customer-showcase-own-point-of-sale and MediaMolecule’s "LittleBigPlanet 2":http://blog.jilion.com/2011/04/15/customer-showcase-media-molecule-littlebigplanet2 for Playstation 3. 
+
+Today we’d like to introduce a SublimeVideo user whose software is used in several different creative fields:
+
+VDMX - Professional VJ Software - "http://vidvox.net":http://vidvox.net/
+<a href="http://vidvox.net/" title="Visit vidvox.net"><img src="http://blog.medias.jilion.com/uploads/2012/02/sublimevideo_vidvox.jpg" alt="SublimeVideo on VDMX - Professional VJ Software" /></a>
+
+VDMX is a realtime multimedia performance application developed by New York-based Mac software company VIDVOX. VDMX has been used in concert with The Beastie Boys, The Grateful Dead, Phoenix and Aphex Twin, and by many other musicians, design firms, theater groups, and experimental filmmakers around the world.
+
+Former VIDVOX co-manager Jack Turner’s design agency "jackadam":http://jackadam.net produced the website for VDMX and VIDVOX. They chose SublimeVideo to showcase a variety of high-quality videos of VDMX in action, ranging from live audiovisual performances to motion graphics and segments of animated work produced with the software.
+
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2012/02/jack_turner_vidvox.jpg" alt="Lester Nelson - Ferdinand Center for the Creative" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “SublimeVideo was absolutely crucial in pulling off the video gallery on VIDVOX.net for a multitude of reasons. Being able to control how the videos were compressed was a requirement from the get-go. Video art & concert video tends to involve a lot of quick cuts, fast motion and/or stroboscopic effects and all of these require carefully tuned compression-settings to keep the video from becoming “artifact salad”. If we had gone with a hosted video service, many of these videos would have just looked like total mush. Video art and hosted video services just don't mix well.</p><p>We also required something that had an easy to use JavaScript API - mucking directly with &lt;video&gt; elements would have consumed an unfathomable amount of development time. With SublimeVideo it only took a couple of lines of JS to create a video player when the lights go down, and one more line to destroy it when you return to the rest of the site.</p><p>HD support and stats didn't even exist when we started the site but we quickly integrated both of these. Getting new features and expanded browser continuously is a godsend when dealing with something like video on the web.”</p></blockquote>
+
+p(quote_author). —Jack Turner, jackadam.
+
+
