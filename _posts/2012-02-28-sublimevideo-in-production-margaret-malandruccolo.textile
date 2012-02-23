@@ -1,0 +1,24 @@
+---
+title: "Margaret Malandruccolo"
+title_html: "<span>Margaret Malandruccolo</span>"
+authors: The Jilion Team
+layout: post
+tags:
+- SublimeVideo
+- SublimeVideo Showcase
+- SublimeVideo in Production
+---
+This week we’re looking at a handful of "SublimeVideo":http://sublimevideo.net users in the professional media production industries. We profiled "Wyld Stallyons":/ in the UK, "Garlic":/ in Spain and "So Loud Music":/ in New York City.
+
+Introducing part four of four: Margaret Malandruccolo
+
+<a href="http://mmfoto.com" title="Visit mmfoto.com"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/sublimevideo_margaret_malandruccolo.jpg" alt="SublimeVideo on Margaret Malandruccolo" /></a>
+Visit "mmfoto.com":http://mmfoto.com.
+
+Margaret is a professional photographer and director based in Los Angeles, California. She’s worked with a range of well-known brands, musicians and publications including Nike, Canon, Toyota, Juliette Lewis, Queens of the Stone Age and Billboard Magazine.
+
+Margaret’s site was developed by web designer and developer David Andrews ("Made of Pixels":http://www.madeofpixels.ca).
+
+<blockquote><p><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/margaret_malandruccolo.jpg" alt="Margaret Malandruccolo" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “SublimeVideo ensured the player looked consistent across all browsers, including the HTML5 and Flash modes. We felt it was important not to detract from the surrounding content, so a player that looked different in various forms wasn't an option.</p><p>SublimeVideo's API was flexible enough to allow for the site's desired presentation of motion content, and worked seamlessly for both the Flash and HTML5 versions of the player. Other players had different ways to communicate with each implementation (Flash vs. HTML5), or they were still in beta.</p><p>Automatic updates meant the player always incorporated the latest enhancements and bug fixes, without the need to check for and replace an older version of the player on the site. This ensures users always get the latest version of the player, without any action on their part or ours.</p><p>Finally, it was dead simple to add video content to the site and have it work as needed, especially considering we use only one video instance for multiple thumbnails. Easy integration makes for happy programmers.”</p></blockquote>
+
+p(quote_author). —Margaret Malandruccolo.
