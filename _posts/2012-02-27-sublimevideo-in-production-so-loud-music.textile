@@ -1,0 +1,24 @@
+---
+title: "So Loud Music"
+title_html: "<span>So Loud Music</span>"
+authors: The Jilion Team
+layout: post
+tags:
+- SublimeVideo
+- SublimeVideo Showcase
+- SublimeVideo in Production
+---
+This week we’re looking at a handful of "SublimeVideo":http://sublimevideo.net users in the professional media production industries. So far we’ve profiled "Wyld Stallyons":/ in the UK and "Garlic":/ in Spain.
+
+Introducing part three of four: So Loud Music
+
+<a href="http://www.soloudmusic.com" title="Visit soloudmusic.com"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/sublimevideo_so_loud_music.jpg" alt="SublimeVideo on So Loud Music" /></a>
+Visit "soloudmusic.com":http://www.soloudmusic.com.
+
+h4. So Loud Music (New York City, USA)
+
+So Loud Music is a music and sound design studio based in New York City. So Loud’s team members have experience collaborating with a variety of well known artists and major labels, and now work with with clients including American Express, Canon, BMW, Pepsi and Verizon.
+
+<blockquote><p><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/paul_riggio_so_loud_music.jpg" alt="Paul Riggio - So Loud Music" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “Our clients review our work on a variety of platforms across multiple browsers. We needed a solution which would give our clients a consistent experience. We are in a creative business, and creating a consistent experience helps our clients to focus on our amazing music for advertising portfolio, instead of focusing on the technology.</p><p>The technology to implement a consistent web experience needs to be seamless, invisible, and work as expected... Easier said than done.  When So Loud Music found SublimeVideo as a means to showcase our music portfolio, we knew we had our answer.  SublimeVideo has the solution we need to showcase the music that we create for video, while creating a consistent experience across all platforms.”</p></blockquote>
+
+p(quote_author). —Paul Riggio, So Loud Music.
