@@ -1,0 +1,24 @@
+---
+title: "Wyld Stallyons"
+title_html: "<span>Wyld Stallyons</span>"
+authors: The Jilion Team
+layout: post
+tags:
+- SublimeVideo
+- SublimeVideo Showcase
+- SublimeVideo in Production
+---
+Video is a powerful and often vital tool for showcasing creative work online. This week we’ll be taking a look at a handful of "SublimeVideo":http://sublimevideo.net users who provide professional production services to well known clients around the world.
+
+Introducing part one of four: Wyld Stallyons
+
+<a href="http://www.wyldstallyons.com" title="Visit wyldstallyons.com"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/sublimevideo_wyld_stallyons.jpg" alt="SublimeVideo on Wyld Stallyons" /></a>
+Visit "wyldstallyons.com":http://www.wyldstallyons.com.
+
+h4. Wyld Stallyons (London, UK)
+
+Wyld Stallyons is a London-based moving image production company. Since 2006 they’ve produced video content for clients in the music, broadcast and advertising industries including Honda, Bacardi, Ministry of Sound, Philips and three major UK TV channels.
+
+<blockquote><p><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/jason_arber_wyld_stallyons.jpg" alt="Jason Arber - Director at Wyld Stallyons" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “We chose SublimeVideo as our video delivery mechanism because we believed that native MP4 delivery of our videos was the best choice for visitors to our site. We don't yet live in a world where every visitor can view MP4 videos natively, so we needed a solution that degraded gracefully back to Flash-wrapped videos for people using older browsers.</p><p>We looked at several offerings, but only SublimeVideo combined great aesthetics with an easy to use (and easy to implement) product. Being able to quickly and easily see how many videos had been served was a great bonus, too. Jillion were very quick to respond to our initial questions and their obvious commitment to making a cool, seamless product impressed us. Since our new site went live, we've been extremely happy with SublimeVideo. Nice work guys!”</p></blockquote>
+
+p(quote_author). —Jason Arber, Director at Wyld Stallyons.
