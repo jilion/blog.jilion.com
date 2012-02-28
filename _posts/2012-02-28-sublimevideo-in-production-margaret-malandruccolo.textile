@@ -15,6 +15,8 @@ Introducing part four of four: Margaret Malandruccolo.
 <a href="http://mmfoto.com" title="Visit mmfoto.com"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/sublimevideo_margaret_malandruccolo.jpg" alt="SublimeVideo on Margaret Malandruccolo" /></a>
 Visit "mmfoto.com":http://mmfoto.com.
 
+h4. Margaret Malandruccolo (Los Angeles, USA)
+
 Margaret is a professional photographer and director in Los Angeles, California. She’s worked with a range of well-known brands, musicians and publications including Nike, Canon, Toyota, Juliette Lewis, Queens of the Stone Age and Billboard Magazine.
 
 Margaret’s site was developed by web designer and developer David Andrews ("Made of Pixels":http://www.madeofpixels.ca).
