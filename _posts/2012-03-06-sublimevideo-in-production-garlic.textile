@@ -13,7 +13,7 @@ This week we’re looking at a handful of "SublimeVideo":http://sublimevideo.net
 Introducing part two of four: Garlic.
 
 <a href="http://garlic.tv" title="Visit garlic.tv"><img src="http://blog.medias.jilion.com/uploads/2012/02/sublimevideo_garlic.jpg" alt="SublimeVideo on Garlic" /></a>
-Visit "garlic.tv/":http://garlic.tv/.
+Visit "garlic.tv":http://garlic.tv/.
 
 h4. Garlic (Madrid, Spain)
 
