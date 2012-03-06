@@ -12,7 +12,7 @@ This week we’re looking at a handful of "SublimeVideo":http://sublimevideo.net
 
 Introducing part two of four: Garlic.
 
-<a href="http://garlic.tv" title="Visit garlic.tv"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/sublimevideo_garlic.jpg" alt="SublimeVideo on Garlic" /></a>
+<a href="http://garlic.tv" title="Visit garlic.tv"><img src="http://blog.medias.jilion.com/uploads/2012/02/sublimevideo_garlic.jpg" alt="SublimeVideo on Garlic" /></a>
 Visit "garlic.tv/":http://garlic.tv/.
 
 h4. Garlic (Madrid, Spain)
@@ -21,6 +21,6 @@ Garlic is a video production company in Madrid, Spain. They specialize in shooti
 
 Garlic’s site was built by graphic and web design agency "Pixel Studios":http://www.pixelstudios.es.
 
-<blockquote><p><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/02/victor_nunez_garlic.jpg" alt="Victor Núñez - Chief Programmer at Pixel Studios" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “We wanted to avoid building our own player implementation, and started an extensive search for the best HTML5 Video player on the market. After hours of testing and comparing the top solutions, we finally chose SublimeVideo Player for a variety of reasons. Specifically, the perfect cross-browser/platform compatibility and beautiful look and feel.”</p></blockquote>
+<blockquote><p><img src="http://blog.medias.jilion.com/uploads/2012/02/victor_nunez_garlic.jpg" alt="Victor Núñez - Chief Programmer at Pixel Studios" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “We wanted to avoid building our own player implementation, and started an extensive search for the best HTML5 Video player on the market. After hours of testing and comparing the top solutions, we finally chose SublimeVideo Player for a variety of reasons. Specifically, the perfect cross-browser/platform compatibility and beautiful look and feel.”</p></blockquote>
 
 p(quote_author). —Victor Núñez, Chief Programmer at Pixel Studios.
