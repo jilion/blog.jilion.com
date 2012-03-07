@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-03-06T16:18:27+01:00</updated>
+  <updated>2012-03-07T16:02:06+01:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -12,6 +12,36 @@
     <email>info@jilion.com</email>
   </author>
 
+  
+    <entry>
+      <title>So Loud Music</title>
+      <link href="http://blog.jilion.com/2012/03/07/sublimevideo-in-production-so-loud-music"/>
+      
+      <id>http://blog.jilion.com/2012/03/07/sublimevideo-in-production-so-loud-music</id>
+      
+      <updated>2012-03-07T00:00:00+01:00</updated>
+      <published>2012-03-07T00:00:00+01:00</published>
+      
+      <author>
+       <name>The Jilion Team</name>
+      </author>
+      
+      
+        <category scheme="http://blog.jilion.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+      
+        <category scheme="http://blog.jilion.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+      
+        <category scheme="http://blog.jilion.com/tags/sublimevideo-in-production" term="sublimevideo-in-production" label="SublimeVideo in Production"/>
+      
+      <content type="html">&lt;p&gt;This week we’re looking at a handful of &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; users in the professional media production industries. So far we’ve profiled &lt;a href=&quot;http://blog.jilion.com/2012/03/05/sublimevideo-in-production-wyld-stallyons&quot;&gt;Wyld Stallyons&lt;/a&gt; in the UK and &lt;a href=&quot;http://blog.jilion.com/2012/03/06/sublimevideo-in-production-garlic&quot;&gt;Garlic&lt;/a&gt; in Spain.&lt;/p&gt;
+&lt;p&gt;Introducing part three of four: So Loud Music.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.soloudmusic.com&quot; title=&quot;Visit soloudmusic.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/02/sublimevideo_so_loud_music.jpg&quot; alt=&quot;SublimeVideo on So Loud Music&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+Visit &lt;a href=&quot;http://www.soloudmusic.com&quot;&gt;soloudmusic.com&lt;/a&gt;.&lt;/p&gt;
+&lt;h4&gt;So Loud Music (New York City, &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;)&lt;/h4&gt;
+&lt;p&gt;So Loud Music is a music and sound design studio in New York City. So Loud’s team members have experience collaborating with a variety of well known artists and major labels, and now work with with clients including American Express, Canon, &lt;span class=&quot;caps&quot;&gt;BMW&lt;/span&gt;, Pepsi and Verizon.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/02/paul_riggio_so_loud_music.jpg&quot; alt=&quot;Paul Riggio - So Loud Music&quot; class=&quot;no_rounded&quot; style=&quot;float:left;margin:7px 22px 0 0&quot; /&gt; “Our clients review our work on a variety of platforms across multiple browsers. We needed a solution which would give our clients a consistent experience. We are in a creative business, and creating a consistent experience helps our clients to focus on our amazing music for advertising portfolio, instead of focusing on the technology.&lt;/p&gt;&lt;p&gt;The technology to implement a consistent web experience needs to be seamless, invisible, and work as expected&amp;#8230; Easier said than done.  When So Loud Music found SublimeVideo as a means to showcase our music portfolio, we knew we had our answer.  SublimeVideo has the solution we need to showcase the music that we create for video, while creating a consistent experience across all platforms.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p class=&quot;quote_author&quot;&gt;—Paul Riggio, So Loud Music.&lt;/p&gt;</content>
+    </entry>
   
     <entry>
       <title>Garlic</title>
