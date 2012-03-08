@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-03-07T16:02:06+01:00</updated>
+  <updated>2012-03-08T16:03:14+01:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -12,6 +12,37 @@
     <email>info@jilion.com</email>
   </author>
 
+  
+    <entry>
+      <title>Margaret Malandruccolo</title>
+      <link href="http://blog.jilion.com/2012/03/08/sublimevideo-in-production-margaret-malandruccolo"/>
+      
+      <id>http://blog.jilion.com/2012/03/08/sublimevideo-in-production-margaret-malandruccolo</id>
+      
+      <updated>2012-03-08T00:00:00+01:00</updated>
+      <published>2012-03-08T00:00:00+01:00</published>
+      
+      <author>
+       <name>The Jilion Team</name>
+      </author>
+      
+      
+        <category scheme="http://blog.jilion.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+      
+        <category scheme="http://blog.jilion.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
+      
+        <category scheme="http://blog.jilion.com/tags/sublimevideo-in-production" term="sublimevideo-in-production" label="SublimeVideo in Production"/>
+      
+      <content type="html">&lt;p&gt;This week we’ve looked at a handful of &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; users in the professional media production industries. We profiled &lt;a href=&quot;http://blog.jilion.com/2012/03/05/sublimevideo-in-production-wyld-stallyons&quot;&gt;Wyld Stallyons&lt;/a&gt; in the UK, &lt;a href=&quot;http://blog.jilion.com/2012/03/06/sublimevideo-in-production-garlic&quot;&gt;Garlic&lt;/a&gt; in Spain and &lt;a href=&quot;http://blog.jilion.com/2012/03/07/sublimevideo-in-production-so-loud-music&quot;&gt;So Loud Music&lt;/a&gt; in New York City.&lt;/p&gt;
+&lt;p&gt;Introducing part four of four: Margaret Malandruccolo.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mmfoto.com&quot; title=&quot;Visit mmfoto.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/02/sublimevideo_margaret_malandruccolo.jpg&quot; alt=&quot;SublimeVideo on Margaret Malandruccolo&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+Visit &lt;a href=&quot;http://mmfoto.com&quot;&gt;mmfoto.com&lt;/a&gt;.&lt;/p&gt;
+&lt;h4&gt;Margaret Malandruccolo (Los Angeles, &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;)&lt;/h4&gt;
+&lt;p&gt;Margaret is a professional photographer and director in Los Angeles, California. She’s worked with a range of well-known brands, musicians and publications including Nike, Canon, Toyota, Juliette Lewis, Queens of the Stone Age and Billboard Magazine.&lt;/p&gt;
+&lt;p&gt;Margaret’s site was developed by web designer and developer David Andrews (&lt;a href=&quot;http://www.madeofpixels.ca&quot;&gt;Made of Pixels&lt;/a&gt;).&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/02/margaret_malandruccolo.jpg&quot; alt=&quot;Margaret Malandruccolo&quot; class=&quot;no_rounded&quot; style=&quot;float:left;margin:7px 22px 0 0&quot; /&gt; “SublimeVideo ensured the player looked consistent across all browsers, including the HTML5 and Flash modes. We felt it was important not to detract from the surrounding content, so a player that looked different in various forms wasn&amp;#8217;t an option.&lt;/p&gt;&lt;p&gt;SublimeVideo&amp;#8217;s &lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt; was flexible enough to allow for the site&amp;#8217;s desired presentation of motion content, and worked seamlessly for both the Flash and HTML5 versions of the player. Other players had different ways to communicate with each implementation (Flash vs. HTML5), or they were still in beta.&lt;/p&gt;&lt;p&gt;Automatic updates meant the player always incorporated the latest enhancements and bug fixes, without the need to check for and replace an older version of the player on the site. This ensures users always get the latest version of the player, without any action on their part or ours.&lt;/p&gt;&lt;p&gt;Finally, it was dead simple to add video content to the site and have it work as needed, especially considering we use only one video instance for multiple thumbnails. Easy integration makes for happy programmers.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p class=&quot;quote_author&quot;&gt;—Margaret Malandruccolo / David Andrews (Made of Pixels).&lt;/p&gt;</content>
+    </entry>
   
     <entry>
       <title>So Loud Music</title>
