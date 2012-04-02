@@ -1,0 +1,24 @@
+---
+title: SublimeVideo Awarded “Most Promising Disruptive TV Start-up” at MIPCube Lab 2012
+title_html:  "<span>SublimeVideo Awarded “Most</span><span>Promising Disruptive TV Start-up”</span><span> at MIPCube Lab 2012</span>"
+authors: The Jilion Team
+layout: post
+tags:
+- SublimeVideo
+---
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/mipcube-logo.png" alt="MIPCube 2012" style="float:left;margin:35px 30px 20px 0" />
+We are now back from Cannes where the "MIPTV":http://www.mipworld.com/en/miptv/ content trade-show is currently underway.
+
+Last Saturday, we participated in "MIPCube Lab’s competition":http://www.mipworld.com/en/mipcube/competitions/, where ten startups from around the world involved in the fields of video or TV pitched to the MIPCube audience and the Jury composed of:
+
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/mipcube-jury.jpg" alt="MIPCube Lab Jury 2012" />
+
+"Anthony Rose":http://twitter.com/anthonyrose, Co-founder and CTO, "Zeebox":http://zeebox.com/.
+"Dr Ralph Eric Kunz":http://twitter.com/ralphekunz, Managing Director, "Catagonia Capital":http://www.catagonia.com.
+"Bobby Johnson":http://bobbiejohnson.org, European Correspondent, "GigaOm":http://gigaom.com.
+"Lisa Hsia":http://twitter.com/lisahsia, Executive Vice President, Digital Media, "Bravo":http://www.bravotv.com.
+"Olivier Ezratty":http://www.oezratty.net, Innovation strategies consulting, "Opinions Libres":http://www.oezratty.net/wordpress/.
+
+We are happy to report that SublimeVideo won the “Most Promising Disruptive TV Start-up” award!
+
+Our thanks naturally goes to the Jury, and we’d also like to thank the Reed MIDEM and MIPCube team for their hospitality and fantastic organization. Last but not least, congratulations to the other start-ups who participated for their enthusiasm and entrepreneurial spirit.
