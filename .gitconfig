@@ -9,11 +9,11 @@
   url   = git@github.com:jilion/blog.jilion.com.git
   fetch = +refs/heads/*:refs/remotes/origin/*
 [remote "production"]
-  url   = git@heroku.com:blogjilion.git
+  url   = git@heroku.com:jilion-blog.git
   fetch = +refs/heads/master:refs/remotes/production/master
   push  = master:master
 [remote "staging"]
-  url   = git@heroku.com:blogjilion-staging.git
+  url   = git@heroku.com:jilion-blog-staging.git
   fetch = +refs/heads/master:refs/remotes/staging/master
 
 [branch "master"]
