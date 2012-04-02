@@ -6,12 +6,12 @@ layout: post
 tags:
 - SublimeVideo
 ---
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/mipcube-logo.png" alt="MIPCube 2012" style="float:left;margin:35px 30px 20px 0" />
+<img src="http://blog.medias.jilion.com/uploads/2012/04/mipcube-logo.png" alt="MIPCube 2012" style="float:left;margin:35px 30px 20px 0" />
 We are now back from Cannes where the "MIPTV":http://www.mipworld.com/en/miptv/ content trade-show is currently underway.
 
 Last Saturday, we participated in "MIPCube Lab’s competition":http://www.mipworld.com/en/mipcube/competitions/, where ten startups from around the world involved in the fields of video or TV pitched to the MIPCube audience and the Jury composed of:
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/mipcube-jury.jpg" alt="MIPCube Lab Jury 2012" />
+<img src="http://blog.medias.jilion.com/uploads/2012/04/mipcube-jury.jpg" alt="MIPCube Lab Jury 2012" />
 
 "Anthony Rose":http://twitter.com/anthonyrose, Co-founder and CTO, "Zeebox":http://zeebox.com/.
 "Lisa Hsia":http://twitter.com/lisahsia, Executive Vice President, Digital Media, "Bravo":http://www.bravotv.com.
