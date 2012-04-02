@@ -6,6 +6,7 @@ layout: post
 tags:
 - SublimeVideo
 ---
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/mipcube-logo.png" alt="MIPCube 2012" style="float:left;margin:35px 30px 0 0" />
 On Saturday Mehdi presented SublimeVideo to a jury of television and media professionals in Cannes, France at "MIPCube Lab’s competition":http://www.mipworld.com/en/mipcube/competitions/mipcube-lab/ to discover the most promising “disruptive TV” start-up of 2012.
 
 We are humbled to have been awarded the MIPCube Lab Jury Prize! It is an honor for us to see SublimeVideo recognized by such prominent individuals, and we’d like to say thanks to both MIPCube Lab and the jury:
