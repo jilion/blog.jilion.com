@@ -1,15 +1,15 @@
 ---
 title: Vivendi awards SublimeVideo its “Coup de coeur” Prize at MIPCube Lab 2012
-title_html:  "<span>Vivendi awards SublimeVideo</span><span>its “Coup de coeur” Prize</span><span> at MIPCube Lab 2012</span>"
+title_html:  "<span>Vivendi awards SublimeVideo</span> <span>its “Coup de coeur” Prize</span> <span> at MIPCube Lab 2012</span>"
 authors: The Jilion Team
 layout: post
 tags:
 - SublimeVideo
 ---
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/vivendi-logo.png" alt="Vivendi - “Coup de coeur” Prize 2012" style="float:left;margin:35px 30px 0 0" />
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/vivendi-logo.png" alt="Vivendi - “Coup de coeur” Prize 2012" style="float:left;margin:40px 25px 0 0" />
 Over the weekend at MIPCube Lab, in addition to "winning the “Most Promising Disruptive TV Start-up” award":http://blog.jilion.com/2012/04/02/sublimevideo-awarded-most-promising-disruptive-tv-start-up-at-mipcube-lab-2012, *SublimeVideo was also "awarded Vivendi’s “Coup de Couer” Prize":http://www.vivendi.com/vivendi/MIPCube-Vivendi-awards-its-Coup-de!*
 
-As the global sponsor of MIPCube and one of the world’s leading media companies (Activision Blizzard, Universal Music Group, SFR, etc.), ["Vivendi":http://www.vivendi.com]'s support means a great deal to us.
+As the global sponsor of MIPCube and one of the world’s leading media companies (Groupe Canal+, Activision Blizzard, Universal Music Group, SFR, etc.), ["Vivendi":http://www.vivendi.com]'s support means a great deal to us.
 
 We’d like to express our gratitude to Vivendi and its jury:
 
