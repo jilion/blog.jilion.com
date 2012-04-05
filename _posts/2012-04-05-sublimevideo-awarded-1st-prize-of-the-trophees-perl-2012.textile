@@ -13,7 +13,7 @@ Last night the team attended the Awards Ceremony for the “Trophées PERL 2012 
 
 The “Trophées PERL” Prize is held annually to discover companies working on the four most innovative projects in our home region. The 2012 ceremony was especially significant as it marked the competition’s tenth year.
 
-We’d like to express our gratitude to the jury and the PERL team for a really nice evening and congratulate all of the other startups who participated. The jury was composed of:
+We’d like to express our gratitude to the jury, the Lausanne Region association and its team for a really nice evening and congratulate all of the other startups who participated. The jury was composed of:
 
 <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/perl-jury-2012.jpg" alt="PERL - Jury 2012" />
 
