@@ -17,7 +17,7 @@ We’d like to express our gratitude to the jury and the PERL team for a really 
 
 <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/perl-jury-2012.jpg" alt="PERL - Jury 2012" />
 
-* Mr. Daniel Brélaz, Mayor of Lausanne
+* Mr. Daniel Brélaz, Mayor of Lausanne.
 * Mrs. Maia Wentland Forte, Vice President of The University of Lausanne.
 * Mrs. Katarzyna Gornik, Journalist at “24 Heures”.
 * Mr. Michel Berney, President, SIC.
