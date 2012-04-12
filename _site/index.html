@@ -11,12 +11,7 @@
     
 
     
-    <!--[if (!IE)|(gte IE 8)]><!-->
-    <link href="http://blog.medias.jilion.com/04052012124753/assets/style-datauri.css" media="all" rel="stylesheet" type="text/css" />
-    <!--<![endif]-->
-    <!--[if lte IE 7]>
-    <link href="http://blog.medias.jilion.com/04052012124753/assets/style-mhtml.css" media="all" rel="stylesheet" type="text/css" />
-    <![endif]-->
+      <link href="/stylesheets/style.css" media="all" rel="stylesheet" type="text/css" />
     
     <link rel="alternate" type="application/rss+xml" title="Jilion Blog" href="http://feeds.feedburner.com/jilion" />
     <link rel="shortcut icon" href="http://blog.medias.jilion.com/favicon.ico" type="image/x-icon" />
@@ -103,15 +98,63 @@
       
         <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
       
-      <h2 id="post_2012040512012" style=""><a href="http://blog.jilion.com/2012/04/05/sublimevideo-awarded-1st-prize-of-the-trophees-perl-2012"><span>SublimeVideo Awarded 1st Prize</span> <span>of the “Trophées PERL 2012”</span></a></h2>
+      <h2 id="post_20120413" style=""><a href="http://localhost:4000/2012/04/13/introducing-the-sublimevideo-video-code-generator/"><span>Introducing The SublimeVideo</span> <span>Video Code Generator</span></a></h2>
+      
+    </div>
+    <div class="entry_meta">
+      <span class="date">April 13th, 2012</span>
+      <span class="authors">by The Jilion Team</span>
+      <div class="entry_comments_count" id="entry_comments_count_20120413">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/04/13/introducing-the-sublimevideo-video-code-generator/" data-text="Introducing The SublimeVideo Video Code Generator —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/04/13/introducing-the-sublimevideo-video-code-generator/#disqus_thread">
+          Comments
+        </a> -->
+      </div>
+    </div>
+  </div>
+  <div class="entry_body">
+    <p><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/video-code-generator-icon.png" alt="SublimeVideo - Video Code Generator" style="float:left;margin:-24px 0 -20px -21px" /> SublimeVideo’s new Video Code Generator lets our users easily create properly configured &lt;video&gt; elements that are automatically optimized for SublimeVideo.</p>
+<p>Ever since we first launched the SublimeVideo Beta, the main cause of integration issues encountered by our users has been the problems they run into when creating their own &lt;video&gt; elements.</p>
+<p>We designed the Video Code Generator to streamline this process, and are pleased to announce that it is <strong>available now to all SublimeVideo users</strong> directly from their &#8216;My Sites&#8217; page.</p>
+<p>We&#8217;ve also created a <a href="https://my.sublimevideo.net/video-code-generator">public version</a> of the Code Generator, so that <strong>anybody can quickly and easily test SublimeVideo Player with their own video assets</strong>.</p>
+<p><em>Please note that the Video Code Generator requires a modern browser that supports HTML5. We recommend using the latest version of Chrome, Safari, Firefox, Opera or IE9.</em></p>
+<p><a href="https://my.sublimevideo.net/video-code-generator"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/video-code-generator-live-demo.jpg" alt="SublimeVideo - Video Code Generator - Live Demo" /></a></p>
+<h4>Using the Video Code Generator</h4>
+<p>To use the Code Generator, simply select the type of player implementation you need (Standard, Lightbox or Iframe Embed) and enter the URLs of your video assets. The live preview shows you exactly how your video will look in SublimeVideo Player. </p>
+<p>Existing users just need to copy the generated code and paste it into the page(s) on their site where they want to add video. Non-registered users who like what they see can quickly <a href="http://sublimevideo.net/plans">sign up</a> for one of our free or paid plans and add SublimeVideo to their site in minutes.</p>
+<h4>Under the hood</h4>
+<p>SublimeVideo’s Video Code Generator includes some powerful features to assist users in resolving common problems they may face when creating their own &lt;video&gt; elements:</p>
+<h4>1. Incorrectly configured <span class="caps">MIME</span> Types</h4>
+<p>If a source is hosted and served with the incorrect <span class="caps">MIME</span> Type, the video simply won’t play.</p>
+<p>The Video Code Generator automatically detects the video source’s <span class="caps">MIME</span> Type and informs the user if their Web server needs to be reconfigured.</p>
+<h4>2. Incorrectly configured &lt;video&gt; elements</h4>
+<p>A common example of a &lt;video&gt; element being configured incorrectly would be when its width or height values don’t retain the source’s aspect ratio, resulting in black bars (letterboxes/pillarboxes) around the video.</p>
+<p>The Video Code Generator detects the original size and aspect ratio of the source file(s) and automatically provides the user with correctly proportioned width and height values. It also fixes other common configuration issues including incorrect ordering of the &lt;source&gt; elements and ensuring a &lt;source&gt;’s type attribute is set to the right value.</p>
+<h4>3. Malformed &lt;video&gt; code</h4>
+<p>It’s common to see the &lt;video&gt; code formatted incorrectly. For example, being split across multiple lines or missing small elements of the code itself.</p>
+<p>The Video Code Generator always generates properly formatted &lt;video&gt; elements, so our users no longer have to worry about formatting details.</p>
+<h4>Optimized for SublimeVideo</h4>
+<p><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/sublimevideo-seal-of-approval.png" alt="SublimeVideo - Seal Of Approval" style="float:left;margin:5px 20px 0 0" /> In addition to helping users resolve these issues, the Video Code Generator also helps them set up SublimeVideo-specific features such as Lightboxes, HD Switching, Embeds and video metadata to optimize their videos for SublimeVideo’s Universal, Real-Time Statistics platform.</p>
+<p>We hope this feature will make it even easier for people to enable HTML5 Video on their sites with SublimeVideo. Let us know what you think in the comments or on the <a href="http://getsatisfaction.com/sublimevideo">SublimeVideo Community Forum</a>.</p>
+    <div class="spacer"></div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry_header">
+    <div class="entry_title">
+      
+        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
+      
+      <h2 id="post_2012040512012" style=""><a href="http://localhost:4000/2012/04/05/sublimevideo-awarded-1st-prize-of-the-trophees-perl-2012/"><span>SublimeVideo Awarded 1st Prize</span> <span>of the “Trophées PERL 2012”</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">April 5th, 2012</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_2012040512012">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2012/04/05/sublimevideo-awarded-1st-prize-of-the-trophees-perl-2012" data-text="SublimeVideo Awarded 1st Prize of the “Trophées PERL 2012” —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2012/04/05/sublimevideo-awarded-1st-prize-of-the-trophees-perl-2012#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/04/05/sublimevideo-awarded-1st-prize-of-the-trophees-perl-2012/" data-text="SublimeVideo Awarded 1st Prize of the “Trophées PERL 2012” —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/04/05/sublimevideo-awarded-1st-prize-of-the-trophees-perl-2012/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -145,15 +188,15 @@ It’s been a special week for us, first with SublimeVideo being awarded both th
       
         <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
       
-      <h2 id="post_201204032012" style=""><a href="http://blog.jilion.com/2012/04/03/vivendi-awards-sublimevideo-its-coup-de-coeur-prize-at-mipcube-lab-2012"><span>Vivendi awards SublimeVideo</span> <span>its “Coup de Coeur” Prize</span> <span> at MIPCube Lab 2012</span></a></h2>
+      <h2 id="post_201204032012" style=""><a href="http://localhost:4000/2012/04/03/vivendi-awards-sublimevideo-its-coup-de-coeur-prize-at-mipcube-lab-2012/"><span>Vivendi awards SublimeVideo</span> <span>its “Coup de Coeur” Prize</span> <span> at MIPCube Lab 2012</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">April 3rd, 2012</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_201204032012">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2012/04/03/vivendi-awards-sublimevideo-its-coup-de-coeur-prize-at-mipcube-lab-2012" data-text="Vivendi awards SublimeVideo its “Coup de Coeur” Prize at MIPCube Lab 2012 —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2012/04/03/vivendi-awards-sublimevideo-its-coup-de-coeur-prize-at-mipcube-lab-2012#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/04/03/vivendi-awards-sublimevideo-its-coup-de-coeur-prize-at-mipcube-lab-2012/" data-text="Vivendi awards SublimeVideo its “Coup de Coeur” Prize at MIPCube Lab 2012 —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/04/03/vivendi-awards-sublimevideo-its-coup-de-coeur-prize-at-mipcube-lab-2012/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -182,15 +225,15 @@ Over the weekend at MIPCube Lab, in addition to <a href="http://blog.jilion.com/
       
         <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
       
-      <h2 id="post_201204022012" style=""><a href="http://blog.jilion.com/2012/04/02/sublimevideo-awarded-most-promising-disruptive-tv-start-up-at-mipcube-lab-2012"><span>SublimeVideo Awarded “Most</span><span>Promising Disruptive TV Start-up”</span><span> at MIPCube Lab 2012</span></a></h2>
+      <h2 id="post_201204022012" style=""><a href="http://localhost:4000/2012/04/02/sublimevideo-awarded-most-promising-disruptive-tv-start-up-at-mipcube-lab-2012/"><span>SublimeVideo Awarded “Most</span><span>Promising Disruptive TV Start-up”</span><span> at MIPCube Lab 2012</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">April 2nd, 2012</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_201204022012">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2012/04/02/sublimevideo-awarded-most-promising-disruptive-tv-start-up-at-mipcube-lab-2012" data-text="SublimeVideo Awarded “Most Promising Disruptive TV Start-up” at MIPCube Lab 2012 —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2012/04/02/sublimevideo-awarded-most-promising-disruptive-tv-start-up-at-mipcube-lab-2012#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/04/02/sublimevideo-awarded-most-promising-disruptive-tv-start-up-at-mipcube-lab-2012/" data-text="SublimeVideo Awarded “Most Promising Disruptive TV Start-up” at MIPCube Lab 2012 —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/04/02/sublimevideo-awarded-most-promising-disruptive-tv-start-up-at-mipcube-lab-2012/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -218,15 +261,15 @@ We are now back from Cannes where the <a href="http://www.mipworld.com/en/miptv/
       
         <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
       
-      <h2 id="post_20120331" style=""><a href="http://blog.jilion.com/2012/03/31/welcoming-twit-tv-to-the-sublimevideo-community"><span>Welcoming TWiT.tv to</span> <span>The SublimeVideo Community</span></a></h2>
+      <h2 id="post_20120331" style=""><a href="http://localhost:4000/2012/03/31/welcoming-twit-tv-to-the-sublimevideo-community/"><span>Welcoming TWiT.tv to</span> <span>The SublimeVideo Community</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">March 31st, 2012</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_20120331">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2012/03/31/welcoming-twit-tv-to-the-sublimevideo-community" data-text="Welcoming TWiT.tv to The SublimeVideo Community —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2012/03/31/welcoming-twit-tv-to-the-sublimevideo-community#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/03/31/welcoming-twit-tv-to-the-sublimevideo-community/" data-text="Welcoming TWiT.tv to The SublimeVideo Community —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/03/31/welcoming-twit-tv-to-the-sublimevideo-community/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -248,15 +291,15 @@ We are now back from Cannes where the <a href="http://www.mipworld.com/en/miptv/
       
         <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo in Production</a>
       
-      <h2 id="post_20120308" style=""><a href="http://blog.jilion.com/2012/03/08/sublimevideo-in-production-margaret-malandruccolo"><span>Margaret Malandruccolo</span></a></h2>
+      <h2 id="post_20120308" style=""><a href="http://localhost:4000/2012/03/08/sublimevideo-in-production-margaret-malandruccolo/"><span>Margaret Malandruccolo</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">March 8th, 2012</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_20120308">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2012/03/08/sublimevideo-in-production-margaret-malandruccolo" data-text="Margaret Malandruccolo —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2012/03/08/sublimevideo-in-production-margaret-malandruccolo#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/03/08/sublimevideo-in-production-margaret-malandruccolo/" data-text="Margaret Malandruccolo —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/03/08/sublimevideo-in-production-margaret-malandruccolo/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -282,15 +325,15 @@ Visit <a href="http://mmfoto.com">mmfoto.com</a>.</p>
       
         <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo in Production</a>
       
-      <h2 id="post_20120307" style=""><a href="http://blog.jilion.com/2012/03/07/sublimevideo-in-production-so-loud-music"><span>So Loud Music</span></a></h2>
+      <h2 id="post_20120307" style=""><a href="http://localhost:4000/2012/03/07/sublimevideo-in-production-so-loud-music/"><span>So Loud Music</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">March 7th, 2012</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_20120307">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2012/03/07/sublimevideo-in-production-so-loud-music" data-text="So Loud Music —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2012/03/07/sublimevideo-in-production-so-loud-music#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/03/07/sublimevideo-in-production-so-loud-music/" data-text="So Loud Music —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/03/07/sublimevideo-in-production-so-loud-music/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -315,15 +358,15 @@ Visit <a href="http://www.soloudmusic.com">soloudmusic.com</a>.</p>
       
         <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo in Production</a>
       
-      <h2 id="post_20120306" style=""><a href="http://blog.jilion.com/2012/03/06/sublimevideo-in-production-garlic"><span>Garlic</span></a></h2>
+      <h2 id="post_20120306" style=""><a href="http://localhost:4000/2012/03/06/sublimevideo-in-production-garlic/"><span>Garlic</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">March 6th, 2012</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_20120306">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2012/03/06/sublimevideo-in-production-garlic" data-text="Garlic —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2012/03/06/sublimevideo-in-production-garlic#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/03/06/sublimevideo-in-production-garlic/" data-text="Garlic —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/03/06/sublimevideo-in-production-garlic/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -349,15 +392,15 @@ Visit <a href="http://garlic.tv/">garlic.tv</a>.</p>
       
         <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo in Production</a>
       
-      <h2 id="post_20120305" style=""><a href="http://blog.jilion.com/2012/03/05/sublimevideo-in-production-wyld-stallyons"><span>Wyld Stallyons</span></a></h2>
+      <h2 id="post_20120305" style=""><a href="http://localhost:4000/2012/03/05/sublimevideo-in-production-wyld-stallyons/"><span>Wyld Stallyons</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">March 5th, 2012</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_20120305">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2012/03/05/sublimevideo-in-production-wyld-stallyons" data-text="Wyld Stallyons —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2012/03/05/sublimevideo-in-production-wyld-stallyons#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/03/05/sublimevideo-in-production-wyld-stallyons/" data-text="Wyld Stallyons —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/03/05/sublimevideo-in-production-wyld-stallyons/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -382,15 +425,15 @@ Visit <a href="http://www.wyldstallyons.com">wyldstallyons.com</a>.</p>
       
         <a href='/tags/sublimevideo-showcase' class="tag_link">SublimeVideo Showcase</a>
       
-      <h2 id="post_20120221" style=""><a href="http://blog.jilion.com/2012/02/21/sublimevideo-showcase-vdmx-professional-vj-software"><span>VDMX - Professional VJ Software</span></a></h2>
+      <h2 id="post_20120221" style=""><a href="http://localhost:4000/2012/02/21/sublimevideo-showcase-vdmx-professional-vj-software/"><span>VDMX - Professional VJ Software</span></a></h2>
       
     </div>
     <div class="entry_meta">
       <span class="date">February 21st, 2012</span>
       <span class="authors">by The Jilion Team</span>
       <div class="entry_comments_count" id="entry_comments_count_20120221">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2012/02/21/sublimevideo-showcase-vdmx-professional-vj-software" data-text="VDMX - Professional VJ Software —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2012/02/21/sublimevideo-showcase-vdmx-professional-vj-software#disqus_thread">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://localhost:4000/2012/02/21/sublimevideo-showcase-vdmx-professional-vj-software/" data-text="VDMX - Professional VJ Software —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <!-- <a href="http://localhost:4000/2012/02/21/sublimevideo-showcase-vdmx-professional-vj-software/#disqus_thread">
           Comments
         </a> -->
       </div>
@@ -405,55 +448,6 @@ Visit <a href="http://www.wyldstallyons.com">wyldstallyons.com</a>.</p>
 <p>Former <span class="caps">VIDVOX</span> co-manager Jack Turner’s design agency <a href="http://jackadam.net">jackadam</a> produced the website for <span class="caps">VDMX</span> and <span class="caps">VIDVOX</span>. They chose SublimeVideo to showcase a variety of high-quality videos of <span class="caps">VDMX</span> in action, ranging from live audiovisual performances to motion graphics and segments of animated work produced with the software.</p>
 <blockquote><p><img src="http://blog.medias.jilion.com/uploads/2012/02/jack_turner_vidvox.jpg" alt="Lester Nelson - Ferdinand Center for the Creative" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “SublimeVideo was absolutely crucial in pulling off the video gallery on <span class="caps">VIDVOX</span>.net for a multitude of reasons. Being able to control how the videos were compressed was a requirement from the get-go. Video art &amp; concert video tends to involve a lot of quick cuts, fast motion and/or stroboscopic effects and all of these require carefully tuned compression-settings to keep the video from becoming “artifact salad”. If we had gone with a hosted video service, many of these videos would have just looked like total mush. Video art and hosted video services just don&#8217;t mix well.</p><p>We also required something that had an easy to use JavaScript <span class="caps">API</span> &#8211; mucking directly with &lt;video&gt; elements would have consumed an unfathomable amount of development time. With SublimeVideo it only took a couple of lines of JS to create a video player when the lights go down, and one more line to destroy it when you return to the rest of the site.</p><p>HD support and stats didn&#8217;t even exist when we started the site but we quickly integrated both of these. Getting new features and expanded browser continuously is a godsend when dealing with something like video on the web.”</p></blockquote>
 <p class="quote_author">—Jack Turner, jackadam.</p>
-    <div class="spacer"></div>
-  </div>
-</div>
-
-<div class="entry">
-  <div class="entry_header">
-    <div class="entry_title">
-      
-        <a href='/tags/Liquid error: undefined method `gsub' for nil:NilClass' class="tag_link"></a>
-      
-      <h2 id="post_20120215" style=""><a href="http://blog.jilion.com/2012/02/15/a-closer-look-at-sublimevideo-s-universal-real-time-statistics"><span>A Closer Look at SublimeVideo’s</span> <span>Universal Real-Time Statistics</span></a></h2>
-      
-    </div>
-    <div class="entry_meta">
-      <span class="date">February 15th, 2012</span>
-      <span class="authors">by The Jilion Team</span>
-      <div class="entry_comments_count" id="entry_comments_count_20120215">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jilion.com/2012/02/15/a-closer-look-at-sublimevideo-s-universal-real-time-statistics" data-text="A Closer Look at SublimeVideo’s Universal Real-Time Statistics —" data-count="horizontal" data-via="Jilion" data-related="jilion:Follow @Jilion to be notified about other Jilion products!">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        <!-- <a href="http://blog.jilion.com/2012/02/15/a-closer-look-at-sublimevideo-s-universal-real-time-statistics#disqus_thread">
-          Comments
-        </a> -->
-      </div>
-    </div>
-  </div>
-  <div class="entry_body">
-    <p>We recently introduced a <a href="http://blog.jilion.com/2011/11/29/sublimevideo-unleashed">major update to SublimeVideo</a>. The biggest new feature added to the service was our Universal, Real-Time Statistics platform.</p>
-<p>SublimeVideo&#8217;s statistics platform is the first to offer a truly <strong>comprehensive, real-time overview of your site&#8217;s video traffic from any device, whether generated from mobile or desktop, HTML5 or Flash</strong>.</p>
-<p>We’ve prepared a <a href="https://my.sublimevideo.net/sites/stats/demo">live demo</a> of our Real-Time Statistics dashboard so you can try it out for yourself. Please note that the demo requires a modern browser that supports HTML5. We recommend using the latest version of Chrome, Safari, Firefox, Opera or IE9.</p>
-<p><a href="https://my.sublimevideo.net/sites/stats/demo"><img src="http://blog.medias.jilion.com/uploads/2012/02/sublimevideo-integrated-real-time-statistics-demo.jpg" alt="SublimeVideo Universal Real-Time Statistics" /></a><br />
-<em class="caption">Check out the live demo.</em></p>
-<h4>Real-Time &amp; Universal</h4>
-<p>SublimeVideo gives our users instant access to a range of statistics about their videos, all in <strong>real-time</strong>. This simply wouldn&#8217;t be possible without SublimeVideo&#8217;s cloud-based infrastructure.</p>
-<p>In addition, SublimeVideo Player reports consistent statistics from all platforms (HTML5 and Flash on both desktop and mobile). Because of this, we&#8217;re able to collect data from all devices and present a comprehensive, <strong>universal</strong> overview of a user’s site&#8217;s video traffic. This is increasingly important as the web transitions to HTML5 and more people access content from different platforms and devices.</p>
-<div style="margin-bottom:30px" ><video class="sublime" width="600" height="338" poster="http://media.jilion.com/videos/sublimevideo-real-time-statistics.jpg" preload="none" data-sublime-settings="initial-overlay:none" data-uid="real-time-stats" data-name="Real-Time Statistics"><br />
-<source src="http://media.jilion.com/videos/sublimevideo-real-time-statistics-720p.mp4" data-quality="hd" /><br />
-<source src="http://media.jilion.com/videos/sublimevideo-real-time-statistics-360p.mp4" /><br />
-<source src="http://media.jilion.com/videos/sublimevideo-real-time-statistics-720p.webm" data-quality="hd" /><br />
-<source src="http://media.jilion.com/videos/sublimevideo-real-time-statistics-360p.webm" /></video></div>
-<p class="hide"><small><em class="caption">If you are reading through your <span class="caps"><span class="caps">RSS</span></span> reader, please visit this <a href="http://blog.jilion.com/2012/02/15/a-closer-look-at-sublimevideo-s-universal-real-time-statistics">web page</a> on the browser to watch the video.</em></small></p>
-<p>You can find more information on our <a href="http://docs.sublimevideo.net/real-time-stats">documentation page</a>.</p>
-<h4>Under the hood</h4>
-<p>We built a sophisticated architecture to power SublimeVideo’s Real-Time Statistics; SublimeVideo Player &#8216;reports&#8217; every load / play. Then, every 60 seconds, our <a href="http://heroku.com">Heroku</a>-hosted <a href="http://rubyonrails.org">Rails</a> backend workers parse and separate statistics logs by time period (days / hours / minutes), before storing them in a <a href="http://www.mongodb.org">MongoDB</a> database.</p>
-<p>These stats are then displayed on the user&#8217;s stats dashboard (which is implemented using Rails, <a href="http://documentcloud.github.com/backbone/">Backbone.js</a> and <a href="http://coffeescript.org">CoffeeScript</a>). The graphs automatically refresh themselves every 60 seconds, so there&#8217;s no need to manually refresh the page.</p>
-<p>We use a different setup for stats from the last 60 seconds (available only with paid plans); here, SublimeVideo Player ‘reports’ plays / loads to our Ruby async server (<a href="http://cramp.in">Cramp</a>), also hosted on Heroku.</p>
-<p>Plays and loads over the last 60 seconds are stored on the same MongoDB database and pushed directly &#8211; in real time &#8211; to the user’s stats dashboard via <a href="http://pusher.com">Pusher</a>. Keeping the period covering the last 60 seconds in sync everywhere was a nice technical challenge; we created a tiny &#8216;ticker&#8217; app, which pushes each second via a public Pusher channel.</p>
-<p>Real-Time Statistics are available with our Plus and Premium paid plans, while Standard statistics for the last 24 hours are available with our new, Free &amp; Unlimited plan.</p>
-<h4>Tell us what you want next</h4>
-<p>With the first version of our player-integrated statistics we&#8217;ve laid the foundations for more features to come.</p>
-<p>Please share your comments and suggestions about how you think we can improve our statistics platform on this <a href="http://getsatisfaction.com/sublimevideo/topics/comments_suggestions_for_sublimevideos_real_time_statistics_platform">SublimeVideo Community Forum thread</a>.</p>
     <div class="spacer"></div>
   </div>
 </div>
