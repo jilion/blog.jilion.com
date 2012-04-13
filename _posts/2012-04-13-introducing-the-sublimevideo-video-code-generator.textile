@@ -8,9 +8,7 @@ tags:
 ---
 <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/video-code-generator-icon.png" alt="SublimeVideo - Video Code Generator" style="float:left;margin:-24px 0 -20px -21px" /> SublimeVideo’s new Video Code Generator lets our users easily create properly configured &lt;video&gt; elements that are automatically optimized for SublimeVideo.
 
-Ever since we first launched the SublimeVideo Beta, the main cause of integration issues encountered by our users has been the problems they run into when creating their own &lt;video&gt; elements.
-
-We designed the Video Code Generator to streamline this process, and are pleased to announce that it is *available now to all SublimeVideo users* directly from their 'My Sites' page.
+Many of the integration issues our users run into can be avoided if their &lt;video&gt; elements are properly formatted and configured. We designed the Video Code Generator to streamline this process, and are pleased to announce that it is available now to all SublimeVideo users directly from their 'My Sites' page.
 
 We've also created a "public version":https://my.sublimevideo.net/video-code-generator of the Code Generator, so that *anybody can quickly and easily test SublimeVideo Player with their own video assets*.
 
@@ -36,9 +34,9 @@ The Video Code Generator automatically detects the video source’s MIME Type an
 
 h4. 2. Incorrectly configured &lt;video&gt; elements
 
-A common example of a &lt;video&gt; element being configured incorrectly would be when its width or height values don’t retain the source’s aspect ratio, resulting in black bars (letterboxes/pillarboxes) around the video.
+A common example of a &lt;video&gt; element being configured incorrectly would be when its width or height values don’t retain the source’s aspect ratio, resulting in a letterboxed/pillarboxed player (black bars around the video).
 
-The Video Code Generator detects the original size and aspect ratio of the source file(s) and automatically provides the user with correctly proportioned width and height values. It also fixes other common configuration issues including incorrect ordering of the &lt;source&gt; elements and ensuring a &lt;source&gt;’s type attribute is set to the right value.
+The Video Code Generator detects the original size and aspect ratio of the source file(s) and automatically provides the user with correctly proportioned width and height values. It also fixes other common configuration issues such as incorrect ordering of the &lt; source&gt; elements.
 
 h4. 3. Malformed &lt;video&gt; code
 
@@ -48,6 +46,6 @@ The Video Code Generator always generates properly formatted &lt;video&gt; eleme
 
 h4. Optimized for SublimeVideo
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/sublimevideo-seal-of-approval.png" alt="SublimeVideo - Seal Of Approval" style="float:left;margin:5px 20px 0 0" /> In addition to helping users resolve these issues, the Video Code Generator also helps them set up SublimeVideo-specific features such as Lightboxes, HD Switching, Embeds and video metadata to optimize their videos for SublimeVideo’s Universal, Real-Time Statistics platform. 
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/sublimevideo-seal-of-approval.png" alt="SublimeVideo Optimized" style="float:left;margin:5px 20px 0 0" /> In addition to helping users resolve these issues, the Video Code Generator also helps them set up SublimeVideo-specific features such as Lightboxes, HD Switching, Embeds and video metadata to optimize their videos for our "Universal, Real-Time Statistics platform":http://blog.jilion.com/2012/02/15/a-closer-look-at-sublimevideo-s-universal-real-time-statistics.
 
 We hope this feature will make it even easier for people to enable HTML5 Video on their sites with SublimeVideo. Let us know what you think in the comments or on the "SublimeVideo Community Forum":http://getsatisfaction.com/sublimevideo.
