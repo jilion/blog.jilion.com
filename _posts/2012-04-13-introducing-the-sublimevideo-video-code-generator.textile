@@ -10,7 +10,7 @@ tags:
 
 Many of the integration issues our users run into can be avoided if their &lt;video&gt; elements are properly formatted and configured. We designed the Video Code Generator to streamline this process, and are pleased to announce that it is available now to all SublimeVideo users directly from their 'My Sites' page.
 
-We've also created a "public version":https://my.sublimevideo.net/video-code-generator of the Code Generator, so that *anybody can quickly and easily test SublimeVideo Player with their own video assets*.
+We've also created a "public version":https://my.sublimevideo.net/video-code-generator of the generator, so that *anybody can quickly and easily test SublimeVideo Player with their own video assets*.
 
 _Please note that the Video Code Generator requires a modern browser that supports HTML5. We recommend using the latest version of Chrome, Safari, Firefox, Opera or IE9._
 
@@ -18,7 +18,7 @@ _Please note that the Video Code Generator requires a modern browser that suppor
 
 h4. Using the Video Code Generator
 
-To use the Code Generator, simply select the type of player implementation you need (Standard, Lightbox or Iframe Embed) and enter the URLs of your video assets. The live preview shows you exactly how your video will look in SublimeVideo Player. 
+To use the generator, simply select the type of player implementation you need (Standard, Lightbox or Iframe Embed) and enter the URLs of your video assets. The live preview shows you exactly how your video will look in SublimeVideo Player. 
 
 Existing users just need to copy the generated code and paste it into the page(s) on their site where they want to add video. Non-registered users who like what they see can quickly "sign up":http://sublimevideo.net/plans for one of our free or paid plans and add SublimeVideo to their site in minutes.
 
