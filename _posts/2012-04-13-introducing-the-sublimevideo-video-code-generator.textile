@@ -46,6 +46,6 @@ The Video Code Generator always generates properly formatted &lt;video&gt; eleme
 
 h4. Optimized for SublimeVideo
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/sublimevideo-seal-of-approval.png" alt="SublimeVideo Optimized" style="float:left;margin:5px 20px 0 0" /> In addition to helping users resolve these issues, the Video Code Generator also helps them set up SublimeVideo-specific features such as Lightboxes, HD Switching, Embeds and video metadata to optimize their videos for our "Universal, Real-Time Statistics platform":http://blog.jilion.com/2012/02/15/a-closer-look-at-sublimevideo-s-universal-real-time-statistics.
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/sublimevideo-seal-of-approval.png" alt="SublimeVideo Optimized" style="float:left;margin:5px 20px 30px 0" /> In addition to helping users resolve these issues, the Video Code Generator also helps them set up SublimeVideo-specific features such as Lightboxes, HD Switching, Embeds and video metadata to optimize their videos for our "Universal, Real-Time Statistics platform":http://blog.jilion.com/2012/02/15/a-closer-look-at-sublimevideo-s-universal-real-time-statistics.
 
 We hope this feature will make it even easier for people to enable HTML5 Video on their sites with SublimeVideo. Let us know what you think in the comments or on the "SublimeVideo Community Forum":http://getsatisfaction.com/sublimevideo.
