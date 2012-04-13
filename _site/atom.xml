@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-04-13T11:47:10+02:00</updated>
+  <updated>2012-04-13T16:01:44+02:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -31,11 +31,11 @@
       
       <content type="html">&lt;p&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/video-code-generator-icon.png&quot; alt=&quot;SublimeVideo - Video Code Generator&quot; style=&quot;float:left;margin:-24px 0 -20px -21px&quot; /&gt; SublimeVideo’s new Video Code Generator lets our users easily create properly configured &amp;lt;video&amp;gt; elements that are automatically optimized for SublimeVideo.&lt;/p&gt;
 &lt;p&gt;Many of the integration issues our users run into can be avoided if their &amp;lt;video&amp;gt; elements are properly formatted and configured. We designed the Video Code Generator to streamline this process, and are pleased to announce that it is available now to all SublimeVideo users directly from their &amp;#8216;My Sites&amp;#8217; page.&lt;/p&gt;
-&lt;p&gt;We&amp;#8217;ve also created a &lt;a href=&quot;https://my.sublimevideo.net/video-code-generator&quot;&gt;public version&lt;/a&gt; of the Code Generator, so that &lt;strong&gt;anybody can quickly and easily test SublimeVideo Player with their own video assets&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;ve also created a &lt;a href=&quot;https://my.sublimevideo.net/video-code-generator&quot;&gt;public version&lt;/a&gt; of the generator, so that &lt;strong&gt;anybody can quickly and easily test SublimeVideo Player with their own video assets&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Please note that the Video Code Generator requires a modern browser that supports HTML5. We recommend using the latest version of Chrome, Safari, Firefox, Opera or IE9.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://my.sublimevideo.net/video-code-generator&quot;&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/video-code-generator-live-demo.jpg&quot; alt=&quot;SublimeVideo - Video Code Generator - Live Demo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h4&gt;Using the Video Code Generator&lt;/h4&gt;
-&lt;p&gt;To use the Code Generator, simply select the type of player implementation you need (Standard, Lightbox or Iframe Embed) and enter the URLs of your video assets. The live preview shows you exactly how your video will look in SublimeVideo Player. &lt;/p&gt;
+&lt;p&gt;To use the generator, simply select the type of player implementation you need (Standard, Lightbox or Iframe Embed) and enter the URLs of your video assets. The live preview shows you exactly how your video will look in SublimeVideo Player. &lt;/p&gt;
 &lt;p&gt;Existing users just need to copy the generated code and paste it into the page(s) on their site where they want to add video. Non-registered users who like what they see can quickly &lt;a href=&quot;http://sublimevideo.net/plans&quot;&gt;sign up&lt;/a&gt; for one of our free or paid plans and add SublimeVideo to their site in minutes.&lt;/p&gt;
 &lt;h4&gt;Under the hood&lt;/h4&gt;
 &lt;p&gt;SublimeVideo’s Video Code Generator includes some powerful features to assist users in resolving common problems they may face when creating their own &amp;lt;video&amp;gt; elements:&lt;/p&gt;
