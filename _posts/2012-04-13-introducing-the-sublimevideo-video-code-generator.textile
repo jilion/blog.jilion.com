@@ -8,7 +8,7 @@ tags:
 ---
 <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/video-code-generator-icon.png" alt="SublimeVideo - Video Code Generator" style="float:left;margin:-24px 0 -20px -21px" /> SublimeVideo’s new Video Code Generator lets our users easily create properly configured &lt;video&gt; elements that are automatically optimized for SublimeVideo.
 
-Many of the integration issues our users run into can be avoided if their &lt;video&gt; elements are properly formatted and configured. We designed the Video Code Generator to streamline this process, and are pleased to announce that it is available now to all SublimeVideo users directly from their 'My Sites' page.
+Most of the small integration issues our users sometimes run into can be avoided if their &lt;video&gt; elements are properly formatted and configured. We designed the Video Code Generator to streamline this process, and are pleased to announce that it is available now to all SublimeVideo users directly from their 'My Sites' page.
 
 We've also created a "public version":https://my.sublimevideo.net/video-code-generator of the generator, so that *anybody can quickly and easily test SublimeVideo Player with their own video assets*.
 
