@@ -36,7 +36,7 @@ h4. 2. Incorrectly configured &lt;video&gt; elements
 
 A common example of a &lt;video&gt; element being configured incorrectly would be when its width or height values don’t retain the source’s aspect ratio, resulting in a letterboxed/pillarboxed player (black bars around the video).
 
-The Video Code Generator detects the original size and aspect ratio of the source file(s) and automatically provides the user with correctly proportioned width and height values. It also fixes other common configuration issues such as incorrect ordering of the &lt; source&gt; elements.
+The Video Code Generator detects the original size and aspect ratio of the source file(s) and automatically provides the user with correctly proportioned width and height values. It also fixes other common configuration issues such as incorrect ordering of the &lt;source&gt; elements.
 
 h4. 3. Malformed &lt;video&gt; code
 
