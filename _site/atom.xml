@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-04-17T16:17:25+02:00</updated>
+  <updated>2012-04-17T16:27:03+02:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -44,7 +44,7 @@
 &lt;p&gt;The Video Code Generator automatically detects the video source’s &lt;span class=&quot;caps&quot;&gt;MIME&lt;/span&gt; Type and informs the user if their Web server needs to be reconfigured.&lt;/p&gt;
 &lt;h4&gt;2. Incorrectly configured &amp;lt;video&amp;gt; elements&lt;/h4&gt;
 &lt;p&gt;A common example of a &amp;lt;video&amp;gt; element being configured incorrectly would be when its width or height values don’t retain the source’s aspect ratio, resulting in a letterboxed/pillarboxed player (black bars around the video).&lt;/p&gt;
-&lt;p&gt;The Video Code Generator detects the original size and aspect ratio of the source file(s) and automatically provides the user with correctly proportioned width and height values. It also fixes other common configuration issues such as incorrect ordering of the &amp;lt; source&amp;gt; elements.&lt;/p&gt;
+&lt;p&gt;The Video Code Generator detects the original size and aspect ratio of the source file(s) and automatically provides the user with correctly proportioned width and height values. It also fixes other common configuration issues such as incorrect ordering of the &amp;lt;source&amp;gt; elements.&lt;/p&gt;
 &lt;h4&gt;3. Malformed &amp;lt;video&amp;gt; code&lt;/h4&gt;
 &lt;p&gt;It’s common to see the &amp;lt;video&amp;gt; code formatted incorrectly. For example, being split across multiple lines or missing small elements of the code itself.&lt;/p&gt;
 &lt;p&gt;The Video Code Generator always generates properly formatted &amp;lt;video&amp;gt; elements, so our users no longer have to worry about formatting details.&lt;/p&gt;
