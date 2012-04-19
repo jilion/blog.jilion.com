@@ -1,0 +1,24 @@
+---
+title: "Agency Profile: Wollzelle"
+title_html: "<span>Agency Profile: Wollzelle</span>"
+authors: The Jilion Team
+layout: post
+tags:
+- SublimeVideo
+- SublimeVideo Showcase
+---
+We’ve previously profiled organizations and individuals using SublimeVideo, and today we’d like to shine the spotlight on a digital agency who have chosen SublimeVideo as their video player of choice for both clients and their own work.
+
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/wollzelle-team.jpg" alt="Wollzelle Team" />
+
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/wollzelle-logo.png" alt="Wollzelle" class="no_rounded" style="float:left;margin:13px 24px 0 0" /> Originally founded in 1998 in Vienna as a non-profit artist's workshop, Wollzelle has evolved into a global agency offering branding, design and web development services to clients across Europe and the US. 
+
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/gucci-logo.png" alt="Gucci" class="no_rounded" style="float:right;margin:33px 0 22px 22px" /> Wollzelle have worked for global brands including "Gucci":http://www.guccitimeless.com - where they chose SublimeVideo to display the new Timeless watch and jewelry range, as well as a number of independent artists and companies such as German architectural firm "Raumkunst":http://raumkunst.at/de/projekte/ballsportkompetenzzentrum-klagenfurt. Wollzelle also develop and run their own online file management application, "Fluxiom":http://www.fluxiom.com, and a real-time image-processing service, ImageGeisha, in addition to maintaining white label back-end support services for third-party applications.
+
+Visit "wollzelle.com":http://www.wollzelle.com
+
+<blockquote><p><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/thomas-pamminger-wollzelle.jpg" alt="Thomas Pamminger, CEO/Chief Creative Officer, Wollzelle" class="no_rounded" style="float:left;margin:7px 22px 0 0" /> “We love pushing web technologies beyond their limits, by turning sites into immersive, highly interactive experiences. Our tools of choice are JavaScript, CSS and HTML, the very standards of the web. To help with development, we have coded and released open source tools that enable web developers everywhere to make a dent of their own in such a creative and competitive industry.</p><p>That means we have high standards, but that does not mean we want to reinvent the wheel: there is such a thing as building on the shoulders of giants. To us, SublimeVideo is one such giant: it puts great engineering at the service of original design. Practically speaking, it enables us to integrate rock-solid video capabilities into our sites and applications, safe in the knowledge they will work everywhere, so we can focus on what the video is about and what happens around it.</p><p>Because Jilion keeps an eye on the rapidly changing browser and plug-in landscape, we know our videos will keep playing, no matter what. That kind of surveillance is best centralised and entrusted to a specialist. The application's low-latency, high-availability platform is second to none and we know integrating SublimeVideo in our sites will not penalise end users by slowing down pages. SublimeVideo shares our commitments and blends into our code: what more could we ask for?”</p></blockquote>
+
+p(quote_author). —Thomas Pamminger, CEO/Chief Creative Officer, Wollzelle.
+
+
