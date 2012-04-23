@@ -7,16 +7,16 @@ tags:
 - SublimeVideo
 - SublimeVideo Showcase
 ---
-Today we’d like to profile a digital agency who’ve selected "SublimeVideo":http://sublimevideo.net as their video player of choice for both their own project and clients.
+Today we’d like to profile a digital agency who’ve selected "SublimeVideo":http://sublimevideo.net as their video player of choice for both clients and their own project.
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/gucci-logo.png" alt="Gucci" style="float:left;margin:4px 18px 0 0;" /> Since 2010, Wollzelle have worked closely with "Gucci":http://www.guccitimeless.com to create an engaging Web presence for their Timeless range. They chose SublimeVideo to display a selection of videos showcasing Gucci’s latest watches and jewelry throughout the site.
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/gucci-logo.png" alt="Gucci" style="float:left;margin:18px 38px 20px 0;" />Since 2010, Wollzelle have been working closely with "Gucci":http://www.guccitimeless.com to create an engaging Web presence for their Timeless range. They chose SublimeVideo to display a selection of videos showcasing Gucci’s latest watches and jewelry throughout the site.
 
 <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/gucci-timeless.jpg" alt="Gucci Timeless" /> 
 Visit "guccitimeless.com":http://www.guccitimeless.com/.
 
 Originally founded in 1998 in Vienna as a non-profit artist's workshop, Wollzelle has grown into a global agency offering branding, design and web development services to clients across Europe and the US.
 
-Alongside their work with Gucci and a number of independent artists, Wollzelle also run their own online file management application, "Fluxiom":http://www.fluxiom.com/, where they chose SublimeVideo to present a number of demo videos.
+Alongside their work with Gucci and a number of independent artists, Wollzelle also run their own online file management application, "Fluxiom":http://www.fluxiom.com/, where they chose SublimeVideo to present a range of demo videos.
 
 <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/wollzelle-team.jpg" alt="Wollzelle Team" />
 Visit "wollzelle.com":http://www.wollzelle.com.
