@@ -9,7 +9,7 @@ tags:
 ---
 Today we’d like to profile a digital agency who’ve selected "SublimeVideo":http://sublimevideo.net as their video player of choice for both clients and their own project.
 
-Wollzelle have been working closely with Gucci since 2006 and Gucci Timepieces & Jewelry since 2008 to create an engaging web presence for their brands. They chose SublimeVideo to display a selection of videos showcasing the latest timepieces and jewelry collections throughout their sites.
+Wollzelle have been working closely with Gucci since 2006 and Gucci Timepieces & Jewelry since 2008 to create an engaging web presence for their brands. They chose SublimeVideo to display a selection of videos showcasing the latest timepieces and jewelry collections across their sites.
 
 <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/gucci-timeless.jpg" alt="Gucci Timeless" /> 
 Visit "guccitimeless.com":http://www.guccitimeless.com.
