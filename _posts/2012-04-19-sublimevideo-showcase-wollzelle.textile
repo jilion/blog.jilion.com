@@ -1,6 +1,6 @@
 ---
-title: "Wollzelle + Gucci"
-title_html: "<span>Wollzelle + Gucci</span>"
+title: "Wollzelle"
+title_html: "<span>Wollzelle</span>"
 authors: The Jilion Team
 layout: post
 tags:
@@ -9,10 +9,10 @@ tags:
 ---
 Today we’d like to profile a digital agency who’ve selected "SublimeVideo":http://sublimevideo.net as their video player of choice for both clients and their own project.
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/gucci-logo.png" alt="Gucci" style="float:left;margin:18px 38px 20px 0;" />Since 2010, Wollzelle have been working closely with "Gucci":http://www.guccitimeless.com to create an engaging Web presence for their Timeless range. They chose SublimeVideo to display a selection of videos showcasing Gucci’s latest watches and jewelry throughout the site.
+Wollzelle have been working closely with Gucci since 2006 and Gucci Timepieces & Jewelry since 2008 to create an engaging web presence for their brands. They chose SublimeVideo to display a selection of videos showcasing the latest timepieces and jewelry collections throughout their sites.
 
 <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/gucci-timeless.jpg" alt="Gucci Timeless" /> 
-Visit "guccitimeless.com":http://www.guccitimeless.com/.
+Visit "guccitimeless.com":http://www.guccitimeless.com.
 
 Originally founded in 1998 in Vienna as a non-profit artist's workshop, Wollzelle has grown into a global agency offering branding, design and web development services to clients across Europe and the US.
 
