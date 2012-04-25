@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-04-24T10:23:14+02:00</updated>
+  <updated>2012-04-25T10:18:21+02:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -14,10 +14,10 @@
 
   
     <entry>
-      <title>Wollzelle + Gucci</title>
-      <link href="http://jilion-blog-staging.heroku.com/2012/04/19/sublimevideo-showcase-wollzelle-gucci"/>
+      <title>Wollzelle</title>
+      <link href="http://jilion-blog-staging.heroku.com/2012/04/19/sublimevideo-showcase-wollzelle"/>
       
-      <id>http://jilion-blog-staging.heroku.com/2012/04/19/sublimevideo-showcase-wollzelle-gucci</id>
+      <id>http://jilion-blog-staging.heroku.com/2012/04/19/sublimevideo-showcase-wollzelle</id>
       
       <updated>2012-04-19T00:00:00+02:00</updated>
       <published>2012-04-19T00:00:00+02:00</published>
@@ -32,9 +32,9 @@
         <category scheme="http://jilion-blog-staging.heroku.com/tags/sublimevideo-showcase" term="sublimevideo-showcase" label="SublimeVideo Showcase"/>
       
       <content type="html">&lt;p&gt;Today we’d like to profile a digital agency who’ve selected &lt;a href=&quot;http://sublimevideo.net&quot;&gt;SublimeVideo&lt;/a&gt; as their video player of choice for both clients and their own project.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/gucci-logo.png&quot; alt=&quot;Gucci&quot; style=&quot;float:left;margin:18px 38px 20px 0;&quot; /&gt;Since 2010, Wollzelle have been working closely with &lt;a href=&quot;http://www.guccitimeless.com&quot;&gt;Gucci&lt;/a&gt; to create an engaging Web presence for their Timeless range. They chose SublimeVideo to display a selection of videos showcasing Gucci’s latest watches and jewelry throughout the site.&lt;/p&gt;
+&lt;p&gt;Wollzelle have been working closely with Gucci since 2006 and Gucci Timepieces &amp;amp; Jewelry since 2008 to create an engaging web presence for their brands. They chose SublimeVideo to display a selection of videos showcasing the latest timepieces and jewelry collections throughout their sites.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/gucci-timeless.jpg&quot; alt=&quot;Gucci Timeless&quot; /&gt; &lt;br /&gt;
-Visit &lt;a href=&quot;http://www.guccitimeless.com/&quot;&gt;guccitimeless.com&lt;/a&gt;.&lt;/p&gt;
+Visit &lt;a href=&quot;http://www.guccitimeless.com&quot;&gt;guccitimeless.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Originally founded in 1998 in Vienna as a non-profit artist&amp;#8217;s workshop, Wollzelle has grown into a global agency offering branding, design and web development services to clients across Europe and the US.&lt;/p&gt;
 &lt;p&gt;Alongside their work with Gucci and a number of independent artists, Wollzelle also run their own online file management application, &lt;a href=&quot;http://www.fluxiom.com/&quot;&gt;Fluxiom&lt;/a&gt;, where they chose SublimeVideo to present a range of demo videos.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2012/04/wollzelle-team.jpg&quot; alt=&quot;Wollzelle Team&quot; /&gt;&lt;br /&gt;
