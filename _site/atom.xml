@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-04-17T16:27:03+02:00</updated>
+  <updated>2012-04-30T15:02:52+02:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -69,6 +69,8 @@
       
         <category scheme="http://blog.jilion.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
+        <category scheme="http://blog.jilion.com/tags/award" term="award" label="Award"/>
+      
       <content type="html">&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/04/trophee-perl-2012.png&quot; alt=&quot;Trophées PERL 2012 - Lausanne Région&quot; style=&quot;float:left;margin:36px 36px 0 0&quot; /&gt;&lt;br /&gt;
 It’s been a special week for us, first with SublimeVideo being awarded both the &lt;a href=&quot;http://blog.jilion.com/2012/04/02/sublimevideo-awarded-most-promising-disruptive-tv-start-up-at-mipcube-lab-2012&quot;&gt;MIPCube Lab Jury Prize&lt;/a&gt; and &lt;a href=&quot;http://blog.jilion.com/2012/04/03/vivendi-awards-sublimevideo-its-coup-de-coeur-prize-at-mipcube-lab-2012&quot;&gt;Vivendi’s “Coup de Coeur” Prize&lt;/a&gt; at MIPCube 2012 over the weekend.&lt;/p&gt;
 &lt;p&gt;Last night the team attended the Awards Ceremony for the “Trophées &lt;span class=&quot;caps&quot;&gt;PERL&lt;/span&gt; 2012 Entrepreneurship Prize for the Lausanne Region” and &lt;strong&gt;Jilion was awarded 1st Prize for SublimeVideo&lt;/strong&gt;.&lt;/p&gt;
@@ -104,6 +106,8 @@ It’s been a special week for us, first with SublimeVideo being awarded both th
       
         <category scheme="http://blog.jilion.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
+        <category scheme="http://blog.jilion.com/tags/award" term="award" label="Award"/>
+      
       <content type="html">&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/04/vivendi-logo-2012.png&quot; alt=&quot;Vivendi - “Coup de Coeur” Prize 2012&quot; style=&quot;float:left;margin:40px 25px 0 0&quot; /&gt;&lt;br /&gt;
 Over the weekend at MIPCube Lab, in addition to &lt;a href=&quot;http://blog.jilion.com/2012/04/02/sublimevideo-awarded-most-promising-disruptive-tv-start-up-at-mipcube-lab-2012&quot;&gt;winning the “Most Promising Disruptive TV Start-up” award&lt;/a&gt;, &lt;strong&gt;SublimeVideo was also &lt;a href=&quot;http://www.vivendi.com/vivendi/MIPCube-Vivendi-awards-its-Coup-de&quot;&gt;awarded Vivendi’s “Coup de Coeur” Prize&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;As the global sponsor of MIPCube and one of the world’s leading media companies (Groupe Canal+, Activision Blizzard, Universal Music Group, &lt;span class=&quot;caps&quot;&gt;SFR&lt;/span&gt;, etc.), &lt;a href=&quot;http://www.vivendi.com&quot;&gt;Vivendi&lt;/a&gt;&amp;#8217;s support means a great deal to us.&lt;/p&gt;
@@ -133,6 +137,8 @@ Over the weekend at MIPCube Lab, in addition to &lt;a href=&quot;http://blog.jil
       
       
         <category scheme="http://blog.jilion.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
+      
+        <category scheme="http://blog.jilion.com/tags/award" term="award" label="Award"/>
       
       <content type="html">&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/04/mipcube-logo.png&quot; alt=&quot;MIPCube 2012&quot; style=&quot;float:left;margin:35px 30px 20px 0&quot; /&gt;&lt;br /&gt;
 We are now back from Cannes where the &lt;a href=&quot;http://www.mipworld.com/en/miptv/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;MIPTV&lt;/span&gt;&lt;/a&gt; content trade-show is currently underway.&lt;/p&gt;
