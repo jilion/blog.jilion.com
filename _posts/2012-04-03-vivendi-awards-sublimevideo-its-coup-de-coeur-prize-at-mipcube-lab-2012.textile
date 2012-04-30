@@ -5,6 +5,7 @@ authors: The Jilion Team
 layout: post
 tags:
 - SublimeVideo
+- Award
 ---
 <img src="http://blog.medias.jilion.com/uploads/2012/04/vivendi-logo-2012.png" alt="Vivendi - “Coup de Coeur” Prize 2012" style="float:left;margin:40px 25px 0 0" />
 Over the weekend at MIPCube Lab, in addition to "winning the “Most Promising Disruptive TV Start-up” award":http://blog.jilion.com/2012/04/02/sublimevideo-awarded-most-promising-disruptive-tv-start-up-at-mipcube-lab-2012, *SublimeVideo was also "awarded Vivendi’s “Coup de Coeur” Prize":http://www.vivendi.com/vivendi/MIPCube-Vivendi-awards-its-Coup-de!*

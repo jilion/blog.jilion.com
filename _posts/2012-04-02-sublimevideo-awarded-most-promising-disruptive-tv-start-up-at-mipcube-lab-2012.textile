@@ -5,6 +5,7 @@ authors: The Jilion Team
 layout: post
 tags:
 - SublimeVideo
+- Award
 ---
 <img src="http://blog.medias.jilion.com/uploads/2012/04/mipcube-logo.png" alt="MIPCube 2012" style="float:left;margin:35px 30px 20px 0" />
 We are now back from Cannes where the "MIPTV":http://www.mipworld.com/en/miptv/ content trade-show is currently underway.
