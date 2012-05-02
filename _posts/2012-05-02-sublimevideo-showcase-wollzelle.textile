@@ -1,0 +1,26 @@
+---
+title: "Wollzelle"
+title_html: "<span>Wollzelle</span>"
+authors: The Jilion Team
+layout: post
+tags:
+- SublimeVideo
+- SublimeVideo Showcase
+---
+Today we’d like to profile a digital agency who’ve selected "SublimeVideo":http://sublimevideo.net as their video player of choice for both clients and their own project.
+
+Wollzelle have been working closely with Gucci since 2006 and Gucci Timepieces & Jewelry since 2008 to create an engaging web presence for their brands. They chose SublimeVideo to display a selection of videos showcasing the latest timepieces and jewelry collections across their sites.
+
+<img src="http://blog.medias.jilion.com/uploads/2012/04/gucci-timeless.jpg" alt="Gucci Timeless" /> 
+Visit "guccitimeless.com":http://www.guccitimeless.com.
+
+Originally founded in 1998 in Vienna as a non-profit artist's workshop, Wollzelle has grown into a global agency offering branding, design and web development services to clients across Europe and the US.
+
+Alongside their work with Gucci and a number of independent artists, Wollzelle also run their own online file management application, "Fluxiom":http://www.fluxiom.com/, where they chose SublimeVideo to present a range of demo videos.
+
+<img src="http://blog.medias.jilion.com/uploads/2012/04/wollzelle-team.jpg" alt="Wollzelle Team" />
+Visit "wollzelle.com":http://www.wollzelle.com.
+
+<blockquote><p>“We love pushing web technologies beyond their limits, by turning sites into immersive, highly interactive experiences. To help with development, we’ve coded and released open-source tools that enable web developers everywhere to work faster and more efficiently.</p><p>This means we have high standards, but not that we want to reinvent the wheel: there is such a thing as building on the shoulders of giants. To us, SublimeVideo is one such giant: it puts great engineering at the service of original design. Practically speaking, it enables us to integrate rock-solid video capabilities into our sites and applications, safe in the knowledge they will work everywhere, so we can focus on what the video is about and what happens around it.</p><p>Because Jilion keeps an eye on the rapidly changing browser and plug-in landscape, we know our videos will keep playing, no matter what. That kind of surveillance is best centralised and entrusted to a specialist. The application's low-latency, high-availability platform is second to none and we know integrating SublimeVideo in our sites will not penalise end users by slowing down pages. SublimeVideo shares our commitments and blends into our code: what more could we ask for?”</p></blockquote>
+
+p(quote_author). —Thomas Pamminger, CEO/Chief Creative Officer, Wollzelle.
