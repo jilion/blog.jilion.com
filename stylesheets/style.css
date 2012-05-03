@@ -484,6 +484,11 @@ body.win {font-family:Arial, sans-serif !important;}
   border-radius:0;
 }
 
+.entry_body .gist {
+  font-size:13px;
+  line-height:20px;
+}
+
 .pagination {
   position:relative;
 }
