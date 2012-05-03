@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-05-03T13:33:42+02:00</updated>
+  <updated>2012-05-03T13:44:16+02:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -48,10 +48,9 @@
 &lt;h4&gt;How we use Guard&lt;/h4&gt;
 &lt;p&gt;Below is an example of how we&amp;#8217;re using Guard at Jilion on our my.sublimevideo.net Rails app (which powers SublimeVideo’s management backend for our users).&lt;/p&gt;
 &lt;p&gt;First we add the guards we need to our &lt;a href=&quot;http://gembundler.com/&quot;&gt;Gemfile&lt;/a&gt;:&lt;/p&gt;
-&lt;script src=&quot;https://gist.github.com/2584684.js?file=Gemfile&quot;&gt;&lt;/script&gt;&lt;p&gt;We&amp;#8217;re using the &amp;#8220;tools&amp;#8221; group to avoid loading these gems in Rails’s development mode.&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/2584684.js?file=Gemfile&quot;&gt;&lt;/script&gt;&lt;p&gt;&lt;em&gt;Note: We&amp;#8217;re using the &amp;#8220;tools&amp;#8221; group to avoid loading these gems in Rails’s development mode.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Next, we use the `guard init [&lt;span class=&quot;caps&quot;&gt;GUARD&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;NAME&lt;/span&gt;]` method to generate our default Guardfile:&lt;/p&gt;
-&lt;script src=&quot;https://gist.github.com/2584684.js?file=Guardfile&quot;&gt;&lt;/script&gt;&lt;p&gt;We’ve divided our Guards into two groups (frontend/backend). So for example, Octave (our designer) doesn’t ever need to worry about backend code when he uses Guard.&lt;/p&gt;
-&lt;p&gt;We&amp;#8217;re using &lt;a href=&quot;https://github.com/johnbintz/rack-livereload&quot;&gt;rack-livereload&lt;/a&gt; instead of the browser plugin.&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/2584684.js?file=Guardfile&quot;&gt;&lt;/script&gt;&lt;p&gt;&lt;em&gt;Note: We’ve divided our Guards into two groups (frontend/backend). So for example, Octave (our designer) doesn’t ever need to worry about backend code when he uses Guard. We&amp;#8217;re using &lt;a href=&quot;https://github.com/johnbintz/rack-livereload&quot;&gt;rack-livereload&lt;/a&gt; instead of the browser plugin.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;You can find more info about Guardfile here: &lt;a href=&quot;https://github.com/guard/guard#guardfile-dsl&quot;&gt;https://github.com/guard/guard#guardfile-dsl&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To launch all Guards, we simply run:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;bundle exec guard&lt;/code&gt;&lt;/p&gt;

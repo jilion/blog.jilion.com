@@ -31,7 +31,7 @@ namespace :deploy do
 
     system "git add ."
     system "git commit -m 'Updated assets before deploy [STAGING]'"
-    system "git push staging --force"
+    system "git push staging HEAD:master --force"
     system "heroku restart"
 
     puts "The blog is running on Heroku [STAGING], enjoy!"
