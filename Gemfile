@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 
+gem 'rake'
 gem 'bundler'
 
 gem 'RedCloth',          '~> 4.2.9'
