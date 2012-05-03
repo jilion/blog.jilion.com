@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-05-03T12:51:28+02:00</updated>
+  <updated>2012-05-03T13:31:21+02:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -33,18 +33,20 @@
 &lt;p&gt;We support open-source software and like to give back to the community by reporting issues we encounter with tools we use and collaborating on their development. The team also love to create open-source projects in their spare time.&lt;/p&gt;
 &lt;h4&gt;Guard&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/guard/guard&quot;&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2012/05/guard-icon.png&quot; alt=&quot;Guard&quot; style=&quot;float:left;margin:-16px 24px 0 0&quot; /&gt;&lt;/a&gt; The most widely-known project that members of the Jilion team (Rémy and I) have worked on is &lt;a href=&quot;https://github.com/guard/guard&quot;&gt;Guard&lt;/a&gt;, a popular command line tool to easily trigger and handle events on file system changes. We use it to automate various aspects of almost every project we work on.&lt;/p&gt;
-&lt;p&gt;The concept behind Guard can be traced back to another project called &lt;a href=&quot;https://github.com/rubyphunk/rspactor&quot;&gt;RSpactor&lt;/a&gt;, which would automatically re-run your &lt;a href=&quot;https://github.com/rspec/rspec&quot;&gt;specs&lt;/a&gt; and &lt;a href=&quot;http://cukes.info/&quot;&gt;Cucumber&lt;/a&gt; features whenever one of your application files changed. Two years ago RSpactor developer &lt;a href=&quot;https://github.com/rubyphunk&quot;&gt;Rubyphunk&lt;/a&gt; passed the duties of actively maintaining the project to me. The first thing I wanted to do was add support for the great &lt;a href=&quot;https://github.com/mockko/livereload&quot;&gt;livereload&lt;/a&gt; project to automatically refresh my browser when editing views files.&lt;/p&gt;
-&lt;p&gt;I realized that if I were to continue adding support for different projects (RSpec, Cucumber, livereload, etc) then RSpactor wouldn&amp;#8217;t scale well, and I didn&amp;#8217;t want it to become bloated or unnecessarily complex. So, I created Guard to succeed it. On its own Guard does nothing, but it provides a framework to easily build plugins that can automate almost any process in your projects.&lt;/p&gt;
-&lt;p&gt;The community response to Guard has been outstanding; so far the Guard gem has been downloaded 500,000+ times compared to RSpactor’s 8,740 downloads!&lt;/p&gt;
-&lt;p&gt;At present, 122 plugins have been created to automate all kinds of processes. Here’s a few examples:&lt;br /&gt;
-&lt;a href=&quot;https://github.com/guard/guard-coffeescript&quot;&gt;guard-coffeescript&lt;/a&gt; automatically compiles your CoffeeScript files when they are changed.&lt;br /&gt;
-&lt;a href=&quot;https://github.com/guard/guard-jasmine&quot;&gt;guard-jasmine&lt;/a&gt; automatically runs your JavaScript specs.&lt;br /&gt;
-&lt;a href=&quot;https://github.com/guard/guard-compass&quot;&gt;guard-compass&lt;/a&gt; automatically rebuilds &lt;span class=&quot;caps&quot;&gt;SCSS&lt;/span&gt;/Sass files.&lt;br /&gt;
-&lt;a href=&quot;https://github.com/guard/guard-phpunit&quot;&gt;guard-phpunit&lt;/a&gt; automatically runs unit-tests written with the PHPUnit testing framework.&lt;br /&gt;
-&lt;a href=&quot;https://github.com/crazycode/guard-play&quot;&gt;guard-play&lt;/a&gt; automatically runs your unit-tests written with the Play framework (Scala &amp;amp; Java).&lt;/p&gt;
+&lt;p&gt;The concept behind Guard can be traced back to another project called &lt;a href=&quot;https://github.com/rubyphunk/rspactor&quot;&gt;RSpactor&lt;/a&gt;, which would automatically re-run your &lt;a href=&quot;https://github.com/rspec/rspec&quot;&gt;specs&lt;/a&gt; and &lt;a href=&quot;http://cukes.info/&quot;&gt;Cucumber&lt;/a&gt; features whenever one of your application files changed. Two years ago RSpactor developer &lt;a href=&quot;https://github.com/rubyphunk&quot;&gt;Rubyphunk&lt;/a&gt; passed the duties of actively maintaining the project to me. The first thing I wanted to do was add support for the great &lt;a href=&quot;https://github.com/mockko/livereload&quot;&gt;LiveReload&lt;/a&gt; project to automatically refresh my browser when editing views files.&lt;/p&gt;
+&lt;p&gt;I realized that if I were to continue adding support for different projects (RSpec, Cucumber, LiveReload, etc) then RSpactor wouldn&amp;#8217;t scale well, and I didn&amp;#8217;t want it to become bloated or unnecessarily complex. So, I created Guard to succeed it. On its own Guard does nothing, but it provides a framework to easily build plugins that can automate almost any process in your projects.&lt;/p&gt;
+&lt;p&gt;The community response to Guard has been outstanding; so far the Guard gem has been downloaded &lt;a href=&quot;https://rubygems.org/gems/guard&quot;&gt;500,000+&lt;/a&gt; times compared to RSpactor’s &lt;a href=&quot;https://rubygems.org/gems/rspactor&quot;&gt;9,000+&lt;/a&gt; downloads!&lt;/p&gt;
+&lt;p&gt;At present, &lt;a href=&quot;https://rubygems.org/search?query=guard&quot;&gt;120+ Guard plugins&lt;/a&gt;- have been created to automate all kinds of processes. Here’s a few examples:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;https://github.com/guard/guard-coffeescript&quot;&gt;guard-coffeescript&lt;/a&gt; automatically compiles your CoffeeScript files when they are changed.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://github.com/guard/guard-jasmine&quot;&gt;guard-jasmine&lt;/a&gt; automatically runs your JavaScript specs.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://github.com/guard/guard-compass&quot;&gt;guard-compass&lt;/a&gt; automatically rebuilds &lt;span class=&quot;caps&quot;&gt;SCSS&lt;/span&gt;/Sass files.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://github.com/guard/guard-phpunit&quot;&gt;guard-phpunit&lt;/a&gt; automatically runs unit-tests written with the PHPUnit testing framework.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://github.com/crazycode/guard-play&quot;&gt;guard-play&lt;/a&gt; automatically runs your unit-tests written with the Play framework (Scala &amp;amp; Java).&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;It&amp;#8217;s great to see a Ruby tool being used by the communities of other development languages like &lt;span class=&quot;caps&quot;&gt;PHP&lt;/span&gt;, Scala &amp;amp; Java.&lt;/p&gt;
-&lt;p&gt;How we use Guard&lt;br /&gt;
-Below is an example of how we&amp;#8217;re using Guard at Jilion on our my.sublimevideo.net Rails app (which powers SublimeVideo’s management backend for our users).&lt;/p&gt;
+&lt;h4&gt;How we use Guard&lt;/h4&gt;
+&lt;p&gt;Below is an example of how we&amp;#8217;re using Guard at Jilion on our my.sublimevideo.net Rails app (which powers SublimeVideo’s management backend for our users).&lt;/p&gt;
 &lt;p&gt;First we add the guards we need to our &lt;a href=&quot;http://gembundler.com/&quot;&gt;Gemfile&lt;/a&gt;:&lt;/p&gt;
 &lt;script src=&quot;https://gist.github.com/2584684.js?file=Gemfile&quot;&gt;&lt;/script&gt;&lt;p&gt;We&amp;#8217;re using the &amp;#8220;tools&amp;#8221; group to avoid loading these gems in Rails’s development mode.&lt;/p&gt;
 &lt;p&gt;Next, we use the `guard init [&lt;span class=&quot;caps&quot;&gt;GUARD&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;NAME&lt;/span&gt;]` method to generate our default Guardfile:&lt;/p&gt;
