@@ -40,13 +40,17 @@ First we add the guards we need to our "Gemfile":http://gembundler.com/:
 
 _Note: We're using the "tools" group to avoid loading these gems in Rails’s development mode._
 
-Next, we use the `guard init [GUARD NAME]` method to generate our default Guardfile:
+Next, we use the following method to generate our default Guardfile:
+
+@guard init [GUARD NAME]@
+
+Once edited it looks like that:
 
 <script src="https://gist.github.com/2584684.js?file=Guardfile"></script>
 
 _Note: We’ve divided our Guards into two groups (frontend/backend). So for example, Octave (our designer) doesn’t ever need to worry about backend code when he uses Guard. We're using "rack-livereload":https://github.com/johnbintz/rack-livereload instead of the browser plugin._
 
-You can find more info about Guardfile here: "https://github.com/guard/guard#guardfile-dsl":https://github.com/guard/guard#guardfile-dsl
+Check out the "Guard REAMDE":https://github.com/guard/guard#guardfile-dsl to find more info about the Guardfile syntax.
 
 To launch all Guards, we simply run:
 
