@@ -565,6 +565,47 @@ body.win {font-family:Arial, sans-serif !important;}
   border-bottom:1px solid #242b36 !important;
 }
 
+/* ========= */
+/* = Gists = */
+/* ========= */
+
+.gist, .gist-syntax .k {
+  color:#91a1bb !important;
+}
+
+.gist .gist-file {
+  border:none !important;
+}
+
+.gist .gist-file .gist-data {
+  border:none !important;
+  background:rgba(0,0,0,0.8) !important;
+  border-radius:8px;
+  -webkit-border-radius:8px;
+  -moz-border-radius:8px;
+  -o-border-radius:8px;
+}
+
+.gist .gist-file .gist-meta {
+  display:none !important;
+}
+
+.gist .gist-file .gist-data pre {
+  font-family:'Bitstream Vera Sans Mono',Monaco,Courier,monospace !important;
+}
+
+.gist .gist-file .gist-data .gist-highlight {
+  padding-left:8px !important;
+}
+
+.gist-syntax .k {
+  font-weight:normal !important;
+}
+
+.gist-syntax .sr {
+  color:#1fbcff !important;
+}
+
 
 #footer {
   width:840px;
