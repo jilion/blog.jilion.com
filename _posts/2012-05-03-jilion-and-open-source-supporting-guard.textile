@@ -20,7 +20,7 @@ I realized that if I were to continue adding support for different projects (RSp
 
 The community response to Guard has been outstanding; so far the Guard gem has been downloaded "500,000+":https://rubygems.org/gems/guard times compared to RSpactor’s "9,000+":https://rubygems.org/gems/rspactor downloads!
 
-At present, "120+ Guard plugins":"https://rubygems.org/search?query=guard-" have been created to automate all kinds of processes. Here’s a few examples:
+At present, "120+ Guard plugins":[https://rubygems.org/search?query=guard-] have been created to automate all kinds of processes. Here’s a few examples:
 
 * "guard-coffeescript":https://github.com/guard/guard-coffeescript automatically compiles your CoffeeScript files when they are changed.
 * "guard-jasmine":https://github.com/guard/guard-jasmine automatically runs your JavaScript specs.
@@ -50,7 +50,7 @@ Once edited it looks like that:
 
 _Note: We’ve divided our Guards into two groups (frontend/backend). So for example, Octave (our designer) doesn’t ever need to worry about backend code when he uses Guard. We're using "rack-livereload":https://github.com/johnbintz/rack-livereload instead of the browser plugin._
 
-Check out the "Guard REAMDE":https://github.com/guard/guard#guardfile-dsl to find more info about the Guardfile syntax.
+Check out the "Guard README":https://github.com/guard/guard#guardfile-dsl to find more info about the Guardfile syntax.
 
 To launch all Guards, we simply run:
 
