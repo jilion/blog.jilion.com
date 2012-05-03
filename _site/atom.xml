@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-05-03T14:02:41+02:00</updated>
+  <updated>2012-05-03T14:27:13+02:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -36,7 +36,7 @@
 &lt;p&gt;The concept behind Guard can be traced back to another project called &lt;a href=&quot;https://github.com/rubyphunk/rspactor&quot;&gt;RSpactor&lt;/a&gt;, which would automatically re-run your &lt;a href=&quot;https://github.com/rspec/rspec&quot;&gt;specs&lt;/a&gt; and &lt;a href=&quot;http://cukes.info/&quot;&gt;Cucumber&lt;/a&gt; features whenever one of your application files changed. Two years ago RSpactor developer &lt;a href=&quot;https://github.com/rubyphunk&quot;&gt;Rubyphunk&lt;/a&gt; passed the duties of actively maintaining the project to me. The first thing I wanted to do was add support for the great &lt;a href=&quot;https://github.com/mockko/livereload&quot;&gt;LiveReload&lt;/a&gt; project to automatically refresh my browser when editing views files.&lt;/p&gt;
 &lt;p&gt;I realized that if I were to continue adding support for different projects (RSpec, Cucumber, LiveReload, etc) then RSpactor wouldn&amp;#8217;t scale well, and I didn&amp;#8217;t want it to become bloated or unnecessarily complex. So, I created Guard to succeed it. On its own Guard does nothing, but it provides a framework to easily build plugins that can automate almost any process in your projects.&lt;/p&gt;
 &lt;p&gt;The community response to Guard has been outstanding; so far the Guard gem has been downloaded &lt;a href=&quot;https://rubygems.org/gems/guard&quot;&gt;500,000+&lt;/a&gt; times compared to RSpactor’s &lt;a href=&quot;https://rubygems.org/gems/rspactor&quot;&gt;9,000+&lt;/a&gt; downloads!&lt;/p&gt;
-&lt;p&gt;At present, &amp;#8220;120+ Guard plugins&amp;#8221;:&amp;#8220;https://rubygems.org/search?query=guard-&amp;#8221; have been created to automate all kinds of processes. Here’s a few examples:&lt;/p&gt;
+&lt;p&gt;At present, &lt;a href=&quot;[https://rubygems.org/search?query=guard&quot;&gt;120+ Guard plugins&lt;/a&gt;-] have been created to automate all kinds of processes. Here’s a few examples:&lt;/p&gt;
 &lt;ul&gt;
 	&lt;li&gt;&lt;a href=&quot;https://github.com/guard/guard-coffeescript&quot;&gt;guard-coffeescript&lt;/a&gt; automatically compiles your CoffeeScript files when they are changed.&lt;/li&gt;
 	&lt;li&gt;&lt;a href=&quot;https://github.com/guard/guard-jasmine&quot;&gt;guard-jasmine&lt;/a&gt; automatically runs your JavaScript specs.&lt;/li&gt;
@@ -53,7 +53,7 @@
 &lt;p&gt;&lt;code&gt;guard init [GUARD NAME]&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Once edited it looks like that:&lt;/p&gt;
 &lt;script src=&quot;https://gist.github.com/2584684.js?file=Guardfile&quot;&gt;&lt;/script&gt;&lt;p&gt;&lt;em&gt;Note: We’ve divided our Guards into two groups (frontend/backend). So for example, Octave (our designer) doesn’t ever need to worry about backend code when he uses Guard. We&amp;#8217;re using &lt;a href=&quot;https://github.com/johnbintz/rack-livereload&quot;&gt;rack-livereload&lt;/a&gt; instead of the browser plugin.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Check out the &lt;a href=&quot;https://github.com/guard/guard#guardfile-dsl&quot;&gt;Guard &lt;span class=&quot;caps&quot;&gt;REAMDE&lt;/span&gt;&lt;/a&gt; to find more info about the Guardfile syntax.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;https://github.com/guard/guard#guardfile-dsl&quot;&gt;Guard &lt;span class=&quot;caps&quot;&gt;README&lt;/span&gt;&lt;/a&gt; to find more info about the Guardfile syntax.&lt;/p&gt;
 &lt;p&gt;To launch all Guards, we simply run:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;bundle exec guard&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Or, when we need to launch only a specific group:&lt;/p&gt;
