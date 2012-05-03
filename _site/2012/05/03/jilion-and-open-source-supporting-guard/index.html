@@ -136,9 +136,11 @@
 <p>Below is an example of how we&#8217;re using Guard at Jilion on our my.sublimevideo.net Rails app (which powers SublimeVideo’s management backend for our users).</p>
 <p>First we add the guards we need to our <a href="http://gembundler.com/">Gemfile</a>:</p>
 <script src="https://gist.github.com/2584684.js?file=Gemfile"></script><p><em>Note: We&#8217;re using the &#8220;tools&#8221; group to avoid loading these gems in Rails’s development mode.</em></p>
-<p>Next, we use the `guard init [<span class="caps">GUARD</span> <span class="caps">NAME</span>]` method to generate our default Guardfile:</p>
+<p>Next, we use the following method to generate our default Guardfile:</p>
+<p><code>guard init [GUARD NAME]</code></p>
+<p>Once edited it looks like that:</p>
 <script src="https://gist.github.com/2584684.js?file=Guardfile"></script><p><em>Note: We’ve divided our Guards into two groups (frontend/backend). So for example, Octave (our designer) doesn’t ever need to worry about backend code when he uses Guard. We&#8217;re using <a href="https://github.com/johnbintz/rack-livereload">rack-livereload</a> instead of the browser plugin.</em></p>
-<p>You can find more info about Guardfile here: <a href="https://github.com/guard/guard#guardfile-dsl">https://github.com/guard/guard#guardfile-dsl</a></p>
+<p>Check out the <a href="https://github.com/guard/guard#guardfile-dsl">Guard <span class="caps">REAMDE</span></a> to find more info about the Guardfile syntax.</p>
 <p>To launch all Guards, we simply run:</p>
 <p><code>bundle exec guard</code></p>
 <p>Or, when we need to launch only a specific group:</p>
