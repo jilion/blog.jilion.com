@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-05-03T13:31:21+02:00</updated>
+  <updated>2012-05-03T13:33:42+02:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -60,7 +60,7 @@
 &lt;p&gt;As you can see, Guard is easy to use and can save you tons of time on repetitive tasks. Just think: how many times have you restarted your Rails app or reloaded your browser manually? It all adds up!&lt;/p&gt;
 &lt;h4&gt;Jilion &amp;amp; Open-Source&lt;/h4&gt;
 &lt;p&gt;We’ll continue to support the development of Guard and hope it continues to be helpful to all kinds of developers. I&amp;#8217;d like to thank the other Guard core team: &lt;a href=&quot;https://github.com/Maher4Ever&quot;&gt;Maher Sallam&lt;/a&gt;, &lt;a href=&quot;https://github.com/netzpirat&quot;&gt;Michael Kessler&lt;/a&gt; and &lt;a href=&quot;https://github.com/rymai&quot;&gt;Rémy Coutable&lt;/a&gt;, Guard &lt;a href=&quot;https://github.com/guard/guard/contributors&quot;&gt;contributors&lt;/a&gt; and authors. You guys are all awesome and without you Guard wouldn&amp;#8217;t be what it is today.&lt;/p&gt;
-&lt;p&gt;Jilion also supports a few smaller open-source projects that some of you may find useful, visit our Github page to learn more.&lt;/p&gt;
+&lt;p&gt;Jilion also supports a few smaller open-source projects that some of you may find useful, visit our &lt;a href=&quot;https://github.com/jilion&quot;&gt;Github page&lt;/a&gt; to learn more.&lt;/p&gt;
 &lt;p&gt;We hope this overview has been helpful and that some of you will be able to benefit by integrating Guard into your development workflows. If you’re interested in creating your own Guard plugin you can find out more &lt;a href=&quot;https://github.com/guard/guard%23create-a-guard&quot;&gt;here&lt;/a&gt; &amp;#8211; it’s really easy! If you do, please don’t hesitate to share it with us and the community, we’re always excited to see how others can build on our open-source projects.&lt;/p&gt;</content>
     </entry>
   
