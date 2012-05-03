@@ -20,7 +20,7 @@ I realized that if I were to continue adding support for different projects (RSp
 
 The community response to Guard has been outstanding; so far the Guard gem has been downloaded "500,000+":https://rubygems.org/gems/guard times compared to RSpactor’s "9,000+":https://rubygems.org/gems/rspactor downloads!
 
-At present, "120+ Guard plugins":https://rubygems.org/search?query=guard- have been created to automate all kinds of processes. Here’s a few examples:
+At present, "120+ Guard plugins":"https://rubygems.org/search?query=guard-" have been created to automate all kinds of processes. Here’s a few examples:
 
 * "guard-coffeescript":https://github.com/guard/guard-coffeescript automatically compiles your CoffeeScript files when they are changed.
 * "guard-jasmine":https://github.com/guard/guard-jasmine automatically runs your JavaScript specs.
