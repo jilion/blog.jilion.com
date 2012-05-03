@@ -3,3 +3,5 @@
 .bundle
 _site/tmp/restart.txt
 tmp/restart.txt
+vendor/ruby
+vendor/bundler
