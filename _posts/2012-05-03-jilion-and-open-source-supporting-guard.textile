@@ -64,8 +64,8 @@ As you can see, Guard is easy to use and can save you tons of time on repetitive
 
 h4. Jilion & Open-Source
 
-We’ll continue to support the development of Guard and hope it continues to be helpful to all kinds of developers. I'd like to thank the other Guard core team: "Maher Sallam":https://github.com/Maher4Ever, "Michael Kessler":https://github.com/netzpirat and "Rémy Coutable":https://github.com/rymai, Guard "contributors":https://github.com/guard/guard/contributors and authors. You guys are all awesome and without you Guard wouldn't be what it is today.
+Jilion will continue to support the development of Guard and hope it continues to be helpful to all kinds of developers. I'd like to thank the other Guard core team: "Maher Sallam":https://github.com/Maher4Ever, "Michael Kessler":https://github.com/netzpirat and "Rémy Coutable":https://github.com/rymai, Octave for his awesome Guard icon,  Guard "contributors":https://github.com/guard/guard/contributors and authors. You guys are all awesome and without you Guard wouldn't be what it is today.
 
 Jilion also supports a few smaller open-source projects that some of you may find useful, visit our "Github page":https://github.com/jilion to learn more.
 
-We hope this overview has been helpful and that some of you will be able to benefit by integrating Guard into your development workflows. If you’re interested in creating your own Guard plugin you can find out more "here":https://github.com/guard/guard%23create-a-guard - it’s really easy! If you do, please don’t hesitate to share it with us and the community, we’re always excited to see how others can build on our open-source projects.
+We hope this overview has been helpful and that some of you will be able to benefit by integrating Guard into your development workflows. If you’re interested in creating your own Guard plugin you can find out more inside the "Guard README":https://github.com/guard/guard#create-a-guard - it’s really easy! If you do, please don’t hesitate to share it with us and the community, we’re always excited to see how others can build on our open-source projects.
