@@ -10,7 +10,7 @@ At Jilion we use open-source projects for almost everything we do; "Git":http://
 
 We support open-source software and like to give back to the community by reporting issues we encounter with tools we use and collaborating on their development. The team also love to create open-source projects in their spare time.
 
-<a href="https://github.com/guard/guard"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/05/guard-icon.png" alt="Guard" style="float:left;margin:18px 34px 0 0" /></a> 
+<div><a href="https://github.com/guard/guard"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/05/guard-icon.png" alt="Guard" style="float:left;margin:26px 34px 0 0" /></a></div>
 
 h4. Guard
 
