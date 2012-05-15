@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-05-15T10:49:36+02:00</updated>
+  <updated>2012-05-15T10:58:25+02:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -29,7 +29,7 @@
       
         <category scheme="http://jilion-blog-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
-      <content type="html">&lt;p&gt;&lt;img src=&quot;ford-logo.png&quot; alt=&quot;Ford’s logo&quot; style=&quot;float:left;margin:44px 34px 45px 31px&quot; /&gt; Ford recently launched a video-centric competition offering the opportunity to swap your car for one of 10 of their latest vehicles. Participants watch a video of their favourite car and answer a question for the chance to win.&lt;/p&gt;
+      <content type="html">&lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/05/ford-logo.png&quot; alt=&quot;Ford’s logo&quot; style=&quot;float:left;margin:44px 34px 45px 31px&quot; /&gt; Ford recently launched a video-centric competition offering the opportunity to swap your car for one of 10 of their latest vehicles. Participants watch a video of their favourite car and answer a question for the chance to win.&lt;/p&gt;
 &lt;p&gt;Digital agency &lt;a href=&quot;http://www.flashpointcommunications.com/&quot;&gt;Flash Point Communications&lt;/a&gt; chose SublimeVideo to power all of the site’s videos.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/05/fords-swap-your-ride-giveaway-powdered-by-sublimevideo.jpg&quot; alt=&quot;Ford’s Swap Your Ride Giveaway&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;You can check out the competition at &lt;a href=&quot;http://swapyourridegiveaway.com&quot;&gt;swapyourridegiveaway.com&lt;/a&gt;.&lt;/p&gt;

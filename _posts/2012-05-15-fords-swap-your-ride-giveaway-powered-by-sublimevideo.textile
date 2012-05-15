@@ -6,7 +6,7 @@ layout: post
 tags:
 - SublimeVideo
 ---
-<img src="ford-logo.png" alt="Ford’s logo" style="float:left;margin:44px 34px 45px 31px" /> Ford recently launched a video-centric competition offering the opportunity to swap your car for one of 10 of their latest vehicles. Participants watch a video of their favourite car and answer a question for the chance to win.
+<img src="http://blog.medias.jilion.com/uploads/2012/05/ford-logo.png" alt="Ford’s logo" style="float:left;margin:44px 34px 45px 31px" /> Ford recently launched a video-centric competition offering the opportunity to swap your car for one of 10 of their latest vehicles. Participants watch a video of their favourite car and answer a question for the chance to win.
 
 Digital agency "Flash Point Communications":http://www.flashpointcommunications.com/ chose SublimeVideo to power all of the site’s videos.
 
