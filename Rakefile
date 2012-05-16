@@ -1,8 +1,10 @@
 require 'aws/s3'
 
+
 desc "Compile Jekyll site"
 task :compile  => :prepare_assets do
   system "bundle exec ejekyll --no-server --no-auto"
+  puts "Jekyll site had been generated."
 end
 
 desc "Jammitify assets, upload on AWS and"
@@ -11,6 +13,7 @@ task :prepare_assets do
   ENV['TIMESTAMP'] = timestamp
 
   system "bundle exec jammit -c assets.yml -o assets -u http://blog.medias.jilion.com/#{timestamp} -f"
+  puts "Assets had been jammited"
 
   files = ["assets/style.css","assets/style-datauri.css","assets/style-mhtml.css"]
 
