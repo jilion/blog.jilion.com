@@ -9,7 +9,7 @@ module Jekyll
         'http://blog.jilion.com' + url
       when 'staging'
         url.gsub! /\/$/, ''
-        'http://jilion-blog-staging.heroku.com' + url
+        'http://jilion-blog-staging.herokuapp.com' + url
       else
         'http://localhost:4000' + url
       end
