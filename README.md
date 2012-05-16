@@ -30,9 +30,20 @@ RACK_ENV=production TIMESTAMP=123456 bundle exec ejekyll --no-server --no-auto
 
 ## Deployment
 
+Be sure to deploy on a Heroku _Cedar_ app ([user_env_compile](https://devcenter.heroku.com/articles/labs-user-env-compile) enabled) with the following env var:
+
+``` base
+BUILDPACK_URL        => https://github.com/jilion/heroku-buildpack-jekyll.git
+BUNDLE_WITHOUT       => development:test:tools
+GEM_PATH             => vendor/bundle/ruby/1.9.1
+PATH                 => bin:vendor/bundle/ruby/1.9.1/bin:/usr/local/bin:/usr/bin:/bin
+RACK_ENV             => staging|production
+S3_ACCESS_KEY_ID     => XXX
+S3_SECRET_ACCESS_KEY => XXX
+```
+
+and simply deploy with:
+
 ``` bash
-rake deploy:production
-# or
-rake deploy:staging
-git push origin master
+git push staging|production
 ```
