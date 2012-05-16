@@ -1,7 +1,6 @@
 require 'rake'
 require 'aws/s3'
 
-
 desc "Compile Jekyll site"
 task :compile  => :prepare_assets do
   system "bundle exec ejekyll --no-server --no-auto"
