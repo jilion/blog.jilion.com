@@ -1,3 +1,4 @@
+require 'rake'
 require 'aws/s3'
 
 namespace :deploy do

@@ -1,8 +1,5 @@
 source 'http://rubygems.org'
 
-gem 'rake'
-gem 'bundler'
-
 gem 'RedCloth',          '~> 4.2.9'
 gem 'liquid',            '~> 2.3.0'
 gem 'jekyll',            '~> 0.11.2' # :git => 'git://github.com/thibaudgg/jekyll.git', :branch => 'no-server'
@@ -13,4 +10,9 @@ group :development do
   gem 'aws-s3',      '0.6.2'
   gem 'jammit'
   gem 'uglifier'
+end
+
+group :tools do
+  gem 'rake'
+  gem 'bundler', '~> 1.2.0.pre'
 end
