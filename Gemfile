@@ -11,6 +11,10 @@ gem 'rack-jekyll', github: 'adaoraul/rack-jekyll', require: 'rack/jekyll'
 
 gem 'RedCloth',          '~> 4.2.9'
 
+group :production, :staging do
+  gem 'thin'
+end
+
 group :assets do
   gem 'aws-s3', '0.6.2'
   gem 'jammit'
