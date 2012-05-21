@@ -16,7 +16,7 @@
       <title>Jilion Blog</title>
     {% endif %}
 
-    {% if rack_env == 'production' %}
+    {% if (rack_env == 'production' or rack_env == 'staging') %}
     <!--[if (!IE)|(gte IE 8)]><!-->
     <link href="http://blog.medias.jilion.com/{{timestamp}}/assets/style-datauri.css" media="all" rel="stylesheet" type="text/css" />
     <!--<![endif]-->

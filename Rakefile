@@ -1,46 +1,19 @@
+require 'rake'
 require 'aws/s3'
 
-namespace :deploy do
-  desc "Jammitify assets, upload on AWS and deploy on Heroku [PRODUCTION]"
-  task :production do
-    timestamp = prepare_and_upload_assets
-
-    ENV['RACK_ENV'] = 'production'
-    ENV['TIMESTAMP'] = timestamp
-    system "bundle exec ejekyll --no-server --no-auto"
-
-    puts "Full blog has been generated for production"
-
-    system "git add ."
-    system "git commit -m 'Updated assets before deploy [PRODUCTION]'"
-    system "git push production"
-    system "heroku restart"
-
-    puts "The blog is running on Heroku [PRODUCTION], enjoy!"
-  end
-
-  desc "Jammitify assets, upload on AWS and deploy on Heroku [STAGING]"
-  task :staging do
-    timestamp = prepare_and_upload_assets
-
-    ENV['RACK_ENV'] = 'staging'
-    ENV['TIMESTAMP'] = timestamp
-    system "bundle exec ejekyll --no-server --no-auto"
-
-    puts "Full blog has been generated for staging"
-
-    system "git add ."
-    system "git commit -m 'Updated assets before deploy [STAGING]'"
-    system "git push staging HEAD:master --force"
-    system "heroku restart"
-
-    puts "The blog is running on Heroku [STAGING], enjoy!"
-  end
+desc "Compile Jekyll site"
+task :compile  => :prepare_assets do
+  system "bundle exec ejekyll --no-server --no-auto"
+  puts "Jekyll site had been generated."
 end
 
-def prepare_and_upload_assets
+desc "Jammitify assets, upload on AWS and"
+task :prepare_assets do
   timestamp = Time.now.strftime("%m%d%Y%H%M%S")
+  ENV['TIMESTAMP'] = timestamp
+
   system "bundle exec jammit -c assets.yml -o assets -u http://blog.medias.jilion.com/#{timestamp} -f"
+  puts "Assets had been jammited"
 
   files = ["assets/style.css","assets/style-datauri.css","assets/style-mhtml.css"]
 
@@ -48,16 +21,13 @@ def prepare_and_upload_assets
     buffer = File.new(file,'r').read.gsub(/@media screen and\(/,"@media screen and (")
     File.open(file,'w') {|fw| fw.write(buffer)}
   end
-
   puts "Jammited CSSs had been cleaned to work with modern browsers"
 
   AWS::S3::Base.establish_connection!(
-    :access_key_id     => '0BNK5HS36QFNVCVRBBG2',
-    :secret_access_key => 'zGODjlVgFrfcvNfqDo7aMBMUrpQsvY+mIBwpf+lQ'
+    access_key_id: ENV['S3_ACCESS_KEY_ID'],
+    secret_access_key: ENV['S3_SECRET_ACCESS_KEY']
   )
-
   files = Dir.glob(File.join("assets/*"))
-
   files.each do |file|
     filekey = file.gsub(/\.\.\//,'')
     filekey = "#{timestamp}/#{filekey}"
@@ -65,7 +35,5 @@ def prepare_and_upload_assets
     $stdout.flush
     AWS::S3::S3Object.store(filekey, open(file), 'blog.jilion.com', :access => :public_read)
   end
-
-  puts "Finished uploaded assets on Amazon S3"
-  return timestamp
+  puts "Assets uploaded on Amazon S3"
 end
