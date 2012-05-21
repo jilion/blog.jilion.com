@@ -8,7 +8,7 @@ tags:
 ---
 <img src="http://blog.medias.jilion.com/uploads/2012/05/ford-logo.png" alt="Ford’s logo" style="float:left;margin:-10px 15px 0 0" /> Ford recently launched a "video-centric competition":http://swapyourridegiveaway.com/ offering the opportunity to swap your car for one of 10 of their latest vehicles. Participants watch a video of their favourite car and answer a question for the chance to win. The contest runs until May 31st.
 
-<a href="http://swapyourridegiveaway.com"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/05/fords-swap-your-ride-giveaway-sublimevideo.jpg" alt="Ford’s Swap Your Ride Giveaway" /></a>
+<a href="http://swapyourridegiveaway.com"><img src="http://blog.medias.jilion.com/uploads/2012/05/fords-swap-your-ride-giveaway-sublimevideo.jpg" alt="Ford’s Swap Your Ride Giveaway" /></a>
 
 You can check out the competition at "swapyourridegiveaway.com":http://swapyourridegiveaway.com.
 
