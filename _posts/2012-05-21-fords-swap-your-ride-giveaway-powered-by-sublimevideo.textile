@@ -1,0 +1,17 @@
+---
+title: "Ford’s Swap Your Ride Giveaway: Powered by SublimeVideo"
+title_html: "<span>Ford’s Swap Your Ride Giveaway:</span><span>Powered by SublimeVideo</span>"
+authors: The Jilion Team
+layout: post
+tags:
+- SublimeVideo
+---
+<img src="http://blog.medias.jilion.com/uploads/2012/05/ford-logo.png" alt="Ford’s logo" style="float:left;margin:-10px 15px 0 0" /> Ford recently launched a "video-centric competition":http://swapyourridegiveaway.com/ offering the opportunity to swap your car for one of 10 of their latest vehicles. Participants watch a video of their favourite car and answer a question for the chance to win. The contest runs until May 31st.
+
+You can check out the competition at "swapyourridegiveaway.com":http://swapyourridegiveaway.com.
+
+<a href="http://swapyourridegiveaway.com"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/05/fords-swap-your-ride-giveaway-sublimevideo.jpg" alt="Ford’s Swap Your Ride Giveaway" /></a>
+
+We're happy that Ford and digital agency "Flash Point Communications":http://www.flashpointcommunications.com trusted SublimeVideo to reliably power the core functionality of their Swap Your Ride campaign.
+
+We previously saw Nissan embrace both HTML5 and SublimeVideo in their "Zen to Z web campaign":http://blog.jilion.com/2011/11/24/nissan-s-zen-to-z-web-campaign-powered-by-html5-and-sublimevideo.
