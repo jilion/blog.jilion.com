@@ -4,7 +4,7 @@
   <title>Jilion Blog</title>
   <link href="http://blog.jilion.com/atom.xml" rel="self"/>
   <link href="http://blog.jilion.com" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2012-07-13T12:46:14+02:00</updated>
+  <updated>2012-07-13T12:47:28+02:00</updated>
   <rights>Copyright (c) 2012 Jilion (r) SA</rights>
   <id>http://blog.jilion.com</id>
   <author>
@@ -30,11 +30,11 @@
         <category scheme="http://jilion-blog-staging.heroku.com/tags/sublimevideo" term="sublimevideo" label="SublimeVideo"/>
       
       <content type="html">&lt;p&gt;We&amp;#8217;d like to share with you some recent prominent SublimeVideo integrations.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://ralphLaurenRally.com&quot;&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2012/07/sublimevideo_ralph_lauren.png&quot; alt=&quot;Ralph Lauren Rally&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;http://ralphLaurenRally.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/07/sublimevideo_ralph_lauren.png&quot; alt=&quot;Ralph Lauren Rally&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://ralphlauren.com&quot;&gt;Ralph Lauren&lt;/a&gt;, outfitter of the U.S. Olympic Team, launched a new &lt;a href=&quot;http://ralphLaurenRally.com&quot;&gt;Facebook app&lt;/a&gt; for the 2012 Olympics Games in London. Their fans are invited to cheer on American athletes through photos and video.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://iceage4arcticgames.com&quot;&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2012/07/sublimevideo_ice_age.jpg&quot; alt=&quot;Ice Age Continental Drift - Arctic Games&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;http://iceage4arcticgames.com&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/07/sublimevideo_ice_age.jpg&quot; alt=&quot;Ice Age Continental Drift - Arctic Games&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
 For the fourth Ice Age movie, in theaters now, &lt;a href=&quot;http://www.activision.com&quot;&gt;Activision&lt;/a&gt; is releasing a new videogame: &lt;a href=&quot;http://iceage4arcticgames.com&quot;&gt;Ice Age Continental Drift &amp;#8211; Arctic Games&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.live.prometheusmovie.com/&quot;&gt;&lt;img src=&quot;http://blog.jilion.com.s3.amazonaws.com/uploads/2012/07/sublimevideo_prometheus.jpg&quot; alt=&quot;Prometheus Film&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.live.prometheusmovie.com/&quot;&gt;&lt;img src=&quot;http://blog.medias.jilion.com/uploads/2012/07/sublimevideo_prometheus.jpg&quot; alt=&quot;Prometheus Film&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
 The &lt;a href=&quot;http://www.live.prometheusmovie.com&quot;&gt;official site&lt;/a&gt; for Prometheus, Ridley Scott’s latest blockbuster, features some clips of the movie played with SublimeVideo.&lt;/p&gt;</content>
     </entry>
   
