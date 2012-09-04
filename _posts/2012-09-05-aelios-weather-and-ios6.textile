@@ -1,0 +1,17 @@
+---
+title: Aelios Weather and iOS6
+title_html: "<span>Aelios Weather and iOS6</span>"
+font_size: 36
+authors: The Jilion Team
+layout: post
+tags:
+- Aelios
+---
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/09/aelios_icon.png" alt="Aelios Weather Icon" style="float:left;margin:4px 15px 0 0" /> Dear Aelios users, we want to let you know that, at least for the time being, Aelios is unfortunately not able to run on iPads running Apple’s upcoming iOS6. The reason is that Apple has chosen to switch away from Google Maps to its own mapping service in iOS 6. This is a major change that actually breaks Aelios.
+
+Aelios has been tightly designed and built around Google Maps and the whole user experience was designed to make the best use of both iOS and Google Maps. With Apple's new mapping service we no longer have access to some Google Maps APIs which we fine-tuned Aelios' user experience around. Apple's new mapping service looks nice, but we don't yet know if it will allow Aelios to work the way we intended.
+
+For these reasons we feel that it's necessary to remove Aelios from sale on the App Store. This is effective from today and will last until we can potentially find a way to reintroduce the app using Apple's new mapping service. Aelios will continue to run on devices running iOS5.x and iOS4.3. Any possible change regarding iOS6 support will be posted on "aeliosapp.com":http://aeliosapp.com and within the app's integrated news section.
+
+Aelios began as a student project and reached the top rankings in several App Stores worldwide. We learned a lot through developing it, even if it has been a side-project for the company alongside SublimeVideo - our core HTML5 Video  product.
+Aelios has been extremely well received by its users with a global App store rating of four and half stars and many  rave reviews. We want to thank all our users for their support and hope to be able to relaunch it in the future.
