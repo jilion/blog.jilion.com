@@ -10,9 +10,11 @@ At Jilion we use open-source projects for almost everything we do; "Git":http://
 
 We support open-source software and like to give back to the community by reporting issues we encounter with tools we use and collaborating on their development. The team also love to create open-source projects in their spare time.
 
+<div><a href="https://github.com/guard/guard"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/05/guard-icon.png" alt="Guard" style="float:left;margin:26px 34px 0 0" /></a></div>
+
 h4. Guard
 
-<a href="https://github.com/guard/guard"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/05/guard-icon.png" alt="Guard" style="float:left;margin:-16px 24px 0 0" /></a> The most widely-known project that members of the Jilion team (Rémy and I) have worked on is "Guard":https://github.com/guard/guard, a popular command line tool to easily trigger and handle events on file system changes. We use it to automate various aspects of almost every project we work on.
+The most widely-known project that members of the Jilion team (Rémy and I) have worked on is "Guard":https://github.com/guard/guard, a popular command line tool to easily trigger and handle events on file system changes. We use it to automate various aspects of almost every project we work on.
 
 The concept behind Guard can be traced back to another project called "RSpactor":https://github.com/rubyphunk/rspactor, which would automatically re-run your "specs":https://github.com/rspec/rspec and "Cucumber":http://cukes.info/ features whenever one of your application files changed. Two years ago RSpactor developer "Rubyphunk":https://github.com/rubyphunk passed the duties of actively maintaining the project to me. The first thing I wanted to do was add support for the great "LiveReload":https://github.com/mockko/livereload project to automatically refresh my browser when editing views files.
 
@@ -44,13 +46,13 @@ Next, we use the following method to generate our default Guardfile:
 
 @guard init [GUARD NAME]@
 
-Once edited it looks like that:
+Once edited, it looks like this:
 
 <script src="https://gist.github.com/2584684.js?file=Guardfile"></script>
 
 _Note: We’ve divided our Guards into two groups (frontend/backend). So for example, Octave (our designer) doesn’t ever need to worry about backend code when he uses Guard. We're using "rack-livereload":https://github.com/johnbintz/rack-livereload instead of the browser plugin._
 
-Check out the "Guard README":https://github.com/guard/guard#guardfile-dsl to find more info about the Guardfile syntax.
+Check out the "Guard README":https://github.com/guard/guard#guardfile-dsl to find more information about the Guardfile syntax.
 
 To launch all Guards, we simply run:
 
@@ -64,7 +66,7 @@ As you can see, Guard is easy to use and can save you tons of time on repetitive
 
 h4. Jilion & Open-Source
 
-Jilion will continue to support the development of Guard and hope it continues to be helpful to all kinds of developers. I'd like to thank the other Guard core team: "Maher Sallam":https://github.com/Maher4Ever, "Michael Kessler":https://github.com/netzpirat and "Rémy Coutable":https://github.com/rymai, Octave for his awesome Guard icon,  Guard "contributors":https://github.com/guard/guard/contributors and authors. You guys are all awesome and without you Guard wouldn't be what it is today.
+Jilion will continue to support the development of Guard and hope it continues to be helpful to all kinds of developers. I’d like to thank the other Guard core team members: "Maher Sallam":https://github.com/Maher4Ever, "Michael Kessler":https://github.com/netzpirat and "Rémy Coutable":https://github.com/rymai, as well as all the Guard "contributors":https://github.com/guard/guard/contributors and authors. You guys are all awesome and without you Guard wouldn’t be what it is today. I'd also like to say a special thanks to "Octave Zangs":http://dribbble.com/octave for his fantastic Guard icon.
 
 Jilion also supports a few smaller open-source projects that some of you may find useful, visit our "Github page":https://github.com/jilion to learn more.
 

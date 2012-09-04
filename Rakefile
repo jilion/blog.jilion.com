@@ -1,5 +1,5 @@
+require 'rake'
 require 'aws/s3'
-
 
 desc "Compile Jekyll site"
 task :compile  => :prepare_assets do
