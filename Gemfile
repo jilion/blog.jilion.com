@@ -16,7 +16,7 @@ group :production, :staging do
 end
 
 group :assets do
-  gem 'aws-s3', '0.6.2'
+  gem 'aws-s3', '0.6.3'
   gem 'jammit'
   gem 'uglifier'
 end
