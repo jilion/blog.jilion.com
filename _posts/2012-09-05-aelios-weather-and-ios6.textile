@@ -7,7 +7,7 @@ layout: post
 tags:
 - Aelios
 ---
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/09/aelios-ipad.png" alt="Aelios Weather iPad" style="float:left;margin:4px 14px 0 -14px" width="166" /> Dear Aelios users, we want to let you know that, at least for the time being, Aelios is unfortunately not able to run on iPads running Apple’s upcoming iOS 6. The reason is that Apple has chosen to switch away from Google Maps to its own mapping service in iOS 6. This is a major change that actually breaks Aelios.
+<img src="http://blog.medias.jilion.com/uploads/2012/09/aelios-ipad.png" alt="Aelios Weather iPad" style="float:left;margin:4px 14px 0 -14px" width="166" /> Dear Aelios users, we want to let you know that, at least for the time being, Aelios is unfortunately not able to run on iPads running Apple’s upcoming iOS 6. The reason is that Apple has chosen to switch away from Google Maps to its own mapping service in iOS 6. This is a major change that actually breaks Aelios.
 
 Aelios has been tightly designed and built around Google Maps and the whole user experience was designed to make the best use of both iOS and Google Maps. With Apple's new mapping service, we no longer have access to some Google Maps APIs which we fine-tuned Aelios' user experience around. Apple's new mapping service looks nice, but we don't yet know if it will allow Aelios to work the way we intended.
 
