@@ -7,6 +7,8 @@ layout: post
 tags:
 - Company
 ---
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/09/sublimevideo-HTML5-earth.jpg" alt="HTML5 Earth - SublimeVideo" />
+
 Our core team is expanding and would be very glad to welcome new teammates in the following positions:
 
 * "Marketing Communications Manager (UK)":/
