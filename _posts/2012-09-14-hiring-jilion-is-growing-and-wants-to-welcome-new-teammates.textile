@@ -31,6 +31,6 @@ During the last two years, it’s been clear within the team that we wanted to f
 
 This time with Jilion and SublimeVideo, the priority has been to build strength and credibility first and foremost in our own eyes and those of our users. To be sure what we’re doing is making sense and can have some universal value. In the process, it’s also good give some time for the “Vision” to become clearer.
 
-So this is where we are now: We’re in the middle of this huge transition of the Web to a new era, the transition to the No-plugins/HTML5 era. And when it comes to HTML5 Video, we believe we now understand quite clearly what remains to be done to deliver - in the near future - the ultimate enabler of this new HTML5 Video era. And that’s why we are now ready to grow a bit and welcome a few more teammates to accelerate and get there better and faster.
+So this is where we are now: In the middle of this huge transition of the Web to the no-plugins/HTML5 era. And when it comes to HTML5 Video, based on what we did so far and what we have in mind, we believe we now understand quite clearly what remains to be done to deliver - in the near future - the ultimate enabler of the HTML5 Video era (or as Steve could have said, “we nailed it”). And that’s the reason we are ready to grow a bit and welcome a few more teammates to accelerate and get there better and faster.
 
 Please let us know how you think you can contribute and why you’re cool to work with! "Have a look at our open positions":http://jilion.com/jobs.
