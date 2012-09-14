@@ -17,7 +17,7 @@ Our core team is expanding ...a bit, and we would be very glad to welcome new te
 
 If you want to know why such a “huge increase”, read on...
 
-h4. Small Team, Big Ambition
+h4. Small Team, Great Ambition
 
 It’s amazing what small teams can achieve sometimes and I think this has certainly been the case for ours: In a just over two years, since "we candidly shared the demo of “SublimeVideo”":http://blog.jilion.com/2010/01/25/introducing-sublimevideo, the world’s first HTML5 Video Player with custom controls, our team of seven has come a long way.
 
