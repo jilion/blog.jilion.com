@@ -84,7 +84,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  RedCloth (~> 4.2.9)
+  RedCloth
   aws-s3 (= 0.6.3)
   bundler
   heroku
