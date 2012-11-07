@@ -5,9 +5,9 @@ ruby '1.9.3'
 gem 'rake'
 gem 'bundler'
 
-# gem 'jekyll',            '~> 0.11.2'
-# gem 'jekyll_ext',        '~> 0.1.4'  # for ejekyll
-# gem 'rack-jekyll', github: 'adaoraul/rack-jekyll', require: 'rack/jekyll'
+gem 'jekyll'
+gem 'jekyll_ext' # for ejekyll
+gem 'rack-jekyll', github: 'adaoraul/rack-jekyll', require: 'rack/jekyll'
 
 gem 'RedCloth'
 
@@ -16,7 +16,7 @@ group :production, :staging do
 end
 
 group :assets do
-  gem 'aws-s3', '0.6.3'
+  gem 'aws-s3'
   gem 'jammit'
   gem 'uglifier'
 end
