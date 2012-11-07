@@ -9,7 +9,7 @@ gem 'jekyll'
 gem 'jekyll_ext' # for ejekyll
 gem 'rack-jekyll', github: 'adaoraul/rack-jekyll', require: 'rack/jekyll'
 
-gem 'RedCloth'
+# gem 'RedCloth'
 
 group :production, :staging do
   gem 'thin'
