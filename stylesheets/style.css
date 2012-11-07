@@ -489,6 +489,20 @@ body.win {font-family:Arial, sans-serif !important;}
   line-height:20px;
 }
 
+.entry_body .code {
+  background:#000;
+  display:block;
+  padding:10px 17px;
+  border-radius:6px;
+}
+
+.entry_body code {
+  color:#fff;
+  font-size:14px;
+  line-height:17px;
+  font-family:Monaco, Courier, monospace;
+}
+
 .pagination {
   position:relative;
 }

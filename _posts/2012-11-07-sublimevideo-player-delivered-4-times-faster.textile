@@ -1,0 +1,27 @@
+---
+title: "SublimeVideo Player Delivered 4 Times Faster"
+title_html: "<span>SublimeVideo Player Delivered</span><span>4 Times Faster</span>"
+authors: The Jilion Team
+font_size: 36
+layout: post
+tags:
+- SublimeVideo
+---
+
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/11/sublimevideo-edgecast-response-time.png" alt="SublimeVideo CDN Response Time" />
+
+<em class="caption">Worldwide Average Response Time</em>
+
+In an effort to continue improving our service, we switched our Content Delivery Network provider to "EdgeCast":http://www.edgecast.com. Even though you may not have noticed any change, according to our measures, this move has improved the delivery speed of SublimeVideo Player which is now about *4 times faster* (please note that the impact may vary from one location to the next). Even though the player transfer time may be imperceptible, we believe it will help you improve the overall performance of your web site for all your users, worldwide. 
+
+While the move was transparent to most users, those using "SSL or mixed environments":http://docs.sublimevideo.net/ssl with both HTTP and HTTPS will have a minor change to make in their site to fully benefit of faster loading.
+
+h4. Update your loader code
+
+Until now, the player loaders had to be different for SSL, non-SSL or mixed delivery. With EdgeCast these delivery types are now unified and the Player can be loaded with the following new *single line of code which will work under all circumstances*:
+<div class="code"><code><script type="text/javascript" src="//cdn.sublimevideo.net/js/YOUR_TOKEN.js"></script></code></div>
+and which shall now replace your former SSL loader call or even your former mixed load call.
+
+Please apply this change to your site in order to benefit of this *speed improvement* on SSL delivery as well. We would like to encourage all our clients using SSL to switch from our former CDN to EdgeCast before the end of the year.
+
+Please let us know if you have any comments or questions about this change or infrastructure improvement.
