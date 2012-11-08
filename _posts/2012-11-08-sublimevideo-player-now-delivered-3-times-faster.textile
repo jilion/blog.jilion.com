@@ -1,6 +1,6 @@
 ---
-title: "SublimeVideo Player Delivered 3 Times Faster"
-title_html: "<span>SublimeVideo Player Delivered</span><span>3 Times Faster</span>"
+title: "SublimeVideo Player Now Delivered 3 Times Faster"
+title_html: "<span>SublimeVideo Player Now Delivered</span><span>3 Times Faster</span>"
 authors: The Jilion Team
 font_size: 36
 layout: post
