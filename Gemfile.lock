@@ -63,7 +63,6 @@ GEM
     powder (0.1.8)
       thor (>= 0.11.5)
     rack (1.4.1)
-    rake (0.9.2.2)
     rest-client (1.6.7)
       mime-types (>= 1.16)
     rubyzip (0.9.9)
@@ -93,6 +92,5 @@ DEPENDENCIES
   jekyll_ext
   powder
   rack-jekyll!
-  rake
   thin
   uglifier
