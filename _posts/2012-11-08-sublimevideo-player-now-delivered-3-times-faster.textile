@@ -12,7 +12,7 @@ p(center). <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/11/sub
 
 <em class="caption">Worldwide Average Response Time</em>
 
-In an effort to continue improving our service, we switched our Content Delivery Network provider to "EdgeCast":http://www.edgecast.com. Even though you may not have noticed any change, according to our measures, this move has improved the delivery speed of SublimeVideo Player which is now about *3 times faster* (please note that the impact may vary from one location to the next). Even though the player transfer time may be imperceptible, we believe it will help you improve the overall performance of your web site for all your users, worldwide. 
+In an effort to continue improving our service, we switched our Content Delivery Network provider to "EdgeCast":http://www.edgecast.com. You may not have noticed any change, according to our measures, this move has improved the delivery speed of SublimeVideo Player which is now about *3 times faster* (please note that the impact may vary from one location to the next). Even though the player transfer time may be imperceptible, we believe it will help you improve the overall performance of your web site for all your users, worldwide. 
 
 While the move was transparent to most users, those using SSL or mixed environments with both HTTP and HTTPS will have a minor change to make in their site to fully benefit of faster loading.
 
@@ -24,4 +24,4 @@ and which shall now replace your former SSL loader call or even your former mixe
 
 Please apply this change to your site in order to benefit of this *speed improvement* on SSL delivery as well. We would like to encourage all our clients using SSL to switch from our former CDN to EdgeCast before the end of the year.
 
-Please let us know if you have any comments or questions about this change or infrastructure improvement.
+Please let us know if you have any comments or questions about this infrastructure improvement.
