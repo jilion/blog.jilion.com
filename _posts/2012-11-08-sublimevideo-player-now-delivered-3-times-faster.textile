@@ -8,7 +8,7 @@ tags:
 - SublimeVideo
 ---
 
-p(center). <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/11/sublimevideo-edgecast-response-time.png" alt="SublimeVideo CDN Response Time" class="center" />
+p(center). <img src="http://blog.medias.jilion.com/uploads/2012/11/sublimevideo-edgecast-response-time.png" alt="SublimeVideo CDN Response Time" class="center" />
 
 <em class="caption">Worldwide Average Response Time</em>
 
