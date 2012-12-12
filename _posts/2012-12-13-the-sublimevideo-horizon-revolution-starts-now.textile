@@ -9,6 +9,7 @@ tags:
 - SublimeVideo
 ---
 
+<a href="http://sublimevideo.net"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/12/sublimevideo_horizon.jpg" alt="SublimeVideo Horizon" /></a>
 This is simply the *biggest and most important series of announcements we ever made*!
 
 We will blog everything in more detail in the days to come, but here’s what is in the menu already!
@@ -27,13 +28,13 @@ Want to see it in action? Test and play with our *launch partners tailor-made pl
 
 Are you enjoying *Horizon's incredible vector graphic technology?* so learn more about *Horizon Framework's awesome HTML5 technology*, why someone had to build it and what are its unique benefits, right on "SublimeVideo Horizon’s page":http://sublimevideo.net/horizon-framework.
 
-Introducing *"Tailor-made SublimeVideo Player for brands":http://sublimevideo.net/tailor-made-players*! If you’re an agency and *want to team-up in building the most amazing tailor-made HTML5 video players for your customers*, visit our "Tailor-Made Players page":http://sublimevideo.net/tailor-made-players and "contact us":http://sublimevideo.net/tailor-made-players-requests/new.
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/12/sublimevideo_tailor_made_players.jpg" alt="SublimeVideo Horizon" style="float:right;margin:0 -15px 0 0" /> Introducing *"Tailor-made SublimeVideo Player for brands":http://sublimevideo.net/tailor-made-players*! If you’re an agency and *want to team-up in building the most amazing tailor-made HTML5 video players for your customers*, visit our "Tailor-Made Players page":http://sublimevideo.net/tailor-made-players and "contact us":http://sublimevideo.net/tailor-made-players-requests/new.
 
 Now what about our SublimeVideo Cloud player service for every website? We don’t forget our loyal users:
 Introducing *"the new Modular SublimeVideo Player":http://sublimevideo.net/modular-player (in beta)*!
-Yes, it is now based on Horizon’s technology too! And that’s why we call it modular, as it has become... fully modular. That means *we completely changed its "pricing":http://sublimevideo.net/pricing model* too! *You now only pay for the features you need!* So "sign up":http://sublimevideo.net/signup now and *start assembling your player using add-ons now!*
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/12/sublimevideo_modular_player.jpg" alt="SublimeVideo Modular Player" style="float:left;margin:20px 10px -30px -10px" /> Yes, it is now based on Horizon’s technology too! And that’s why we call it modular, as it has become... fully modular. That means *we completely changed its "pricing":http://sublimevideo.net/pricing model* too! *You now only pay for the features you need!* So "sign up":http://sublimevideo.net/signup now and *start assembling your player using add-ons now!*
 
-And don’t miss our new player designs! *Horizon makes any design possible*, working perfectly on any platform! We still provide the “Classic” player and *are today introducing two new player designs, the "Flat" and "Light" players*.
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/12/sublimevideo_new_players.jpg" alt="SublimeVideo New Player Designs" style="float:right;margin:0 -10px 0 10px" /> And don’t miss our new player designs! *Horizon makes any design possible*, working perfectly on any platform! We still provide the “Classic” player and *are today introducing two new player designs, the "Flat" and "Light" players*.
 
 *Learn more all about its other new features* on the "SublimeVideo Modular Player page":http://sublimevideo.net/modular-player!
 
@@ -42,7 +43,7 @@ Oh, and don’t forget to have a glimpse to *the new add-ons coming-up next, in 
 Last but not least *did someone said YouTube?*
 What? YouTube?
 
-Yes, this is H-U-G-E: Now you don’t have to choose anymore between SublimeVideo or YouTube. The great folks at YouTube have made an amazing job and just updated their API: *The YouTube player API is now supporting HTML5 and we are now delivering seamless integration with YouTube within SublimeVideo!*
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/12/sublimevideo_youtube.jpg" alt="SublimeVideo YouTube" style="float:left;margin:10px 18px 0 0px" /> Yes, this is H-U-G-E: Now you don’t have to choose anymore between SublimeVideo or YouTube. The great folks at YouTube have made an amazing job and just updated their API: *The YouTube player API is now supporting HTML5 and we are now delivering seamless integration with YouTube within SublimeVideo!*
 
 That means you can now *use YouTube to host your videos and use SublimeVideo as your ultimate branded player! The best of both worlds!*
 
