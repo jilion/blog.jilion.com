@@ -49,4 +49,4 @@ We also completely updated the SublimeVideo Modular Player "pricing model":http:
 
 This is just the beginning of our journey, there is much work ahead. Stay tuned because 2013 should be full of great news for our users.
 
-In the meantime, we wish you Happy HTML5 Holidays with SublimeVideo Horizon and all its new features
+In the meantime, we wish you Happy HTML5 Holidays with SublimeVideo Horizon and all its new features!
