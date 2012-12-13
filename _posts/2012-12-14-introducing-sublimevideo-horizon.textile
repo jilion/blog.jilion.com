@@ -27,7 +27,7 @@ SublimeVideo Horizon brings the overall web video experience miles ahead of the 
 
 <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/12/sublimevideo_tailor_made_players.jpg" alt="SublimeVideo Horizon Tailor-Made Players" style="float:right;margin:-50px -20px -50px 0" /> Don’t miss our "launch partners’ player showcases":http://sublimevideo.net/tailor-made-players!
 
- If you’re an agency and want to team-up to build the most amazing HTML5 video branded players for your customers, start by visiting our "tailor-made player page":http://sublimevideo.net/tailor-made-players and "contact us":http://sublimevideo.net/tailor-made-players-requests/new.
+If you’re an agency and want to team-up to build the most amazing HTML5 video branded players for your customers, start by visiting our "tailor-made player page":http://sublimevideo.net/tailor-made-players and "contact us":http://sublimevideo.net/tailor-made-players-requests/new.
 
 h3. Modular Video Player
 
