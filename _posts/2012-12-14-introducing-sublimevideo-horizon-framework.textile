@@ -1,9 +1,9 @@
 ---
-title: "Introducing SublimeVideo Horizon"
-title_html: "<span>Introducing SublimeVideo Horizon</span>"
+title: "Introducing SublimeVideo Horizon Framework"
+title_html: "<span>Introducing SublimeVideo</span> <span>Horizon Framework</span>"
 sub_title: "The Framework technology that finally sparks the HTML5 Video Revolution"
 authors: The Jilion Team
-font_size: 38
+font_size: 45
 layout: post
 tags:
 - SublimeVideo
