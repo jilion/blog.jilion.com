@@ -9,7 +9,7 @@ tags:
 - SublimeVideo
 ---
 
-<a href="http://sublimevideo.net"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/12/sublimevideo_horizon.jpg" alt="SublimeVideo Horizon" /></a>
+<a href="http://sublimevideo.net"><img src="http://blog.medias.jilion.com/uploads/2012/12/sublimevideo_horizon.jpg" alt="SublimeVideo Horizon" /></a>
 
 This is simply the most important series of announcements we ever made!
 
@@ -17,31 +17,31 @@ h3. SublimeVideo Horizon
 
 After more than a year of hard work, we couldn’t be more excited and proud to announce the release of "SublimeVideo Horizon":http://sublimevideo.net/horizon-framework.
 
-<a href="http://sublimevideo.net/#horizon-video"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/12/sublimevideo_horizon_video.jpg" alt="SublimeVideo Horizon Video" style="float:left;margin:12px 33px 10px 0" class="no_rounded" /></a> SublimeVideo Horizon is the Holy Grail for HTML5 Video Players: It allows, for the very first time, the creation of any player you can imagine, by providing *total design freedom and features modularity, that just work with pixel-perfect vector graphic rendering, on any browser* including legacy IE6 and the latest mobile platforms, including Apple iPads, Google Nexus and Microsoft Surface tablets.
+<a href="http://sublimevideo.net/#horizon-video"><img src="http://blog.medias.jilion.com/uploads/2012/12/sublimevideo_horizon_video.jpg" alt="SublimeVideo Horizon Video" style="float:left;margin:12px 33px 10px 0" class="no_rounded" /></a> SublimeVideo Horizon is the Holy Grail for HTML5 Video Players: It allows, for the very first time, the creation of any player you can imagine, by providing *total design freedom and features modularity, that just work with pixel-perfect vector graphic rendering, on any browser* including legacy IE6 and the latest mobile platforms, including Apple iPads, Google Nexus and Microsoft Surface tablets.
 Learn more by "watching our intro video":http://sublimevideo.net/#horizon-video.
 
 h3. Tailor-made Players
 
-<a href="http://sublimevideo.net/tailor-made-players"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/12/sublimevideo_tailor_made_showcases.jpg" alt="SublimeVideo Horizon Tailor-Made Showcases" /></a>
+<a href="http://sublimevideo.net/tailor-made-players"><img src="http://blog.medias.jilion.com/uploads/2012/12/sublimevideo_tailor_made_showcases.jpg" alt="SublimeVideo Horizon Tailor-Made Showcases" /></a>
 SublimeVideo Horizon brings the overall web video experience miles ahead of the current solutions, making SublimeVideo the most advanced HTML5 video player solution on the market.
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/12/sublimevideo_tailor_made_players.jpg" alt="SublimeVideo Horizon Tailor-Made Players" style="float:right;margin:-50px -20px -50px 0" /> Don’t miss our "launch partners’ player showcases":http://sublimevideo.net/tailor-made-players!
+<img src="http://blog.medias.jilion.com/uploads/2012/12/sublimevideo_tailor_made_players.jpg" alt="SublimeVideo Horizon Tailor-Made Players" style="float:right;margin:-50px -20px -50px 0" /> Don’t miss our "launch partners’ player showcases":http://sublimevideo.net/tailor-made-players!
 
 If you’re an agency and want to team-up to build the most amazing HTML5 video branded players for your customers, start by visiting our "tailor-made player page":http://sublimevideo.net/tailor-made-players and "contact us":http://sublimevideo.net/tailor-made-players-requests/new.
 
 h3. Modular Video Player
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/12/sublimevideo_modular_player.jpg" alt="SublimeVideo Modular Player" style="float:left;margin:0px 15px -30px -10px" /> Today, we are also announcing our new "SublimeVideo Modular Player":http://sublimevideo.net/modular-player, which has been rewritten from the ground-up with Horizon’s technology. It’s more reliable than ever, it vastly improves mobile support and adds a lot of new features, thanks to its new modular architecture, including:
+<img src="http://blog.medias.jilion.com/uploads/2012/12/sublimevideo_modular_player.jpg" alt="SublimeVideo Modular Player" style="float:left;margin:0px 15px -30px -10px" /> Today, we are also announcing our new "SublimeVideo Modular Player":http://sublimevideo.net/modular-player, which has been rewritten from the ground-up with Horizon’s technology. It’s more reliable than ever, it vastly improves mobile support and adds a lot of new features, thanks to its new modular architecture, including:
 
 h4. Youtube Integration
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/12/sublimevideo_youtube.jpg" alt="SublimeVideo YouTube" style="float:right;margin:10px 10px 0 10px" /> This is pretty big! Now you no longer have to choose between SublimeVideo and YouTube. The great folks at YouTube have recently made an amazing job of updating their Player API in order to go beyond Flash-only integrations. Thanks to that, we are now delivering seamless "YouTube integration with SublimeVideo":http://sublimevideo.net/youtube. Just specify the YouTube video's ID and that's it!
+<img src="http://blog.medias.jilion.com/uploads/2012/12/sublimevideo_youtube.jpg" alt="SublimeVideo YouTube" style="float:right;margin:10px 10px 0 10px" /> This is pretty big! Now you no longer have to choose between SublimeVideo and YouTube. The great folks at YouTube have recently made an amazing job of updating their Player API in order to go beyond Flash-only integrations. Thanks to that, we are now delivering seamless "YouTube integration with SublimeVideo":http://sublimevideo.net/youtube. Just specify the YouTube video's ID and that's it!
 
 This means you can now have the best of both worlds, using YouTube to host your videos and SublimeVideo as your unrivaled branded player!
 
 h4. Player Designs
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2012/12/sublimevideo_new_players.jpg" alt="SublimeVideo New Player Designs" style="float:left;margin:0 20px 0 -10px" /> Horizon makes any player design possible, working perfectly on "any browser and the latest mobile devices":http://docs.sublimevideo.net/beta/supported-platforms. Today, along with our current “Classic” player, we now offer two new designs, the "“Flat” and “Light” Player":http://sublimevideo.net/modular-player#player_designs, with more designs to come.
+<img src="http://blog.medias.jilion.com/uploads/2012/12/sublimevideo_new_players.jpg" alt="SublimeVideo New Player Designs" style="float:left;margin:0 20px 0 -10px" /> Horizon makes any player design possible, working perfectly on "any browser and the latest mobile devices":http://docs.sublimevideo.net/beta/supported-platforms. Today, along with our current “Classic” player, we now offer two new designs, the "“Flat” and “Light” Player":http://sublimevideo.net/modular-player#player_designs, with more designs to come.
 
 h4. Add-on Pricing Model
 
