@@ -20,7 +20,7 @@ Today we are thrilled to announce the availability of the new ""Social Sharing A
 
 Social sharing buttons are one of the "most requested features":https://getsatisfaction.com/sublimevideo/ideas/popular. With the new add-on, you can provide your users with the ability to share your videos on popular social networks, such as Twitter, Facebook, Google+ or Pinterest, directly from the player. Now, when your video is embedded on an external site, people can share it without having to go back to your site. It's even more flexible thanks to an option that allows you to display a direct link to the video page so your audience can share the video wherever they want (by email for instance). And of course, this add-on works everywhere, including on the latest mobile platforms.
 
-<img src="http://blog.medias.jilion.com/uploads/2013/02/samsung-galaxy-s3-sublimevideo-social-sharing.png" alt="SublimeVideo Social Sharing Add-on on Samsung Galaxy S3" class="no_rounded" />
+<img src="http://blog.medias.jilion.com/uploads/2013/02/samsung-galaxy-s3-sublimevideo-social-sharing-1.png" alt="SublimeVideo Social Sharing Add-on on Samsung Galaxy S3" class="no_rounded" />
 
 "It's available now":http://sublimevideo.net/pricing and we are offering a 30-day free trial, like all our paid add-ons.
 
