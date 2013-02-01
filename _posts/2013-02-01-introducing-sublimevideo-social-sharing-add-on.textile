@@ -14,7 +14,7 @@ As you guys probably saw, last month we released the "SublimeVideo Horizon Frame
 
 Thanks to the new architecture, we are now able to build rock-solid, cross-platform new features very easily.
 
-Today we are thrilled to announce the availability of the new ""Social Sharing Add-on!":http://sublimevideo.net/modular-player#social_sharing"
+Today we are thrilled to announce the availability of the new "Social Sharing Add-on":http://sublimevideo.net/modular-player#social_sharing!
 
 <img src="http://blog.medias.jilion.com/uploads/2013/02/social-sharing-screenshot-1.jpg" alt="SublimeVideo Social Sharing Add-on" class="no_rounded" />
 
