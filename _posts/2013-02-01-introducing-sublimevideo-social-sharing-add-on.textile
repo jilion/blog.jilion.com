@@ -8,15 +8,19 @@ tags:
 - SublimeVideo
 ---
 
-<a href="http://sublimevideo.net/modular-player"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/02/sublimevideo-social-sharing-add-on.jpg" alt="SublimeVideo Social Sharing Add-on" style="float:left;margin:20px 30px 0 0" /></a>
+<a href="http://sublimevideo.net/modular-player#social_sharing"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/02/sublimevideo-social-sharing-add-on.jpg" alt="SublimeVideo Social Sharing Add-on" style="float:left;margin:20px 30px 0 0" /></a>
 
 As you guys probably saw, last month we released the "SublimeVideo Horizon Framework":http://sublimevideo.net/horizon-framework as well as our new "SublimeVideo Modular Player":http://sublimevideo.net/modular-player that has been entirely rewritten with SublimeVideo Horizon's technology.
 
 Thanks to the new architecture, we are now able to build rock-solid, cross-platform new features very easily.
 
-Today we are thrilled to announce the availability of the new "Social Sharing Add-on!"
+Today we are thrilled to announce the availability of the new ""Social Sharing Add-on!":http://sublimevideo.net/modular-player#social_sharing"
+
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/02/social-sharing-screenshot-1.jpg" alt="SublimeVideo Social Sharing Add-on" class="no_rounded" />
 
 Social sharing buttons are one of the "most requested features":https://getsatisfaction.com/sublimevideo/ideas/popular. With the new add-on, you can provide your users with the ability to share your videos on popular social networks, such as Twitter, Facebook, Google+ or Pinterest, directly from the player. Now, when your video is embedded on an external site, people can share it without having to go back to your site. It's even more flexible thanks to an option that allows you to display a direct link to the video page so your audience can share the video wherever they want (by email for instance). And of course, this add-on works everywhere, including on the latest mobile platforms.
+
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/02/samsung-galaxy-s3-sublimevideo-social-sharing.png" alt="SublimeVideo Social Sharing Add-on on Samsung Galaxy S3" class="no_rounded" />
 
 "It's available now":http://sublimevideo.net/pricing and we are offering a 30-day free trial, like all our paid add-ons.
 
