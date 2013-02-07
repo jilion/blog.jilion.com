@@ -16,7 +16,7 @@ Many are already providing an option allowing to embed SublimeVideo players, but
 
 <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/02/embed-addon-sublimevideo-screenshot.jpg" alt="SublimeVideo Embed Add-on Screenshot" class="no_rounded" />
 
-Today we've solved this issue by releasing our new free Embed Add-on, which will provide you an in-player embed button which will stick to your video wherever it is embedded. Moreover, we added an option for your users to choose a custom size before embedding the video. The only thing you have to provide is a url on your HTML page that will be used for the embed iframe, learn more about this "in our documentation":http://docs.sublimevideo.net/beta/addons/embed.
+Today we've solved this issue by releasing our new free Embed Add-on, which will provide you with an in-player embed button that will stick to your video wherever it is embedded. Moreover, we added an option for your users to choose a custom size before embedding the video. The only thing you have to provide is a url on your HTML page that will be used for the embed iframe, learn more about this "in our documentation":http://docs.sublimevideo.net/beta/addons/embed.
 
 And of course, thanks to our powerful and unique cross-platform support, this Add-on works everywhere, including the latest mobile platforms!
 
