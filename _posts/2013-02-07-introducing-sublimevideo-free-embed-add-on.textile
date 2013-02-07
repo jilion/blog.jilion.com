@@ -8,15 +8,15 @@ tags:
 - SublimeVideo
 ---
 
-<a href="http://sublimevideo.net/modular-player#embed"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/02/embed-addon-sublimevideo.jpg" alt="SublimeVideo Embed Add-on" style="float:left;margin:5px 30px -10px 0" /></a>
+<a href="http://sublimevideo.net/modular-player#embed"><img src="http://blog.medias.jilion.com/uploads/2013/02/embed-addon-sublimevideo.jpg" alt="SublimeVideo Embed Add-on" style="float:left;margin:5px 30px -10px 0" /></a>
 
 Last Friday, we released our "Social Sharing Add-on":http://blog.jilion.com/2013/02/01/introducing-sublimevideo-social-sharing-add-on. Today we are pleased to release our brand new "Embed Add-on":http://sublimevideo.net/modular-player#embed. This Add-on will be free for all our users.
 
 Many are already providing an option allowing to embed SublimeVideo players, but until today the only way to do that was to manually provide a code outside the player, which is not exactly straightforward. Plus, as soon as the video was embedded somewhere it was in most cases impossible to re-embed it again, drastically limiting the sharing range of the video.
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/02/embed-addon-sublimevideo-screenshot.jpg" alt="SublimeVideo Embed Add-on Screenshot" class="no_rounded" />
+<img src="http://blog.medias.jilion.com/uploads/2013/02/embed-addon-sublimevideo-screenshot.jpg" alt="SublimeVideo Embed Add-on Screenshot" class="no_rounded" />
 
-Today we've solved this issue by releasing our new free Embed Add-on, which will provide you with an in-player embed button that will stick to your video wherever it is embedded. Moreover, we added an option for your users to choose a custom size before embedding the video. The only thing you have to provide is a url on your HTML page that will be used for the embed iframe, learn more about this "in our documentation":http://docs.sublimevideo.net/beta/addons/embed.
+Today we've solved this issue by releasing our new free Embed Add-on, which will provide you with an in-player embed button that will stick to your video wherever it is embedded. Moreover, we added an option for your users to choose a custom size before embedding the video. The only thing you have to provide is a URL on your HTML page that will be used for the embed iframe, learn more about this "in our documentation":http://docs.sublimevideo.net/beta/addons/embed.
 
 And of course, thanks to our powerful and unique cross-platform support, this Add-on works everywhere, including the latest mobile platforms!
 
