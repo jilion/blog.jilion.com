@@ -8,7 +8,7 @@ tags:
 - SublimeVideo
 ---
 
-<a href="http://sublimevideo.net/"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/02/sublimevideo-exit-beta.jpg" alt="SublimeVideo Embed Add-on" style="float:left;margin:18px 30px -10px 0" /></a>
+<a href="http://sublimevideo.net/"><img src="http://blog.medias.jilion.com/uploads/2013/02/sublimevideo-exit-beta.jpg" alt="SublimeVideo Embed Add-on" style="float:left;margin:18px 30px -10px 0" /></a>
 
 Two months ago we launched the beta of our new "SublimeVideo Modular Player":http://sublimevideo.net/modular-player. It was entirely rewritten using our new "SublimeVideo Horizon Framework":http://sublimevideo.net/horizon-framework, providing a much more scalable architecture and some unique features on the market.
 
