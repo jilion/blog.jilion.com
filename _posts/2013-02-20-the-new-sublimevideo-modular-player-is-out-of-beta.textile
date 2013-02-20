@@ -1,0 +1,32 @@
+---
+title: "The new SublimeVideo Modular Player is out of beta!"
+title_html: "<span>The new SublimeVideo</span> <span>Modular Player is out of beta!</span>"
+authors: The Jilion Team
+font_size: 41
+layout: post
+tags:
+- SublimeVideo
+---
+
+<a href="http://sublimevideo.net/"><img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/02/sublimevideo-exit-beta.jpg" alt="SublimeVideo Embed Add-on" style="float:left;margin:18px 30px -10px 0" /></a>
+
+Two months ago we launched the beta of our new "SublimeVideo Modular Player":http://sublimevideo.net/modular-player. It was entirely rewritten using our new "SublimeVideo Horizon Framework":http://sublimevideo.net/horizon-framework, providing a much more scalable architecture and some unique features on the market.
+
+After just 2 month, we are very happy to announce our new player is ready for prime time and is going out of beta today!
+We are quite happy with the performance of our new SublimeVideo Horizon technology and we are ending the beta period earlier than we expected.
+
+This means all our users have been automatically upgraded to the new player and everybody can start enjoying "all its new features":http://sublimevideo.net/modular-player, including:
+
+* the much improved mobile support with no feature or design degradation on the latest mobile platform
+* the world's first cross-platform vector graphic engine delivering a perfect user experience, from legacy browsers (such as IE 6) up to the latest mobile platforms (such as Android 4+ smartphones or iPads)
+* our seamless YouTube integration
+* new player designs options
+* the ability to display your logo on video
+* adding embed and social sharing features
+* keyboard control on desktop
+* advanced responsive layout support
+* and much more new features in the coming months!
+
+Learn more about "all these features":http://sublimevideo.net/modular-player.
+
+PS: A note to our beta users: we recommend that you update your loader to remove the "-beta" part in the URL.
