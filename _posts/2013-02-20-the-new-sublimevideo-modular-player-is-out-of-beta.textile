@@ -12,21 +12,21 @@ tags:
 
 Two months ago we launched the beta of our new "SublimeVideo Modular Player":http://sublimevideo.net/modular-player. It was entirely rewritten using our new "SublimeVideo Horizon Framework":http://sublimevideo.net/horizon-framework, providing a much more scalable architecture and some unique features on the market.
 
-After just 2 month, we are very happy to announce our new player is ready for prime time and is going out of beta today!
+After just two months, we are very happy to announce our new player is ready for prime time and is going out of beta today!
 We are quite happy with the performance of our new SublimeVideo Horizon technology and we are ending the beta period earlier than we expected.
 
 This means all our users have been automatically upgraded to the new player and everybody can start enjoying "all its new features":http://sublimevideo.net/modular-player, including:
 
-* the much improved mobile support with no feature or design degradation on the latest mobile platform
+* the much improved mobile support with no feature or design degradation on the latest mobile platforms
 * the world's first cross-platform vector graphic engine delivering a perfect user experience, from legacy browsers (such as IE 6) up to the latest mobile platforms (such as Android 4+ smartphones or iPads)
 * our seamless YouTube integration
-* new player designs options
+* two new player designs
 * the ability to display your logo on video
-* adding embed and social sharing features
+* embed and social sharing features
 * keyboard control on desktop
-* advanced responsive layout support
+* responsive layout support
 * and much more new features in the coming months!
 
 Learn more about "all these features":http://sublimevideo.net/modular-player.
 
-PS: A note to our beta users: we recommend that you update your loader to remove the "-beta" part in the URL.
+PS: A note to our beta users: we recommend that you update your loader code to remove the "-beta" part in the URL.
