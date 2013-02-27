@@ -1,6 +1,6 @@
 ---
-title: "Trial Duration and New Business Model"
-title_html: "<span>Trial Duration and</span> <span>New Business Model</span>"
+title: "Trial Duration with New Business Model"
+title_html: "<span>Trial Duration with</span> <span>New Business Model</span>"
 authors: The Jilion Team
 font_size: 44
 layout: post
