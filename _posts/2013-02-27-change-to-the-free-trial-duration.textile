@@ -17,6 +17,6 @@ Along the launch of our "SublimeVideo Horizon":http://sublimevideo.net/horizon-f
 
 The new add-ons metered model is really customers friendly: You assemble your player by shopping for the features you want and only pay for what you really need. Moreover you can activate or deactivate add-ons freely on a daily basis: There's *no rigid bundles anymore, which always contain a mix of useful and useless features*, your player's features set is exactly as you want it.
 
-With the previous pre-paid bundle approach, it made business sense to offer our customers a single 30-days free trial but with the fluid add-on based approach billed post-usage, 30 days is not necessary for our customers, especially as this *is no longer a single free trial but several free-trials which we offer you, on each paid add-on, separately*. For this reason we believe *the sweet spot is to have a week* to test an add-on.
+With the previous pre-paid bundle approach, it made business sense to offer our customers a single 30-days free trial but with the fluid add-on based approach billed post-usage, 30 days is not necessary, especially as this *is no longer a single free trial but several free-trials which we offer you, on each paid add-on, separately*. For this reason we believe *the sweet spot is to have a week* to test an add-on.
 
 All the paid add-ons you activate from today will have a 7-day free trial and any paid add-ons you activated previously will of course complete their previous 30-days duration.
