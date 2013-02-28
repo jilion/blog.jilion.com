@@ -18,7 +18,8 @@ This add-on opens the door for tons of possible applications, such as:
 
 * Your video presents a product? Now you can display purchase links, images or any other additional info about the product around the video.
 * Your video is showing a person speaking at a conference? Now you can synchronize the presentation slides next to the video.
-* It could also be used to dynamically display ad banners directly related to the content currently viewed by your audience.
+* You can use Cue Zones to create chapters in your video.
+* You could also use this add-on to dynamically display ad banners directly related to the content currently viewed by your audience.
 
 These are just some simple examples of how you can use the Cue Zones add-on but the possibilities are infinite! We are sure many of you already have a lot of cool ideas on how to use it and we look forward to seeing what you'll create with it. We invite you to "read the documentation":http://docs.sublimevideo.net/beta/addons/cue-zones to learn more and see some examples.
 
