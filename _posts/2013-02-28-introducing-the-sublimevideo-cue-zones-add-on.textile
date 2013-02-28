@@ -12,7 +12,7 @@ tags:
 
 A lot of you asked for cue points support. Today we are pleased to introduce our new "Cue Zones add-on":http://sublimevideo.net/modular-player#cue_zones, which allows to handle cue points in a more powerful way.
 
-A cue point is a user defined "marker" at a specific time in the video when a custom event is designed to occur: you can perform a JavaScript action once the playback reaches that point of the video. The Cue Zones add-on allows you to define not only a starting but also an ending point - hence "zones" - in your video where those custom actions should start and end occurring. 
+A cue point is a user defined marker at a specific time in the video when a custom event is designed to occur: you can perform a JavaScript action once the playback reaches that point of the video. The Cue Zones add-on allows you to define not only a starting but also an ending point - hence "zones" - in your video where those custom actions should start and end occurring. 
 
 This add-on opens the door for tons of possible applications, such as:
 
