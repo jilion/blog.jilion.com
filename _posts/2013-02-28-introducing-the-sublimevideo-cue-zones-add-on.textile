@@ -1,0 +1,27 @@
+---
+title: "Introducing the SublimeVideo Cue Zones Add-on"
+title_html: "<span>Introducing the SublimeVideo</span> <span>Cue Zones Add-on</span>"
+authors: The Jilion Team
+font_size: 44
+layout: post
+tags:
+- SublimeVideo
+---
+
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/02/sublimevideo-cue-zones.jpg" alt="Introducing the SublimeVideo Cue Zones Add-on" style="float:left;margin:10px 15px 0 -17px;" /> February has been a pretty nice month for us: we released two new add-ons ("Social sharing":http://blog.jilion.com/2013/02/01/introducing-sublimevideo-social-sharing-add-on and "Embed":http://blog.jilion.com/2013/02/07/introducing-sublimevideo-free-embed-add-on) and "exited the beta":http://blog.jilion.com/2013/02/20/the-new-sublimevideo-modular-player-is-out-of-beta of our new "SublimeVideo Modular Player":http://sublimevideo.net/modular-player. Well, we actually have one more thing in store for you before the end of the month!
+
+A lot of "you asked for cue points":https://getsatisfaction.com/sublimevideo/topics/_upcoming_feature_cuepoints_comments_suggestions support. Today we are pleased to introduce our new "Cue Zones add-on":http://sublimevideo.net/modular-player#cue_zones, which allows to handle cue points in a more powerful way.
+
+A cue point is a user defined "marker" at a specific time in the video when a custom event is designed to occur: you can perform a JavaScript action once the playback reaches that point of the video. The Cue Zones add-on allows you to define not only a starting but also an ending point - hence "zones" - in your video where those custom actions should start and end occurring. 
+
+This add-on opens the door for tons of possible applications, such as:
+
+* Your video presents a product? Now you can display purchase links, images or any other additional info about the product around the video.
+* Your video is showing a person speaking at a conference? Now you can synchronize the presentation slides next to the video.
+* It could also be used to dynamically display ad banners directly related to the content currently viewed by your audience.
+
+These are just some simple examples of how you can use the Cue Zones add-on but the possibilities are infinite! We are sure many of you already have a lot of cool ideas on how to use it and we look forward to seeing what you'll create with it. We invite you to "read the documentation":http://docs.sublimevideo.net/beta/addons/cue-zones to learn more and see some examples.
+
+"It’s now available":http://sublimevideo.net/pricing with a 7-day free trial, just like all our paid add-ons.
+
+We are happy to end February with 3 new add-ons and we look forward to releasing new features in the coming weeks. Stay tuned!
