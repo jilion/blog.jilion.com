@@ -1,0 +1,17 @@
+---
+title: "Introducing the one-click SublimeVideo Auto Embed Add-on"
+title_html: "<span>Introducing the one-click</span> <span>SublimeVideo Auto Embed Add-on</span>"
+authors: The Jilion Team
+font_size: 37
+layout: post
+tags:
+- SublimeVideo
+---
+
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/03/sublimevideo-auto-embed.png" alt="Introducing the one-click SublimeVideo Auto Embed Add-on" style="float:left;margin:0 15px 0 -17px;" /> On February 7th we released the "SublimeVideo Embed Add-on":http://blog.jilion.com/2013/02/07/introducing-sublimevideo-free-embed-add-on. Today we are going a step further with the brand new Auto Embed add-on!
+
+The free Embed add-on allows your audience to easily share your videos by embedding them into their own sites or elsewhere on the web. However, *like any other manual embed solution, this requires you to create a "special" HTML page and keep it in-sync* with the video you want to make embeddable. Let's be honest, that's *an annoying and repetitive task*! 
+
+Thanks to our new Auto Embed add-on and the power of SublimeVideo's Cloud architecture, *this is now a thing of the past!*: The new Auto Embed add-on *takes care of everything and manages all your embed files automatically* so you don't have to code or keep anything in-sync. Please learn more "in our documentation":http://docs.sublimevideo.net/addons/embed#auto-embedding.
+
+The Auto Embed add-on is "now available":http://sublimevideo.net/pricing with a 7-day free trial, just like all our paid add-ons. We hope you'll like it and we're really looking forward to hearing your feedback.
