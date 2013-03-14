@@ -1,7 +1,7 @@
 ---
 title: "Introducing the one-click SublimeVideo Auto Embed Add-on"
 title_html: "<span>Introducing SublimeVideo</span> <span> Auto Embed Add-on</span>"
-sub_title: "One-click, fully automatic video embedding solution"
+sub_title: "One-click, fully automatic video embedding service"
 authors: The Jilion Team
 font_size: 42
 layout: post
