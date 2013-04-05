@@ -9,14 +9,15 @@ tags:
 ---
 
 <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/04/sublimevideo-wordpress.png" alt="SublimeVideo WordPress" style="float:left;margin:-10px 25px 0 5px;" /> Since the release of the New SublimeVideo Player in December 2012, the WordPress plugin has received 4 major releases and 3 bug fixing releases ("view the full change log":http://docs.sublimevideo.net/wordpress#changelog).
+<div class="spacer"></div>
 
 h3. Better YouTube integration
 
-The latest major release (1.8.0) adds the YouTube integration right into the visual editor! Even though the YouTube integration was possible since the version 1.5.0 through a "shortcode setting":http://docs.sublimevideo.net/wordpress#shortcodes-attributes, the plugin was missing the nice UI touch that's already present in our "Video Publishing Assistant":http://docs.sublimevideo.net/video-publishing-assistant.
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/04/youtube.png" class="no_rounded" alt="SublimeVideo WordPress YouTube" style="float:left;margin:15px 25px 0 5px;" /> The latest major release (1.8.0) adds the YouTube integration right into the visual editor! Even though the YouTube integration was possible since the version 1.5.0 through a "shortcode setting":http://docs.sublimevideo.net/wordpress#shortcodes-attributes, the plugin was missing the nice UI touch that's already present in our "Video Publishing Assistant":http://docs.sublimevideo.net/video-publishing-assistant.
 
 h3. Open-sourcing the plugin
 
-Today, we are also very excited to open-source the "WordPress plugin on GitHub":https://github.com/jilion/sublimevideo-wordpress. We strongly believe in open-source projects and we think this will allow our users to directly propose new features and bug fixes right from the "project's issues tracker":https://github.com/jilion/sublimevideo-wordpress/issues!
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/04/github.png" class="no_rounded" alt="SublimeVideo on GitHub" style="float:left;margin:15px 25px 0 5px;" /> Today, we are also very excited to open-source the "WordPress plugin on GitHub":https://github.com/jilion/sublimevideo-wordpress. We strongly believe in open-source projects and we think this will allow our users to directly propose new features and bug fixes right from the "project's issues tracker":https://github.com/jilion/sublimevideo-wordpress/issues!
 
 We hope you enjoy our SublimeVideo WordPress plugin, and if you do, please give it a good rating/review in the "WordPress plugins directory":http://wordpress.org/support/view/plugin-reviews/sublimevideo-official.
 
