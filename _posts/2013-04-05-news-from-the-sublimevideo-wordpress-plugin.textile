@@ -20,6 +20,6 @@ Today, we are also very excited to open-source the "WordPress plugin on GitHub":
 
 We hope you enjoy our SublimeVideo WordPress plugin, and if you do, please give it a good rating/review in the "WordPress plugins directory":http://wordpress.org/support/view/plugin-reviews/sublimevideo-official.
 
-If you have any comments or feedback, please let us know in our community forum [note: create the thread in the forum) or directly in the "GitHub project's issues tracker":https://github.com/jilion/sublimevideo-wordpress/issues.
+If you have any comments or feedback, please "let us know in our community forum":https://getsatisfaction.com/sublimevideo/topics/feedback_on_sublimevideos_wordpress_plugin or directly in the "GitHub project's issues tracker":https://github.com/jilion/sublimevideo-wordpress/issues.
 
 Note: The plugin is licensed under GPL2 (as requested by WordPress).
