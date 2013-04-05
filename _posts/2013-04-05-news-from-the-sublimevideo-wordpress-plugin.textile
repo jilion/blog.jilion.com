@@ -8,7 +8,7 @@ tags:
 - SublimeVideo
 ---
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/04/sublimevideo-wordpress.png" alt="SublimeVideo WordPress" style="float:left;margin:-10px 30px 0 5px;" /> Since the release of the New SublimeVideo Player in December 2012, the WordPress plugin has received 4 major releases and 3 bug fixing releases ("view the full change log":http://docs.sublimevideo.net/wordpress#changelog).
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/04/sublimevideo-wordpress.png" alt="SublimeVideo WordPress" style="float:left;margin:-10px 25px 0 5px;" /> Since the release of the New SublimeVideo Player in December 2012, the WordPress plugin has received 4 major releases and 3 bug fixing releases ("view the full change log":http://docs.sublimevideo.net/wordpress#changelog).
 
 h3. Better YouTube integration
 
