@@ -8,7 +8,7 @@ tags:
 - SublimeVideo
 ---
 
-<img src="http://blog.medias.jilion.com/uploads/2013/04/sublimevideo-wordpress.png" alt="SublimeVideo WordPress" style="float:left;margin:-10px 25px 0 5px;" /> When we launched the New SublimeVideo player in December, we initially wanted to release a new "Advanced Player API" add-on. After some more thoughts, we came to the conclusion that developers shouldn't have to pay for API methods! In fact, the Player API is a core feature that should allow any developer to create a great integration for SublimeVideo in their website.
+<img src="http://blog.medias.jilion.com/uploads/2013/04/sublimevideo-wordpress.png" alt="SublimeVideo WordPress" style="float:left;margin:-10px 25px 0 5px;" /> When we launched the new SublimeVideo player back in December, we initially wanted to release an "Advanced Player API" add-on. After some more thoughts, we came to the conclusion that developers shouldn't have to pay for API methods! In fact, the Player API is a core feature that should allow any developer to create a great integration for SublimeVideo in their website.
 
 That's why today we're really excited to add 5 new methods to the "SublimeVideo Player API":http://docs.sublimevideo.net/javascript-api/player:
 - "@seekTo()@":http://docs.sublimevideo.net/javascript-api/player#seekTo
