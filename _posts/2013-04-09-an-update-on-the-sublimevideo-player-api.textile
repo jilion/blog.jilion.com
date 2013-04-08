@@ -7,20 +7,19 @@ layout: post
 tags:
 - SublimeVideo
 ---
-
-<img src="http://blog.medias.jilion.com/uploads/2013/04/sublimevideo-wordpress.png" alt="SublimeVideo WordPress" style="float:left;margin:-10px 25px 0 5px;" /> When we launched the new SublimeVideo player back in December, we initially wanted to release an "Advanced Player API" add-on. After some more thoughts, we came to the conclusion that developers shouldn't have to pay for API methods! In fact, the Player API is a core feature that should allow any developer to create a great integration for SublimeVideo in their website.
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/04/sublimevideo-advanced-js-api.png" alt="SublimeVideo Advanced Player API" style="float:left;margin:8px 25px -20px 0px;" /> When we launched the new SublimeVideo player back in December, we initially wanted to release an "Advanced Player API" add-on. After some more thoughts, we came to the conclusion that developers shouldn't have to pay for API methods! In fact, the Player API is a core feature that should allow any developer to create a great integration for SublimeVideo in their website.
 
 That's why today we're really excited to add 5 new methods to the "SublimeVideo Player API":http://docs.sublimevideo.net/javascript-api/player:
-- "@seekTo()@":http://docs.sublimevideo.net/javascript-api/player#seekTo
-- "@duration()@":http://docs.sublimevideo.net/javascript-api/player#duration
-- "@playbackTime()@":http://docs.sublimevideo.net/javascript-api/player#playbackTime
-- "@videoWidth()@":http://docs.sublimevideo.net/javascript-api/player#videoWidth
-- "@videoHeight()@":http://docs.sublimevideo.net/javascript-api/player#videoHeight
+* "@seekTo()@":http://docs.sublimevideo.net/javascript-api/player#seekTo
+* "@duration()@":http://docs.sublimevideo.net/javascript-api/player#duration
+* "@playbackTime()@":http://docs.sublimevideo.net/javascript-api/player#playbackTime
+* "@videoWidth()@":http://docs.sublimevideo.net/javascript-api/player#videoWidth
+* "@videoHeight()@":http://docs.sublimevideo.net/javascript-api/player#videoHeight
 
 We're also adding 3 new events:
-- "@seek@":http://docs.sublimevideo.net/javascript-api/player#event-seek
-- "@metadata@":http://docs.sublimevideo.net/javascript-api/player#event-metadata
-- "@timeUpdate@":http://docs.sublimevideo.net/javascript-api/player#event-timeupdate
+* "@seek@":http://docs.sublimevideo.net/javascript-api/player#event-seek
+* "@metadata@":http://docs.sublimevideo.net/javascript-api/player#event-metadata
+* "@timeUpdate@":http://docs.sublimevideo.net/javascript-api/player#event-timeupdate
 
 These new methods and events are included in the SublimeVideo Player's core features and *immediately available to use for free*. Please give us your feedback "in our community forum":https://getsatisfaction.com/sublimevideo/topics/_upcoming_feature_advanced_player_api_comments_suggestions.
 
