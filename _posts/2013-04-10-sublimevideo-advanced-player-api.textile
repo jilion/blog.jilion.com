@@ -1,0 +1,28 @@
+---
+title: "SublimeVideo Advanced Player API"
+title_html: "<span>SublimeVideo Advanced Player API</span>"
+authors: Jilion Team
+font_size: 36
+layout: post
+tags:
+- SublimeVideo
+---
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/04/sublimevideo-advanced-js-api.png" alt="SublimeVideo Advanced Player API" style="float:left;margin:8px 25px -20px 0px;" /> We are very pleased to announce our advanced SublimeVideo Player API. It will consist in roughly 20 new API methods and 10 new events, extending our current API, giving you more control over your player and its integrations into your site. We are going to release them gradually over the coming weeks.
+
+"SublimeVideo Player API":http://docs.sublimevideo.net/javascript-api/player is part of our core player and is free to use for everybody. Today we start with 5 new methods and 3 new events:
+
+New methods:
+* "@seekTo()@":http://docs.sublimevideo.net/javascript-api/player#seekTo
+* "@duration()@":http://docs.sublimevideo.net/javascript-api/player#duration
+* "@playbackTime()@":http://docs.sublimevideo.net/javascript-api/player#playbackTime
+* "@videoWidth()@":http://docs.sublimevideo.net/javascript-api/player#videoWidth
+* "@videoHeight()@":http://docs.sublimevideo.net/javascript-api/player#videoHeight
+
+New events:
+* "@seek@":http://docs.sublimevideo.net/javascript-api/player#event-seek
+* "@metadata@":http://docs.sublimevideo.net/javascript-api/player#event-metadata
+* "@timeUpdate@":http://docs.sublimevideo.net/javascript-api/player#event-timeupdate
+
+Thank you to give us your feedback "in our community forum":https://getsatisfaction.com/sublimevideo/topics/_upcoming_feature_advanced_player_api_comments_suggestions.
+
+"Stay tuned":https://twitter.com/jilion for the upcoming Player API methods and events!
