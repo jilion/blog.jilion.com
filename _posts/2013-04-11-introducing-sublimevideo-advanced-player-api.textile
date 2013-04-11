@@ -1,8 +1,8 @@
 ---
-title: "SublimeVideo Advanced Player API"
-title_html: "<span>SublimeVideo Advanced Player API</span>"
+title: "Introducing SublimeVideo Advanced Player API"
+title_html: "<span>Introducing SublimeVideo</span> <span>Advanced Player API</span>"
 authors: Jilion Team
-font_size: 36
+font_size: 42
 layout: post
 tags:
 - SublimeVideo
