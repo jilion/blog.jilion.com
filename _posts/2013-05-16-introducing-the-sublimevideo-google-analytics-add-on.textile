@@ -16,9 +16,9 @@ Now, this is all taken care of for you with our new add-on, so you can be just o
 
 But there's more, it gets even more interesting when used along with other add-ons. For instance:
 
-* The "On-Video logo add-on":https://my.sublimevideo.net/addons/logo will report clicks on your logo.
-* The "Social sharing add-on":https://my.sublimevideo.net/addons/social_sharing will track clicks on sharing services icons.
-* The "Auto-embed add-on":https://my.sublimevideo.net/addons/embed will take care of reporting events under a special "SublimeVideo - external sources" category.
+* The "On-Video logo add-on":https://my.sublimevideo.net/addons/logo?public will report clicks on your logo.
+* The "Social sharing add-on":https://my.sublimevideo.net/addons/social_sharing?public will track clicks on sharing services icons.
+* The "Auto-embed add-on":https://my.sublimevideo.net/addons/embed?public will take care of reporting events under a special "SublimeVideo - external sources" category.
 
 And we will add tracking events for every new add-on (when it makes sense), so you don't really have to worry about updating your code every time you upgrade your player.
 
