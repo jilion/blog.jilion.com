@@ -7,8 +7,7 @@ layout: post
 tags:
 - SublimeVideo
 ---
-
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/05/sublimevideo-google-analytics.png" alt="SublimeVideo Google Analytics Add-on" style="float:left;margin:5px
+<img src="http://blog.medias.jilion.com/uploads/2013/05/sublimevideo-google-analytics.png" alt="SublimeVideo Google Analytics Add-on" style="float:left;margin:5px
  20px 0 0;" /> Google Analytics is a key product in the web analytics eco-system and SublimeVideo supports it almost since "its debut":http://docs.sublimevideo.net/google-analytics-integration but it was a manual and in some ways unpleasing process to perform.
 Today, we are pleased not only because we've been able to simplify this process, but also because we now provide you with some cool unique features compared to other video players, thanks to our new "Google Analytics add-on":http://sublimevideo.net/modular-player#google_analytics!
 
