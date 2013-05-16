@@ -1,0 +1,28 @@
+---
+title: "Introducing the SublimeVideo Google Analytics Add-on"
+title_html: "<span>Introducing the SublimeVideo</span> <span>Google Analytics Add-on</span>"
+authors: The Jilion Team
+font_size: 42
+layout: post
+tags:
+- SublimeVideo
+---
+
+<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/05/sublimevideo-google-analytics.png" alt="SublimeVideo Google Analytics Add-on" style="float:left;margin:5px
+ 20px 0 0;" /> Google Analytics is a key product in the web analytics eco-system and SublimeVideo supports it almost since "its debut":http://docs.sublimevideo.net/google-analytics-integration but it was a manual and in some ways unpleasing process to perform.
+Today, we are pleased not only because we've been able to simplify this process, but also because we now provide you with some cool unique features compared to other video players, thanks to our new Google Analytics add-on!
+
+Reading through the whole "Event Tracking guide":https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide of Google Analytics takes a lot of time and there are a lot of little details to take care of: event naming, bounce rate impact, events per session limit, etc.
+Now, this is all taken care of for you with our new add-on, so you can be just one click away (if you already have Google Analytics installed on your website) from performing events tracking on the core player including: video load, video start/end, source quality selection, etc.
+
+But there's more, it gets even more interesting when used along with other add-ons. For instance:
+
+* The "On-Video logo add-on":http://my.sublimevideo.net/addons/logo will report clicks on your logo.
+* The "Social sharing add-on":http://my.sublimevideo.net/addons/social-sharing will track clicks on sharing services icons.
+* The "Auto-embed add-on":http://my.sublimevideo.net/addons/auto-embed will take care of reporting events under a special "SublimeVideo - external sources" category.
+
+And we will add tracking events for every new add-on (when it makes sense), so you don't really have to worry about updating your code every time you upgrade your player.
+
+The SublimeVideo Google Analytics add-on is "now available":http://my.sublimevideo.net/addons/google-analytics with a 7-day free trial, just like all our paid add-ons.
+
+We hope you'll like it and we're looking forward to hearing your feedback. Happy analytics!
