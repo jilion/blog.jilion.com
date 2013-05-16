@@ -18,11 +18,11 @@ Now, this is all taken care of for you with our new add-on, so you can be just o
 But there's more, it gets even more interesting when used along with other add-ons. For instance:
 
 * The "On-Video logo add-on":http://my.sublimevideo.net/addons/logo will report clicks on your logo.
-* The "Social sharing add-on":http://my.sublimevideo.net/addons/social-sharing will track clicks on sharing services icons.
-* The "Auto-embed add-on":http://my.sublimevideo.net/addons/auto-embed will take care of reporting events under a special "SublimeVideo - external sources" category.
+* The "Social sharing add-on":http://my.sublimevideo.net/addons/social_sharing will track clicks on sharing services icons.
+* The "Auto-embed add-on":http://my.sublimevideo.net/addons/embed will take care of reporting events under a special "SublimeVideo - external sources" category.
 
 And we will add tracking events for every new add-on (when it makes sense), so you don't really have to worry about updating your code every time you upgrade your player.
 
-The SublimeVideo Google Analytics add-on is "now available":http://my.sublimevideo.net/addons/google-analytics with a 7-day free trial, just like all our paid add-ons.
+The SublimeVideo Google Analytics add-on is "now available":http://my.sublimevideo.net/addons/google_analytics with a 7-day free trial, just like all our paid add-ons.
 
 We hope you'll like it and we're looking forward to hearing your feedback. Happy analytics!
