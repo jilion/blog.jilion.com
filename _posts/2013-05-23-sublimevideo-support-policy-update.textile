@@ -1,0 +1,25 @@
+---
+title: "SublimeVideo support policy update"
+title_html: "<span>SublimeVideo support</span> <span>policy update</span>"
+authors: The Jilion Team
+font_size: 44
+layout: post
+tags:
+- SublimeVideo
+---
+<img src="http://cdn.sublimevideo.net/assets/features/support_icon-8e3d0bd5447820651a8fbd8554a4bf9c.jpg" alt="SublimeVideo support policy update" style="float:left;margin:5px 20px 0 0;" /> [&lt;- temporary icon!!] Today we would like to present our new SublimeVideo support policy.
+
+As a small team of 6 people, our current priority is to build the best video player service and we simply don't have the resources to reply to all our users via dedicated email support. That's the reason why we opened our "community forums":https://getsatisfaction.com/sublimevideo in November 2011. But even though our users like the community forum and are very active in it, we are still struggling to handle all the support requests we receive via email every day.
+
+That's why we think it's more sustainable in the long term to restrict "email support":http://docs.sublimevideo.net/addons/support#email-support to our users subscribed to at least one paid add-on. Also, we believe it's more fair for our customers to prioritize them since they're already paying for our service.
+
+Last but not least, we would like to clarify our SLA and expected response time regarding all our support channels:
+
+* "Community forums":https://getsatisfaction.com/sublimevideo and Twitter (you can tweet us "@jilion":https://twitter.com/jilion): We are monitoring them and do our best effort to answer your questions.
+* "Email support":http://docs.sublimevideo.net/addons/support#email-support: We will send you a personal response within the next 5 business days between 9pm and 6pm "CET":http://en.wikipedia.org/wiki/Central_European_Time.
+* "VIP email support":http://docs.sublimevideo.net/addons/support#vip-email-support: We guarantee you a response within the next business day between 9pm and 6pm CET.
+* "Enterprise email support":http://docs.sublimevideo.net/addons/support#enterprise-email-support: We guarantee you a 1-hour response time from Monday to Friday between 9pm and 9pm CET, and a 3-hours response time during the weekends between 9pm and 9pm CET.
+
+For more details about support hours, support coverage and guaranteed response times, please consult the "Support policy":http://docs.sublimevideo.net/support-policy page and the "Support add-on":http://docs.sublimevideo.net/addons/support page from our documentation.
+
+If you need any help getting started with SublimeVideo, you should definitely start by consulting our "documentation":http://docs.sublimevideo.net and our "Community forums":https://getsatisfaction.com/sublimevideo.
