@@ -1,6 +1,6 @@
-auto: true
-server: true
 permalink: pretty
 exclude: [README.md, config.ru, Gemfile, Gemfile.lock, Rakefile, assets.yml, assets, vendor, bundle]
 paginate: 10
 paginate_file: index.html
+s3_assets_url: http://blog.jilion.com.s3.amazonaws.com
+cdn_assets_url: http://blog.medias.jilion.com

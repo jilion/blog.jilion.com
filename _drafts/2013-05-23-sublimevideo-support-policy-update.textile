@@ -7,7 +7,7 @@ layout: post
 tags:
 - SublimeVideo
 ---
-<img src="http://cdn.sublimevideo.net/assets/features/support_icon-8e3d0bd5447820651a8fbd8554a4bf9c.jpg" alt="SublimeVideo support policy update" style="float:left;margin:5px 20px 0 0;" /> [&lt;- temporary icon!!] Today we would like to present our new SublimeVideo support policy.
+<img src="{{site.s3_assets_url}}/uploads/2013/05/sublimevideo-google-analytics.png" alt="SublimeVideo support policy update" style="float:left;margin:5px 20px 0 0;" /> [&lt;- temporary icon!!] Today we would like to present our new SublimeVideo support policy.
 
 As a small team of 6 people, our current priority is to build the best video player service and we simply don't have the resources to reply to all our users via dedicated email support. That's the reason why we opened our "community forums":https://getsatisfaction.com/sublimevideo in November 2011. But even though our users like the community forum and are very active in it, we are still struggling to handle all the support requests we receive via email every day.
 
