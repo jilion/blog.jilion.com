@@ -2,48 +2,41 @@
 
 ## Installation
 
-copy `.gitconfig` content to `.git/config`
+1. Copy `.gitconfig` content to `.git/config`: `cp .gitconfig .git/config`.
+2. Edit `.git/config` as necessary: `m .git/config`.
+3. Install the gems bundle: `bi`.
 
-``` bash
-bundle install
+## New post
+
+1. Create a new branch: `gco -b my-awesome-new-post`
+2. Create your new post in the `_posts` folder: `m _posts/2013-05-23-my-awesome-new-post.md`.
+3. Write the post.
+
+### Preview your post locally
+
+1. Launch the local `ejekyll` server: `be ejekyll serve --watch`.
+2. Visit http://localhost:4000: `open http://localhost:4000`.
+
+### Preview your post in staging
+
+```bash
+gp staging && heroku apps:open --app jilion-blog-staging
 ```
 
-## Development
+## Publish your post
 
-Regenerate (inside _site) & launch dev server (http://localhost:4000):
+1. CDNize the assets URLs. ProTip: replace `{{site.s3_assets_url}}` with
+  `{{site.cdn_assets_url}}` in your post.
+2. Preview your post in staging to ensure all is good (see above for
+  instructions).
+3. Once the post is validated. Merge your branch into master: `gco master && gm
+  my-awesome-new-post`
+4. Deploy to Heroku: `gp production && open http://blog.jilion.com`
+5. Enjoy and don't forget to tweet about the post!
 
-``` bash
-bundle exec ejekyll
-```
+## Additional resources
 
-Regenerate as production env (for testing):
-
-``` bash
-RACK_ENV=production TIMESTAMP=123456 bundle exec ejekyll --no-server --no-auto
-```
-
-## Documentations
-
-- [http://jekyllrb.com](http://jekyllrb.com)
-- [http://wiki.github.com/mojombo/jekyll](http://wiki.github.com/mojombo/jekyll)
-- [http://wiki.github.com/tobi/liquid/liquid-for-designers](http://wiki.github.com/tobi/liquid/liquid-for-designers)
-
-## Deployment
-
-Be sure to deploy on a Heroku _Cedar_ app ([user_env_compile](https://devcenter.heroku.com/articles/labs-user-env-compile) enabled) with the following env var:
-
-``` base
-BUILDPACK_URL        => https://github.com/jilion/heroku-buildpack-jekyll.git
-BUNDLE_WITHOUT       => development:test:tools
-GEM_PATH             => vendor/bundle/ruby/1.9.1
-PATH                 => bin:vendor/bundle/ruby/1.9.1/bin:/usr/local/bin:/usr/bin:/bin
-RACK_ENV             => staging|production
-S3_ACCESS_KEY_ID     => XXX
-S3_SECRET_ACCESS_KEY => XXX
-```
-
-and simply deploy with:
-
-``` bash
-git push staging|production
-```
+* http://jekyllrb.com
+* http://wiki.github.com/mojombo/jekyll
+* http://wiki.github.com/tobi/liquid/liquid-for-designers
+* https://github.com/jilion/heroku-buildpack-jekyll/tree/production
