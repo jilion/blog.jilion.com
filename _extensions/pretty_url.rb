@@ -3,6 +3,7 @@ module Jekyll
   module Filters
 
     def pretty_url(url)
+      puts "ENV['RACK_ENV'] : #{ENV['RACK_ENV']}"
       case ENV['RACK_ENV']
       when 'production'
         url.gsub! /\/$/, ''
