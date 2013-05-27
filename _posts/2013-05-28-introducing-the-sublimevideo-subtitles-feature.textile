@@ -7,7 +7,7 @@ layout: post
 tags:
 - SublimeVideo
 ---
-<img src="images/subtitles_icon.jpg" alt="SublimeVideo Subtitles Feature" style="float:left;margin:5px
+<img src="http://jilion-blog-staging.herokuapp.com/images/subtitles_icon.jpg" alt="SublimeVideo Subtitles Feature" style="float:left;margin:5px
  20px 0 0;" /> [&lt;- temporary icon!!] Today, we are very pleased to release one of the most requested features: "subtitles":http://sublimevideo.net/modular-player#subtitles! SublimeVideo supports multi-language subtitles on all desktop browsers and the latest mobile platforms.
 
 It's now available, *for free for everyone*.
