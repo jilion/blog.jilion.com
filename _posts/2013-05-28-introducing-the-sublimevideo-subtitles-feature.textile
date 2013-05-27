@@ -1,0 +1,15 @@
+---
+title: "Introducing the SublimeVideo Subtitles Feature"
+title_html: "<span>Introducing the SublimeVideo</span> <span>Subtitles Feature</span>"
+authors: The Jilion Team
+font_size: 42
+layout: post
+tags:
+- SublimeVideo
+---
+<img src="images/subtitles_icon.jpg" alt="SublimeVideo Subtitles Feature" style="float:left;margin:5px
+ 20px 0 0;" /> [&lt;- temporary icon!!] Today, we are very pleased to release one of the most requested features: "subtitles":http://sublimevideo.net/modular-player#subtitles! SublimeVideo supports multi-language subtitles on all desktop browsers and the latest mobile platforms.
+
+It's now available, *for free for everyone*.
+
+Please "check out the documentation":http://docs.sublimevideo.net/subtitles for more info on how to add subtitles to your videos. We hope you’ll like this feature and we’re really looking forward to "hearing your feedback":https://getsatisfaction.com/sublimevideo/topics/_upcoming_feature_subtitles_comments_suggestions.
