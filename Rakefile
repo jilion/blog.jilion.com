@@ -3,7 +3,7 @@ require 'aws/s3'
 
 desc "Compile Jekyll site"
 task :compile  => :prepare_assets do
-  system "bundle exec ejekyll --no-server --no-auto"
+  system "bundle exec ejekyll build"
   puts "Jekyll site had been generated."
 end
 

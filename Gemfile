@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
 ruby '1.9.3'
 
@@ -6,8 +6,7 @@ gem 'bundler'
 
 gem 'jekyll'
 gem 'jekyll_ext' # for ejekyll
-gem 'rack-jekyll', github: 'adaoraul/rack-jekyll', require: 'rack/jekyll'
-
+gem 'rack-jekyll'
 gem 'RedCloth'
 
 group :production, :staging do
@@ -21,6 +20,5 @@ group :assets do
 end
 
 group :development do
-  gem 'heroku'
   gem 'powder'
 end

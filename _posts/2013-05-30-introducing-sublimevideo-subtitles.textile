@@ -1,0 +1,23 @@
+---
+title: "Introducing SublimeVideo Subtitles"
+title_html: "<span>Introducing</span> <span>SublimeVideo Subtitles</span>"
+authors: The Jilion Team
+font_size: 44
+layout: post
+tags:
+- SublimeVideo
+---
+<img src="http://blog.medias.jilion.com/uploads/2013/05/sublimevideo-subtitles.png" alt="SublimeVideo Subtitles" style="float:left;margin:5px
+ 20px 0 0;" /> Today, we are very pleased to release one of the most awaited and requested features: "Subtitles":http://sublimevideo.net/modular-player#subtitles support!
+
+With SublimeVideo subtitles you are not only providing a great experience to your hearing-impaired audience, but you're also increasing your videos' global reach:
+
+SublimeVideo supports *multi-language subtitles* on all desktop browsers and the latest mobile platforms.
+
+<img src="http://blog.medias.jilion.com/uploads/2013/05/sublimevideo-ipad-subtitles.jpg" alt="SublimeVideo Subtitles iPad" />
+
+Our subtitles implementation is based on the "HTML5 @<track>@ element":http://www.whatwg.org/specs/web-apps/current-work/multipage/the-video-element.html#the-track-element specification, but we added an extra feature that will be useful for many people. The standard @<track>@ element does not allow hosting of subtitles files on a domain different to the site domain. This can be an issue when you want to have all your assets on a single CDN. SublimeVideo goes further by providing the ability to host your subtitles files wherever you want, by using "CORS":http://en.wikipedia.org/wiki/Cross-origin_resource_sharing which allows JavaScript on a web page to make requests to another domain.
+
+The new subtitles feature is now available *to everyone for free*.
+
+Please "check out the documentation":http://docs.sublimevideo.net/subtitles for more info on how to add subtitles to your videos. We hope you’ll like this feature and we’re really looking forward to "hearing your feedback":https://getsatisfaction.com/sublimevideo/topics/_upcoming_feature_subtitles_comments_suggestions.
