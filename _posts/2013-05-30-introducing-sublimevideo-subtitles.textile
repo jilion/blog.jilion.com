@@ -1,8 +1,8 @@
 ---
-title: "Introducing the SublimeVideo Subtitles Feature"
-title_html: "<span>Introducing the SublimeVideo</span> <span>Subtitles Feature</span>"
+title: "Introducing SublimeVideo Subtitles"
+title_html: "<span>Introducing</span> <span>SublimeVideo Subtitles</span>"
 authors: The Jilion Team
-font_size: 42
+font_size: 44
 layout: post
 tags:
 - SublimeVideo
