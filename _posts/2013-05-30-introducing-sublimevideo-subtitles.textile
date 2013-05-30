@@ -10,7 +10,9 @@ tags:
 <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/05/sublimevideo-subtitles.png" alt="SublimeVideo Subtitles" style="float:left;margin:5px
  20px 0 0;" /> Today, we are very pleased to release one of the most awaited and requested features: "Subtitles":http://sublimevideo.net/modular-player#subtitles support!
 
-With SublimeVideo subtitles you are not only providing a great experience to your hearing-impaired audience, but you're also increasing your videos' global reach: SublimeVideo supports *multi-language subtitles* on all desktop browsers and the latest mobile platforms.
+With SublimeVideo subtitles you are not only providing a great experience to your hearing-impaired audience, but you're also increasing your videos' global reach:
+
+SublimeVideo supports *multi-language subtitles* on all desktop browsers and the latest mobile platforms.
 
 <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/05/sublimevideo-ipad-subtitles.jpg" alt="SublimeVideo Subtitles iPad" />
 
