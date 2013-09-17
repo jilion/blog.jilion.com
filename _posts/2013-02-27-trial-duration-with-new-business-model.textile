@@ -11,7 +11,7 @@ tags:
 Hi everyone, we are fine-tuning our "SublimeVideo":http://sublimevideo.net service every day and we just decided to move from 30 to 7-days free trial duration, effective today. We would like to explain why we think this makes more sense, especially with our new add-ons-based business model.
 
 <img src="http://blog.medias.jilion.com/uploads/2013/02/trial-duration-and-new-business-model.jpg" alt="SublimeVideo - Trial Duration and New Business Model" />
-Along the launch of our "SublimeVideo Horizon":http://sublimevideo.net/horizon-framework player framework 2 months ago, we also actually made a substantial switch to our business model:
+Along the launch of our "SublimeVideo Framework":http://sublimevideo.net/framework player framework 2 months ago, we also actually made a substantial switch to our business model:
 * Our previous model was a freemium bundle-based model with monthly or yearly subscriptions. We were *charging you in advance* the amount corresponding to the bundle and duration you chose.
 * With our new model, and because our player has now become fully modular (yeah, we'll never stop repeating how great this is), we decided to switch to a daily metered usage model of the add-ons you use and to *charge your total usage at the end of each month*. This is similar to what companies like Heroku are doing and we always liked their approach: great freemium and flexible paid features store.
 

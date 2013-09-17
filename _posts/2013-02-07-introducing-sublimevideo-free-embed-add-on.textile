@@ -22,4 +22,4 @@ And of course, thanks to our powerful and unique cross-platform support, this Ad
 
 You can begin using the "new free Embed Add-on now":http://docs.sublimevideo.net/beta/addons/embed. We hope you like it and we are really looking forward to "hearing your feedback":https://getsatisfaction.com/sublimevideo/topics/comments_suggestions_for_the_embed_add_on.
 
-As explained in previous posts, our new SublimeVideo Horizon player framework allows us to deliver new features much faster than before, so stay tuned for more add-ons coming soon!
+As explained in previous posts, our new SublimeVideo player framework allows us to deliver new features much faster than before, so stay tuned for more add-ons coming soon!
