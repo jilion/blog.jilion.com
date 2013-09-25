@@ -10,10 +10,10 @@ tags:
 
 <a href="http://sublimevideo.net/"><img src="http://blog.medias.jilion.com/uploads/2013/02/sublimevideo-exit-beta.jpg" alt="SublimeVideo Embed Add-on" style="float:left;margin:18px 30px -10px 0" /></a>
 
-Two months ago we launched the beta of our new "SublimeVideo Modular Player":http://sublimevideo.net/modular-player. It was entirely rewritten using our new "SublimeVideo Horizon Framework":http://sublimevideo.net/horizon-framework, providing a much more scalable architecture and some unique features on the market.
+Two months ago we launched the beta of our new "SublimeVideo Modular Player":http://sublimevideo.net/modular-player. It was entirely rewritten using our new "SublimeVideo Framework":http://sublimevideo.net/framework, providing a much more scalable architecture and some unique features on the market.
 
 After just two months, we are very happy to announce our new player is ready for prime time and is exiting beta today!
-We are quite excited with the performance of our new SublimeVideo Horizon technology and we are ending the beta period earlier than expected.
+We are quite excited with the performance of our new SublimeVideo Framework technology and we are ending the beta period earlier than expected.
 
 This means all of our users have been automatically upgraded to the new player and everybody can start enjoying "all its new features":http://sublimevideo.net/modular-player, including:
 

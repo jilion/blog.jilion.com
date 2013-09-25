@@ -10,7 +10,7 @@ tags:
 
 <a href="http://sublimevideo.net/modular-player#social_sharing"><img src="http://blog.medias.jilion.com/uploads/2013/02/sublimevideo-social-sharing-add-on.jpg" alt="SublimeVideo Social Sharing Add-on" style="float:left;margin:20px 30px 0 0" /></a>
 
-As you guys probably saw, last month we released the "SublimeVideo Horizon Framework":http://sublimevideo.net/horizon-framework as well as our new "SublimeVideo Modular Player":http://sublimevideo.net/modular-player that has been entirely rewritten with SublimeVideo Horizon's technology.
+As you guys probably saw, last month we released the "SublimeVideo Framework":http://sublimevideo.net/framework as well as our new "SublimeVideo Modular Player":http://sublimevideo.net/modular-player that has been entirely rewritten with SublimeVideo Framework technology.
 
 Thanks to the new architecture, we are now able to build rock-solid, cross-platform new features very easily.
 
