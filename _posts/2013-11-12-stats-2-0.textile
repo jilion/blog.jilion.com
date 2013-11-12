@@ -46,4 +46,4 @@ h4. Per-video Statistics
 
 One more thing: if you subscribed to the Real-Time stats add-on, every single one of your videos has its own stats page, giving you the same amount of information you get on your site's stats page, for one specific video.
 
-For more information about our new Real-Time stats page, please check out "our documentation":http://docs.sublimevideo.dev/addons/stats.
+For more information about our new Real-Time stats page, please check out "our documentation":http://docs.sublimevideo.net/addons/stats.
