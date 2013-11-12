@@ -7,7 +7,7 @@ layout: post
 tags:
 - SublimeVideo
 ---
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/11/stats-2-0.png" alt="SublimeVideo Subtitles" style="float:left;margin:0
+<img src="http://blog.medias.jilion.com/uploads/2013/11/stats-2-0.png" alt="SublimeVideo Subtitles" style="float:left;margin:0
  25px 0 0;" /> For the last 5 months, we've been busy working on a complete refactoring of our back-end architecture in order to provide more stats to SublimeVideo sites, as well as a more scalable platform, both in terms of the number of sites we support and the data we can report.
 
 Here's what's new from a user's standpoint:
@@ -19,7 +19,7 @@ h3. New "Videos" section
 
 The new "Videos" section allows you to browse all videos played by SublimeVideo. You can search, filter and sort them. For instance, you can easily list the videos that are played the most or the least. Behind the scenes each video source is analyzed to detect common issues such as MIME Type misconfiguration. Last but not least, now you can see and edit a particular video code directly through our Video Publishing Assistant.
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/11/sublimevide-videos-section.jpg" alt="SublimeVideo Videos Section" />
+<img src="http://blog.medias.jilion.com/uploads/2013/11/sublimevide-videos-section.jpg" alt="SublimeVideo Videos Section" />
 
 h3. New Statistics dashboard
 
@@ -27,11 +27,11 @@ Today, we're also rolling out a big update to the statistics dashboard (availabl
 
 The new dashboard includes a graph of the video plays and loads which happened in the last 60 minutes as well as the latest video plays in real-time. This "Last plays" section includes the viewers' browser, their operating system, their country and what site they are coming from (a.k.a. the referrer).
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/11/sublimevideo-last-60-minutes.jpg" alt="SublimeVideo Last 60 Minutes" />
+<img src="http://blog.medias.jilion.com/uploads/2013/11/sublimevideo-last-60-minutes.jpg" alt="SublimeVideo Last 60 Minutes" />
 
 While you can still see your site's plays and loads over time (last 24 hours, 30 days, 90 days and 365 days) as well as browser and OS stats, now you can also see the country from which your visitors watch your videos and if they are using a desktop or mobile browser.
 
-<img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/11/sublimevideo-countries.jpg" alt="SublimeVideo Countries" />
+<img src="http://blog.medias.jilion.com/uploads/2013/11/sublimevideo-countries.jpg" alt="SublimeVideo Countries" />
 
 There are also some changes regarding the metrics. The legacy "Page visit" metric has been replaced by the new "Video load" metric which is useful to see the video play / video load ratio. It's also worth noting that the "Browser + OS", "Country" and "Mobile / Desktop" stats are now all based on video plays.
 
