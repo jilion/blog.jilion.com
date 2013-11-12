@@ -20,5 +20,5 @@ group :assets do
 end
 
 group :development do
-  gem 'powder'
+  gem 'powder', require: nil
 end
