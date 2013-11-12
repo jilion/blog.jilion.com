@@ -10,7 +10,7 @@ tags:
 <img src="http://blog.jilion.com.s3.amazonaws.com/uploads/2013/11/stats-2-0.png" alt="SublimeVideo Subtitles" style="float:left;margin:0
  25px 0 0;" /> For the last 5 months, we've been busy working on a complete refactoring of our back-end architecture in order to provide more stats to SublimeVideo sites, as well as a more scalable platform, both in terms of the number of sites we support and the data we can report.
 
-Here's what's new from a user's standpoin:
+Here's what's new from a user's standpoint:
 
 <video class="sublime" width="600" height="338" poster="http://media.jilion.com/videos/sublimevideo-statistics-2.jpg" preload="none" data-uid="sublimevideo-statistics-2" data-name="Stats 2.0" data-sharing-url="http://blog.jilion.com/2013/11/12/stats-2-0" data-sharing-text="SublimeVideo Stats 2.0"><source src="http://media.jilion.com/videos/sublimevideo-statistics-2-720p.mp4" /><source src="http://media.jilion.com/videos/sublimevideo-statistics-2-360p.mp4" />
 </video>
