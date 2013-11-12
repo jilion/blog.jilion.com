@@ -5,4 +5,5 @@ _site/tmp/restart.txt
 tmp/restart.txt
 vendor/ruby
 vendor/bundler
+_site
 .anvil/
