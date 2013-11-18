@@ -3,7 +3,8 @@ exclude: [README.md, config.ru, Gemfile, Gemfile.lock, Rakefile, assets.yml, ass
 paginate: 10
 paginate_file: index.html
 assets:
-  js_compressor:  uglifier
+  baseurl: //d2b1s097egritg.cloudfront.net/
+  js_compressor: uglifier
   # css_compressor: sass
-  cache:
-  cachebust: none
+  cache: _cache/assets
+  cachebust: hard
