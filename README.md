@@ -14,7 +14,7 @@
 
 ### Preview your post locally
 
-1. Launch the local `ejekyll` server: `be ejekyll serve --watch`.
+1. Launch the local `ejekyll` server: `bundle exec ejekyll serve --watch`.
 2. Visit http://localhost:4000: `open http://localhost:4000`.
 
 ### Preview your post in staging
@@ -25,14 +25,12 @@ gp staging && heroku apps:open --app jilion-blog-staging
 
 ## Publish your post
 
-1. CDNize the assets URLs. ProTip: replace `{{site.s3_assets_url}}` with
-  `{{site.cdn_assets_url}}` in your post.
-2. Preview your post in staging to ensure all is good (see above for
+1. Preview your post in staging to ensure all is good (see above for
   instructions).
-3. Once the post is validated. Merge your branch into master: `gco master && gm
+2. Once the post is validated. Merge your branch into master: `gco master && gm
   my-awesome-new-post`
-4. Deploy to Heroku: `gp production && open http://blog.jilion.com`
-5. Enjoy and don't forget to tweet about the post!
+3. Deploy to Heroku: `gp production && open http://blog.jilion.com`
+4. Enjoy and don't forget to tweet about the post!
 
 ## Additional resources
 

@@ -1,7 +1,0 @@
-package_assets: on
-embed_assets: on
-javascript_compressor: uglifier
-
-stylesheets:
-  style:
-    - stylesheets/style.css

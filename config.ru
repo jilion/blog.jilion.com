@@ -1,20 +1,9 @@
-require 'rubygems'
+require 'rack/contrib/try_static'
+require 'rack/contrib/not_found'
 
-require 'bundler'
-Bundler.setup
+use Rack::TryStatic,
+  root: '_site',
+  urls: %w[/],
+  try:  ['index.html', '/index.html']
 
-class CacheSettings
-  def initialize(app, seconds)
-    @app, @seconds = app, seconds
-  end
-  def call(env)
-    res = @app.call(env)
-    res[1]["Cache-Control"] = "max-age=#{@seconds}, public"
-    res
-  end
-end
-
-use CacheSettings, 31536000 # 1 year
-
-require 'rack/jekyll'
-run Rack::Jekyll.new
+run Rack::NotFound.new('_site/404.html')

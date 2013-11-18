@@ -1,24 +1,17 @@
 source 'https://rubygems.org'
 
-ruby '1.9.3'
+ruby '2.0.0'
 
-gem 'bundler'
+gem 'rake'
 
 gem 'jekyll'
+gem 'rack-contrib'
 gem 'jekyll_ext' # for ejekyll
-gem 'rack-jekyll'
+gem 'jekyll-assets'
+# gem 'rack-jekyll'
 gem 'RedCloth'
+gem 'uglifier'
 
 group :production, :staging do
-  gem 'thin'
-end
-
-group :assets do
-  gem 'aws-s3'
-  gem 'jammit'
-  gem 'uglifier'
-end
-
-group :development do
-  gem 'powder', require: nil
+  gem 'puma'
 end
