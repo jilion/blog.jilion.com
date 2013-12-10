@@ -14,7 +14,7 @@ Since SublimeVideo started by accident, almost 4 years ago, we've been approache
 
 Morevover, while Dailymotion is the 2nd biggest video platform in the world, and 31st global Web site with a huge audience of around 200 millions unique users per month, we are amazed at how much it sports a strong startup spirit. We've also been very impressed by their team and all the individuals we met during the due diligence process, from our new team mates in the development group through to the top levels of the company. Needless to say, all this was a key factor in our decision to join them.
 
-Naturally, we would like to take this opportunity to thank all our users for their support and for using SublimeVideo. It's important to say the SublimeVideo service continues to be operated as-is for the time being and that your videos will continue to play. For up-to-date information, we invite you to consult this "page":http://docs.sublimevideo.net/dailymotion-acquisition-faq.
+Naturally, we would like to take this opportunity to thank all our users for their support and for using SublimeVideo. It's important to say the SublimeVideo service continues to be operated as-is for the time being and that your videos will continue to play. For up-to-date information, we invite you to consult "this page":http://docs.sublimevideo.net/dailymotion-acquisition-faq.
 
 We also want to thank all our investors, friends and families as well as all the public or private organizations that have "supported":http://sublimevideo.net/about Jilion over the years.
 
